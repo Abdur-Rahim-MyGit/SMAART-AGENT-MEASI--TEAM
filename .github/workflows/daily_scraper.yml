@@ -1,0 +1,35 @@
+name: Daily Job Market Scraper
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # Runs at 2 AM UTC every day
+  workflow_dispatch:      # Also allow manual trigger from GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          cd ml-service
+          pip install requests beautifulsoup4
+
+      - name: Run SMAART Scraper
+        run: |
+          cd ml-service
+          python scraper.py
+
+      - name: Commit and push data_drafts.json
+        run: |
+          git config user.email "bot@smaart.careers"
+          git config user.name "SMAART Data Bot"
+          git add ml-service/data_drafts.json
+          git diff --staged --quiet || (git commit -m "chore: nightly job market scrape update" && git push)

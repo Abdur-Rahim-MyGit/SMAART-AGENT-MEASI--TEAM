@@ -1,0 +1,4234 @@
+[
+  {
+    "skill_name": "Python",
+    "skill_category": "Technical",
+    "skill_description": "Used for scripting, automation, data analysis, machine learning, and backend development across Indian tech companies.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Java",
+    "skill_category": "Technical",
+    "skill_description": "Used for enterprise application development, Android apps, and backend services at Indian IT services and product companies.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "JavaScript",
+    "skill_category": "Technical",
+    "skill_description": "Used for frontend and full-stack web development in React, Angular, Node.js, and Vue.js applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "TypeScript",
+    "skill_category": "Technical",
+    "skill_description": "Typed superset of JavaScript used for large-scale frontend and backend development to improve code reliability.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "C",
+    "skill_category": "Technical",
+    "skill_description": "Used for systems programming, embedded software, and performance-critical applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "C++",
+    "skill_category": "Technical",
+    "skill_description": "Used for game development, system software, competitive programming, and high-performance computing.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "C#",
+    "skill_category": "Technical",
+    "skill_description": "Used for .NET application development, Unity game development, and enterprise Windows applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Go (Golang)",
+    "skill_category": "Technical",
+    "skill_description": "Used for building high-performance microservices, CLIs, and cloud-native backend systems.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Rust",
+    "skill_category": "Technical",
+    "skill_description": "Used for systems programming, WebAssembly, and performance-critical services requiring memory safety.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Kotlin",
+    "skill_category": "Technical",
+    "skill_description": "Used as the primary language for Android app development and JVM-based backend services.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Swift",
+    "skill_category": "Technical",
+    "skill_description": "Used for iOS and macOS application development in the Apple ecosystem.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Ruby",
+    "skill_category": "Technical",
+    "skill_description": "Used for web development primarily with the Ruby on Rails framework for rapid application development.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "PHP",
+    "skill_category": "Technical",
+    "skill_description": "Used for server-side web development, content management systems, and e-commerce platforms.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Scala",
+    "skill_category": "Technical",
+    "skill_description": "Used for big data processing with Apache Spark and functional programming on the JVM.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "R Programming",
+    "skill_category": "Technical",
+    "skill_description": "Used for statistical computing, data analysis, and visualisation in data science and analytics roles.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Shell Scripting (Bash)",
+    "skill_category": "Technical",
+    "skill_description": "Used for automating system administration tasks, CI/CD pipelines, and Linux server management.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "PowerShell",
+    "skill_category": "Technical",
+    "skill_description": "Used for Windows system administration, Azure automation, and DevOps scripting in Microsoft environments.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "MATLAB",
+    "skill_category": "Technical",
+    "skill_description": "Used for numerical computing, signal processing, and algorithm development in engineering and research roles.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Dart",
+    "skill_category": "Technical",
+    "skill_description": "Used as the primary language for Flutter cross-platform mobile and web app development.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "HTML5",
+    "skill_category": "Technical",
+    "skill_description": "Used for structuring web content and building semantic, accessible web pages.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "CSS3",
+    "skill_category": "Technical",
+    "skill_description": "Used for styling web pages including layouts, animations, and responsive design.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "React.js",
+    "skill_category": "Technical",
+    "skill_description": "Used for building component-based, dynamic single-page applications for web and mobile.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Angular",
+    "skill_category": "Technical",
+    "skill_description": "Used for building enterprise-grade single-page applications with TypeScript and component-based architecture.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Vue.js",
+    "skill_category": "Technical",
+    "skill_description": "Used for building progressive web applications and interactive UI components.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Next.js",
+    "skill_category": "Technical",
+    "skill_description": "Used for server-side rendered and statically generated React applications with SEO optimisation.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Nuxt.js",
+    "skill_category": "Technical",
+    "skill_description": "Used for server-side rendering and static site generation with Vue.js applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Tailwind CSS",
+    "skill_category": "Technical",
+    "skill_description": "Utility-first CSS framework used for rapidly building custom UI designs without leaving HTML.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Bootstrap",
+    "skill_category": "Technical",
+    "skill_description": "CSS framework used for building responsive, mobile-first web interfaces quickly.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Redux",
+    "skill_category": "Technical",
+    "skill_description": "Used for predictable state management in large-scale React applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Webpack",
+    "skill_category": "Technical",
+    "skill_description": "Used as a module bundler for JavaScript applications to optimise and bundle frontend assets.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Vite",
+    "skill_category": "Technical",
+    "skill_description": "Used as a fast build tool and dev server for modern JavaScript frontend projects.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Sass/SCSS",
+    "skill_category": "Technical",
+    "skill_description": "CSS preprocessor used for writing maintainable, reusable stylesheets with variables and nesting.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Web Accessibility (WCAG)",
+    "skill_category": "Domain",
+    "skill_description": "Applying Web Content Accessibility Guidelines to ensure digital products are usable by people with disabilities.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Progressive Web Apps (PWA)",
+    "skill_category": "Domain",
+    "skill_description": "Building web applications with native app-like features including offline support and push notifications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "WebSockets",
+    "skill_category": "Technical",
+    "skill_description": "Used for real-time bidirectional communication between client and server in chat, live dashboards, and gaming apps.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "GraphQL",
+    "skill_category": "Technical",
+    "skill_description": "Used as a query language and runtime for APIs to request exactly the data needed by clients.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "REST API Development",
+    "skill_category": "Technical",
+    "skill_description": "Designing and building RESTful APIs following HTTP standards for client-server communication.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Node.js",
+    "skill_category": "Technical",
+    "skill_description": "Used for building scalable server-side applications and APIs using JavaScript on the backend.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Express.js",
+    "skill_category": "Technical",
+    "skill_description": "Minimal Node.js web framework used for building REST APIs and web applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Django",
+    "skill_category": "Technical",
+    "skill_description": "Python web framework used for rapid development of secure, scalable backend applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Flask",
+    "skill_category": "Technical",
+    "skill_description": "Lightweight Python web framework used for building microservices and REST APIs.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "FastAPI",
+    "skill_category": "Technical",
+    "skill_description": "High-performance Python framework used for building modern REST APIs with automatic documentation.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Spring Boot",
+    "skill_category": "Technical",
+    "skill_description": "Java framework used for building production-ready microservices and enterprise backend applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Laravel",
+    "skill_category": "Technical",
+    "skill_description": "PHP framework used for building web applications with elegant syntax and built-in authentication.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Ruby on Rails",
+    "skill_category": "Technical",
+    "skill_description": "Full-stack web framework used for rapid development of database-backed web applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "ASP.NET Core",
+    "skill_category": "Technical",
+    "skill_description": "Microsoft's cross-platform framework used for building high-performance web APIs and web applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Microservices Architecture",
+    "skill_category": "Domain",
+    "skill_description": "Designing and implementing applications as a collection of small, independently deployable services.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "API Design and Documentation (OpenAPI/Swagger)",
+    "skill_category": "Technical",
+    "skill_description": "Designing, documenting, and versioning APIs using OpenAPI specification and Swagger tools.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "gRPC",
+    "skill_category": "Technical",
+    "skill_description": "High-performance RPC framework used for inter-service communication in microservices architectures.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Message Queues (RabbitMQ)",
+    "skill_category": "Technical",
+    "skill_description": "Using RabbitMQ for asynchronous message passing and decoupled communication between services.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Apache Kafka",
+    "skill_category": "Technical",
+    "skill_description": "Distributed event streaming platform used for real-time data pipelines and event-driven architectures.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Redis",
+    "skill_category": "Technical",
+    "skill_description": "In-memory data store used for caching, session management, and real-time leaderboards.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Nginx",
+    "skill_category": "Technical",
+    "skill_description": "Web server and reverse proxy used for load balancing, serving static files, and SSL termination.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Apache HTTP Server",
+    "skill_category": "Technical",
+    "skill_description": "Web server software used for hosting web applications and managing HTTP traffic.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "SQL",
+    "skill_category": "Technical",
+    "skill_description": "Standard query language used for managing and querying relational databases across all data and engineering roles.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "MySQL",
+    "skill_category": "Technical",
+    "skill_description": "Open-source relational database used for web applications, e-commerce, and data-driven products.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "PostgreSQL",
+    "skill_category": "Technical",
+    "skill_description": "Advanced open-source relational database used for complex queries, JSONB storage, and high-reliability systems.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Microsoft SQL Server",
+    "skill_category": "Technical",
+    "skill_description": "Enterprise relational database used in corporate data warehouses, ERP systems, and .NET applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Oracle Database",
+    "skill_category": "Technical",
+    "skill_description": "Enterprise RDBMS used in large Indian corporations, banks, and government organisations for critical data.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "SQLite",
+    "skill_category": "Technical",
+    "skill_description": "Lightweight embedded relational database used in mobile apps, desktop applications, and local storage.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "MongoDB",
+    "skill_category": "Technical",
+    "skill_description": "Document-oriented NoSQL database used for flexible schema applications, content management, and real-time analytics.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Cassandra",
+    "skill_category": "Technical",
+    "skill_description": "Distributed NoSQL database used for high-availability, write-heavy applications at scale.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "DynamoDB",
+    "skill_category": "Technical",
+    "skill_description": "AWS managed NoSQL database used for serverless applications requiring single-digit millisecond latency.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Elasticsearch",
+    "skill_category": "Technical",
+    "skill_description": "Distributed search and analytics engine used for full-text search, log analytics, and observability.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Firebase Firestore",
+    "skill_category": "Technical",
+    "skill_description": "Google's NoSQL cloud database used for real-time synchronisation in mobile and web applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Neo4j",
+    "skill_category": "Technical",
+    "skill_description": "Graph database used for connected data use cases like fraud detection, recommendation engines, and knowledge graphs.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "InfluxDB",
+    "skill_category": "Technical",
+    "skill_description": "Time-series database used for IoT sensor data, monitoring metrics, and real-time analytics.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Database Design and Normalisation",
+    "skill_category": "Domain",
+    "skill_description": "Designing efficient relational schemas using normalisation principles to eliminate redundancy and ensure integrity.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Database Indexing and Query Optimisation",
+    "skill_category": "Domain",
+    "skill_description": "Creating and tuning indexes and query execution plans to improve database performance.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Stored Procedures and Triggers",
+    "skill_category": "Technical",
+    "skill_description": "Writing database-side logic using stored procedures and triggers for automated data processing.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "ORM (Object-Relational Mapping)",
+    "skill_category": "Technical",
+    "skill_description": "Using ORM frameworks like SQLAlchemy, Hibernate, or Sequelize to interact with databases through code objects.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Android Development (Java/Kotlin)",
+    "skill_category": "Technical",
+    "skill_description": "Building native Android applications using Java or Kotlin with Android Studio for the Indian mobile market.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "iOS Development (Swift)",
+    "skill_category": "Technical",
+    "skill_description": "Building native iOS applications using Swift and Xcode for iPhone and iPad.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "React Native",
+    "skill_category": "Technical",
+    "skill_description": "Building cross-platform mobile apps for Android and iOS using JavaScript and React.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Flutter",
+    "skill_category": "Technical",
+    "skill_description": "Building cross-platform mobile, web, and desktop apps from a single Dart codebase.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Mobile UI/UX Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing intuitive mobile interfaces following platform guidelines for Android Material Design and iOS HIG.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Push Notifications Integration",
+    "skill_category": "Technical",
+    "skill_description": "Integrating Firebase Cloud Messaging or APNs for push notifications in mobile applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "App Store Optimisation (ASO)",
+    "skill_category": "Domain",
+    "skill_description": "Optimising mobile app listings on Google Play Store and Apple App Store for visibility and downloads.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Mobile App Performance Optimisation",
+    "skill_category": "Domain",
+    "skill_description": "Profiling and optimising memory usage, battery consumption, and load times in mobile applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Amazon Web Services (AWS)",
+    "skill_category": "Technical",
+    "skill_description": "Deploying and managing cloud infrastructure using AWS services including EC2, S3, RDS, Lambda, and VPC.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Microsoft Azure",
+    "skill_category": "Technical",
+    "skill_description": "Building and deploying applications on Microsoft Azure cloud including Azure DevOps, AKS, and Azure Functions.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Google Cloud Platform (GCP)",
+    "skill_category": "Technical",
+    "skill_description": "Using GCP services including Compute Engine, BigQuery, GKE, and Cloud Functions for cloud-native development.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "AWS EC2",
+    "skill_category": "Technical",
+    "skill_description": "Provisioning and managing virtual compute instances on AWS for hosting applications and services.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "AWS S3",
+    "skill_category": "Technical",
+    "skill_description": "Using AWS Simple Storage Service for object storage, static website hosting, and data lake storage.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "AWS Lambda",
+    "skill_category": "Technical",
+    "skill_description": "Building and deploying serverless functions on AWS for event-driven, auto-scaling compute workloads.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "AWS RDS",
+    "skill_category": "Technical",
+    "skill_description": "Managing relational databases on AWS using RDS for MySQL, PostgreSQL, and SQL Server.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "AWS IAM",
+    "skill_category": "Technical",
+    "skill_description": "Managing access control and security policies for AWS resources using Identity and Access Management.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "AWS CloudFormation",
+    "skill_category": "Technical",
+    "skill_description": "Provisioning AWS infrastructure as code using CloudFormation templates for repeatable deployments.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Azure DevOps",
+    "skill_category": "Technical",
+    "skill_description": "Using Azure DevOps for CI/CD pipelines, work item tracking, and source code management.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Google BigQuery",
+    "skill_category": "Technical",
+    "skill_description": "Running large-scale SQL analytics on Google Cloud's serverless data warehouse.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Serverless Architecture",
+    "skill_category": "Domain",
+    "skill_description": "Designing applications using serverless compute services to eliminate infrastructure management and scale automatically.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Cloud Cost Optimisation",
+    "skill_category": "Domain",
+    "skill_description": "Analysing and reducing cloud spending through right-sizing, reserved instances, and resource lifecycle management.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Cloud Security Best Practices",
+    "skill_category": "Domain",
+    "skill_description": "Implementing security controls including encryption, IAM, network segmentation, and compliance in cloud environments.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Multi-Cloud Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Designing workloads to run across multiple cloud providers for resilience, cost optimisation, and avoiding vendor lock-in.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Docker",
+    "skill_category": "Technical",
+    "skill_description": "Containerising applications using Docker to ensure consistent environments across development, testing, and production.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Kubernetes",
+    "skill_category": "Technical",
+    "skill_description": "Orchestrating containerised workloads and services using Kubernetes for automated deployment and scaling.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Helm",
+    "skill_category": "Technical",
+    "skill_description": "Managing Kubernetes application deployments using Helm charts for templating and versioning.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Terraform",
+    "skill_category": "Technical",
+    "skill_description": "Provisioning and managing infrastructure as code across cloud providers using Terraform HCL.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Ansible",
+    "skill_category": "Technical",
+    "skill_description": "Automating configuration management, application deployment, and infrastructure provisioning using Ansible playbooks.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "CI/CD Pipeline Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing and implementing continuous integration and continuous delivery pipelines for automated software delivery.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Jenkins",
+    "skill_category": "Technical",
+    "skill_description": "Setting up and managing Jenkins pipelines for automated build, test, and deployment workflows.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "GitHub Actions",
+    "skill_category": "Technical",
+    "skill_description": "Building CI/CD workflows and automating software development tasks using GitHub Actions.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "GitLab CI/CD",
+    "skill_category": "Technical",
+    "skill_description": "Configuring and managing CI/CD pipelines using GitLab's integrated DevOps platform.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Linux System Administration",
+    "skill_category": "Technical",
+    "skill_description": "Managing Linux servers including user management, process control, networking, and package administration.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Infrastructure as Code (IaC)",
+    "skill_category": "Domain",
+    "skill_description": "Managing and provisioning computing infrastructure through machine-readable configuration files rather than manual processes.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Site Reliability Engineering (SRE)",
+    "skill_category": "Domain",
+    "skill_description": "Applying software engineering practices to operations for reliability, scalability, and efficiency of systems.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Monitoring and Observability",
+    "skill_category": "Domain",
+    "skill_description": "Implementing monitoring, logging, and tracing to gain visibility into system health and performance.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Prometheus",
+    "skill_category": "Technical",
+    "skill_description": "Collecting and querying time-series metrics for infrastructure and application monitoring.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Grafana",
+    "skill_category": "Technical",
+    "skill_description": "Building observability dashboards for metrics visualisation from Prometheus, InfluxDB, and other data sources.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "ELK Stack (Elasticsearch, Logstash, Kibana)",
+    "skill_category": "Technical",
+    "skill_description": "Collecting, processing, and visualising log data using the ELK stack for centralised log management.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "SonarQube",
+    "skill_category": "Technical",
+    "skill_description": "Performing static code analysis and quality gate checks to identify bugs and security vulnerabilities in code.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Istio (Service Mesh)",
+    "skill_category": "Technical",
+    "skill_description": "Managing microservice traffic, security, and observability using the Istio service mesh on Kubernetes.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Git",
+    "skill_category": "Technical",
+    "skill_description": "Using Git for source code version control, branching, merging, and collaborative development workflows.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "GitHub",
+    "skill_category": "Technical",
+    "skill_description": "Hosting code repositories, conducting code reviews, and managing pull requests on GitHub.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "GitLab",
+    "skill_category": "Technical",
+    "skill_description": "Managing source code, CI/CD, and project planning on the GitLab DevOps platform.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Bitbucket",
+    "skill_category": "Technical",
+    "skill_description": "Managing Git repositories and integrating with Jira and Confluence in Atlassian ecosystem projects.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Jira",
+    "skill_category": "Technical",
+    "skill_description": "Managing agile project boards, sprints, bug tracking, and release planning using Jira.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Confluence",
+    "skill_category": "Technical",
+    "skill_description": "Creating and maintaining technical documentation, wikis, and knowledge bases using Confluence.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Agile and Scrum Methodology",
+    "skill_category": "Domain",
+    "skill_description": "Working in agile sprints with daily standups, sprint planning, retrospectives, and backlog grooming.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Kanban Methodology",
+    "skill_category": "Domain",
+    "skill_description": "Visualising and managing workflow using Kanban boards to limit work in progress and improve flow.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Code Review Best Practices",
+    "skill_category": "Domain",
+    "skill_description": "Conducting and participating in structured code reviews to ensure quality, consistency, and knowledge sharing.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Apache Spark",
+    "skill_category": "Technical",
+    "skill_description": "Processing large-scale data using distributed computing with Apache Spark for batch and streaming workloads.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Apache Hadoop",
+    "skill_category": "Technical",
+    "skill_description": "Storing and processing large datasets across clusters using the Hadoop ecosystem including HDFS and MapReduce.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Apache Airflow",
+    "skill_category": "Technical",
+    "skill_description": "Orchestrating data pipelines and workflows using directed acyclic graphs in Apache Airflow.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Apache Hive",
+    "skill_category": "Technical",
+    "skill_description": "Querying and managing large datasets in Hadoop using SQL-like HiveQL for data warehouse workloads.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Apache Flink",
+    "skill_category": "Technical",
+    "skill_description": "Processing real-time data streams with low latency using Apache Flink's stateful stream processing.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "ETL Pipeline Development",
+    "skill_category": "Domain",
+    "skill_description": "Building Extract, Transform, Load pipelines to move and transform data between source systems and data warehouses.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Data Warehouse Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing star and snowflake schemas for data warehouses to support analytical reporting and BI workloads.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Data Lake Architecture",
+    "skill_category": "Domain",
+    "skill_description": "Designing data lakes on cloud storage for raw data ingestion, cataloguing, and multi-format analytics.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "dbt (data build tool)",
+    "skill_category": "Technical",
+    "skill_description": "Transforming data inside the data warehouse using SQL and dbt for version-controlled, tested data models.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Snowflake",
+    "skill_category": "Technical",
+    "skill_description": "Using Snowflake cloud data warehouse for scalable storage, querying, and data sharing across organisations.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Databricks",
+    "skill_category": "Technical",
+    "skill_description": "Running unified analytics and ML workloads on the Databricks lakehouse platform with Apache Spark.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Delta Lake",
+    "skill_category": "Technical",
+    "skill_description": "Managing reliable data lakes with ACID transactions and schema enforcement using Delta Lake on cloud storage or Databricks.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Apache Kafka Streams",
+    "skill_category": "Technical",
+    "skill_description": "Building real-time stream processing applications directly on Kafka without a separate processing cluster.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Data Quality Management",
+    "skill_category": "Domain",
+    "skill_description": "Implementing validation, monitoring, and remediation processes to ensure data accuracy, completeness, and consistency.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Data Governance and Cataloguing",
+    "skill_category": "Domain",
+    "skill_description": "Establishing policies, metadata management, and data catalogues for discoverability and compliance.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Data Modelling",
+    "skill_category": "Domain",
+    "skill_description": "Designing conceptual, logical, and physical data models to represent business entities and their relationships.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Change Data Capture (CDC)",
+    "skill_category": "Domain",
+    "skill_description": "Tracking and capturing database changes in real time for downstream replication and event-driven pipelines.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Machine Learning",
+    "skill_category": "Domain",
+    "skill_description": "Applying supervised, unsupervised, and reinforcement learning algorithms to build predictive models.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Deep Learning",
+    "skill_category": "Domain",
+    "skill_description": "Designing and training neural networks for image recognition, NLP, and complex pattern recognition tasks.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Natural Language Processing (NLP)",
+    "skill_category": "Domain",
+    "skill_description": "Building models for text classification, sentiment analysis, named entity recognition, and language generation.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Computer Vision",
+    "skill_category": "Domain",
+    "skill_description": "Developing models for image and video analysis including object detection, segmentation, and facial recognition.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "TensorFlow",
+    "skill_category": "Technical",
+    "skill_description": "Building and deploying machine learning and deep learning models using Google's TensorFlow framework.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "PyTorch",
+    "skill_category": "Technical",
+    "skill_description": "Developing and training deep learning models using PyTorch's dynamic computation graph.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Scikit-learn",
+    "skill_category": "Technical",
+    "skill_description": "Implementing classical machine learning algorithms for classification, regression, and clustering using scikit-learn.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Keras",
+    "skill_category": "Technical",
+    "skill_description": "Building deep learning models rapidly using the Keras high-level neural network API.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Hugging Face Transformers",
+    "skill_category": "Technical",
+    "skill_description": "Fine-tuning and deploying pre-trained transformer models for NLP tasks using Hugging Face.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "XGBoost",
+    "skill_category": "Technical",
+    "skill_description": "Using gradient boosting with XGBoost for structured data classification and regression competitions and production models.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "LightGBM",
+    "skill_category": "Technical",
+    "skill_description": "Applying LightGBM gradient boosting for fast, high-performance ML on large tabular datasets.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Feature Engineering",
+    "skill_category": "Domain",
+    "skill_description": "Creating and selecting informative features from raw data to improve machine learning model performance.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Model Evaluation and Validation",
+    "skill_category": "Domain",
+    "skill_description": "Using cross-validation, confusion matrices, ROC-AUC, and other metrics to assess model quality.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Hyperparameter Tuning",
+    "skill_category": "Domain",
+    "skill_description": "Optimising model performance by systematically searching hyperparameter spaces using grid search, random search, or Bayesian optimisation.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "MLflow",
+    "skill_category": "Technical",
+    "skill_description": "Tracking experiments, managing models, and deploying ML models using the MLflow platform.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Kubeflow",
+    "skill_category": "Technical",
+    "skill_description": "Deploying and managing machine learning workflows on Kubernetes using the Kubeflow ML platform.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Recommender Systems",
+    "skill_category": "Domain",
+    "skill_description": "Building collaborative filtering, content-based, and hybrid recommendation engines for e-commerce and content platforms.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Time Series Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Applying ARIMA, Prophet, and LSTM models for forecasting and anomaly detection in time-series data.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Statistical Analysis and Hypothesis Testing",
+    "skill_category": "Domain",
+    "skill_description": "Applying statistical tests, confidence intervals, and probability distributions to draw data-driven conclusions.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "A/B Testing",
+    "skill_category": "Domain",
+    "skill_description": "Designing and analysing controlled experiments to measure the impact of product changes on key metrics.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Generative AI Concepts",
+    "skill_category": "Domain",
+    "skill_description": "Understanding large language models, diffusion models, and prompt engineering for building AI-powered applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "LLM Fine-tuning",
+    "skill_category": "Domain",
+    "skill_description": "Adapting pre-trained large language models to domain-specific tasks using supervised fine-tuning and RLHF.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Vector Databases",
+    "skill_category": "Technical",
+    "skill_description": "Using vector databases like Pinecone, Weaviate, or pgvector for semantic search and RAG applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "RAG (Retrieval Augmented Generation)",
+    "skill_category": "Domain",
+    "skill_description": "Building systems that enhance LLM responses by retrieving relevant documents from a knowledge base.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Responsible AI and Model Fairness",
+    "skill_category": "Domain",
+    "skill_description": "Applying bias detection, fairness metrics, and explainability techniques to build ethical AI systems.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Power BI",
+    "skill_category": "Technical",
+    "skill_description": "Building interactive business intelligence dashboards and reports using Microsoft Power BI.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Tableau",
+    "skill_category": "Technical",
+    "skill_description": "Creating data visualisations and interactive dashboards using Tableau for business analytics.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Looker",
+    "skill_category": "Technical",
+    "skill_description": "Building data explorations and dashboards using Looker's LookML modelling layer on cloud data warehouses.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Microsoft Excel (Advanced)",
+    "skill_category": "Technical",
+    "skill_description": "Using advanced Excel features including pivot tables, Power Query, Power Pivot, and complex formulas for data analysis.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Looker Studio (formerly Google Data Studio)",
+    "skill_category": "Technical",
+    "skill_description": "Building interactive reports and dashboards connected to Google Analytics, BigQuery, and other data sources using Looker Studio.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Pandas",
+    "skill_category": "Technical",
+    "skill_description": "Manipulating, cleaning, and analysing tabular data in Python using the Pandas library.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "NumPy",
+    "skill_category": "Technical",
+    "skill_description": "Performing numerical computing and array operations in Python using NumPy for data science workflows.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Matplotlib",
+    "skill_category": "Technical",
+    "skill_description": "Creating static data visualisations and plots in Python using Matplotlib.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Seaborn",
+    "skill_category": "Technical",
+    "skill_description": "Building statistical visualisations and enhanced Matplotlib plots using the Seaborn library.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Plotly",
+    "skill_category": "Technical",
+    "skill_description": "Creating interactive charts and dashboards in Python, R, or JavaScript using Plotly.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Exploratory Data Analysis (EDA)",
+    "skill_category": "Domain",
+    "skill_description": "Systematically investigating datasets using statistics and visualisation to understand distributions, patterns, and anomalies.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Business Intelligence (BI) Reporting",
+    "skill_category": "Domain",
+    "skill_description": "Designing and delivering actionable BI reports to support management decision-making.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Data Storytelling",
+    "skill_category": "Domain",
+    "skill_description": "Communicating data insights effectively to non-technical stakeholders through narrative and compelling visualisations.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "KPI Definition and Dashboard Design",
+    "skill_category": "Domain",
+    "skill_description": "Defining key performance indicators and designing dashboards that surface actionable business metrics.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Metabase",
+    "skill_category": "Technical",
+    "skill_description": "Using Metabase for self-service BI and building embedded analytics for non-technical business users.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Apache Superset",
+    "skill_category": "Technical",
+    "skill_description": "Building data exploration dashboards and visualisations using Apache Superset on top of SQL databases.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Network Security",
+    "skill_category": "Domain",
+    "skill_description": "Implementing firewalls, IDS/IPS, VPNs, and network segmentation to protect infrastructure from threats.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Application Security (AppSec)",
+    "skill_category": "Domain",
+    "skill_description": "Identifying and remediating security vulnerabilities in software applications through secure coding and testing.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "OWASP Top 10",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and mitigating the OWASP Top 10 web application security risks including injection, XSS, and CSRF.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Penetration Testing",
+    "skill_category": "Domain",
+    "skill_description": "Conducting authorised simulated attacks on systems to identify exploitable vulnerabilities.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Vulnerability Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Scanning and evaluating systems for security weaknesses using tools like Nessus, OpenVAS, and Qualys.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Security Information and Event Management (SIEM)",
+    "skill_category": "Domain",
+    "skill_description": "Collecting, correlating, and analysing security events using SIEM platforms for threat detection.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Identity and Access Management (IAM)",
+    "skill_category": "Domain",
+    "skill_description": "Managing digital identities, authentication, authorisation, and access governance across systems.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "PKI and Certificate Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing Public Key Infrastructure, digital certificates, and SSL/TLS for encrypted communications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Incident Response",
+    "skill_category": "Domain",
+    "skill_description": "Detecting, containing, eradicating, and recovering from cybersecurity incidents following a structured playbook.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Threat Intelligence",
+    "skill_category": "Domain",
+    "skill_description": "Gathering and analysing information about current and emerging cyber threats to proactively defend systems.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Ethical Hacking",
+    "skill_category": "Domain",
+    "skill_description": "Using offensive security techniques with authorisation to discover and report vulnerabilities before malicious actors.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Cryptography Fundamentals",
+    "skill_category": "Domain",
+    "skill_description": "Applying symmetric, asymmetric encryption, hashing, and digital signatures for data protection.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Zero Trust Security Model",
+    "skill_category": "Domain",
+    "skill_description": "Implementing never-trust-always-verify security architecture across network, identity, and application layers.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Cloud Security (AWS/Azure/GCP)",
+    "skill_category": "Domain",
+    "skill_description": "Securing cloud workloads using cloud-native security services, IAM policies, and compliance controls.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Security Operations Centre (SOC)",
+    "skill_category": "Domain",
+    "skill_description": "Monitoring, detecting, and responding to security incidents from a centralised security operations centre.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "CERT-In Compliance (India)",
+    "skill_category": "Domain",
+    "skill_description": "Complying with CERT-In (Indian Computer Emergency Response Team) cybersecurity directives and incident reporting obligations.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "IT Act 2000 and Amendments",
+    "skill_category": "Domain",
+    "skill_description": "Understanding the Information Technology Act 2000 and its amendments governing cybercrime and data protection in India.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "DPDP Act 2023 (Digital Personal Data Protection)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing data protection obligations under India's Digital Personal Data Protection Act 2023 for technology companies.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Manual Testing",
+    "skill_category": "Domain",
+    "skill_description": "Designing and executing test cases manually to verify software functionality against requirements.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Automation Testing",
+    "skill_category": "Domain",
+    "skill_description": "Building automated test suites to reduce manual regression effort and accelerate release cycles.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Selenium",
+    "skill_category": "Technical",
+    "skill_description": "Automating browser-based UI testing for web applications using Selenium WebDriver.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Cypress",
+    "skill_category": "Technical",
+    "skill_description": "Writing end-to-end tests for web applications using the Cypress testing framework.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Playwright",
+    "skill_category": "Technical",
+    "skill_description": "Automating cross-browser end-to-end tests for web applications using Microsoft Playwright.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "JUnit / TestNG",
+    "skill_category": "Technical",
+    "skill_description": "Writing and running unit and integration tests for Java applications using JUnit or TestNG.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "PyTest",
+    "skill_category": "Technical",
+    "skill_description": "Writing and executing unit, integration, and functional tests for Python applications using PyTest.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Postman",
+    "skill_category": "Technical",
+    "skill_description": "Testing, documenting, and automating REST API requests and collections using Postman.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "JMeter",
+    "skill_category": "Technical",
+    "skill_description": "Conducting load and performance tests on web applications and APIs using Apache JMeter.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Test-Driven Development (TDD)",
+    "skill_category": "Domain",
+    "skill_description": "Writing automated tests before writing implementation code to drive software design.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Behaviour-Driven Development (BDD)",
+    "skill_category": "Domain",
+    "skill_description": "Specifying software behaviour using Gherkin syntax with Cucumber or SpecFlow to align dev, QA, and business.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Performance Testing",
+    "skill_category": "Domain",
+    "skill_description": "Testing system behaviour under load, stress, and spike conditions to identify bottlenecks.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Test Case Design and Management",
+    "skill_category": "Domain",
+    "skill_description": "Writing comprehensive test cases, organising test suites, and managing test execution in tools like TestRail.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Mobile App Testing",
+    "skill_category": "Domain",
+    "skill_description": "Testing mobile applications on real devices and emulators for functionality, usability, and performance.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Appium",
+    "skill_category": "Technical",
+    "skill_description": "Automating mobile application tests for Android and iOS using the Appium open-source framework.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "System Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing scalable, reliable, and maintainable software systems covering architecture, components, and trade-offs.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Design Patterns (GoF)",
+    "skill_category": "Domain",
+    "skill_description": "Applying Gang of Four creational, structural, and behavioural design patterns to solve recurring software problems.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "SOLID Principles",
+    "skill_category": "Domain",
+    "skill_description": "Applying SOLID object-oriented design principles for writing maintainable, extensible, and testable code.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Domain-Driven Design (DDD)",
+    "skill_category": "Domain",
+    "skill_description": "Modelling software systems around the core business domain with bounded contexts and ubiquitous language.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Event-Driven Architecture",
+    "skill_category": "Domain",
+    "skill_description": "Designing systems around the production, detection, and consumption of events for loose coupling.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "CQRS and Event Sourcing",
+    "skill_category": "Domain",
+    "skill_description": "Separating read and write models using CQRS and maintaining an event log as the source of truth.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "API Gateway Pattern",
+    "skill_category": "Domain",
+    "skill_description": "Using an API gateway as the single entry point for client requests to route, authenticate, and rate-limit.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "CAP Theorem and Distributed Systems",
+    "skill_category": "Domain",
+    "skill_description": "Understanding consistency, availability, and partition tolerance trade-offs in distributed system design.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Load Balancing and High Availability",
+    "skill_category": "Domain",
+    "skill_description": "Distributing traffic and designing failover mechanisms to achieve high-availability SLAs.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Caching Strategies",
+    "skill_category": "Domain",
+    "skill_description": "Applying in-memory caching, CDN caching, and cache invalidation strategies to improve application performance.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "UI/UX Design Principles",
+    "skill_category": "Domain",
+    "skill_description": "Applying user-centred design principles including usability, consistency, and visual hierarchy to product design.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Figma",
+    "skill_category": "Technical",
+    "skill_description": "Designing UI wireframes, prototypes, and design systems collaboratively using Figma.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Penpot (Open Source UI Design)",
+    "skill_category": "Technical",
+    "skill_description": "Designing UI wireframes and prototypes using Penpot, the open-source Figma alternative used in collaborative design workflows.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Sketch",
+    "skill_category": "Technical",
+    "skill_description": "Designing UI components and layouts for web and mobile applications using Sketch on macOS.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Wireframing and Prototyping",
+    "skill_category": "Domain",
+    "skill_description": "Creating low-fidelity and high-fidelity wireframes and interactive prototypes to validate design concepts.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "User Research and Usability Testing",
+    "skill_category": "Domain",
+    "skill_description": "Conducting user interviews, surveys, and usability tests to gather insights for product improvement.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Design Systems",
+    "skill_category": "Domain",
+    "skill_description": "Building and maintaining reusable component libraries, style guides, and design tokens for product consistency.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Information Architecture",
+    "skill_category": "Domain",
+    "skill_description": "Organising and structuring digital content to support intuitive navigation and user task completion.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Interaction Design",
+    "skill_category": "Domain",
+    "skill_description": "Defining micro-interactions, animations, and transitions that enhance usability and delight users.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Product Roadmap Planning",
+    "skill_category": "Domain",
+    "skill_description": "Defining and communicating the product vision, priorities, and timeline to align engineering and business stakeholders.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "User Story Writing",
+    "skill_category": "Domain",
+    "skill_description": "Writing well-structured user stories with acceptance criteria to define software requirements for development teams.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Product Backlog Management",
+    "skill_category": "Domain",
+    "skill_description": "Prioritising and grooming the product backlog using frameworks like RICE, MoSCoW, and story points.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Go-to-Market Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Planning product launch strategy including positioning, pricing, channels, and launch sequencing.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "OKR Framework (Objectives and Key Results)",
+    "skill_category": "Domain",
+    "skill_description": "Setting and tracking product and team objectives using the OKR framework for alignment and focus.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Product Analytics",
+    "skill_category": "Domain",
+    "skill_description": "Measuring product usage, funnel conversion, retention, and engagement using analytics platforms.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Competitive Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Researching and benchmarking competitor products to identify differentiation opportunities and market gaps.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Stakeholder Management (Tech)",
+    "skill_category": "Domain",
+    "skill_description": "Managing expectations and communication between engineering, design, business, and executive stakeholders.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Feature Prioritisation Frameworks",
+    "skill_category": "Domain",
+    "skill_description": "Applying frameworks including RICE, ICE, Kano, and value-effort matrix for objective feature prioritisation.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "UPI API Integration",
+    "skill_category": "Technical",
+    "skill_description": "Integrating Unified Payments Interface APIs for in-app payments in Indian fintech and e-commerce applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Aadhaar API and eKYC Integration",
+    "skill_category": "Technical",
+    "skill_description": "Integrating UIDAI Aadhaar authentication and eKYC APIs for digital identity verification in Indian applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "DigiLocker API Integration",
+    "skill_category": "Technical",
+    "skill_description": "Integrating DigiLocker APIs for paperless document verification in onboarding and compliance workflows.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "IndiaStack APIs",
+    "skill_category": "Technical",
+    "skill_description": "Using IndiaStack public digital infrastructure APIs including Aadhaar, UPI, DigiLocker, and Account Aggregator.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "NPCI Payment Gateway Integration",
+    "skill_category": "Technical",
+    "skill_description": "Integrating NPCI-managed payment systems including IMPS, NACH, and BBPS for financial applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "GST API Integration",
+    "skill_category": "Technical",
+    "skill_description": "Integrating GSTN APIs for automated GST return filing, invoice matching, and e-invoicing in business applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Bhashini API (Indian Language AI)",
+    "skill_category": "Technical",
+    "skill_description": "Integrating MeitY's Bhashini APIs for multilingual speech recognition and translation in Indian language applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Zoho Suite Development",
+    "skill_category": "Technical",
+    "skill_description": "Building customisations, integrations, and automations on the Zoho CRM, Books, and Desk platforms using Zoho APIs.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Freshworks Development",
+    "skill_category": "Technical",
+    "skill_description": "Building apps and integrations on Freshdesk, Freshsales, and Freshservice using the Freshworks developer platform.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Razorpay Integration",
+    "skill_category": "Technical",
+    "skill_description": "Integrating Razorpay payment gateway APIs for accepting online payments in Indian web and mobile applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "PayU Integration",
+    "skill_category": "Technical",
+    "skill_description": "Integrating PayU payment gateway for processing card, net banking, and wallet payments in Indian applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "MeitY Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Understanding Ministry of Electronics and Information Technology guidelines for data localisation and IT infrastructure.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "RBI Digital Lending Technology Guidelines",
+    "skill_category": "Domain",
+    "skill_description": "Implementing technology requirements under RBI's digital lending guidelines for loan origination and collection systems.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "TRAI Regulations for Telecom/IT",
+    "skill_category": "Domain",
+    "skill_description": "Understanding Telecom Regulatory Authority of India regulations applicable to communication platforms and OTT services.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "BIS Standards for Software (IS Standards)",
+    "skill_category": "Domain",
+    "skill_description": "Adhering to Bureau of Indian Standards specifications relevant to software quality and IT products.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "NASSCOM Frameworks and Skill Standards",
+    "skill_category": "Domain",
+    "skill_description": "Aligning with NASSCOM's digital skill standards and National Skill Qualification Framework for IT roles.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "STPI (Software Technology Parks of India) Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Complying with STPI regulations for software export reporting and IT/ITES unit registration.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "ONDC Integration",
+    "skill_category": "Technical",
+    "skill_description": "Building buyer and seller applications on the Open Network for Digital Commerce for e-commerce interoperability.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Account Aggregator (AA) Framework Integration",
+    "skill_category": "Technical",
+    "skill_description": "Integrating RBI's Account Aggregator framework APIs for consent-based financial data access in fintech products.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "IRCTC and Government Portal API Integration",
+    "skill_category": "Technical",
+    "skill_description": "Integrating with Indian government digital service APIs for travel, utility, and citizen service applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Digilocker-based Document Verification",
+    "skill_category": "Domain",
+    "skill_description": "Implementing paperless document verification workflows using government-issued documents via DigiLocker.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "TCP/IP Networking",
+    "skill_category": "Domain",
+    "skill_description": "Understanding TCP/IP stack, IP addressing, subnetting, and routing for network design and troubleshooting.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "DNS Management",
+    "skill_category": "Technical",
+    "skill_description": "Configuring and managing Domain Name System records for web applications and internal services.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "HTTP/HTTPS Protocol",
+    "skill_category": "Domain",
+    "skill_description": "Understanding HTTP request-response cycle, headers, status codes, and HTTPS for web development and debugging.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "SSL/TLS Certificate Management",
+    "skill_category": "Technical",
+    "skill_description": "Provisioning, renewing, and configuring SSL/TLS certificates for secure HTTPS communication.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "CDN Configuration",
+    "skill_category": "Technical",
+    "skill_description": "Configuring Content Delivery Networks like Cloudflare and AWS CloudFront for fast global content delivery.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "OAuth 2.0 and OpenID Connect",
+    "skill_category": "Technical",
+    "skill_description": "Implementing secure authorisation and authentication flows using OAuth 2.0 and OIDC standards.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "JWT (JSON Web Tokens)",
+    "skill_category": "Technical",
+    "skill_description": "Using JWT for stateless authentication and information exchange between services.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "LDAP and Active Directory",
+    "skill_category": "Technical",
+    "skill_description": "Managing enterprise directory services and user authentication using LDAP and Microsoft Active Directory.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "VPN Configuration and Management",
+    "skill_category": "Technical",
+    "skill_description": "Setting up and managing VPN solutions for secure remote access to corporate networks.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "ITIL Framework",
+    "skill_category": "Domain",
+    "skill_description": "Applying ITIL service management best practices for incident, change, problem, and release management.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "ServiceNow",
+    "skill_category": "Technical",
+    "skill_description": "Using ServiceNow for IT service management, incident tracking, and workflow automation in enterprise environments.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Incident Management",
+    "skill_category": "Domain",
+    "skill_description": "Detecting, logging, prioritising, and resolving IT incidents to restore normal service as quickly as possible.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Change Management (IT)",
+    "skill_category": "Domain",
+    "skill_description": "Managing changes to IT systems through a controlled process to minimise risk and disruption.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "IT Asset Management",
+    "skill_category": "Domain",
+    "skill_description": "Tracking and managing hardware and software assets throughout their lifecycle for cost and compliance control.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "CMDB (Configuration Management Database)",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining a CMDB to track configuration items and their relationships for effective IT management.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Business Continuity and Disaster Recovery",
+    "skill_category": "Domain",
+    "skill_description": "Planning and implementing BC/DR strategies including RTO/RPO targets and failover procedures.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "SLA Management",
+    "skill_category": "Domain",
+    "skill_description": "Defining, monitoring, and reporting on service level agreements between IT teams and business stakeholders.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Help Desk and L1/L2/L3 Support",
+    "skill_category": "Domain",
+    "skill_description": "Providing tiered technical support to end users resolving hardware, software, and network issues.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Freshservice (ITSM)",
+    "skill_category": "Technical",
+    "skill_description": "Managing IT service requests, incidents, and assets using Freshservice in Indian SME and enterprise environments.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "ManageEngine Suite",
+    "skill_category": "Technical",
+    "skill_description": "Using ManageEngine tools for IT asset tracking, service desk, network monitoring, and Active Directory management.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "SAP Basis Administration",
+    "skill_category": "Technical",
+    "skill_description": "Managing SAP system landscapes including installation, transport management, and user administration.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "SAP ABAP Development",
+    "skill_category": "Technical",
+    "skill_description": "Developing custom reports, forms, and enhancements for SAP systems using ABAP programming language.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "SAP S/4HANA",
+    "skill_category": "Technical",
+    "skill_description": "Implementing and supporting SAP S/4HANA for finance, logistics, and supply chain in large enterprises.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "SAP BTP (Business Technology Platform)",
+    "skill_category": "Technical",
+    "skill_description": "Building integrations and extensions for SAP systems using SAP Business Technology Platform.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Oracle ERP Implementation",
+    "skill_category": "Technical",
+    "skill_description": "Implementing and configuring Oracle ERP Cloud or E-Business Suite modules for enterprise operations.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Microsoft Dynamics 365",
+    "skill_category": "Technical",
+    "skill_description": "Implementing and supporting Microsoft Dynamics 365 for CRM, ERP, and business process automation.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Salesforce Administration",
+    "skill_category": "Technical",
+    "skill_description": "Configuring Salesforce CRM including users, roles, profiles, workflows, and reports for business needs.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Salesforce Development (Apex/LWC)",
+    "skill_category": "Technical",
+    "skill_description": "Building custom Salesforce applications using Apex, Lightning Web Components, and Visualforce.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Zoho CRM Customisation",
+    "skill_category": "Technical",
+    "skill_description": "Customising Zoho CRM with custom modules, workflows, and integrations for Indian business requirements.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Tally ERP Integration",
+    "skill_category": "Technical",
+    "skill_description": "Integrating Tally ERP/Prime with other business systems using Tally XML/JSON APIs for data exchange.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Odoo ERP",
+    "skill_category": "Technical",
+    "skill_description": "Implementing and customising Odoo open-source ERP for manufacturing, retail, and service businesses.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "GitHub Copilot",
+    "skill_category": "AI-Tool",
+    "skill_description": "AI-powered code completion and generation tool used for accelerating software development across languages.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "ChatGPT",
+    "skill_category": "AI-Tool",
+    "skill_description": "Used for code generation, technical documentation, debugging assistance, and drafting engineering specs.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Claude (Anthropic)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Used for code review, analysing large codebases, technical writing, and complex reasoning tasks.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+    "skill_category": "AI-Tool",
+    "skill_description": "AI assistant in Excel used for formula generation, data analysis, and automated insight generation.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Power BI Copilot",
+    "skill_category": "AI-Tool",
+    "skill_description": "AI feature in Power BI for generating reports and natural language queries on business data.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Tabnine",
+    "skill_category": "AI-Tool",
+    "skill_description": "AI code completion tool used for auto-completing code in multiple languages across popular IDEs.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Cursor IDE",
+    "skill_category": "AI-Tool",
+    "skill_description": "AI-powered code editor built on VS Code used for conversational code editing and generation.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Amazon Q Developer (formerly AWS CodeWhisperer)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Amazon's AI coding assistant (formerly CodeWhisperer) used for code generation, security scanning, and AWS-specific suggestions.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Midjourney",
+    "skill_category": "AI-Tool",
+    "skill_description": "AI image generation tool used by designers for creating UI mockup inspiration and visual concepts.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "DALL-E",
+    "skill_category": "AI-Tool",
+    "skill_description": "OpenAI's image generation model used for creating visuals and design assets from text prompts.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Runway",
+    "skill_category": "AI-Tool",
+    "skill_description": "AI-powered creative tool used for video generation, editing, and visual effects in content and media production.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Perplexity AI",
+    "skill_category": "AI-Tool",
+    "skill_description": "AI-powered search and research tool used by developers and analysts for real-time information synthesis.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Salesforce Einstein",
+    "skill_category": "AI-Tool",
+    "skill_description": "AI layer in Salesforce used for predictive lead scoring, opportunity insights, and automated CRM analytics.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Gemini (Google)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Google's multimodal AI assistant used for code generation, data analysis, and productivity in Google Workspace.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Canva AI",
+    "skill_category": "AI-Tool",
+    "skill_description": "AI-powered design features in Canva used for generating graphics, presentations, and marketing assets.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Notion AI",
+    "skill_category": "AI-Tool",
+    "skill_description": "AI writing and summarisation assistant in Notion used for drafting technical documentation and PRDs.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Replit AI (Ghostwriter)",
+    "skill_category": "AI-Tool",
+    "skill_description": "AI coding assistant in Replit used for generating, completing, and explaining code in browser-based development.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Lovable (AI App Builder)",
+    "skill_category": "AI-Tool",
+    "skill_description": "AI-powered application builder used for generating full-stack web apps from natural language descriptions.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "v0 by Vercel",
+    "skill_category": "AI-Tool",
+    "skill_description": "AI tool for generating React UI components and frontend code from text and image prompts.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Devin (Cognition AI)",
+    "skill_category": "AI-Tool",
+    "skill_description": "AI software engineering agent used for autonomously completing coding tasks, debugging, and deploying software.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Software Development Life Cycle (SDLC)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding all phases of SDLC from requirements, design, coding, testing, deployment, and maintenance.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Object-Oriented Programming (OOP)",
+    "skill_category": "Domain",
+    "skill_description": "Applying encapsulation, inheritance, polymorphism, and abstraction in software design.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Functional Programming Concepts",
+    "skill_category": "Domain",
+    "skill_description": "Applying immutability, pure functions, higher-order functions, and monads in software development.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Data Structures and Algorithms",
+    "skill_category": "Domain",
+    "skill_description": "Implementing and analysing arrays, linked lists, trees, graphs, sorting, and searching algorithms for efficient code.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Competitive Programming",
+    "skill_category": "Domain",
+    "skill_description": "Solving algorithmic problems under time constraints on platforms like Codeforces, LeetCode, and CodeChef.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Clean Code Principles",
+    "skill_category": "Domain",
+    "skill_description": "Writing readable, maintainable code following naming conventions, small functions, and separation of concerns.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Technical Debt Management",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, quantifying, and systematically reducing technical debt in codebases.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Open Source Contribution",
+    "skill_category": "Domain",
+    "skill_description": "Contributing to open source projects on GitHub through code, documentation, and issue triaging.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Documentation Writing (Technical)",
+    "skill_category": "Domain",
+    "skill_description": "Writing API docs, README files, architecture decision records, and runbooks for software systems.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Debugging and Troubleshooting",
+    "skill_category": "Domain",
+    "skill_description": "Systematically identifying and resolving bugs using debuggers, logs, and profiling tools.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Software Licensing and Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Understanding open source licenses (MIT, GPL, Apache) and ensuring legal compliance in software products.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "DevSecOps",
+    "skill_category": "Domain",
+    "skill_description": "Integrating security practices into the DevOps pipeline including SAST, DAST, and dependency scanning.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Platform Engineering",
+    "skill_category": "Domain",
+    "skill_description": "Building and maintaining internal developer platforms with self-service infrastructure, CI/CD, and observability tools.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "FinOps (Cloud Financial Operations)",
+    "skill_category": "Domain",
+    "skill_description": "Managing and optimising cloud spending through visibility, allocation, and continuous cost reduction practices.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "IoT Development",
+    "skill_category": "Domain",
+    "skill_description": "Building connected device applications using MQTT, embedded C, and cloud IoT platforms.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Embedded Systems Programming",
+    "skill_category": "Domain",
+    "skill_description": "Writing low-level firmware and device drivers for microcontrollers and hardware systems.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Blockchain Development",
+    "skill_category": "Domain",
+    "skill_description": "Building smart contracts and decentralised applications on Ethereum, Hyperledger, or Polygon.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "AR/VR Development",
+    "skill_category": "Domain",
+    "skill_description": "Building augmented and virtual reality experiences using Unity, Unreal Engine, or WebXR.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Game Development",
+    "skill_category": "Domain",
+    "skill_description": "Designing and building games using Unity or Unreal Engine for mobile, PC, and console platforms.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Conversational AI and Chatbot Development",
+    "skill_category": "Domain",
+    "skill_description": "Building chatbots and voice assistants using Dialogflow, Rasa, or LangChain for customer service and automation.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "LangChain Development",
+    "skill_category": "Technical",
+    "skill_description": "Building LLM-powered applications with chains, agents, and memory using the LangChain framework.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Prompt Engineering",
+    "skill_category": "Domain",
+    "skill_description": "Designing and optimising prompts for large language models to reliably produce accurate and useful outputs.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "API Rate Limiting and Throttling",
+    "skill_category": "Domain",
+    "skill_description": "Implementing rate limiting strategies to protect APIs from abuse and ensure fair usage across consumers.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Webhook Design and Implementation",
+    "skill_category": "Technical",
+    "skill_description": "Building event-driven webhook endpoints for real-time notifications between external services and applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Search Engine Optimisation (SEO) Technical",
+    "skill_category": "Domain",
+    "skill_description": "Optimising technical website elements including site speed, structured data, crawlability, and Core Web Vitals.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Google Analytics 4 (GA4)",
+    "skill_category": "Technical",
+    "skill_description": "Implementing and analysing user behaviour data using Google Analytics 4 for product and marketing insights.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Mixpanel",
+    "skill_category": "Technical",
+    "skill_description": "Tracking product events and user journeys using Mixpanel for funnel analysis and cohort retention.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Amplitude Analytics",
+    "skill_category": "Technical",
+    "skill_description": "Analysing user behaviour and product metrics using Amplitude for data-driven product decisions.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Firebase Analytics",
+    "skill_category": "Technical",
+    "skill_description": "Tracking mobile and web app user events and engagement metrics using Firebase Analytics.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Clevertap",
+    "skill_category": "Technical",
+    "skill_description": "Using CleverTap for mobile engagement analytics, personalised push notifications, and user retention in Indian apps.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Logical Thinking and Problem Decomposition",
+    "skill_category": "Foundational",
+    "skill_description": "Breaking complex technical problems into smaller, manageable components and designing step-by-step solutions.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Written Communication (Technical)",
+    "skill_category": "Foundational",
+    "skill_description": "Writing clear technical emails, documentation, incident reports, and engineering proposals for diverse audiences.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Verbal Communication and Presentation",
+    "skill_category": "Foundational",
+    "skill_description": "Presenting technical concepts, demos, and architecture decisions clearly to technical and non-technical stakeholders.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Analytical Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Applying structured reasoning to evaluate data, identify root causes, and draw evidence-based conclusions.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Attention to Detail",
+    "skill_category": "Foundational",
+    "skill_description": "Catching bugs, inconsistencies, and edge cases in code, data, and system design.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Time Management and Prioritisation",
+    "skill_category": "Foundational",
+    "skill_description": "Managing sprint commitments, meeting deadlines, and balancing multiple tasks in a fast-paced tech environment.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Teamwork and Collaboration",
+    "skill_category": "Foundational",
+    "skill_description": "Contributing effectively to cross-functional teams across product, design, QA, and engineering functions.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Continuous Learning and Self-Development",
+    "skill_category": "Foundational",
+    "skill_description": "Staying current with rapidly evolving technologies through online courses, documentation, and experimentation.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Adaptability and Dealing with Ambiguity",
+    "skill_category": "Foundational",
+    "skill_description": "Navigating changing requirements, incomplete specifications, and evolving tech stacks with flexibility.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Critical Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Questioning assumptions, evaluating trade-offs, and making sound technical decisions backed by reasoning.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Ownership and Accountability",
+    "skill_category": "Foundational",
+    "skill_description": "Taking end-to-end responsibility for features, bugs, and systems from development through production.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Growth Mindset",
+    "skill_category": "Foundational",
+    "skill_description": "Embracing challenges, learning from failure, and seeking feedback to continuously improve technical capability.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Intellectual Curiosity",
+    "skill_category": "Foundational",
+    "skill_description": "Exploring how systems work, asking deep questions, and proactively learning beyond the immediate role scope.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Cross-Functional Collaboration",
+    "skill_category": "Foundational",
+    "skill_description": "Working effectively with product managers, designers, data analysts, and business stakeholders on technology projects.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Mentoring and Knowledge Transfer",
+    "skill_category": "Foundational",
+    "skill_description": "Sharing technical knowledge with junior team members through code reviews, pair programming, and documentation.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Resilience Under Pressure",
+    "skill_category": "Foundational",
+    "skill_description": "Maintaining performance and composure during production incidents, tight deadlines, and high-stakes deployments.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Estimation and Planning",
+    "skill_category": "Foundational",
+    "skill_description": "Providing accurate effort estimates for tasks and managing delivery timelines in agile development.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Customer Empathy",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding end-user needs and building technology solutions that genuinely solve real user problems.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "English Proficiency (Technical)",
+    "skill_category": "Foundational",
+    "skill_description": "Reading technical documentation, contributing to global open source projects, and communicating in international teams.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Remote and Async Work Practices",
+    "skill_category": "Foundational",
+    "skill_description": "Working effectively in distributed and remote-first teams using async communication and documentation norms.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Data Privacy Awareness",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding the importance of handling user data responsibly in compliance with DPDP Act and privacy best practices.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Ethical AI Awareness",
+    "skill_category": "Foundational",
+    "skill_description": "Recognising and mitigating biases, fairness issues, and societal impacts when building AI-powered systems.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Solidity",
+    "skill_category": "Technical",
+    "skill_description": "Writing smart contracts for Ethereum and EVM-compatible blockchains for DeFi and Web3 applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Assembly Language",
+    "skill_category": "Technical",
+    "skill_description": "Writing low-level assembly code for hardware-close programming in embedded systems and operating systems.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Perl",
+    "skill_category": "Technical",
+    "skill_description": "Using Perl for text processing, system administration scripts, and bioinformatics in legacy environments.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Lua",
+    "skill_category": "Technical",
+    "skill_description": "Using Lua for game scripting, embedded configuration, and high-performance scripting in Nginx and Redis.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Svelte",
+    "skill_category": "Technical",
+    "skill_description": "Building reactive web applications using the Svelte compiler for minimal runtime overhead.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "React Query (TanStack Query)",
+    "skill_category": "Technical",
+    "skill_description": "Managing server state and async data fetching in React applications using TanStack Query.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Storybook",
+    "skill_category": "Technical",
+    "skill_description": "Developing and testing UI components in isolation using Storybook for consistent design systems.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Web Performance Optimisation",
+    "skill_category": "Domain",
+    "skill_description": "Improving Core Web Vitals, reducing load times, and optimising assets for fast web application performance.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Micro-Frontend Architecture",
+    "skill_category": "Domain",
+    "skill_description": "Decomposing frontend monoliths into independently deployable micro-frontends for large-scale applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Apache Tomcat",
+    "skill_category": "Technical",
+    "skill_description": "Deploying and managing Java web applications on the Apache Tomcat servlet container.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "WebAssembly (WASM)",
+    "skill_category": "Domain",
+    "skill_description": "Compiling high-performance code to run in web browsers using WebAssembly for compute-intensive applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Protocol Buffers (Protobuf)",
+    "skill_category": "Technical",
+    "skill_description": "Serialising structured data using Protocol Buffers for efficient inter-service communication in microservices.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Service-Oriented Architecture (SOA)",
+    "skill_category": "Domain",
+    "skill_description": "Designing enterprise systems as a collection of interoperable services communicating over standard protocols.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Apache NiFi",
+    "skill_category": "Technical",
+    "skill_description": "Automating data flow between systems using Apache NiFi's drag-and-drop data routing and transformation.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Talend",
+    "skill_category": "Technical",
+    "skill_description": "Building ETL pipelines and data integration workflows using the Talend data integration platform.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Informatica PowerCenter",
+    "skill_category": "Technical",
+    "skill_description": "Developing and managing enterprise ETL workflows using Informatica PowerCenter for data warehousing.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Microsoft Azure Data Factory",
+    "skill_category": "Technical",
+    "skill_description": "Building cloud-based ETL and ELT data pipelines using Azure Data Factory for enterprise data integration.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "AWS Glue",
+    "skill_category": "Technical",
+    "skill_description": "Using AWS Glue for serverless ETL, data cataloguing, and data integration in AWS data lake architectures.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Fivetran",
+    "skill_category": "Technical",
+    "skill_description": "Automating data ingestion from SaaS sources to data warehouses using Fivetran managed connectors.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Data Mesh Architecture",
+    "skill_category": "Domain",
+    "skill_description": "Organising data ownership by domain teams with self-serve data infrastructure and federated governance.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Streaming Data Architecture",
+    "skill_category": "Domain",
+    "skill_description": "Designing real-time data ingestion, processing, and serving architectures using event streaming platforms.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Reinforcement Learning",
+    "skill_category": "Domain",
+    "skill_description": "Training agents to make sequential decisions by maximising cumulative reward in simulated environments.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Transfer Learning",
+    "skill_category": "Domain",
+    "skill_description": "Applying pre-trained models to new tasks with limited labelled data for faster model development.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Model Deployment and Serving (MLOps)",
+    "skill_category": "Domain",
+    "skill_description": "Packaging, deploying, monitoring, and maintaining machine learning models in production environments.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "SageMaker",
+    "skill_category": "Technical",
+    "skill_description": "Building, training, and deploying machine learning models at scale using AWS SageMaker.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Vertex AI (Google Cloud)",
+    "skill_category": "Technical",
+    "skill_description": "Training and deploying ML models using Google Cloud's Vertex AI managed ML platform.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Azure Machine Learning",
+    "skill_category": "Technical",
+    "skill_description": "Building and managing ML pipelines, experiments, and deployments on Azure Machine Learning.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Data Annotation and Labelling",
+    "skill_category": "Domain",
+    "skill_description": "Creating high-quality labelled datasets for supervised learning through structured annotation workflows.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Explainable AI (XAI)",
+    "skill_category": "Domain",
+    "skill_description": "Using SHAP, LIME, and other techniques to explain machine learning model predictions to stakeholders.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "OpenCV",
+    "skill_category": "Technical",
+    "skill_description": "Processing images and video using OpenCV for computer vision applications in Python and C++.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "SpaCy",
+    "skill_category": "Technical",
+    "skill_description": "Building production NLP pipelines for tokenisation, NER, dependency parsing, and text classification using spaCy.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "NLTK",
+    "skill_category": "Technical",
+    "skill_description": "Applying natural language processing tools for text preprocessing, tokenisation, and linguistic analysis.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Stable Diffusion",
+    "skill_category": "AI-Tool",
+    "skill_description": "Open-source AI image generation model used for creating and editing images from text prompts.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "AWS EKS",
+    "skill_category": "Technical",
+    "skill_description": "Deploying and managing Kubernetes clusters on AWS Elastic Kubernetes Service.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "AWS SQS",
+    "skill_category": "Technical",
+    "skill_description": "Using AWS Simple Queue Service for decoupled, asynchronous message processing between services.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "AWS SNS",
+    "skill_category": "Technical",
+    "skill_description": "Publishing notifications and messages to multiple subscribers using AWS Simple Notification Service.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Google Kubernetes Engine (GKE)",
+    "skill_category": "Technical",
+    "skill_description": "Deploying and managing containerised applications on Google Cloud's managed Kubernetes service.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Azure Kubernetes Service (AKS)",
+    "skill_category": "Technical",
+    "skill_description": "Running Kubernetes workloads on Microsoft Azure's managed container orchestration service.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Pulumi",
+    "skill_category": "Technical",
+    "skill_description": "Provisioning cloud infrastructure using general-purpose programming languages as an alternative to Terraform HCL.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "HashiCorp Vault",
+    "skill_category": "Technical",
+    "skill_description": "Managing secrets, API keys, and certificates securely using HashiCorp Vault for applications and CI/CD.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "ArgoCD",
+    "skill_category": "Technical",
+    "skill_description": "Implementing GitOps continuous delivery for Kubernetes applications using ArgoCD.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Datadog",
+    "skill_category": "Technical",
+    "skill_description": "Monitoring infrastructure and application performance using Datadog's cloud observability platform.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "New Relic",
+    "skill_category": "Technical",
+    "skill_description": "Observing application performance, infrastructure, and user experience using New Relic APM.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Burp Suite",
+    "skill_category": "Technical",
+    "skill_description": "Testing web application security using Burp Suite for intercepting, analysing, and manipulating HTTP traffic.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Wireshark",
+    "skill_category": "Technical",
+    "skill_description": "Capturing and analysing network packets using Wireshark for network troubleshooting and security analysis.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Metasploit",
+    "skill_category": "Technical",
+    "skill_description": "Conducting penetration tests and exploit development using the Metasploit framework.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Nmap",
+    "skill_category": "Technical",
+    "skill_description": "Scanning networks for open ports, services, and OS detection using Nmap for security assessment.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "SAST and DAST Tools",
+    "skill_category": "Domain",
+    "skill_description": "Using Static and Dynamic Application Security Testing tools to identify vulnerabilities before and during runtime.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "ISO 27001 Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Implementing and auditing Information Security Management Systems in compliance with ISO 27001 standard.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "SOC 2 Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Implementing controls for Service Organisation Control 2 audit to demonstrate security and reliability to customers.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Data Loss Prevention (DLP)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing policies and tools to prevent unauthorised transmission of sensitive data outside the organisation.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Contract Testing",
+    "skill_category": "Domain",
+    "skill_description": "Verifying API contracts between consumer and provider services using tools like Pact.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Chaos Engineering",
+    "skill_category": "Domain",
+    "skill_description": "Deliberately injecting failures into production systems to test resilience and identify weaknesses.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Security Testing",
+    "skill_category": "Domain",
+    "skill_description": "Testing applications for authentication bypass, injection flaws, and other security vulnerabilities.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "API Testing (Automated)",
+    "skill_category": "Domain",
+    "skill_description": "Writing automated API test suites covering positive, negative, and edge cases for REST and GraphQL endpoints.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Slack",
+    "skill_category": "Technical",
+    "skill_description": "Using Slack for team communication, building integrations, and managing notifications in tech teams.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Microsoft Teams",
+    "skill_category": "Technical",
+    "skill_description": "Collaborating, conducting video meetings, and integrating apps in Microsoft Teams for enterprise teams.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Notion",
+    "skill_category": "Technical",
+    "skill_description": "Managing knowledge bases, project documentation, and product wikis using Notion.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Linear",
+    "skill_category": "Technical",
+    "skill_description": "Managing software development tasks and sprints using Linear for fast-moving product teams.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Miro",
+    "skill_category": "Technical",
+    "skill_description": "Facilitating remote design sprints, system design whiteboarding, and team retrospectives using Miro.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Lucidchart",
+    "skill_category": "Technical",
+    "skill_description": "Creating architecture diagrams, flowcharts, and ERDs using Lucidchart for technical documentation.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Technical Requirement Gathering",
+    "skill_category": "Domain",
+    "skill_description": "Eliciting, documenting, and validating technical and functional requirements from business stakeholders.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Architecture Decision Records (ADR)",
+    "skill_category": "Domain",
+    "skill_description": "Documenting significant architectural decisions with context, options considered, and rationale.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Capacity Planning",
+    "skill_category": "Domain",
+    "skill_description": "Forecasting resource requirements for compute, storage, and network to support anticipated growth.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Release Management",
+    "skill_category": "Domain",
+    "skill_description": "Planning, coordinating, and overseeing software releases to minimise disruption and ensure quality.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Post-Mortem and Blameless Culture",
+    "skill_category": "Domain",
+    "skill_description": "Conducting blameless post-incident reviews to identify root causes and prevent recurrence.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Technical Interviewing",
+    "skill_category": "Domain",
+    "skill_description": "Designing and conducting technical interviews including coding challenges and system design for engineering hiring.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "SaaS Product Development",
+    "skill_category": "Domain",
+    "skill_description": "Building and iterating multi-tenant SaaS products with subscription models, onboarding, and billing.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "API Monetisation and Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing API lifecycle, developer portals, and monetisation strategies using API management platforms.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Edge Computing",
+    "skill_category": "Domain",
+    "skill_description": "Processing data closer to the source using edge computing for low-latency IoT and real-time applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Digital Transformation Consulting",
+    "skill_category": "Domain",
+    "skill_description": "Advising organisations on technology adoption strategies and managing digital transformation programmes.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "IT Governance (COBIT)",
+    "skill_category": "Domain",
+    "skill_description": "Applying COBIT framework for IT governance, risk management, and alignment with business objectives.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Vendor Management (IT)",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating, onboarding, and managing technology vendors and software contracts for cost and performance.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "RFP and Technical Proposal Writing",
+    "skill_category": "Domain",
+    "skill_description": "Preparing responses to Requests for Proposals for IT projects and software contracts.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Technology Due Diligence",
+    "skill_category": "Domain",
+    "skill_description": "Assessing a company's technology stack, architecture, and engineering practices during M&A or investment.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Networking and Community Building",
+    "skill_category": "Foundational",
+    "skill_description": "Engaging with tech communities, attending meetups, and contributing to developer forums for knowledge and growth.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Product Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding the 'why' behind features and thinking about user value, not just technical implementation.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Feedback Giving and Receiving",
+    "skill_category": "Foundational",
+    "skill_description": "Providing constructive feedback during code reviews and performance discussions and acting on feedback received.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Conflict Resolution (Technical Teams)",
+    "skill_category": "Foundational",
+    "skill_description": "Navigating technical disagreements constructively using data and reasoning rather than opinion.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Project Management Basics (Tech)",
+    "skill_category": "Foundational",
+    "skill_description": "Planning and tracking technology project timelines, dependencies, and risks using agile or waterfall methods.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Presentation of Technical Work",
+    "skill_category": "Foundational",
+    "skill_description": "Demonstrating technical work through sprint reviews, architecture walkthroughs, and engineering all-hands.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Celery (Task Queue)",
+    "skill_category": "Technical",
+    "skill_description": "Running distributed background tasks and scheduling periodic jobs in Python using Celery with Redis or RabbitMQ.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Socket.IO",
+    "skill_category": "Technical",
+    "skill_description": "Building real-time bidirectional communication for chat, collaboration, and live features using Socket.IO.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Prisma ORM",
+    "skill_category": "Technical",
+    "skill_description": "Type-safe database access and schema management for Node.js applications using Prisma.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Hibernate ORM",
+    "skill_category": "Technical",
+    "skill_description": "Mapping Java objects to relational database tables using Hibernate for enterprise Java applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "GraphQL Federation",
+    "skill_category": "Technical",
+    "skill_description": "Composing a unified graph from multiple subgraph services using Apollo Federation.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "tRPC",
+    "skill_category": "Technical",
+    "skill_description": "Building fully type-safe APIs without code generation using tRPC for full-stack TypeScript applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "AWS CloudWatch",
+    "skill_category": "Technical",
+    "skill_description": "Monitoring AWS resources and applications, setting alarms, and collecting logs using CloudWatch.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "AWS Route 53",
+    "skill_category": "Technical",
+    "skill_description": "Managing DNS routing, health checks, and domain registration using AWS Route 53.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Azure Active Directory (Entra ID)",
+    "skill_category": "Technical",
+    "skill_description": "Managing cloud identity, single sign-on, and conditional access using Azure Active Directory.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "GCP Cloud Run",
+    "skill_category": "Technical",
+    "skill_description": "Deploying containerised applications in a fully managed serverless environment using Google Cloud Run.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Digital Ocean",
+    "skill_category": "Technical",
+    "skill_description": "Deploying and managing web applications and databases on DigitalOcean cloud for startups and SMEs.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Cloudflare Workers",
+    "skill_category": "Technical",
+    "skill_description": "Running JavaScript at the edge globally using Cloudflare Workers for low-latency serverless compute.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "SciPy",
+    "skill_category": "Technical",
+    "skill_description": "Performing scientific computing including optimisation, integration, and signal processing using SciPy.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Statsmodels",
+    "skill_category": "Technical",
+    "skill_description": "Estimating statistical models and performing hypothesis tests using the Python Statsmodels library.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "PySpark",
+    "skill_category": "Technical",
+    "skill_description": "Writing Apache Spark jobs in Python using PySpark for distributed data processing.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "SQL Window Functions",
+    "skill_category": "Technical",
+    "skill_description": "Using SQL window functions including ROW_NUMBER, RANK, LAG, and LEAD for advanced analytical queries.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Data Cleaning and Wrangling",
+    "skill_category": "Domain",
+    "skill_description": "Identifying and resolving missing values, duplicates, outliers, and format inconsistencies in raw datasets.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Survey Design and Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Designing user and market surveys and analysing results using statistical methods for product and UX decisions.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Apache Druid",
+    "skill_category": "Technical",
+    "skill_description": "Querying large-scale real-time and historical data using Apache Druid for interactive analytics dashboards.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Redshift",
+    "skill_category": "Technical",
+    "skill_description": "Running SQL analytics at petabyte scale using Amazon Redshift cloud data warehouse.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Microsoft Fabric",
+    "skill_category": "Technical",
+    "skill_description": "Using Microsoft Fabric's unified analytics platform for data engineering, science, and BI workloads.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Monte Carlo Simulation",
+    "skill_category": "Domain",
+    "skill_description": "Modelling uncertainty and running probabilistic simulations for risk analysis and forecasting in data science.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Anomaly Detection",
+    "skill_category": "Domain",
+    "skill_description": "Building models to identify unusual patterns in data for fraud detection, system monitoring, and quality control.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Clustering Algorithms (K-Means, DBSCAN)",
+    "skill_category": "Domain",
+    "skill_description": "Applying unsupervised clustering to segment customers, documents, and data points without labelled data.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Dimensionality Reduction (PCA, t-SNE)",
+    "skill_category": "Domain",
+    "skill_description": "Reducing dataset dimensions using PCA, t-SNE, and UMAP for visualisation and feature extraction.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Gradient Descent and Optimisation",
+    "skill_category": "Domain",
+    "skill_description": "Applying gradient descent variants (SGD, Adam, AdaGrad) to train neural networks and ML models.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Neural Network Architecture Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing CNN, RNN, LSTM, Transformer, and GNN architectures for specific ML problem types.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Federated Learning",
+    "skill_category": "Domain",
+    "skill_description": "Training machine learning models across decentralised devices without sharing raw data for privacy.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Weights and Biases (W&B)",
+    "skill_category": "Technical",
+    "skill_description": "Tracking ML experiments, visualising training metrics, and managing model versions using Weights and Biases.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "ONNX (Open Neural Network Exchange)",
+    "skill_category": "Technical",
+    "skill_description": "Exporting and deploying ML models across frameworks using the ONNX open format for model interoperability.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Security Code Review",
+    "skill_category": "Domain",
+    "skill_description": "Reviewing source code to identify security vulnerabilities including injection, authentication flaws, and insecure APIs.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Container Security",
+    "skill_category": "Domain",
+    "skill_description": "Scanning container images, enforcing runtime policies, and securing Kubernetes workloads from vulnerabilities.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "API Security",
+    "skill_category": "Domain",
+    "skill_description": "Securing REST and GraphQL APIs using authentication, authorisation, input validation, and rate limiting.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "GDPR Awareness (for Indian MNCs)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding GDPR obligations for Indian technology companies handling EU citizens' personal data.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Secure Software Development Lifecycle (SSDLC)",
+    "skill_category": "Domain",
+    "skill_description": "Integrating security requirements, threat modelling, and security testing into every phase of the SDLC.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Unit Testing Best Practices",
+    "skill_category": "Domain",
+    "skill_description": "Writing fast, isolated, deterministic unit tests with high coverage to prevent regressions.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Integration Testing",
+    "skill_category": "Domain",
+    "skill_description": "Testing the interaction between multiple components or services to verify correct end-to-end behaviour.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Accessibility Testing (a11y)",
+    "skill_category": "Domain",
+    "skill_description": "Verifying web and mobile applications meet WCAG accessibility standards for users with disabilities.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Cross-Browser Testing",
+    "skill_category": "Domain",
+    "skill_description": "Verifying web application compatibility and visual consistency across Chrome, Firefox, Safari, and Edge.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Test Coverage Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Measuring and improving code coverage using coverage reports to ensure critical paths are tested.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Motion Design (UI Animations)",
+    "skill_category": "Domain",
+    "skill_description": "Designing purposeful animations and transitions using Lottie or CSS/JS to enhance user experience.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Design Thinking Process",
+    "skill_category": "Domain",
+    "skill_description": "Applying the five-stage design thinking process—empathise, define, ideate, prototype, test—to product problems.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Colour Theory and Typography",
+    "skill_category": "Domain",
+    "skill_description": "Applying colour palettes, contrast ratios, and typeface selection principles for accessible and aesthetically pleasing UI.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Responsive Design",
+    "skill_category": "Domain",
+    "skill_description": "Building web layouts that adapt fluidly to different screen sizes using fluid grids, flexible images, and media queries.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Jobs to be Done (JTBD) Framework",
+    "skill_category": "Domain",
+    "skill_description": "Understanding user motivations using the JTBD framework to prioritise features that address real needs.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "North Star Metric Framework",
+    "skill_category": "Domain",
+    "skill_description": "Identifying and aligning the entire product team around a single North Star metric that reflects core product value.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Product-Led Growth (PLG)",
+    "skill_category": "Domain",
+    "skill_description": "Building products that acquire, expand, and retain users through the product experience itself.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Customer Journey Mapping",
+    "skill_category": "Domain",
+    "skill_description": "Visualising the end-to-end customer experience across touchpoints to identify friction and opportunity.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Minimum Viable Product (MVP) Development",
+    "skill_category": "Domain",
+    "skill_description": "Defining and building the smallest product increment that delivers value and enables validated learning.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Pricing Strategy for Tech Products",
+    "skill_category": "Domain",
+    "skill_description": "Defining subscription, freemium, and usage-based pricing models for SaaS and digital products.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "DPIIT Startup India Registration",
+    "skill_category": "Domain",
+    "skill_description": "Registering startups with DPIIT under the Startup India programme for tax benefits and funding access.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "iSpirt / Open Source Software (India)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding India's software product ecosystem through iSpirt initiatives and open-source contributions.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Indian Cloud Providers (NIC, Meghraj)",
+    "skill_category": "Domain",
+    "skill_description": "Deploying government and regulated workloads on NIC Cloud (MeghRaj) India's national cloud infrastructure.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "NPCI BBPS (Bharat Bill Payment System)",
+    "skill_category": "Technical",
+    "skill_description": "Integrating Bharat Bill Payment System APIs for utility bill payment and collection in fintech applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "RuPay Integration",
+    "skill_category": "Technical",
+    "skill_description": "Integrating RuPay payment network for card payment acceptance in Indian financial applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "FASTag Integration",
+    "skill_category": "Technical",
+    "skill_description": "Integrating NPCI FASTag APIs for toll collection, vehicle tracking, and transport logistics applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Juspay Payment Orchestration",
+    "skill_category": "Technical",
+    "skill_description": "Using Juspay's payment orchestration platform for routing, retry, and checkout optimisation for Indian payments.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Indian Language Support (i18n/L10n)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing internationalisation and localisation for Indian regional languages in software applications.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Aadhaar-Based Authentication",
+    "skill_category": "Domain",
+    "skill_description": "Implementing Aadhaar OTP, biometric, and offline XML-based authentication in digital identity workflows.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Data Localisation Compliance (India)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring sensitive data categories are stored and processed within India as required by applicable regulations.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Digital Twin Technology",
+    "skill_category": "Domain",
+    "skill_description": "Creating virtual replicas of physical systems for simulation, monitoring, and optimisation.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "5G Application Development",
+    "skill_category": "Domain",
+    "skill_description": "Building applications leveraging 5G network capabilities for ultra-low latency and high-bandwidth use cases.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Quantum Computing Basics",
+    "skill_category": "Domain",
+    "skill_description": "Understanding quantum computing principles, qubits, and near-term quantum algorithms relevant to optimisation problems.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Spatial Computing and AR",
+    "skill_category": "Domain",
+    "skill_description": "Developing augmented reality experiences overlaying digital content on the physical world for industrial and consumer use.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Green IT and Sustainable Computing",
+    "skill_category": "Domain",
+    "skill_description": "Designing energy-efficient architectures and measuring carbon footprint of computing workloads.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "VS Code (Visual Studio Code)",
+    "skill_category": "Technical",
+    "skill_description": "Writing, debugging, and managing code using VS Code, the dominant IDE across frontend, backend, and data roles in India.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "IntelliJ IDEA and PyCharm (JetBrains IDEs)",
+    "skill_category": "Technical",
+    "skill_description": "Developing Java and Python applications using JetBrains IntelliJ IDEA and PyCharm IDEs with advanced refactoring and debugging.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Android Studio",
+    "skill_category": "Technical",
+    "skill_description": "Building, testing, and debugging Android applications using the official Android Studio IDE with emulator and profiler.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Xcode",
+    "skill_category": "Technical",
+    "skill_description": "Developing, testing, and deploying iOS and macOS applications using Apple's Xcode IDE.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Chrome DevTools",
+    "skill_category": "Technical",
+    "skill_description": "Debugging frontend code, inspecting network requests, profiling performance, and testing responsive layouts using Chrome DevTools.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Jupyter Notebook",
+    "skill_category": "Technical",
+    "skill_description": "Conducting interactive data analysis, visualisation, and ML experimentation using Jupyter Notebooks in Python or R.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Google Colab",
+    "skill_category": "Technical",
+    "skill_description": "Running Python data science and ML code in the cloud using Google Colab's free GPU-accelerated notebooks.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Apache Iceberg",
+    "skill_category": "Technical",
+    "skill_description": "Managing high-performance open table format for large analytic datasets with schema evolution and time travel using Apache Iceberg.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Apache Maven and Gradle (Build Tools)",
+    "skill_category": "Technical",
+    "skill_description": "Managing Java project builds, dependencies, and packaging using Apache Maven or Gradle for Spring Boot and Android projects.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "npm and yarn (Package Managers)",
+    "skill_category": "Technical",
+    "skill_description": "Managing JavaScript project dependencies, scripts, and packages using npm or yarn in Node.js and frontend projects.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Python Virtual Environments (venv and conda)",
+    "skill_category": "Technical",
+    "skill_description": "Isolating Python project dependencies using venv or conda to avoid package conflicts across data science and backend projects.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Zustand (State Management)",
+    "skill_category": "Technical",
+    "skill_description": "Managing React application state using Zustand as a lightweight alternative to Redux for simple and scalable state management.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Netlify and Vercel Deployment",
+    "skill_category": "Technical",
+    "skill_description": "Deploying frontend and full-stack web applications on Netlify and Vercel for instant CI/CD and global edge delivery.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "OpenTelemetry",
+    "skill_category": "Technical",
+    "skill_description": "Instrumenting applications for distributed tracing, metrics, and logs using the OpenTelemetry vendor-neutral observability framework.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Network Monitoring (Nagios and Zabbix)",
+    "skill_category": "Technical",
+    "skill_description": "Monitoring network infrastructure, servers, and services using Nagios or Zabbix for proactive alerting and performance tracking.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Feature Flags (LaunchDarkly and Flagsmith)",
+    "skill_category": "Domain",
+    "skill_description": "Managing feature releases using feature flag platforms like LaunchDarkly or Flagsmith for controlled rollouts and A/B testing.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Temporal (Workflow Orchestration)",
+    "skill_category": "Technical",
+    "skill_description": "Building reliable, durable workflow automations for long-running business processes using the Temporal workflow orchestration platform.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Supabase",
+    "skill_category": "Technical",
+    "skill_description": "Building backend applications using Supabase's open-source Firebase alternative with PostgreSQL, auth, and real-time subscriptions.",
+    "job_families": [
+      2
+    ]
+  },
+  {
+    "skill_name": "Regular Expressions (Regex)",
+    "skill_category": "Domain",
+    "skill_description": "Writing and applying regular expressions for pattern matching, input validation, and text parsing across languages and tools.",
+    "job_families": [
+      2
+    ]
+  }
+]

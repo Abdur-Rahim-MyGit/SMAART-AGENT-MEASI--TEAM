@@ -1,0 +1,1113 @@
+[
+  {
+    "role_name": "HR Executive",
+    "job_family": "Human Resources and People Management",
+    "domain_skills": [
+      {
+        "skill_name": "Leave Policy Administration",
+        "importance": "High"
+      },
+      {
+        "skill_name": "HR Compliance Register Maintenance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Employee Relations",
+        "importance": "High"
+      },
+      {
+        "skill_name": "HR MIS Reporting",
+        "importance": "High"
+      },
+      {
+        "skill_name": "HR Generalist Operations",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Employee Offboarding and Exit Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "HR Policy Drafting and Implementation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Employee Lifecycle Management",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Darwinbox",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Keka HR",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Leena AI (HR Helpdesk)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Confidentiality and Professional Ethics",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Interpersonal Skills",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 40,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Copilot in Word assist HR executives in drafting offer letters, appointment letters, warning letters, and policy circulars, reducing drafting time significantly. Leena AI automates routine employee helpdesk queries on leave balances, payslips, and HR policies. AI-enabled HRIS platforms like Darwinbox use automation for onboarding checklists, document collection, and workflow approvals.",
+    "human_value_tasks": "HR executives handle sensitive employee situations — grievances, disciplinary proceedings, personal hardships — requiring empathy, confidentiality, and human judgement AI cannot exercise. They build trust with employees across all levels and serve as the human face of the HR function. Interpreting ambiguous policy situations and making discretionary exceptions requires contextual judgement and accountability.",
+    "salary_range_low": 280000,
+    "salary_range_high": 650000,
+    "salary_progression": {
+      "year_0_1": "2.8-4.5 lakh",
+      "year_2_3": "5-8 lakh",
+      "year_4_5": "8-13 lakh",
+      "year_6_plus": "13-22 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Recruitment Specialist",
+    "job_family": "Human Resources and People Management",
+    "domain_skills": [
+      {
+        "skill_name": "Offer Negotiation and Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Background Verification (BGV) Process",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Candidate Sourcing and Headhunting Strategy",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Recruitment Metrics and Analytics (TTF, AQOH, CPH)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Bulk Hiring and High-Volume Recruitment Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Talent Acquisition and Recruitment",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Boolean Search (Recruitment)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Naukri Resdex (Resume Database Search)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "LinkedIn Recruiter",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Applicant Tracking System (ATS) Administration",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Naukri RMS (Recruitment Management System)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Fetcher AI (Recruiting)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "HiredScore (AI Recruiter)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Negotiation and Persuasion",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Interpersonal Skills",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Time Management and Deadline Adherence",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "Fetcher AI and HiredScore automate resume screening, candidate ranking, and passive talent shortlisting, dramatically reducing sourcing cycle time. ChatGPT generates compelling job descriptions, InMail outreach messages, and rejection communication at scale. AI tools within LinkedIn Recruiter and ATS platforms provide match scores, diversity insights, and pipeline forecasting.",
+    "human_value_tasks": "Recruitment specialists build authentic candidate relationships, represent the employer brand in every interaction, and make holistic hiring judgements that go beyond resume matching — skills AI cannot fully replicate. They assess cultural fit, motivation, and long-term potential during interviews, which requires human intuition and experience. Candidate experience, especially in competitive talent markets, depends on the warmth and responsiveness of the recruiter.",
+    "salary_range_low": 300000,
+    "salary_range_high": 750000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh",
+      "year_2_3": "6-10 lakh",
+      "year_4_5": "10-17 lakh",
+      "year_6_plus": "17-32 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Talent Acquisition Associate",
+    "job_family": "Human Resources and People Management",
+    "domain_skills": [
+      {
+        "skill_name": "Talent Acquisition and Recruitment",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Job Analysis and Job Description Writing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Boolean Search (Recruitment)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Campus Recruitment",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Employment Reference Check Process",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Candidate Sourcing and Talent Pipeline Building",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Interview Scheduling and Candidate Coordination",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Naukri Resdex (Resume Database Search)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "LinkedIn Recruiter Lite",
+        "importance": "High"
+      },
+      {
+        "skill_name": "SmartRecruiters",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Paradox AI (Olivia Chatbot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "HireVue (AI Video Interviewing)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Interpersonal Skills",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Time Management and Deadline Adherence",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "Paradox AI (Olivia) automates initial candidate engagement, interview scheduling, and FAQ responses, handling high volumes of candidate interactions without human intervention. HireVue conducts AI-scored video interviews for volume screening. ChatGPT generates job postings, outreach messages, and interview questionnaires, saving significant sourcing time.",
+    "human_value_tasks": "Talent acquisition associates build rapport with candidates, provide honest role previews, and manage expectations during the hiring process — interpersonal skills that define candidate experience. They exercise judgement in screening edge-case profiles not captured by ATS scoring rules. Coordinating complex multi-round interview panels and managing hiring manager expectations requires organisational and communication skills beyond AI capability.",
+    "salary_range_low": 280000,
+    "salary_range_high": 650000,
+    "salary_progression": {
+      "year_0_1": "2.8-4.5 lakh",
+      "year_2_3": "5-9 lakh",
+      "year_4_5": "9-15 lakh",
+      "year_6_plus": "15-28 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Training and Development Coordinator",
+    "job_family": "Human Resources and People Management",
+    "domain_skills": [
+      {
+        "skill_name": "Learning and Development (L&D)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Training Needs Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Instructional Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Learning Management System (LMS) Administration",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Blended Learning Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Train the Trainer",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Training Programme Design and Calendar Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Training Evaluation and Learning ROI Measurement",
+        "importance": "High"
+      },
+      {
+        "skill_name": "E-Learning Module Development",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Microsoft PowerPoint",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Canva",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Synthesia",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Creativity and Innovation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Interpersonal Skills",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 60,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "Synthesia creates AI-generated training videos with virtual presenters, dramatically reducing production cost for L&D content. ChatGPT generates training scripts, quiz questions, case studies, and facilitator guides in minutes. AI tools within LMS platforms personalise learning paths, recommend content based on role and performance data, and auto-generate completion certificates.",
+    "human_value_tasks": "Training coordinators design immersive, emotionally engaging learning experiences that drive behavioural change — creative programme design that AI-generated content lacks in contextual depth and Indian workplace specificity. They facilitate live workshops, manage group dynamics, and coach participants through real-time challenges requiring human facilitation skills. Building relationships with functional experts to co-create relevant training content requires trust and domain collaboration skills.",
+    "salary_range_low": 280000,
+    "salary_range_high": 700000,
+    "salary_progression": {
+      "year_0_1": "2.8-4.5 lakh",
+      "year_2_3": "5-9 lakh",
+      "year_4_5": "9-15 lakh",
+      "year_6_plus": "15-28 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Compensation and Benefits Analyst",
+    "job_family": "Human Resources and People Management",
+    "domain_skills": [
+      {
+        "skill_name": "Compensation and Benefits Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Job Evaluation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Compensation Benchmarking (Mercer, Aon, WTW)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Total Rewards Strategy",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Pay Equity Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Variable Pay and Incentive Plan Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Grade Structure and Salary Banding",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Annual Compensation Review (ACR) Process",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Korn Ferry Reward (Compensation Benchmarking Tool)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "SAP SuccessFactors",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Visier (People Analytics AI)",
+        "importance": "High"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Confidentiality and Professional Ethics",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Data-Driven Decision Making",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 50,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "Visier and Copilot in Excel automate compensation analytics — pay gap modelling, compa-ratio analysis, and salary range penetration reports that previously required hours of manual spreadsheet work. ChatGPT assists in drafting compensation philosophy documents, offer letter templates, and total rewards communication. AI tools are emerging in survey data ingestion and benchmarking position matching.",
+    "human_value_tasks": "Compensation analysts make judgement calls on job levelling, peer group selection, and pay positioning strategy that affect both individual equity and workforce retention — decisions requiring business context and fairness assessment AI cannot fully make. They advise leadership on compensation decisions for critical hires, negotiate offer packages, and manage employee escalations on pay concerns. Ensuring compliance with India's Equal Remuneration Act and emerging pay transparency requirements requires human regulatory expertise.",
+    "salary_range_low": 400000,
+    "salary_range_high": 1000000,
+    "salary_progression": {
+      "year_0_1": "4-6.5 lakh",
+      "year_2_3": "8-14 lakh",
+      "year_4_5": "14-22 lakh",
+      "year_6_plus": "22-40 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "PG,MBA"
+  },
+  {
+    "role_name": "HR Business Partner (Junior)",
+    "job_family": "Human Resources and People Management",
+    "domain_skills": [
+      {
+        "skill_name": "HR Business Partnering (HRBP)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Performance Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Talent Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Workforce Planning",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Employee Relations",
+        "importance": "High"
+      },
+      {
+        "skill_name": "HR Strategy and Planning",
+        "importance": "High"
+      },
+      {
+        "skill_name": "HRBP Consultation and Advisory Model",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Performance Improvement Plan (PIP)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "SAP SuccessFactors",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Power BI",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Visier (People Analytics AI)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Stakeholder Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Interpersonal Skills",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 45,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "Visier provides AI-powered people analytics — attrition risk prediction, engagement trend analysis, and workforce planning insights — that equip HRBPs with data-driven narratives for business conversations. ChatGPT and Copilot in Excel assist in building business case presentations, drafting policy proposals, and analysing headcount data. AI tools in SAP SuccessFactors surface performance calibration insights and succession gaps.",
+    "human_value_tasks": "HR business partners advise business leaders on sensitive people decisions — restructuring, performance management, team conflict — that require human empathy, discretion, and political awareness no AI can replicate. They build trusted advisory relationships with senior managers over time, providing sounding-board support during difficult leadership decisions. Navigating complex employee relations situations, disciplinary proceedings, and union interactions requires human judgement and accountability.",
+    "salary_range_low": 450000,
+    "salary_range_high": 1100000,
+    "salary_progression": {
+      "year_0_1": "4.5-7 lakh",
+      "year_2_3": "9-15 lakh",
+      "year_4_5": "15-24 lakh",
+      "year_6_plus": "24-45 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "PG,MBA"
+  },
+  {
+    "role_name": "Employee Engagement Executive",
+    "job_family": "Human Resources and People Management",
+    "domain_skills": [
+      {
+        "skill_name": "Recognition and Rewards Programme",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Diversity, Equity and Inclusion (DEI)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Pulse Survey Design and Sentiment Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Employee Well-being Programme Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Internal HR Communication Campaign Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Employee Engagement",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Employee Experience (EX) Design",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Darwinbox",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Power BI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Canva",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Visier (People Analytics AI)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Empathy and Client Sensitivity",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Creativity and Innovation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Interpersonal Skills",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 50,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "Visier and ChatGPT help engagement executives analyse survey data, identify flight-risk cohorts, and generate data-driven intervention recommendations. ChatGPT assists in creating internal communication content, recognition award citations, and engagement event materials at scale. AI-powered sentiment analysis tools process open-ended survey responses to surface key themes rapidly.",
+    "human_value_tasks": "Employee engagement executives design culture moments, recognition experiences, and community events that make employees feel genuinely valued — human creativity and emotional intelligence AI cannot replace. They listen deeply to employee concerns through informal conversations, focus groups, and exit interviews, uncovering insights that surveys alone cannot capture. Building an inclusive culture requires sustained human presence, relationship-building, and leadership by example.",
+    "salary_range_low": 300000,
+    "salary_range_high": 750000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh",
+      "year_2_3": "6-10 lakh",
+      "year_4_5": "10-17 lakh",
+      "year_6_plus": "17-30 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Payroll Executive (Indian labour laws)",
+    "job_family": "Human Resources and People Management",
+    "domain_skills": [
+      {
+        "skill_name": "ESIC Compliance (ESI)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Gratuity and Statutory Payroll Deductions",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Full and Final Settlement Processing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Payroll Variance and Exception Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Payroll Processing (India)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Payroll Compliance (India)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "GreytHR",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Springboard (Payroll Software India)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Keka HR",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ClearTax Payroll",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Leena AI (HR Helpdesk)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Confidentiality and Professional Ethics",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Time Management and Deadline Adherence",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 45,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "Copilot in Excel automates payroll reconciliation, variance analysis, and exception reporting that previously required significant manual checking. Leena AI handles employee payslip queries, leave balance questions, and reimbursement status enquiries automatically. Modern payroll software like GreytHR and Keka increasingly use rule-based automation for CTC calculations, tax projections, and statutory payment scheduling.",
+    "human_value_tasks": "Payroll executives handle employee escalations on salary disputes, tax deductions, and statutory computation queries that require personalised explanation and sensitivity. They make compliance judgements in ambiguous situations — such as tax treatment of new allowances under the Labour Codes — that require regulatory expertise and professional accountability. Managing payroll audits and responding to EPFO/ESIC inspections requires human expertise and documentation skills.",
+    "salary_range_low": 280000,
+    "salary_range_high": 650000,
+    "salary_progression": {
+      "year_0_1": "2.8-4.5 lakh",
+      "year_2_3": "5-8 lakh",
+      "year_4_5": "8-13 lakh",
+      "year_6_plus": "13-22 lakh"
+    },
+    "english_requirement": "Functional",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Compliance Executive (HR)",
+    "job_family": "Human Resources and People Management",
+    "domain_skills": [
+      {
+        "skill_name": "Statutory Compliance Calendar Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "POSH Act Compliance (Prevention of Sexual Harassment)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Minimum Wages Act Compliance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Contract Labour (Regulation and Abolition) Act",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Industrial Disputes Act 1947",
+        "importance": "High"
+      },
+      {
+        "skill_name": "New Labour Codes Compliance (4 Labour Codes)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Labour Law Compliance Audit and Inspection Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Factories Act and Workplace Compliance Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Standing Orders (Certified)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "GreytHR",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Confidentiality and Professional Ethics",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 40,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Copilot in Word accelerate drafting of compliance notices, statutory registers, POSH committee reports, and compliance policy updates. Perplexity AI assists in tracking recent labour law amendments, gazette notifications, and state-level minimum wage revisions. Compliance automation tools integrated with HRMS flag upcoming statutory due dates and filing deadlines.",
+    "human_value_tasks": "HR compliance executives represent the company before labour authorities, inspectors, and quasi-judicial bodies — professional accountability requiring legal knowledge and communication skills AI cannot provide. They advise management on sensitive compliance matters — retrenchment procedures, standing orders violations, POSH investigations — requiring discretion and legal judgment. Maintaining relationships with labour department officers and staying current with state-level amendments requires ongoing human engagement.",
+    "salary_range_low": 300000,
+    "salary_range_high": 750000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh",
+      "year_2_3": "5.5-9 lakh",
+      "year_4_5": "9-15 lakh",
+      "year_6_plus": "15-28 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Organisation Development Associate",
+    "job_family": "Human Resources and People Management",
+    "domain_skills": [
+      {
+        "skill_name": "Leadership Development Programmes",
+        "importance": "High"
+      },
+      {
+        "skill_name": "OKR Framework Implementation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Organisation Development Diagnostics and Culture Assessment",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Nine-Box Grid Talent Review Facilitation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Culture Transformation Programme Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Organisational Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Change Management",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Microsoft PowerPoint",
+        "importance": "High"
+      },
+      {
+        "skill_name": "SAP SuccessFactors",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Darwinbox Analytics",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Miro",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Visier (People Analytics AI)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Stakeholder Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Interpersonal Skills",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 45,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "Visier surfaces people data insights — performance distribution, flight-risk patterns, skill gap maps — that inform OD diagnostics and succession planning decisions. ChatGPT and Copilot in Word accelerate creation of OD frameworks, competency dictionaries, and leadership programme materials. AI tools in SAP SuccessFactors facilitate talent review calibration and succession data management.",
+    "human_value_tasks": "OD associates design organisation-wide culture and behavioural change initiatives that require deep human facilitation, executive sponsorship alignment, and sustained interpersonal engagement over months. They conduct diagnostic interviews and focus groups to surface hidden org health issues that data alone cannot reveal. Facilitating senior leadership workshops, talent reviews, and succession discussions requires facilitation credibility and political sensitivity beyond AI capability.",
+    "salary_range_low": 400000,
+    "salary_range_high": 1000000,
+    "salary_progression": {
+      "year_0_1": "4-6.5 lakh",
+      "year_2_3": "8-14 lakh",
+      "year_4_5": "14-22 lakh",
+      "year_6_plus": "22-40 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "PG,MBA"
+  },
+  {
+    "role_name": "HRIS Analyst",
+    "job_family": "Human Resources and People Management",
+    "domain_skills": [
+      {
+        "skill_name": "Attrition Modelling",
+        "importance": "High"
+      },
+      {
+        "skill_name": "HR Process Automation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "HRIS Configuration and System Administration",
+        "importance": "High"
+      },
+      {
+        "skill_name": "HR Dashboard and Scorecard Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Workforce Analytics and Predictive HR Modelling",
+        "importance": "High"
+      },
+      {
+        "skill_name": "People Analytics",
+        "importance": "High"
+      },
+      {
+        "skill_name": "HR Analytics",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Darwinbox Analytics",
+        "importance": "High"
+      },
+      {
+        "skill_name": "SAP SuccessFactors",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Power BI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "SQL",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Visier (People Analytics AI)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Power BI Copilot",
+        "importance": "High"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Data-Driven Decision Making",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 60,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "Visier provides AI-driven people analytics — attrition prediction, performance pattern analysis, and workforce planning scenarios — directly in the analyst's workflow. Power BI Copilot and Copilot in Excel generate HR dashboards, executive summaries, and variance commentary from structured HR data. AI tools within SAP SuccessFactors and Darwinbox surface intelligent insights on talent risk, engagement trends, and diversity metrics.",
+    "human_value_tasks": "HRIS analysts translate complex people data into strategic narratives that business leaders can act on — a synthesis of technical, business, and HR domain knowledge that AI alone cannot perform. They ensure data governance, privacy compliance under DPDPA, and data quality across HR systems, requiring professional accountability for sensitive employee information. HRIS implementation projects require stakeholder facilitation, change management, and cross-functional coordination beyond technical data work.",
+    "salary_range_low": 400000,
+    "salary_range_high": 1000000,
+    "salary_progression": {
+      "year_0_1": "4-7 lakh",
+      "year_2_3": "8-15 lakh",
+      "year_4_5": "15-24 lakh",
+      "year_6_plus": "24-45 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "PG,MBA"
+  }
+]

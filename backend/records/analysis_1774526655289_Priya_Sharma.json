@@ -1,0 +1,332 @@
+{
+  "timestamp": "2026-03-26T12:04:15.289Z",
+  "status": "completed",
+  "input_user_data": {
+    "personalDetails": {
+      "name": "Priya Sharma",
+      "email": "priya@example.com"
+    },
+    "education": {
+      "degreeGroup": "MCA",
+      "specialisation": "Computer Science"
+    },
+    "skills": [
+      "python",
+      "aws",
+      "docker",
+      "sql",
+      "react"
+    ],
+    "preferences": {
+      "primary": {
+        "role": "Cloud Engineer"
+      },
+      "secondary": {
+        "role": "Data Analyst"
+      },
+      "tertiary": {
+        "role": "Frontend Developer"
+      }
+    }
+  },
+  "output_generated_report": {
+    "status": "success_ml_assisted",
+    "generated_at": "2026-03-26T12:04:15.442Z",
+    "preVerified": {
+      "dataFilesReady": true,
+      "primaryZone": {
+        "employer_zone": "Red",
+        "skill_coverage_pct": 17
+      },
+      "secondaryZone": {
+        "employer_zone": "Red"
+      },
+      "tertiaryZone": {
+        "employer_zone": "Red"
+      },
+      "primaryMarket": {
+        "demand_level": "High",
+        "salary_min_lpa": 6,
+        "salary_max_lpa": 18,
+        "ai_automation_risk": "Medium",
+        "emerging_roles": [
+          "Cloud Architect",
+          "DevOps Engineer",
+          "AIOps Specialist"
+        ]
+      },
+      "primarySkillGap": {
+        "missing": [
+          "Infrastructure as Code (Terraform / Ansible)",
+          "Containers and Kubernetes",
+          "CI/CD Pipelines",
+          "Monitoring (Prometheus, Grafana)",
+          "Platform Engineering (Backstage — free open-source)"
+        ],
+        "matched": [
+          "AWS / Azure / GCP Core Services"
+        ],
+        "coveragePct": 17,
+        "dataReady": true,
+        "source": "local"
+      }
+    },
+    "primary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 8%. You have 1 matching skills.",
+      "tab1": {
+        "role_name": "Cloud Engineer",
+        "role_description": "Responsible for core operations within the Cloud Engineer domain.",
+        "typical_employers_india": "MNCs, Startups, IT Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "High Growth",
+        "salary_range": "3-8 LPA",
+        "ai_impact": "AI systems are augmenting Cloud Engineer roles significantly.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Cloud Engineer",
+            "description": "Uses AI tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "Terraform (free open-source)",
+            "category": "AI-Powered",
+            "usage": "Infrastructure as Code provisioning",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Docker (free for personal/educational use)",
+            "category": "AI-Powered",
+            "usage": "Container image building and management",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Pulumi (free open-source IaC)",
+            "category": "AI-Powered",
+            "usage": "Cloud infrastructure-as-code with general-purpose languages",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "40%",
+          "level": "Moderate",
+          "tasks_assisted": "Repetitive drafting/coding",
+          "human_value": "Strategy & Review"
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Communication",
+          "Problem Solving"
+        ]
+      },
+      "tab5": {
+        "future_scope": "Cloud Engineer is evolving rapidly with AI integration.",
+        "target_audience": "Enterprise and Tech-forward companies.",
+        "growth_trajectory": "Expected to branch into more specialized architectural roles."
+      }
+    },
+    "secondary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 13%. You have 2 matching skills.",
+      "tab1": {
+        "role_name": "Data Analyst",
+        "role_description": "Responsible for core operations within the Data Analyst domain.",
+        "typical_employers_india": "MNCs, Startups, IT Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "High Growth",
+        "salary_range": "3-8 LPA",
+        "ai_impact": "AI systems are augmenting Data Analyst roles significantly.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Data Analyst",
+            "description": "Uses AI tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "Power BI Desktop (free download)",
+            "category": "AI-Powered",
+            "usage": "BI dashboards and self-service reporting",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Tableau Public (free)",
+            "category": "AI-Powered",
+            "usage": "Data visualization and storytelling",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Google Colab (free)",
+            "category": "AI-Powered",
+            "usage": "Python-based data analysis notebooks",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Microsoft Copilot in Excel / Power BI (free in M365 Education)",
+            "category": "AI-Powered",
+            "usage": "AI-assisted analysis and natural language queries",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "40%",
+          "level": "Moderate",
+          "tasks_assisted": "Repetitive drafting/coding",
+          "human_value": "Strategy & Review"
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Communication",
+          "Problem Solving"
+        ]
+      },
+      "tab5": {
+        "future_scope": "Data Analyst is evolving rapidly with AI integration.",
+        "target_audience": "Enterprise and Tech-forward companies.",
+        "growth_trajectory": "Expected to branch into more specialized architectural roles."
+      }
+    },
+    "tertiary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 0%. You have 0 matching skills.",
+      "tab1": {
+        "role_name": "Frontend Developer",
+        "role_description": "Responsible for core operations within the Frontend Developer domain.",
+        "typical_employers_india": "MNCs, Startups, IT Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "High Growth",
+        "salary_range": "3-8 LPA",
+        "ai_impact": "AI systems are augmenting Frontend Developer roles significantly.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Frontend Developer",
+            "description": "Uses AI tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [
+          {
+            "skill": "Domain Knowledge",
+            "priority": "High",
+            "description": "Essential core skill."
+          }
+        ],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "ChatGPT",
+            "category": "AI-Powered",
+            "usage": "General Assistance",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "40%",
+          "level": "Moderate",
+          "tasks_assisted": "Repetitive drafting/coding",
+          "human_value": "Strategy & Review"
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Communication",
+          "Problem Solving"
+        ]
+      },
+      "tab5": {
+        "future_scope": "Frontend Developer is evolving rapidly with AI integration.",
+        "target_audience": "Enterprise and Tech-forward companies.",
+        "growth_trajectory": "Expected to branch into more specialized architectural roles."
+      }
+    },
+    "ml_success_probability": 0.38,
+    "ml_semantic_skills": [
+      "Python",
+      "React",
+      "AWS",
+      "SQL"
+    ],
+    "combined_tab4": {
+      "combined_pathway_summary": "Your immediate focus must be learning the missing fundamentals for Cloud Engineer. Role success probability: 38%",
+      "skill_gap": {
+        "current_skills": [
+          "python",
+          "aws",
+          "docker",
+          "sql",
+          "react"
+        ],
+        "missing_skills": [
+          "Infrastructure as Code (Terraform / Ansible)",
+          "Containers and Kubernetes",
+          "CI/CD Pipelines",
+          "Monitoring (Prometheus, Grafana)",
+          "Platform Engineering (Backstage — free open-source)"
+        ]
+      },
+      "learning_roadmap": [
+        {
+          "step": "Step 1 - Foundation Skills",
+          "description": "Master prerequisites and theoretical fundamentals."
+        },
+        {
+          "step": "Step 2 - Core Technical Skills",
+          "description": "Learn Infrastructure as Code (Terraform / Ansible)."
+        },
+        {
+          "step": "Step 3 - Advanced Applications",
+          "description": "Apply skills in complex scenarios."
+        },
+        {
+          "step": "Step 4 - Projects & Portfolio",
+          "description": "Deploy market-ready portfolios demonstrating these skills."
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Certified Cloud Engineer Professional",
+          "issuer": "Industry Standard Provider",
+          "difficulty": "Intermediate",
+          "duration": "3 months"
+        }
+      ],
+      "free_courses": [
+        {
+          "course_name": "Cloud Engineer Crash Course",
+          "platform": "YouTube / Coursera",
+          "link_status": "Free"
+        }
+      ],
+      "projects": [
+        {
+          "project_name": "Cloud Engineer Capstone",
+          "description": "A complete end-to-end implementation.",
+          "skills_demonstrated": "Infrastructure as Code (Terraform / Ansible), Containers and Kubernetes, CI/CD Pipelines"
+        }
+      ]
+    }
+  },
+  "profile_hash": "5c43b568cb3edeec23e70e50c131005a001cbd4745fd3c1141a47d37a77d5055",
+  "created_at": "2026-03-26T12:04:15.882Z"
+}

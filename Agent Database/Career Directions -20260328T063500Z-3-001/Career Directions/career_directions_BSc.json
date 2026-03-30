@@ -1,0 +1,1168 @@
+{
+  "B.Sc Maths": {
+    "degree": "B.Sc Maths",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Data Analytics & Business Intelligence",
+        "direction_description": "Applying mathematical and statistical skills to analyse data and support business decisions.",
+        "direction_type": "Primary",
+        "roles": [
+          "Data Analyst",
+          "Business Analyst",
+          "Data Scientist (Junior)",
+          "Strategy Analyst",
+          "Market Research Analyst"
+        ],
+        "why_primary": "Strong mathematical foundations in calculus, linear algebra, and statistics from B.Sc Maths directly prepare graduates for data and analytics roles, which are among the most common placements."
+      },
+      {
+        "direction_name": "Finance & Banking",
+        "direction_description": "Applying quantitative skills in financial analysis, banking, and investment roles.",
+        "direction_type": "Primary",
+        "roles": [
+          "Financial Analyst",
+          "Credit Analyst",
+          "Risk Analyst",
+          "Budget Analyst",
+          "Banking Officer (PO)"
+        ],
+        "why_primary": "Quantitative reasoning and analytical rigour from B.Sc Maths are highly valued by BFSI employers, particularly for analytical and risk roles."
+      },
+      {
+        "direction_name": "Education & Academic Research",
+        "direction_description": "Teaching mathematics in schools and colleges or pursuing mathematical research.",
+        "direction_type": "Primary",
+        "roles": [
+          "Teacher (School)",
+          "Lecturer (College Junior)",
+          "Research Associate",
+          "Curriculum Developer",
+          "Academic Coordinator"
+        ],
+        "why_primary": "Mathematics teaching is one of the most in-demand subjects across India's schools and coaching sector; B.Sc Maths is the core qualification for these roles."
+      },
+      {
+        "direction_name": "Software & Tech Roles",
+        "direction_description": "Transitioning into software development and tech roles leveraging strong logical and computational thinking.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Software Developer",
+          "Data Engineer",
+          "QA Engineer",
+          "Automation Test Engineer",
+          "ML Engineer (Junior)"
+        ],
+        "additional_skills_needed": "Python or Java programming, DSA fundamentals, SQL, Git, problem-solving platforms (LeetCode/HackerRank)",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Operations Research & Consulting",
+        "direction_description": "Applying optimisation and modelling skills to solve complex business and logistics problems.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Operations Executive",
+          "Process Improvement Analyst",
+          "Management Consultant (Junior)",
+          "Supply Chain Executive"
+        ],
+        "additional_skills_needed": "Linear programming, simulation tools, Excel Solver, Python for optimisation, management consulting frameworks",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Actuarial Science & Insurance",
+        "direction_description": "Using advanced mathematical and statistical models to assess risk in insurance and finance.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Actuarial Analyst",
+          "Risk Analyst",
+          "Insurance Underwriter",
+          "Financial Analyst"
+        ],
+        "additional_skills_needed": "IAI actuarial exam series (CT1–CT8), probability and stochastic modelling, Excel and R for actuarial work, life and general insurance concepts",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Actuarial science is one of the most natural pivots for B.Sc Maths graduates but is exam-intensive; passing even 3-4 IAI papers takes 12-24 months of focused preparation."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a math tutoring platform, edtech venture, data analytics consultancy, or fintech startup.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Data Analyst",
+          "Teacher (School)",
+          "Research Associate"
+        ],
+        "additional_skills_needed": "Business model design, edtech platform setup, digital marketing basics, GST and company registration, client acquisition",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Math-based entrepreneurship in tutoring and analytics consulting is highly accessible; building a student base or client portfolio while employed is the most practical starting point."
+      }
+    ]
+  },
+  "B.Sc Statistics": {
+    "degree": "B.Sc Statistics",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Data Analytics & Research",
+        "direction_description": "Analysing structured datasets and generating insights for business, research, and policy decisions.",
+        "direction_type": "Primary",
+        "roles": [
+          "Data Analyst",
+          "Market Research Analyst",
+          "Research Associate",
+          "Business Analyst",
+          "Data Scientist (Junior)"
+        ],
+        "why_primary": "Statistical inference, probability, and data analysis are the core of B.Sc Statistics, making data and research analyst roles the most direct career entry points."
+      },
+      {
+        "direction_name": "Finance, Risk & Insurance",
+        "direction_description": "Applying statistical modelling to financial risk, insurance underwriting, and quantitative finance.",
+        "direction_type": "Primary",
+        "roles": [
+          "Risk Analyst",
+          "Actuarial Analyst",
+          "Insurance Underwriter",
+          "Financial Analyst",
+          "Credit Analyst"
+        ],
+        "why_primary": "Probability, stochastic processes, and regression analysis from B.Sc Statistics are directly valued in risk, actuarial, and financial modelling roles."
+      },
+      {
+        "direction_name": "Education & Academic Research",
+        "direction_description": "Teaching statistics in educational institutions or conducting quantitative research.",
+        "direction_type": "Primary",
+        "roles": [
+          "Teacher (School)",
+          "Lecturer (College Junior)",
+          "Research Associate",
+          "Curriculum Developer",
+          "Academic Coordinator"
+        ],
+        "why_primary": "Statistics is a high-demand teaching subject across schools, colleges, and coaching institutions; B.Sc Statistics is among the strongest qualifications for these roles."
+      },
+      {
+        "direction_name": "Healthcare & Clinical Research Analytics",
+        "direction_description": "Supporting biostatistical analysis in clinical trials, public health, and pharmaceutical research.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Clinical Research Associate",
+          "Public Health Analyst",
+          "Healthcare Quality Analyst",
+          "Research Associate"
+        ],
+        "additional_skills_needed": "Biostatistics, SPSS/SAS/R for clinical data, ICH guidelines basics, clinical trial design, CDSCO regulatory awareness",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Machine Learning & AI",
+        "direction_description": "Applying statistical learning theory to build and evaluate machine learning models.",
+        "direction_type": "Secondary",
+        "roles": [
+          "ML Engineer (Junior)",
+          "Data Scientist (Junior)",
+          "Data Engineer",
+          "Automation Test Engineer"
+        ],
+        "additional_skills_needed": "Python, scikit-learn, TensorFlow basics, feature engineering, SQL, model evaluation and deployment",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Government Statistical Services",
+        "direction_description": "Working in national and state statistical agencies for data collection, census, and economic surveys.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Research Associate",
+          "Data Analyst",
+          "Operations Executive",
+          "Programme Coordinator"
+        ],
+        "additional_skills_needed": "ISS (Indian Statistical Service) exam preparation, official statistics frameworks, MOSPI/NSSO survey methodology, econometrics",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Government statistical services require clearing the ISS exam which is highly competitive; B.Sc Statistics is the required qualification but dedicated preparation of 12-18 months is typically needed."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a data analytics firm, market research agency, or statistics tutoring and training platform.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Data Analyst",
+          "Market Research Analyst",
+          "Research Associate"
+        ],
+        "additional_skills_needed": "Client acquisition, project scoping and pricing, analytics tools (Tableau, Power BI), business registration, proposal writing",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Analytics consulting entrepreneurship is accessible for statistics graduates with domain expertise; building a portfolio of freelance projects before scaling into a formal firm is the most practical path."
+      }
+    ]
+  },
+  "B.Sc Physics": {
+    "degree": "B.Sc Physics",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Education & Academic Research",
+        "direction_description": "Teaching physics in schools and colleges or pursuing research in academic and scientific institutions.",
+        "direction_type": "Primary",
+        "roles": [
+          "Teacher (School)",
+          "Lecturer (College Junior)",
+          "Research Associate",
+          "Curriculum Developer",
+          "Academic Coordinator"
+        ],
+        "why_primary": "Physics teaching is consistently in high demand across India's schools and coaching sector; B.Sc Physics is the direct qualification for school and junior college teaching roles."
+      },
+      {
+        "direction_name": "Electronics & Instrumentation",
+        "direction_description": "Working in electronics design, instrumentation, and embedded systems for industry.",
+        "direction_type": "Primary",
+        "roles": [
+          "Electronics Engineer",
+          "Instrumentation Engineer",
+          "Embedded Systems Engineer",
+          "IoT Developer",
+          "IT Support Engineer"
+        ],
+        "why_primary": "Electronics, optics, and electromagnetism from B.Sc Physics provide strong grounding for electronics and instrumentation industry roles."
+      },
+      {
+        "direction_name": "Data Analytics & Computing",
+        "direction_description": "Applying strong analytical and computational skills to data and software roles.",
+        "direction_type": "Primary",
+        "roles": [
+          "Data Analyst",
+          "Software Developer",
+          "QA Engineer",
+          "Data Scientist (Junior)",
+          "Business Analyst"
+        ],
+        "why_primary": "Physics graduates are known for strong problem-solving and computational thinking, making them competitive candidates for data and software roles in India's IT sector."
+      },
+      {
+        "direction_name": "Defence, Space & Scientific R&D",
+        "direction_description": "Contributing to research and development at ISRO, DRDO, BARC, and scientific institutions.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Research Associate",
+          "Instrumentation Engineer",
+          "Electronics Engineer",
+          "Project Engineer"
+        ],
+        "additional_skills_needed": "GATE Physics preparation, nuclear and space physics concepts, BARC OCES exam, scientific computing (Python/MATLAB), defence sector PSU recruitment",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Renewable Energy & Engineering",
+        "direction_description": "Working in solar, photonics, and energy technology sectors leveraging physics fundamentals.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Power Systems Engineer",
+          "Environmental Engineer",
+          "Sustainability Analyst",
+          "Project Engineer"
+        ],
+        "additional_skills_needed": "Solar PV technology, energy audit tools, semiconductor physics applications, MNRE policy basics, simulation software",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Medical Physics & Radiology Technology",
+        "direction_description": "Applying physics principles to medical imaging, radiation therapy, and diagnostic technology.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Radiology Technician",
+          "Biomedical Engineer",
+          "Lab Technician",
+          "Research Associate"
+        ],
+        "additional_skills_needed": "Medical physics certification, radiation safety regulations (AERB), imaging technology basics, M.Sc Medical Physics or PG Diploma",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Medical physics roles in India require postgraduate specialisation; a B.Sc Physics is the required foundation but clinical roles demand additional certification and supervised training."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a physics coaching institute, scientific instruments trading firm, or edtech platform.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Teacher (School)",
+          "Research Associate",
+          "Electronics Engineer"
+        ],
+        "additional_skills_needed": "Coaching centre management, digital teaching tools, student acquisition, GST registration, edtech platform setup",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Physics coaching entrepreneurship is highly viable given strong JEE/NEET demand; building a reputation as a teacher before going independent dramatically improves success rates."
+      }
+    ]
+  },
+  "B.Sc Chemistry": {
+    "degree": "B.Sc Chemistry",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Pharmaceutical & Chemical Industry",
+        "direction_description": "Working in pharma manufacturing, quality control, and chemical production roles.",
+        "direction_type": "Primary",
+        "roles": [
+          "Lab Technician",
+          "Quality Engineer",
+          "Chemical Process Engineer",
+          "Drug Safety Associate",
+          "Pharmacovigilance Associate"
+        ],
+        "why_primary": "Organic chemistry, analytical techniques, and lab skills from B.Sc Chemistry are directly applicable to pharma and chemical industry QC and production roles."
+      },
+      {
+        "direction_name": "Research & Regulatory Affairs",
+        "direction_description": "Supporting laboratory research and regulatory compliance in pharma and chemical companies.",
+        "direction_type": "Primary",
+        "roles": [
+          "Research Associate",
+          "Regulatory Affairs Executive",
+          "Clinical Research Associate",
+          "Medical Writer",
+          "Healthcare Quality Analyst"
+        ],
+        "why_primary": "Research methodology and documentation skills from B.Sc Chemistry prepare graduates for CRO, pharma, and regulatory affairs entry roles."
+      },
+      {
+        "direction_name": "Education & Academic Research",
+        "direction_description": "Teaching chemistry in schools and colleges or contributing to scientific research.",
+        "direction_type": "Primary",
+        "roles": [
+          "Teacher (School)",
+          "Lecturer (College Junior)",
+          "Research Associate",
+          "Curriculum Developer",
+          "Academic Coordinator"
+        ],
+        "why_primary": "Chemistry teaching is consistently in demand across schools and coaching institutes; B.Sc Chemistry is a direct qualification for these roles."
+      },
+      {
+        "direction_name": "Food, Agriculture & Environmental Testing",
+        "direction_description": "Testing food quality, agricultural inputs, and environmental samples in laboratories.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Food Quality Analyst",
+          "Environmental Impact Assessor",
+          "Lab Technician",
+          "Agricultural Officer"
+        ],
+        "additional_skills_needed": "FSSAI regulations, environmental testing standards, NABL lab protocols, ISO 17025, field sampling methods",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Sales & Technical Marketing",
+        "direction_description": "Selling specialty chemicals, lab instruments, or pharmaceutical products to institutional clients.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Pharma Sales Executive (MR)",
+          "Sales Executive (B2B)",
+          "Business Development Executive",
+          "Market Research Analyst"
+        ],
+        "additional_skills_needed": "Sales fundamentals, product knowledge for target industry, CRM tools, pharma/chemical sector regulatory basics",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Forensic Science & Crime Investigation",
+        "direction_description": "Applying chemical analysis skills in forensic laboratories and investigative science.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Lab Technician",
+          "Research Associate",
+          "Forensic Accountant",
+          "Compliance Officer"
+        ],
+        "additional_skills_needed": "Forensic chemistry techniques, CFSL/state forensic lab recruitment processes, M.Sc Forensic Science, chain of custody documentation, toxicology basics",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Forensic science roles in India are primarily through government labs (CFSL, state FSLs) and typically require postgraduate qualification; B.Sc Chemistry is a strong foundation but further study is needed."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a diagnostic lab, chemical trading firm, chemistry coaching centre, or specialty chemical manufacturing unit.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Lab Technician",
+          "Teacher (School)",
+          "Food Quality Analyst"
+        ],
+        "additional_skills_needed": "Lab setup regulations (NABL), PCB/CPCB clearances for manufacturing, MSME registration, supplier networks, student acquisition for coaching",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Diagnostic labs and chemical trading are viable entrepreneurship paths; lab franchise models (SRL, Thyrocare) offer a more accessible entry than greenfield lab setup for fresh graduates."
+      }
+    ]
+  },
+  "B.Sc Biology": {
+    "degree": "B.Sc Biology",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Healthcare & Clinical Support",
+        "direction_description": "Working in clinical support, laboratory, and healthcare operations roles.",
+        "direction_type": "Primary",
+        "roles": [
+          "Lab Technician",
+          "Medical Lab Technologist",
+          "Hospital Administrator",
+          "Healthcare Quality Analyst",
+          "Public Health Analyst"
+        ],
+        "why_primary": "Human biology, anatomy, and laboratory techniques from B.Sc Biology directly prepare graduates for healthcare support and clinical laboratory roles."
+      },
+      {
+        "direction_name": "Education & Research",
+        "direction_description": "Teaching biology in schools and colleges or contributing to life science research.",
+        "direction_type": "Primary",
+        "roles": [
+          "Teacher (School)",
+          "Lecturer (College Junior)",
+          "Research Associate",
+          "Curriculum Developer",
+          "Academic Coordinator"
+        ],
+        "why_primary": "Biology is a core subject across India's school system and one of the most in-demand teaching specialisations, particularly for NEET coaching."
+      },
+      {
+        "direction_name": "Pharmaceutical & Regulatory",
+        "direction_description": "Supporting drug research, pharmacovigilance, and regulatory functions in pharma and CRO companies.",
+        "direction_type": "Primary",
+        "roles": [
+          "Clinical Research Associate",
+          "Pharmacovigilance Associate",
+          "Drug Safety Associate",
+          "Regulatory Affairs Executive",
+          "Medical Writer"
+        ],
+        "why_primary": "Life science fundamentals and research methodology from B.Sc Biology are directly applicable to CRO, pharma research, and regulatory affairs entry roles."
+      },
+      {
+        "direction_name": "Agri-biology & Food Science",
+        "direction_description": "Applying biological knowledge to agriculture, food quality, and environmental sectors.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Agricultural Officer",
+          "Food Quality Analyst",
+          "Environmental Impact Assessor",
+          "Nutritionist/Dietician"
+        ],
+        "additional_skills_needed": "FSSAI standards, agricultural extension knowledge, food microbiology, environmental biology, ICAR entrance for higher study",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Sales & Technical Marketing in Life Sciences",
+        "direction_description": "Selling pharmaceutical, diagnostic, or medical device products to hospitals and clinics.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Pharma Sales Executive (MR)",
+          "Sales Executive (B2B)",
+          "Business Development Executive",
+          "Market Research Analyst"
+        ],
+        "additional_skills_needed": "Pharma sales fundamentals, product knowledge, CRM tools, territory management, MCI pharma marketing guidelines",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Bioinformatics & Computational Biology",
+        "direction_description": "Using computational tools to analyse biological sequences, genomics, and drug targets.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Research Associate",
+          "Data Analyst",
+          "ML Engineer (Junior)",
+          "Data Scientist (Junior)"
+        ],
+        "additional_skills_needed": "Python/R for bioinformatics, Biopython, NCBI databases, sequence alignment tools, NGS analysis, M.Sc Bioinformatics",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Bioinformatics requires significant computational upskilling beyond the standard B.Sc Biology curriculum; a postgraduate degree or intensive certification programme is strongly recommended to compete in this domain."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a diagnostic collection centre, biology coaching institute, or health and wellness venture.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Lab Technician",
+          "Teacher (School)",
+          "Nutritionist/Dietician"
+        ],
+        "additional_skills_needed": "Diagnostic centre licensing, NABL/NABH basics, coaching centre management, health and wellness business setup, digital marketing",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Diagnostic collection centre franchising (Thyrocare, Dr Lal PathLabs) is the most accessible biology entrepreneurship path; independent lab setup requires higher capital and regulatory compliance."
+      }
+    ]
+  },
+  "B.Sc Biotechnology": {
+    "degree": "B.Sc Biotechnology",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Clinical Research & Pharmacovigilance",
+        "direction_description": "Supporting drug development, clinical trials, and drug safety in pharma and CRO companies.",
+        "direction_type": "Primary",
+        "roles": [
+          "Clinical Research Associate",
+          "Pharmacovigilance Associate",
+          "Drug Safety Associate",
+          "Medical Writer",
+          "Regulatory Affairs Executive"
+        ],
+        "why_primary": "Biomedical sciences, cell biology, and research methodology from B.Sc Biotechnology directly align with CRO and pharma research entry roles — among the most common first placements."
+      },
+      {
+        "direction_name": "Laboratory & Quality Science",
+        "direction_description": "Conducting laboratory analysis and ensuring quality standards in biotech, pharma, and diagnostic labs.",
+        "direction_type": "Primary",
+        "roles": [
+          "Lab Technician",
+          "Medical Lab Technologist",
+          "Healthcare Quality Analyst",
+          "Research Associate",
+          "Quality Engineer"
+        ],
+        "why_primary": "Hands-on lab training in molecular biology, microbiology, and analytical techniques prepares B.Sc Biotechnology graduates for quality and laboratory roles."
+      },
+      {
+        "direction_name": "Agri-Biotech & Food Science",
+        "direction_description": "Applying biotechnology to crop improvement, food technology, and agricultural product development.",
+        "direction_type": "Primary",
+        "roles": [
+          "Food Quality Analyst",
+          "Agricultural Officer",
+          "Organic Farming Consultant",
+          "Research Associate",
+          "Dairy Technologist"
+        ],
+        "why_primary": "Plant biotechnology, microbiology, and food science modules in B.Sc Biotechnology are directly applicable to agri-biotech and food industry roles."
+      },
+      {
+        "direction_name": "Healthcare Sales & Marketing",
+        "direction_description": "Selling biotech, pharma, or diagnostic products to hospitals and research institutions.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Pharma Sales Executive (MR)",
+          "Sales Executive (B2B)",
+          "Business Development Executive",
+          "Market Research Analyst"
+        ],
+        "additional_skills_needed": "Pharma sales fundamentals, CRM tools, product knowledge, territory management, MCI marketing guidelines",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Bioinformatics & Data Science",
+        "direction_description": "Using computational tools to analyse genomic and biological data for drug discovery and research.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Data Analyst",
+          "Research Associate",
+          "ML Engineer (Junior)",
+          "Data Scientist (Junior)"
+        ],
+        "additional_skills_needed": "Python/R, Biopython, genomics databases, NGS data analysis, machine learning basics, M.Sc Bioinformatics preferred",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Regulatory Affairs & IP Management",
+        "direction_description": "Managing regulatory submissions and intellectual property for biotech and pharma innovations.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Regulatory Affairs Executive",
+          "Compliance Officer",
+          "IP Associate",
+          "Legal Researcher"
+        ],
+        "additional_skills_needed": "CDSCO regulatory pathways, patent filing basics, IP law fundamentals, regulatory writing, M.Sc Regulatory Affairs or PG Diploma in IP",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Regulatory affairs and IP roles in biotech are growing rapidly but require formal training beyond the UG degree; a regulatory affairs certification or PG programme significantly improves employability."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a biotech startup, diagnostic lab, contract research organisation, or agri-biotech venture.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Clinical Research Associate",
+          "Lab Technician",
+          "Research Associate"
+        ],
+        "additional_skills_needed": "BIRAC/DBT startup grant process, CDSCO lab licensing, startup registration, IP and patent basics, investor pitching for deep tech",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Biotech entrepreneurship is high-potential but technically and regulatory complex; diagnostic lab franchising or agri-biotech ventures are more accessible starting points than drug development for UG graduates."
+      }
+    ]
+  },
+  "B.Sc Microbiology": {
+    "degree": "B.Sc Microbiology",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Clinical & Diagnostic Laboratory",
+        "direction_description": "Conducting microbiological testing in clinical, diagnostic, and public health laboratories.",
+        "direction_type": "Primary",
+        "roles": [
+          "Lab Technician",
+          "Medical Lab Technologist",
+          "Healthcare Quality Analyst",
+          "Public Health Analyst",
+          "Research Associate"
+        ],
+        "why_primary": "Bacteriology, virology, and laboratory techniques are the core of B.Sc Microbiology, making clinical and diagnostic lab roles the most direct career entry point."
+      },
+      {
+        "direction_name": "Pharma & Quality Control",
+        "direction_description": "Ensuring microbiological quality and sterility standards in pharmaceutical manufacturing.",
+        "direction_type": "Primary",
+        "roles": [
+          "Quality Engineer",
+          "Lab Technician",
+          "Clinical Research Associate",
+          "Drug Safety Associate",
+          "Regulatory Affairs Executive"
+        ],
+        "why_primary": "GMP microbiology, sterility testing, and pharma quality systems are standard B.Sc Microbiology curriculum components valued by pharma manufacturers."
+      },
+      {
+        "direction_name": "Food Safety & Environmental Testing",
+        "direction_description": "Testing food, water, and environmental samples for microbial contamination and safety compliance.",
+        "direction_type": "Primary",
+        "roles": [
+          "Food Quality Analyst",
+          "Environmental Impact Assessor",
+          "Lab Technician",
+          "Agricultural Officer"
+        ],
+        "why_primary": "Food microbiology and environmental microbiology are core B.Sc Microbiology subjects directly applicable to FSSAI-regulated food safety and environmental testing labs."
+      },
+      {
+        "direction_name": "Healthcare Sales & Technical Support",
+        "direction_description": "Selling diagnostic kits, culture media, and lab consumables to hospitals and laboratories.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Pharma Sales Executive (MR)",
+          "Sales Executive (B2B)",
+          "Business Development Executive",
+          "IT Support Engineer"
+        ],
+        "additional_skills_needed": "Diagnostics and lab product knowledge, CRM tools, hospital and lab procurement processes, technical product training",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Research & Regulatory Affairs",
+        "direction_description": "Supporting microbiological research, pharmacovigilance, and regulatory compliance in life science companies.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Research Associate",
+          "Pharmacovigilance Associate",
+          "Medical Writer",
+          "Regulatory Affairs Executive"
+        ],
+        "additional_skills_needed": "Scientific writing, ICH and CDSCO guidelines, GCP/GLP fundamentals, literature review tools, regulatory documentation",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Epidemiology & Public Health",
+        "direction_description": "Working in disease surveillance, epidemic control, and public health programmes.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Public Health Analyst",
+          "Research Associate",
+          "Hospital Administrator",
+          "Programme Coordinator"
+        ],
+        "additional_skills_needed": "Epidemiology fundamentals, health data tools (DHIS2), WHO/ICMR surveillance frameworks, M.Sc Epidemiology or MPH, biostatistics basics",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Epidemiology roles in India are primarily with government health departments, ICMR, and international health NGOs; postgraduate training is typically required for meaningful entry into this field."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a food testing lab, water quality testing firm, or microbiology training and consultancy venture.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Food Quality Analyst",
+          "Lab Technician",
+          "Research Associate"
+        ],
+        "additional_skills_needed": "NABL accreditation process, FSSAI testing lab licensing, lab equipment procurement, client acquisition from food manufacturers, MSME registration",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Food and water testing labs are a viable and growing entrepreneurship path; NABL accreditation is a key differentiator and 2-3 years of lab experience before setting up independently is strongly recommended."
+      }
+    ]
+  },
+  "B.Sc Computer Science": {
+    "degree": "B.Sc Computer Science",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Software Development",
+        "direction_description": "Building web, mobile, and enterprise applications across the full technology stack.",
+        "direction_type": "Primary",
+        "roles": [
+          "Software Developer",
+          "Full Stack Developer",
+          "Frontend Developer",
+          "Backend Developer",
+          "Mobile App Developer"
+        ],
+        "why_primary": "Programming, data structures, and software engineering from B.Sc Computer Science directly prepare graduates for software development roles, which are the most common first placements."
+      },
+      {
+        "direction_name": "Data & AI Roles",
+        "direction_description": "Working in data analytics, data engineering, and entry-level machine learning roles.",
+        "direction_type": "Primary",
+        "roles": [
+          "Data Analyst",
+          "Data Engineer",
+          "Data Scientist (Junior)",
+          "ML Engineer (Junior)",
+          "Business Analyst"
+        ],
+        "why_primary": "Mathematics, statistics, and programming from B.Sc Computer Science provide strong grounding for data and AI entry roles in India's growing tech ecosystem."
+      },
+      {
+        "direction_name": "IT Infrastructure & Support",
+        "direction_description": "Managing networks, databases, cloud infrastructure, and IT support for organisations.",
+        "direction_type": "Primary",
+        "roles": [
+          "Network Administrator",
+          "Database Administrator",
+          "IT Support Engineer",
+          "Cloud Engineer",
+          "DevOps Engineer"
+        ],
+        "why_primary": "Networking, OS, and database management are core B.Sc Computer Science subjects directly applicable to IT infrastructure roles."
+      },
+      {
+        "direction_name": "Quality Assurance & Cybersecurity",
+        "direction_description": "Ensuring software quality and system security through testing and cybersecurity functions.",
+        "direction_type": "Secondary",
+        "roles": [
+          "QA Engineer",
+          "Automation Test Engineer",
+          "Cybersecurity Analyst",
+          "Technical Writer"
+        ],
+        "additional_skills_needed": "Selenium, JIRA, testing frameworks, CompTIA Security+, ethical hacking basics, OWASP standards",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Product & Project Management",
+        "direction_description": "Managing technology products and projects with cross-functional teams.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Product Manager (Associate)",
+          "Project Coordinator",
+          "Solutions Architect (Junior)",
+          "Business Analyst"
+        ],
+        "additional_skills_needed": "Agile/Scrum, JIRA, product roadmap tools, stakeholder management, business acumen basics",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Blockchain & Emerging Technologies",
+        "direction_description": "Building decentralised applications and working in Web3, IoT, and emerging tech domains.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Blockchain Developer",
+          "IoT Developer",
+          "Embedded Systems Engineer",
+          "Game Developer"
+        ],
+        "additional_skills_needed": "Solidity, Web3.js, smart contracts, IoT protocols (MQTT/CoAP), Unity for game development, cryptography basics",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Blockchain and emerging tech roles are growing but cyclical; building a portfolio of deployed projects or contributions to open-source Web3 projects is essential to stand out."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a tech startup, SaaS product, IT services firm, or digital agency.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Software Developer",
+          "Product Manager (Associate)",
+          "IT Support Engineer"
+        ],
+        "additional_skills_needed": "Business model design, client acquisition, startup funding basics, legal setup, GTM strategy, customer discovery",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "B.Sc Computer Science is among the strongest UG degrees for tech entrepreneurship; starting with freelancing or IT services before building a product is the most common and effective path."
+      }
+    ]
+  },
+  "B.Sc IT": {
+    "degree": "B.Sc IT",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Software & Web Development",
+        "direction_description": "Developing web applications, mobile apps, and software systems for businesses.",
+        "direction_type": "Primary",
+        "roles": [
+          "Software Developer",
+          "Full Stack Developer",
+          "Frontend Developer",
+          "Backend Developer",
+          "Mobile App Developer"
+        ],
+        "why_primary": "Programming, web technologies, and SDLC from B.Sc IT directly prepare graduates for software development roles, the most common first placement in India's IT sector."
+      },
+      {
+        "direction_name": "IT Infrastructure & Networking",
+        "direction_description": "Managing enterprise networks, servers, cloud platforms, and IT systems.",
+        "direction_type": "Primary",
+        "roles": [
+          "Network Administrator",
+          "IT Support Engineer",
+          "Database Administrator",
+          "Cloud Engineer",
+          "DevOps Engineer"
+        ],
+        "why_primary": "Networking, system administration, and database management are foundational B.Sc IT subjects directly applicable to IT infrastructure roles."
+      },
+      {
+        "direction_name": "Quality Assurance & Testing",
+        "direction_description": "Ensuring software quality through systematic testing and automation processes.",
+        "direction_type": "Primary",
+        "roles": [
+          "QA Engineer",
+          "Automation Test Engineer",
+          "Technical Writer",
+          "IT Support Engineer"
+        ],
+        "why_primary": "Software testing methodologies and SDLC knowledge from B.Sc IT make QA one of the most accessible and common first career paths for IT graduates."
+      },
+      {
+        "direction_name": "Data Analytics & Business Intelligence",
+        "direction_description": "Converting raw data into actionable business insights using analytics and BI tools.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Data Analyst",
+          "Business Analyst",
+          "Data Engineer",
+          "Market Research Analyst"
+        ],
+        "additional_skills_needed": "SQL advanced, Python, Power BI/Tableau, cloud data platforms (AWS/GCP), statistics fundamentals",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Cybersecurity & Ethical Hacking",
+        "direction_description": "Protecting IT systems through security analysis, penetration testing, and cyber defence.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Cybersecurity Analyst",
+          "Network Administrator",
+          "IT Support Engineer",
+          "Automation Test Engineer"
+        ],
+        "additional_skills_needed": "CEH or CompTIA Security+ certification, Kali Linux, VAPT methodologies, SIEM tools, network forensics basics",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "UI/UX Design & Product",
+        "direction_description": "Designing user interfaces and managing digital product development for tech companies.",
+        "direction_type": "Alternate",
+        "roles": [
+          "UI/UX Designer",
+          "Product Manager (Associate)",
+          "Technical Writer",
+          "Business Analyst"
+        ],
+        "additional_skills_needed": "Figma, Adobe XD, UX research methods, wireframing, information architecture, design thinking, user testing",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "UI/UX is increasingly in demand in India; B.Sc IT graduates have a technical advantage in understanding system constraints but need to invest seriously in design skills and build a visual portfolio."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting an IT services firm, web development agency, or tech product company.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Software Developer",
+          "IT Support Engineer",
+          "Network Administrator"
+        ],
+        "additional_skills_needed": "Client acquisition, project scoping and pricing, freelance platform presence (Upwork, Toptal), GST and company registration, team building",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "IT services entrepreneurship is among the most accessible for science graduates; starting with freelancing on platforms like Upwork or Fiverr before transitioning to a registered firm is the most practical approach."
+      }
+    ]
+  },
+  "B.Sc Electronics": {
+    "degree": "B.Sc Electronics",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Embedded Systems & Hardware",
+        "direction_description": "Designing and programming embedded systems, microcontrollers, and electronic hardware.",
+        "direction_type": "Primary",
+        "roles": [
+          "Embedded Systems Engineer",
+          "Electronics Engineer",
+          "IoT Developer",
+          "Instrumentation Engineer"
+        ],
+        "why_primary": "Circuit design, microcontrollers, and digital electronics are the core of B.Sc Electronics, making embedded and hardware roles the most direct career entry points."
+      },
+      {
+        "direction_name": "IT & Software Roles",
+        "direction_description": "Transitioning into software development and IT roles using programming and logical reasoning skills.",
+        "direction_type": "Primary",
+        "roles": [
+          "Software Developer",
+          "QA Engineer",
+          "IT Support Engineer",
+          "Automation Test Engineer",
+          "Network Administrator"
+        ],
+        "why_primary": "Electronics graduates are actively recruited by India's IT sector; programming and hardware knowledge make the transition to software roles well-recognised."
+      },
+      {
+        "direction_name": "Telecommunications & Networking",
+        "direction_description": "Working in telecom infrastructure, RF systems, and network management roles.",
+        "direction_type": "Primary",
+        "roles": [
+          "Network Administrator",
+          "Electronics Engineer",
+          "IT Support Engineer",
+          "Instrumentation Engineer"
+        ],
+        "why_primary": "Communication electronics and signal processing from B.Sc Electronics are directly applicable to telecommunications and networking roles."
+      },
+      {
+        "direction_name": "Industrial Automation & Control",
+        "direction_description": "Designing and maintaining automated control and instrumentation systems in manufacturing.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Instrumentation Engineer",
+          "Production Engineer",
+          "Maintenance Engineer",
+          "IoT Developer"
+        ],
+        "additional_skills_needed": "PLC programming, SCADA systems, industrial automation protocols, servo and drive systems, safety instrumented systems",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Data Analytics & IoT Solutions",
+        "direction_description": "Applying data and IoT skills to build smart monitoring and analytics solutions.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Data Analyst",
+          "IoT Developer",
+          "Data Engineer",
+          "Business Analyst"
+        ],
+        "additional_skills_needed": "Python, SQL, IoT platforms (AWS IoT, Azure), MQTT protocol, data visualisation tools, cloud basics",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "VLSI & Semiconductor Design",
+        "direction_description": "Designing integrated circuits and FPGA-based systems for electronics applications.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Electronics Engineer",
+          "Embedded Systems Engineer",
+          "Instrumentation Engineer"
+        ],
+        "additional_skills_needed": "Verilog/VHDL, Cadence or Synopsys tools, FPGA programming, digital IC design fundamentals, M.Tech VLSI or relevant PG programme",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "VLSI is a high-value domain but highly competitive; most VLSI roles require postgraduate qualification or intensive specialisation courses, making a PG degree or structured bridge programme strongly advisable."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting an electronics repair business, IoT product company, or embedded systems consultancy.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Electronics Engineer",
+          "Embedded Systems Engineer",
+          "IoT Developer"
+        ],
+        "additional_skills_needed": "Product prototyping, PCB manufacturing vendors, BIS certification basics, crowdfunding and investor pitching, component supply chain management",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Electronics entrepreneurship in IoT products and embedded solutions is growing; starting with a service-based model (repair, embedded consulting) before launching a product reduces initial capital risk."
+      }
+    ]
+  },
+  "B.Sc Environmental Science": {
+    "degree": "B.Sc Environmental Science",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Environmental Impact & Compliance",
+        "direction_description": "Conducting environmental impact assessments and ensuring regulatory compliance for projects.",
+        "direction_type": "Primary",
+        "roles": [
+          "Environmental Impact Assessor",
+          "Environmental Engineer",
+          "Safety Officer",
+          "Compliance Officer"
+        ],
+        "why_primary": "EIA methodology, pollution control, and environmental regulations are core B.Sc Environmental Science subjects directly applicable to EIA consulting and compliance roles."
+      },
+      {
+        "direction_name": "Sustainability & CSR",
+        "direction_description": "Helping organisations measure and improve their environmental sustainability and ESG performance.",
+        "direction_type": "Primary",
+        "roles": [
+          "Sustainability Analyst",
+          "Environmental Impact Assessor",
+          "Research Associate",
+          "Business Analyst"
+        ],
+        "why_primary": "Sustainability science, carbon management, and environmental management systems are directly taught in B.Sc Environmental Science and align with India's growing ESG reporting requirements."
+      },
+      {
+        "direction_name": "Natural Resource & Water Management",
+        "direction_description": "Managing water resources, forestry, and natural ecosystems for government and NGOs.",
+        "direction_type": "Primary",
+        "roles": [
+          "Water Resource Engineer",
+          "Forestry Officer",
+          "Agricultural Officer",
+          "Soil Scientist"
+        ],
+        "why_primary": "Hydrology, soil science, and natural resource management are foundational B.Sc Environmental Science subjects applicable to government and conservation sector roles."
+      },
+      {
+        "direction_name": "Research & Education",
+        "direction_description": "Conducting environmental research and teaching in academic and scientific institutions.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Research Associate",
+          "Teacher (School)",
+          "Lecturer (College Junior)",
+          "Academic Coordinator"
+        ],
+        "additional_skills_needed": "Scientific writing, environmental data tools (ArcGIS, R), ENVIS database, research grant writing, M.Sc Environmental Science for senior research roles",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Climate Policy & Development Sector",
+        "direction_description": "Working on climate adaptation, international development, and environmental policy programmes.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Programme Coordinator",
+          "Research Associate",
+          "Public Health Analyst",
+          "Operations Executive"
+        ],
+        "additional_skills_needed": "Climate policy frameworks (NDC, UNFCCC), development sector project management, M&E tools, grant writing, UNDP/GEF project awareness",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "GIS & Remote Sensing Applications",
+        "direction_description": "Using geospatial technology for environmental mapping, land use analysis, and conservation planning.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Environmental Impact Assessor",
+          "Research Associate",
+          "Agricultural Officer",
+          "Sustainability Analyst"
+        ],
+        "additional_skills_needed": "ArcGIS or QGIS, remote sensing tools, Google Earth Engine, spatial data analysis, drone mapping basics, satellite image interpretation",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "GIS is a rapidly growing technical skill for environmental professionals; graduates who invest in hands-on GIS certification significantly expand their job options in both government and private sectors."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting an EIA consultancy, sustainability advisory firm, or eco-tourism and conservation venture.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Environmental Impact Assessor",
+          "Sustainability Analyst",
+          "Research Associate"
+        ],
+        "additional_skills_needed": "MoEF&CC EIA regulatory process, NABET accreditation for EIA consultants, client acquisition, project costing, ESG reporting tools",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "EIA consultancy is a viable entrepreneurship path but requires NABET-QCI accreditation and 3-5 years of field experience; most successful founders spend time in established consultancies before going independent."
+      }
+    ]
+  },
+  "B.Sc Food Science/Nutrition": {
+    "degree": "B.Sc Food Science/Nutrition",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Food Quality & Safety",
+        "direction_description": "Ensuring food product quality and regulatory compliance in food manufacturing and testing labs.",
+        "direction_type": "Primary",
+        "roles": [
+          "Food Quality Analyst",
+          "Lab Technician",
+          "Quality Engineer",
+          "Healthcare Quality Analyst"
+        ],
+        "why_primary": "Food analysis, FSSAI regulations, and quality management are core curriculum components of B.Sc Food Science/Nutrition directly applicable to food QC and safety roles."
+      },
+      {
+        "direction_name": "Nutrition & Dietetics Practice",
+        "direction_description": "Providing dietary counselling and clinical nutrition support in hospitals and wellness settings.",
+        "direction_type": "Primary",
+        "roles": [
+          "Nutritionist/Dietician",
+          "Hospital Administrator",
+          "Public Health Analyst",
+          "Healthcare Quality Analyst"
+        ],
+        "why_primary": "Nutritional science, dietetics, and clinical nutrition are foundational in B.Sc Food Science/Nutrition, making dietetics and nutrition consulting direct career paths."
+      },
+      {
+        "direction_name": "Food Product Development & R&D",
+        "direction_description": "Developing new food products and reformulating existing products for food and FMCG companies.",
+        "direction_type": "Primary",
+        "roles": [
+          "Research Associate",
+          "Food Quality Analyst",
+          "Dairy Technologist",
+          "Lab Technician"
+        ],
+        "why_primary": "Food chemistry, product development, and sensory science are taught in B.Sc Food Science/Nutrition and align with R&D and NPD roles in the food industry."
+      },
+      {
+        "direction_name": "Pharma & Clinical Research",
+        "direction_description": "Supporting nutraceutical, pharma, and clinical research roles using life science knowledge.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Clinical Research Associate",
+          "Pharmacovigilance Associate",
+          "Medical Writer",
+          "Drug Safety Associate"
+        ],
+        "additional_skills_needed": "GCP/ICH guidelines, clinical trial design basics, CDSCO nutraceutical regulations, scientific writing, regulatory documentation",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Sales, Marketing & Education in Food & Health",
+        "direction_description": "Promoting food, nutrition, and wellness products or educating consumers and patients.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Sales Executive (B2B)",
+          "Pharma Sales Executive (MR)",
+          "Corporate Trainer",
+          "Content Strategist"
+        ],
+        "additional_skills_needed": "Nutrition product knowledge, health communication, digital content creation for wellness, CRM tools, consumer education frameworks",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Public Health Nutrition & Policy",
+        "direction_description": "Working in government and international agencies on nutrition policy and public health programmes.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Public Health Analyst",
+          "Research Associate",
+          "Programme Coordinator",
+          "Hospital Administrator"
+        ],
+        "additional_skills_needed": "Epidemiology basics, POSHAN Abhiyaan policy frameworks, WHO/UNICEF nutrition guidelines, M.Sc Public Health Nutrition, ICMR research methodologies",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Public health nutrition roles in government and international agencies typically require postgraduate qualification and field exposure; a B.Sc is a strong foundation but not sufficient for senior programme roles."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a nutrition consultancy, health food brand, catering business, or food testing lab.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Nutritionist/Dietician",
+          "Food Quality Analyst",
+          "Research Associate"
+        ],
+        "additional_skills_needed": "FSSAI licensing for food businesses, nutrition practice registration, D2C brand setup, digital health coaching platforms, food product labelling regulations",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Food and nutrition entrepreneurship is one of the most accessible for science graduates; online nutrition coaching, health food brands, and tiffin services are low-capital entry points with strong market demand in India."
+      }
+    ]
+  }
+}

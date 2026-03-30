@@ -1,0 +1,292 @@
+{
+  "BCA General": {
+    "degree": "BCA General",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Software Development",
+        "direction_description": "Building web, mobile, and enterprise applications across the full technology stack.",
+        "direction_type": "Primary",
+        "roles": [
+          "Software Developer",
+          "Full Stack Developer",
+          "Frontend Developer",
+          "Backend Developer",
+          "Mobile App Developer"
+        ],
+        "why_primary": "Programming, data structures, DBMS, and software engineering are the core of BCA General, making software development roles the most common and direct first placement in India's IT sector."
+      },
+      {
+        "direction_name": "IT Infrastructure & Support",
+        "direction_description": "Managing networks, databases, cloud systems, and IT support for organisations.",
+        "direction_type": "Primary",
+        "roles": [
+          "Network Administrator",
+          "Database Administrator",
+          "IT Support Engineer",
+          "Cloud Engineer",
+          "DevOps Engineer"
+        ],
+        "why_primary": "Networking, OS, and database management are foundational BCA subjects directly applicable to IT infrastructure and support roles across industries."
+      },
+      {
+        "direction_name": "Quality Assurance & Testing",
+        "direction_description": "Ensuring software quality through manual and automated testing across the SDLC.",
+        "direction_type": "Primary",
+        "roles": [
+          "QA Engineer",
+          "Automation Test Engineer",
+          "Technical Writer",
+          "IT Support Engineer"
+        ],
+        "why_primary": "SDLC knowledge, software testing methodologies, and hands-on project exposure from BCA make QA one of the most accessible first career paths for BCA graduates."
+      },
+      {
+        "direction_name": "Data Analytics & Business Intelligence",
+        "direction_description": "Transforming data into business insights using analytics tools and visualisation platforms.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Data Analyst",
+          "Business Analyst",
+          "Data Engineer",
+          "Market Research Analyst"
+        ],
+        "additional_skills_needed": "SQL advanced, Python, Power BI or Tableau, statistics basics, cloud data platforms (AWS/GCP)",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Product & Project Management",
+        "direction_description": "Managing technology products and cross-functional delivery teams in tech companies.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Product Manager (Associate)",
+          "Project Coordinator",
+          "Business Analyst",
+          "Solutions Architect (Junior)"
+        ],
+        "additional_skills_needed": "Agile/Scrum certification, JIRA, stakeholder management, product roadmap tools, business fundamentals",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Cybersecurity & Ethical Hacking",
+        "direction_description": "Protecting systems and networks through security analysis, penetration testing, and cyber defence.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Cybersecurity Analyst",
+          "Network Administrator",
+          "IT Support Engineer",
+          "Automation Test Engineer"
+        ],
+        "additional_skills_needed": "CEH or CompTIA Security+ certification, Kali Linux, VAPT methodologies, OWASP standards, SIEM tools, network forensics basics",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Cybersecurity is a high-demand but specialised field; BCA graduates have the technical foundation but need dedicated certification and hands-on CTF experience to compete with candidates from dedicated security programmes."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting an IT services firm, web development agency, SaaS product, or digital solutions company.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Software Developer",
+          "IT Support Engineer",
+          "Product Manager (Associate)"
+        ],
+        "additional_skills_needed": "Client acquisition, project scoping and pricing, freelance platform presence (Upwork, Fiverr), GST and company registration, basic financial management",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "IT services entrepreneurship is among the most accessible for BCA graduates; starting with freelancing or a small web development agency before scaling into a product company is the most proven path in India."
+      }
+    ]
+  },
+  "BCA Data Science": {
+    "degree": "BCA Data Science",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Data Analytics & Business Intelligence",
+        "direction_description": "Analysing structured and unstructured data to generate insights that drive business decisions.",
+        "direction_type": "Primary",
+        "roles": [
+          "Data Analyst",
+          "Business Analyst",
+          "Market Research Analyst",
+          "Strategy Analyst",
+          "Data Engineer"
+        ],
+        "why_primary": "Statistics, data analysis, and visualisation tools are the core of BCA Data Science, making analytics roles the most direct and common first placement."
+      },
+      {
+        "direction_name": "Machine Learning & AI Engineering",
+        "direction_description": "Building, training, and deploying machine learning models for business and research applications.",
+        "direction_type": "Primary",
+        "roles": [
+          "ML Engineer (Junior)",
+          "Data Scientist (Junior)",
+          "Data Engineer",
+          "Automation Test Engineer"
+        ],
+        "why_primary": "Machine learning algorithms, Python, and model building are hands-on curriculum components of BCA Data Science directly applicable to entry-level AI and ML roles."
+      },
+      {
+        "direction_name": "Software & Data Engineering",
+        "direction_description": "Developing software systems and data pipelines that power data-driven applications.",
+        "direction_type": "Primary",
+        "roles": [
+          "Software Developer",
+          "Data Engineer",
+          "Backend Developer",
+          "Database Administrator",
+          "DevOps Engineer"
+        ],
+        "why_primary": "Programming fundamentals and database engineering from BCA Data Science prepare graduates for software and data engineering roles in product and service companies."
+      },
+      {
+        "direction_name": "Product Analytics & Growth",
+        "direction_description": "Using data to understand user behaviour, improve product experiences, and drive growth strategies.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Product Manager (Associate)",
+          "Business Analyst",
+          "Performance Marketing Analyst",
+          "CRM Executive"
+        ],
+        "additional_skills_needed": "Google Analytics 4, Mixpanel, A/B testing frameworks, cohort analysis, product thinking, SQL for product analytics",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "AI for Finance & Risk",
+        "direction_description": "Applying machine learning and statistical models to financial risk, fraud detection, and credit scoring.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Risk Analyst",
+          "Fintech Analyst",
+          "Credit Analyst",
+          "Financial Analyst"
+        ],
+        "additional_skills_needed": "Financial markets basics, credit risk modelling, Python for finance, SQL, CFA Level 1 concepts optionally",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "AI Research & Deep Learning",
+        "direction_description": "Working on advanced machine learning research, deep learning architectures, and AI model development.",
+        "direction_type": "Alternate",
+        "roles": [
+          "ML Engineer (Junior)",
+          "Data Scientist (Junior)",
+          "Research Associate",
+          "Data Engineer"
+        ],
+        "additional_skills_needed": "Deep learning frameworks (TensorFlow, PyTorch), NLP, computer vision, research paper implementation, M.Tech or M.Sc in AI/ML strongly recommended, Kaggle competition experience",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Deep learning research roles are highly competitive and predominantly staffed by postgraduate candidates; BCA Data Science provides the right foundation but serious AI research careers typically require an M.Tech or M.Sc in AI/ML or CS."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a data analytics consultancy, AI-powered SaaS product, or edtech platform focused on data skills.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Data Analyst",
+          "ML Engineer (Junior)",
+          "Product Manager (Associate)"
+        ],
+        "additional_skills_needed": "Business model design, client acquisition for analytics services, MVP development, startup funding basics, GST and company registration, GTM strategy",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Data science entrepreneurship is promising given India's growing demand for analytics; analytics consulting and AI-powered tools are the most viable starting points, with a strong portfolio being more important than a formal business plan."
+      }
+    ]
+  },
+  "BCA Cybersecurity": {
+    "degree": "BCA Cybersecurity",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Cybersecurity Analysis & Defence",
+        "direction_description": "Monitoring, detecting, and responding to cyber threats to protect organisational systems and data.",
+        "direction_type": "Primary",
+        "roles": [
+          "Cybersecurity Analyst",
+          "Network Administrator",
+          "IT Support Engineer",
+          "Database Administrator"
+        ],
+        "why_primary": "Threat analysis, SIEM tools, network security, and incident response are core BCA Cybersecurity subjects making cyber defence analyst roles the most direct first placement."
+      },
+      {
+        "direction_name": "Ethical Hacking & Penetration Testing",
+        "direction_description": "Identifying and exploiting vulnerabilities in systems to help organisations strengthen their security posture.",
+        "direction_type": "Primary",
+        "roles": [
+          "Cybersecurity Analyst",
+          "Network Administrator",
+          "IT Support Engineer",
+          "Automation Test Engineer"
+        ],
+        "why_primary": "Penetration testing methodologies, VAPT tools, and ethical hacking techniques are hands-on curriculum components of BCA Cybersecurity directly applicable to offensive security roles."
+      },
+      {
+        "direction_name": "IT Infrastructure & Network Security",
+        "direction_description": "Designing and managing secure network infrastructure, firewalls, and cloud security architectures.",
+        "direction_type": "Primary",
+        "roles": [
+          "Network Administrator",
+          "Cloud Engineer",
+          "DevOps Engineer",
+          "IT Support Engineer",
+          "Site Reliability Engineer"
+        ],
+        "why_primary": "Network architecture, firewall management, and cloud security are foundational BCA Cybersecurity subjects that directly prepare graduates for secure infrastructure roles."
+      },
+      {
+        "direction_name": "Compliance, Risk & Governance",
+        "direction_description": "Ensuring organisations meet cybersecurity regulations and managing information security risk frameworks.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Compliance Officer",
+          "Risk Analyst",
+          "Data Protection Officer (Junior)",
+          "Legal Researcher"
+        ],
+        "additional_skills_needed": "ISO 27001, India's DPDPA framework, GDPR basics, IT Act 2000, risk assessment methodologies, GRC tools",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Software Development & Secure Coding",
+        "direction_description": "Building software applications with a security-first mindset, integrating DevSecOps practices.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Software Developer",
+          "QA Engineer",
+          "Automation Test Engineer",
+          "DevOps Engineer"
+        ],
+        "additional_skills_needed": "Secure coding standards (OWASP), Python or Java, DevSecOps tools, CI/CD security integration, SAST/DAST tools",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Digital Forensics & Incident Response",
+        "direction_description": "Investigating cyber incidents, recovering digital evidence, and managing security breach responses.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Cybersecurity Analyst",
+          "Network Administrator",
+          "Compliance Officer",
+          "IT Support Engineer"
+        ],
+        "additional_skills_needed": "Digital forensics tools (Autopsy, FTK, Wireshark), chain of custody documentation, memory forensics, DFIR frameworks, EC-Council CHFI or GCFE certification",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Digital forensics is a niche but growing field in India driven by rising cybercrime; BCA Cybersecurity graduates have a strong foundation but professional forensics roles typically require certification and hands-on casework experience."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a cybersecurity consulting firm, VAPT services company, or security awareness training business.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Cybersecurity Analyst",
+          "IT Support Engineer",
+          "Compliance Officer"
+        ],
+        "additional_skills_needed": "Client acquisition for security services, CERT-In empanelment process, proposal and report writing, MSME registration, pricing and scoping of security engagements",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Cybersecurity consulting entrepreneurship is viable but trust and credibility are paramount; most successful founders work 3-5 years in established security firms before going independent, and CERT-In empanelment significantly expands client access."
+      }
+    ]
+  }
+}

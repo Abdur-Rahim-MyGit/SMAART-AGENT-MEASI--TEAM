@@ -1,0 +1,415 @@
+{
+  "BA LLB": {
+    "degree": "BA LLB",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Litigation & Court Practice",
+        "direction_description": "Practising as an advocate in civil, criminal, or constitutional courts across trial and appellate levels.",
+        "direction_type": "Primary",
+        "roles": [
+          "Legal Associate",
+          "Litigation Associate",
+          "Corporate Lawyer (Junior)",
+          "Legal Researcher"
+        ],
+        "why_primary": "BA LLB's integrated legal training in procedural law, evidence, and advocacy directly prepares graduates for courtroom practice and litigation roles — the most traditional and common first path for law graduates in India."
+      },
+      {
+        "direction_name": "Corporate & Transactional Law",
+        "direction_description": "Advising businesses on contracts, mergers, acquisitions, and corporate governance.",
+        "direction_type": "Primary",
+        "roles": [
+          "Corporate Lawyer (Junior)",
+          "Contract Manager",
+          "Legal Associate",
+          "Company Secretary (Junior)",
+          "Compliance Officer"
+        ],
+        "why_primary": "Corporate law, contract drafting, and company law modules in BA LLB equip graduates for transactional and in-house legal roles at law firms and corporates."
+      },
+      {
+        "direction_name": "Legal Research & Policy",
+        "direction_description": "Conducting legal research for law firms, think tanks, NGOs, and government policy bodies.",
+        "direction_type": "Primary",
+        "roles": [
+          "Legal Researcher",
+          "Regulatory Affairs Analyst",
+          "Compliance Officer",
+          "Research Associate"
+        ],
+        "why_primary": "The BA component of BA LLB develops strong research, writing, and socio-legal analytical skills that translate directly into legal research and policy analysis roles."
+      },
+      {
+        "direction_name": "Regulatory Compliance & Governance",
+        "direction_description": "Ensuring organisations comply with legal and regulatory frameworks across sectors.",
+        "direction_type": "Primary",
+        "roles": [
+          "Compliance Officer",
+          "Regulatory Affairs Analyst",
+          "Contract Manager",
+          "Data Protection Officer (Junior)",
+          "Company Secretary (Junior)"
+        ],
+        "why_primary": "Constitutional law, administrative law, and regulatory frameworks in BA LLB directly prepare graduates for compliance and governance roles across BFSI, pharma, and tech sectors."
+      },
+      {
+        "direction_name": "Human Rights & Social Sector Law",
+        "direction_description": "Working with NGOs, legal aid organisations, and international bodies on human rights and social justice issues.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Legal Researcher",
+          "Programme Coordinator",
+          "Research Associate",
+          "Compliance Officer"
+        ],
+        "additional_skills_needed": "Human rights law frameworks, FCRA regulations, international human rights instruments, grant writing, development sector project management",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Intellectual Property Law",
+        "direction_description": "Advising clients on patents, trademarks, copyrights, and IP strategy in creative and tech industries.",
+        "direction_type": "Secondary",
+        "roles": [
+          "IP Associate",
+          "Legal Researcher",
+          "Compliance Officer",
+          "Contract Manager"
+        ],
+        "additional_skills_needed": "Patent prosecution, trademark filing (TM Registry), copyright law, TRIPS agreement, IP valuation basics, technical subject matter understanding",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Legal Technology & Innovation",
+        "direction_description": "Working at the intersection of law and technology in legal tech firms, contract automation, and AI-driven legal tools.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Legal Tech Specialist",
+          "Compliance Officer",
+          "Contract Manager",
+          "Data Protection Officer (Junior)"
+        ],
+        "additional_skills_needed": "Legal tech platforms (Kira, ContractPodAi), basic programming concepts, data privacy law (DPDPA/GDPR), AI and law fundamentals, LLM tools for legal drafting",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Legal tech is an emerging and fast-growing niche in India; BA LLB graduates with an interest in technology are well-positioned but need to proactively build tech literacy and a portfolio of legal tech projects to stand out."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a law firm, legal consultancy, legal tech startup, or alternative dispute resolution practice.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Legal Associate",
+          "Compliance Officer",
+          "Contract Manager"
+        ],
+        "additional_skills_needed": "Bar Council enrolment and practice rules, law firm management, client acquisition, billing and retainer structures, legal practice management software",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Law firm entrepreneurship is common in India but typically requires 3-5 years of practice experience to build a client base and credibility before going independent; legal tech startups are an increasingly viable alternative path."
+      }
+    ]
+  },
+  "BBA LLB": {
+    "degree": "BBA LLB",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Corporate & Business Law",
+        "direction_description": "Advising businesses on corporate transactions, commercial contracts, and business structuring.",
+        "direction_type": "Primary",
+        "roles": [
+          "Corporate Lawyer (Junior)",
+          "Contract Manager",
+          "Legal Associate",
+          "Company Secretary (Junior)",
+          "Compliance Officer"
+        ],
+        "why_primary": "BBA LLB uniquely combines business management with legal training, making corporate and transactional law the most natural and in-demand career path for these graduates at law firms and in-house legal teams."
+      },
+      {
+        "direction_name": "Regulatory Compliance & Governance",
+        "direction_description": "Managing legal and regulatory compliance for corporations across BFSI, tech, and manufacturing sectors.",
+        "direction_type": "Primary",
+        "roles": [
+          "Compliance Officer",
+          "Regulatory Affairs Analyst",
+          "Data Protection Officer (Junior)",
+          "Contract Manager",
+          "Company Secretary (Junior)"
+        ],
+        "why_primary": "Corporate governance, SEBI regulations, and company law are core BBA LLB subjects that directly prepare graduates for compliance and governance roles in India's regulatory-heavy sectors."
+      },
+      {
+        "direction_name": "Business Development & Legal Advisory",
+        "direction_description": "Combining legal expertise with business acumen to advise clients and drive firm growth.",
+        "direction_type": "Primary",
+        "roles": [
+          "Legal Associate",
+          "Business Development Executive",
+          "Management Consultant (Junior)",
+          "Strategy Analyst"
+        ],
+        "why_primary": "The BBA component gives graduates commercial awareness rare among law graduates, making them well-suited for client-facing legal advisory and business development roles."
+      },
+      {
+        "direction_name": "Mergers, Acquisitions & Finance Law",
+        "direction_description": "Supporting M&A transactions, private equity deals, and financial regulatory matters.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Corporate Lawyer (Junior)",
+          "Contract Manager",
+          "Compliance Officer",
+          "Legal Researcher"
+        ],
+        "additional_skills_needed": "M&A deal structuring, due diligence process, SEBI takeover regulations, financial instruments basics, CFA Level 1 concepts optionally",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Intellectual Property & Technology Law",
+        "direction_description": "Advising tech and creative companies on IP protection, data privacy, and digital regulations.",
+        "direction_type": "Secondary",
+        "roles": [
+          "IP Associate",
+          "Legal Tech Specialist",
+          "Data Protection Officer (Junior)",
+          "Compliance Officer"
+        ],
+        "additional_skills_needed": "Patent and trademark filing procedures, DPDPA and GDPR frameworks, technology contracts, IT Act 2000, digital media law",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Arbitration & Dispute Resolution",
+        "direction_description": "Resolving commercial disputes through arbitration, mediation, and alternative dispute resolution mechanisms.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Litigation Associate",
+          "Legal Associate",
+          "Corporate Lawyer (Junior)",
+          "Contract Manager"
+        ],
+        "additional_skills_needed": "Arbitration Act 1996, institutional arbitration rules (ICC, SIAC, DIAC), mediation techniques, international commercial arbitration, specialist ADR certification",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Commercial arbitration is a high-value practice area but requires hands-on exposure through internships at arbitral institutions or senior arbitration practitioners; BBA LLB graduates have the right commercial and legal foundation to build this specialisation."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a boutique corporate law firm, legal consultancy, compliance advisory, or legal tech startup.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Corporate Lawyer (Junior)",
+          "Compliance Officer",
+          "Business Development Executive"
+        ],
+        "additional_skills_needed": "Bar Council enrolment, law firm setup and management, client acquisition for corporate legal services, retainer and billing structures, legal tech tools",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "BBA LLB graduates are among the most commercially equipped for legal entrepreneurship; boutique corporate law firms and compliance consultancies are the most viable starting points, typically after 3-4 years of experience at an established firm."
+      }
+    ]
+  },
+  "B.Com LLB": {
+    "degree": "B.Com LLB",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Taxation & Financial Law",
+        "direction_description": "Advising clients on direct and indirect taxation, GST compliance, and tax dispute resolution.",
+        "direction_type": "Primary",
+        "roles": [
+          "Legal Associate",
+          "Compliance Officer",
+          "Contract Manager",
+          "Regulatory Affairs Analyst",
+          "Legal Researcher"
+        ],
+        "why_primary": "B.Com LLB's dual expertise in commerce and law is uniquely suited to tax law practice; income tax, GST, and customs law are core subjects that directly prepare graduates for tax advisory and compliance roles."
+      },
+      {
+        "direction_name": "Corporate & Commercial Law",
+        "direction_description": "Supporting corporate transactions, commercial contracts, and business compliance for companies.",
+        "direction_type": "Primary",
+        "roles": [
+          "Corporate Lawyer (Junior)",
+          "Contract Manager",
+          "Company Secretary (Junior)",
+          "Compliance Officer",
+          "Legal Associate"
+        ],
+        "why_primary": "Company law, securities regulation, and commercial contracts are central to B.Com LLB and align directly with corporate law practice at law firms and in-house legal teams."
+      },
+      {
+        "direction_name": "Financial Compliance & Regulatory Affairs",
+        "direction_description": "Ensuring compliance with financial regulations including SEBI, RBI, FEMA, and corporate governance norms.",
+        "direction_type": "Primary",
+        "roles": [
+          "Compliance Officer",
+          "Regulatory Affairs Analyst",
+          "Data Protection Officer (Junior)",
+          "Company Secretary (Junior)",
+          "KYC Analyst"
+        ],
+        "why_primary": "Commerce knowledge combined with legal training uniquely prepares B.Com LLB graduates for financial sector compliance roles — among the most sought-after profiles in BFSI legal and compliance teams."
+      },
+      {
+        "direction_name": "Accounting, Audit & Legal Support",
+        "direction_description": "Providing legal support to audit, accounting, and forensic finance functions in professional services firms.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Auditor (Internal)",
+          "Forensic Accountant",
+          "Legal Researcher",
+          "Compliance Officer"
+        ],
+        "additional_skills_needed": "Forensic accounting techniques, Companies Act provisions on audit, ICAI guidelines, fraud examination basics, CFE certification awareness",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Banking & Finance Law",
+        "direction_description": "Advising on banking regulations, loan documentation, debt recovery, and financial sector transactions.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Corporate Lawyer (Junior)",
+          "Legal Associate",
+          "KYC Analyst",
+          "Credit Analyst"
+        ],
+        "additional_skills_needed": "SARFAESI Act, DRT procedures, RBI master directions, loan documentation, NCLT insolvency law (IBC basics)",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Insolvency & Restructuring Law",
+        "direction_description": "Advising debtors, creditors, and resolution professionals in insolvency proceedings under the IBC.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Legal Associate",
+          "Corporate Lawyer (Junior)",
+          "Compliance Officer",
+          "Legal Researcher"
+        ],
+        "additional_skills_needed": "Insolvency and Bankruptcy Code (IBC) 2016, NCLT and NCLAT procedures, Insolvency Professional (IP) exam awareness, corporate restructuring concepts, financial statement analysis",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "IBC and insolvency is one of the fastest-growing practice areas in India; B.Com LLB graduates have a strong financial-legal foundation for this field, but hands-on exposure through internships with resolution professionals or IBC-focused law firms is essential."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a tax law practice, compliance consultancy, or financial legal advisory firm serving MSMEs and corporates.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Legal Associate",
+          "Compliance Officer",
+          "Contract Manager"
+        ],
+        "additional_skills_needed": "Bar Council enrolment, tax practice setup (income tax, GST), MSME client acquisition, billing and retainer structures, legal practice management tools",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Tax and compliance law entrepreneurship is highly viable for B.Com LLB graduates given India's MSME demand for affordable legal-tax advisory; most successful practitioners build a client base over 3-4 years before going fully independent."
+      }
+    ]
+  },
+  "LLB (3-year)": {
+    "degree": "LLB (3-year)",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Litigation & Court Practice",
+        "direction_description": "Practising as an advocate in civil, criminal, family, or constitutional courts.",
+        "direction_type": "Primary",
+        "roles": [
+          "Litigation Associate",
+          "Legal Associate",
+          "Legal Researcher",
+          "Corporate Lawyer (Junior)"
+        ],
+        "why_primary": "The 3-year LLB is specifically designed for graduates entering legal practice; procedural law, evidence, and advocacy training directly prepare students for litigation and courtroom roles."
+      },
+      {
+        "direction_name": "Corporate & In-House Legal",
+        "direction_description": "Working as in-house counsel or corporate lawyer supporting business operations, contracts, and compliance.",
+        "direction_type": "Primary",
+        "roles": [
+          "Corporate Lawyer (Junior)",
+          "Contract Manager",
+          "Compliance Officer",
+          "Company Secretary (Junior)",
+          "Legal Associate"
+        ],
+        "why_primary": "Corporate law, contract drafting, and company law are core LLB subjects; in-house and corporate law roles are among the most accessible placements for 3-year LLB graduates with prior work experience."
+      },
+      {
+        "direction_name": "Regulatory Compliance & Governance",
+        "direction_description": "Managing compliance with legal and regulatory requirements across industries and sectors.",
+        "direction_type": "Primary",
+        "roles": [
+          "Compliance Officer",
+          "Regulatory Affairs Analyst",
+          "Data Protection Officer (Junior)",
+          "Contract Manager",
+          "Legal Researcher"
+        ],
+        "why_primary": "Administrative law, regulatory frameworks, and corporate governance are foundational LLB subjects that map directly to compliance and regulatory roles."
+      },
+      {
+        "direction_name": "Legal Research & Documentation",
+        "direction_description": "Conducting legal research, drafting documents, and supporting legal teams in firms and organisations.",
+        "direction_type": "Primary",
+        "roles": [
+          "Legal Researcher",
+          "Contract Manager",
+          "Legal Associate",
+          "Compliance Officer"
+        ],
+        "why_primary": "Legal research, drafting, and documentation are core skills developed throughout the LLB programme, with direct applicability to research and documentation roles across law firms and corporates."
+      },
+      {
+        "direction_name": "Specialised Practice Areas",
+        "direction_description": "Developing expertise in niche legal areas such as labour law, family law, or environmental law.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Litigation Associate",
+          "Legal Researcher",
+          "Compliance Officer",
+          "Legal Associate"
+        ],
+        "additional_skills_needed": "Specialisation in chosen area (labour tribunals, family courts, NGT), specialised legal research tools, mentorship under senior practitioners, additional certifications in chosen domain",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Judicial Services",
+        "direction_description": "Preparing for and appearing in judicial services examinations to become a civil judge or magistrate.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Legal Researcher",
+          "Legal Associate",
+          "Research Associate",
+          "Academic Coordinator"
+        ],
+        "additional_skills_needed": "State judicial services exam preparation, procedural law mastery, judgement writing, legal reasoning under exam conditions, coaching and structured study plan",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Legal Technology & Innovation",
+        "direction_description": "Applying technology to legal practice through contract automation, legal analytics, and AI-driven legal tools.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Legal Tech Specialist",
+          "Compliance Officer",
+          "Contract Manager",
+          "Data Protection Officer (Junior)"
+        ],
+        "additional_skills_needed": "Legal tech platforms, basic data literacy, DPDPA and GDPR frameworks, contract lifecycle management tools, AI tools for legal research (CaseMine, Manupatra AI)",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Legal tech adoption is accelerating in India but remains underexplored by most practitioners; 3-year LLB graduates who proactively build tech literacy early in their careers gain a significant competitive advantage in law firms and in-house roles."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Establishing an independent law practice, boutique law firm, or legal process outsourcing venture.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Legal Associate",
+          "Compliance Officer",
+          "Contract Manager"
+        ],
+        "additional_skills_needed": "Bar Council enrolment and practice management, client acquisition and retention, legal billing structures, law firm operations, legal process outsourcing (LPO) industry knowledge",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Independent legal practice is a well-trodden path in India but financial sustainability in early years is a significant challenge; most successful independent practitioners build their client base over 4-6 years under a senior advocate before going independent."
+      }
+    ]
+  }
+}

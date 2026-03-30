@@ -1,0 +1,4250 @@
+[
+  {
+    "skill_name": "SCC Online (Supreme Court Cases)",
+    "skill_category": "Technical",
+    "skill_description": "Researching Indian case law, statutes, and legal commentary using the SCC Online legal database.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Manupatra (Legal Research)",
+    "skill_category": "Technical",
+    "skill_description": "Conducting Indian legal research including case law, legislation, and regulatory updates using Manupatra.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Westlaw India",
+    "skill_category": "Technical",
+    "skill_description": "Accessing Indian and international legal databases for case law, treaties, and secondary sources using Westlaw.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "LexisNexis India",
+    "skill_category": "Technical",
+    "skill_description": "Researching legal precedents, statutes, and international law using LexisNexis for Indian legal practice.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "IndiaCode (Legislative Portal)",
+    "skill_category": "Technical",
+    "skill_description": "Accessing the official GoI repository of central acts, statutes, and legislative amendments at indiacode.nic.in.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "MCA21 Portal (Ministry of Corporate Affairs)",
+    "skill_category": "Technical",
+    "skill_description": "Filing company incorporation, director details, annual returns, and statutory documents on the MCA21 portal.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "SEBI SCORES Portal",
+    "skill_category": "Technical",
+    "skill_description": "Filing and tracking investor complaints, disclosure obligations, and regulatory submissions on SEBI's SCORES platform.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "SEBI Intermediary Registration Portal",
+    "skill_category": "Technical",
+    "skill_description": "Registering and renewing SEBI intermediary licences and filing regulatory reports on the SEBI intermediary portal.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "GST Portal (Compliance Filing)",
+    "skill_category": "Technical",
+    "skill_description": "Filing GSTR-1, GSTR-3B, GSTR-9, and annual returns and managing GST compliance on the GST portal.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Income Tax e-Filing Portal",
+    "skill_category": "Technical",
+    "skill_description": "Filing income tax returns, TDS statements, and tax audit reports on the Income Tax Department portal.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "TRACES Portal (TDS Compliance)",
+    "skill_category": "Technical",
+    "skill_description": "Downloading Form 16, reconciling TDS deductions, and filing TDS returns using the TRACES portal.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Udyam Registration Portal (MSME)",
+    "skill_category": "Technical",
+    "skill_description": "Registering MSME units and managing MSME compliance and subsidy entitlements via the Udyam portal.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "IRDAI Portal (Insurance Regulation)",
+    "skill_category": "Technical",
+    "skill_description": "Filing regulatory returns, licence applications, and compliance reports with IRDAI using its online portal.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "RBI XBRL Filing System",
+    "skill_category": "Technical",
+    "skill_description": "Submitting regulatory data and financial reports to the Reserve Bank of India using XBRL reporting format.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "SFIO Portal (Serious Fraud Investigation)",
+    "skill_category": "Technical",
+    "skill_description": "Interacting with SFIO for corporate fraud investigation procedures and document submission requirements.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "CCI e-Filing Portal (Competition Commission)",
+    "skill_category": "Technical",
+    "skill_description": "Filing merger notifications, combination forms, and information against anti-competitive practices with CCI.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "IBBI Portal (Insolvency)",
+    "skill_category": "Technical",
+    "skill_description": "Filing insolvency petitions, claims, and documents on the Insolvency and Bankruptcy Board of India portal.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "NCLT e-Filing Portal",
+    "skill_category": "Technical",
+    "skill_description": "Filing petitions, applications, and documents before the National Company Law Tribunal online.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Court Information System (eCourts)",
+    "skill_category": "Technical",
+    "skill_description": "Tracking case status, hearing dates, and orders across Indian courts using the eCourts mobile and web platform.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "EPFO Employer Portal",
+    "skill_category": "Technical",
+    "skill_description": "Filing monthly ECR contributions, managing PF transfers, and employee account operations on the EPFO portal.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "ESIC Employer Portal",
+    "skill_category": "Technical",
+    "skill_description": "Filing ESI contributions, managing employee registrations, and processing claims on the ESIC employer portal.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Shram Suvidha Portal",
+    "skill_category": "Technical",
+    "skill_description": "Filing labour law compliance returns under CLRA, Contract Labour Act, and other regulations on Shram Suvidha.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Contract Lifecycle Management (CLM) Software",
+    "skill_category": "Technical",
+    "skill_description": "Managing contract drafting, review, execution, and expiry tracking using CLM platforms.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "DocuSign (e-Signing)",
+    "skill_category": "Technical",
+    "skill_description": "Executing legally binding electronic signatures on contracts, agreements, and legal documents using DocuSign.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Leegality (Digital Contracts India)",
+    "skill_category": "Technical",
+    "skill_description": "Executing compliant electronic contracts, NDAs, and agreements under Indian IT Act using Leegality.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "MS Word (Legal Drafting)",
+    "skill_category": "Technical",
+    "skill_description": "Drafting contracts, legal opinions, and regulatory submissions with Track Changes and redlining in MS Word.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "SharePoint (Legal DMS)",
+    "skill_category": "Technical",
+    "skill_description": "Managing legal documents, matter files, and policy registers using SharePoint document management.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "iManage (Document Management)",
+    "skill_category": "Technical",
+    "skill_description": "Managing legal matter files, client documents, and knowledge management using iManage Work.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Zoho Contracts",
+    "skill_category": "Technical",
+    "skill_description": "Managing contract workflows, approvals, and renewals using Zoho's contract management module.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "SAP GRC (Governance, Risk and Compliance)",
+    "skill_category": "Technical",
+    "skill_description": "Managing access controls, risk assessment, and compliance workflows using SAP GRC module.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "MetricStream (GRC Platform)",
+    "skill_category": "Technical",
+    "skill_description": "Managing enterprise governance, risk, and compliance programmes using MetricStream GRC software.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "RSA Archer (GRC)",
+    "skill_category": "Technical",
+    "skill_description": "Implementing integrated risk management, compliance, and audit workflows using RSA Archer GRC platform.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "ServiceNow GRC",
+    "skill_category": "Technical",
+    "skill_description": "Managing policy and compliance workflows, risk registers, and audit management using ServiceNow GRC.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Microsoft Excel (Compliance Tracking)",
+    "skill_category": "Technical",
+    "skill_description": "Managing compliance calendars, regulatory checklists, and risk matrices using advanced Excel.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Microsoft Power BI (Legal Analytics)",
+    "skill_category": "Technical",
+    "skill_description": "Building compliance dashboards, litigation tracking, and regulatory risk reporting using Power BI.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Tally ERP/Prime (Accounts Payable for Compliance)",
+    "skill_category": "Technical",
+    "skill_description": "Managing GST-compliant financial records, TDS entries, and statutory payment tracking using Tally.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Zoho One (SME Compliance)",
+    "skill_category": "Technical",
+    "skill_description": "Managing integrated business compliance, contracts, and entity management for SMEs using Zoho One.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "IPINDIA Patent Database",
+    "skill_category": "Technical",
+    "skill_description": "Searching and tracking Indian patent filings, status, and publications on the IP India patent database.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Trademark Registry e-Filing (IPINDIA)",
+    "skill_category": "Technical",
+    "skill_description": "Filing trademark applications, renewals, and objections on the IP India trademark e-filing portal.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Patent Analysis Tools (Derwent Innovation)",
+    "skill_category": "Technical",
+    "skill_description": "Conducting patent landscape analysis and freedom-to-operate searches using Derwent Innovation.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "WIPO PATENTSCOPE",
+    "skill_category": "Technical",
+    "skill_description": "Searching international PCT patent applications and global IP filings using WIPO's PATENTSCOPE database.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Microsoft Teams (Legal)",
+    "skill_category": "Technical",
+    "skill_description": "Coordinating legal team communications, matter management, and virtual hearings using Microsoft Teams.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Zoom (Virtual Hearings)",
+    "skill_category": "Technical",
+    "skill_description": "Conducting virtual court hearings, client consultations, and regulatory meetings using Zoom.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Adobe Acrobat Pro (Legal PDFs)",
+    "skill_category": "Technical",
+    "skill_description": "Creating, redacting, and managing legal PDFs including court filings and contract mark-ups using Acrobat.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "ChatGPT",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using ChatGPT for drafting legal clauses, contract summaries, regulatory memos, and compliance checklists.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Claude (Anthropic)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Claude for analysing lengthy legal documents, contracts, and regulatory filings and drafting legal content.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Gemini (Google)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Google Gemini for legal research, document drafting, and Google Workspace productivity in legal work.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Perplexity AI",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Perplexity AI for real-time legal research, regulatory updates, and case law research summaries.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Grammarly",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Grammarly to improve precision, grammar, and professional tone of legal documents and correspondence.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Copilot in Word (Microsoft 365)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using AI in Word to draft, summarise, and redline legal contracts and compliance documents.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using AI in Excel to analyse compliance data, build risk matrices, and generate regulatory reports.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Otter.ai",
+    "skill_category": "AI-Tool",
+    "skill_description": "Transcribing legal meetings, client calls, board meetings, and deposition notes using Otter.ai.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Harvey AI (Legal AI)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Harvey AI to accelerate legal research, contract review, and due diligence document analysis.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Companies Act 2013 (India)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on and ensuring compliance with the Companies Act 2013 across incorporation, governance, and disclosures.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Company Incorporation and Registration",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and filing incorporation documents for private, public, and OPC companies under Companies Act 2013.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Memorandum and Articles of Association (MOA/AOA)",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and amending MOA and AOA to reflect company objects, governance structure, and shareholder rights.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Board Meeting and AGM Management",
+    "skill_category": "Domain",
+    "skill_description": "Planning, convening, and minuting board meetings, committees, and annual general meetings per statutory requirements.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Statutory Registers Maintenance",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining statutory registers including member register, director register, and charges register under Companies Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Annual Return Filing (Form MGT-7)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and filing the company's annual return disclosing shareholding, directors, and governance on MCA portal.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Financial Statements Filing (Form AOC-4)",
+    "skill_category": "Domain",
+    "skill_description": "Filing audited financial statements and board report with the Registrar of Companies on MCA portal.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Director KYC (Form DIR-3 KYC)",
+    "skill_category": "Domain",
+    "skill_description": "Filing annual director KYC to maintain director identification numbers and ensure regulatory compliance.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Charge Creation and Modification (Form CHG-1)",
+    "skill_category": "Domain",
+    "skill_description": "Registering, modifying, and satisfying charges on company assets with the Registrar of Companies.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Share Transfer and Allotment",
+    "skill_category": "Domain",
+    "skill_description": "Managing share transfer forms, allotment resolutions, and register updates for private and public companies.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Rights Issue and Private Placement",
+    "skill_category": "Domain",
+    "skill_description": "Complying with the procedural and disclosure requirements for rights issues and private placements under the Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Buyback of Shares",
+    "skill_category": "Domain",
+    "skill_description": "Managing statutory procedures and compliance for company buyback of shares under Companies Act 2013.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Mergers and Acquisitions (M&A) — Legal",
+    "skill_category": "Domain",
+    "skill_description": "Conducting legal due diligence, drafting transaction documents, and managing regulatory filings for M&A deals.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Demerger and Corporate Restructuring",
+    "skill_category": "Domain",
+    "skill_description": "Advising on and implementing demerger schemes, NCLT approvals, and regulatory filings for restructuring.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Related Party Transactions (RPT) Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Reviewing, approving, and disclosing related party transactions per Companies Act and SEBI LODR requirements.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Secretarial Audit (Form MR-3)",
+    "skill_category": "Domain",
+    "skill_description": "Conducting and reporting on secretarial audits of companies required to comply with MCA audit requirements.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Corporate Social Responsibility (CSR) Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring CSR policy, spending, and reporting compliance under Section 135 of the Companies Act 2013.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Registered Office and Address Change",
+    "skill_category": "Domain",
+    "skill_description": "Managing statutory procedures for change of registered office within the same state or across states.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Strike Off and Winding Up of Companies",
+    "skill_category": "Domain",
+    "skill_description": "Managing voluntary strike off, winding up petitions, and NCLT proceedings for company closure.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Limited Liability Partnership (LLP) Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Managing LLP incorporation, partner changes, annual filings, and compliance under the LLP Act 2008.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Foreign Subsidiary and Branch Office Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Managing compliance obligations for foreign company subsidiaries and liaison/branch offices in India.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "SEBI Listing Obligations and Disclosure Requirements (LODR)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring listed companies comply with SEBI LODR regulations for disclosures, governance, and reporting.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "SEBI Takeover Code (SAST Regulations)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on open offer obligations and compliance under SEBI Substantial Acquisition of Shares and Takeovers.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "SEBI Insider Trading Regulations (PIT)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing and monitoring insider trading prevention policies per SEBI Prohibition of Insider Trading Regulations.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "SEBI ICDR Regulations (IPO and FPO)",
+    "skill_category": "Domain",
+    "skill_description": "Managing compliance for public issues and rights issues under SEBI Issue of Capital and Disclosure Requirements.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "BSE and NSE Listing Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Managing stock exchange compliance filings, corporate actions, and intimations with BSE and NSE.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "SEBI (Mutual Funds) Regulations",
+    "skill_category": "Domain",
+    "skill_description": "Advising asset management companies on compliance with SEBI mutual fund regulations and scheme filings.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "SEBI (Alternative Investment Funds) Regulations",
+    "skill_category": "Domain",
+    "skill_description": "Managing AIF registration, reporting, and compliance under SEBI AIF Regulations for private equity funds.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "SEBI (Portfolio Managers) Regulations",
+    "skill_category": "Domain",
+    "skill_description": "Advising portfolio management service providers on SEBI PMS registration and compliance requirements.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "SEBI (Brokers and Sub-Brokers) Regulations",
+    "skill_category": "Domain",
+    "skill_description": "Managing SEBI registration, net worth, and compliance obligations for stock brokers and intermediaries.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Income Tax Act 1961 (India)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on income tax provisions including corporate tax, withholding tax, and exemptions under the Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Goods and Services Tax (GST) Law",
+    "skill_category": "Domain",
+    "skill_description": "Advising on GST applicability, input tax credit, registration, and compliance for businesses in India.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "GST Registration and Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Managing GST registrations, filing GSTR returns, and reconciling ITC for businesses across states.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "GST Audit and Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Preparing for and responding to GST audits, scrutiny notices, and departmental assessments.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "TDS and TCS Provisions (Income Tax)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on and ensuring correct deduction and deposit of TDS and TCS under Income Tax Act provisions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Transfer Pricing (India — Section 92 to 92F)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on arm's length pricing of international transactions and preparing transfer pricing documentation.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Double Taxation Avoidance Agreements (DTAA)",
+    "skill_category": "Domain",
+    "skill_description": "Applying DTAA provisions to advise on treaty benefits, withholding tax rates, and residency provisions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Income Tax Appellate Proceedings",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and arguing income tax appeals before CIT(A), ITAT, High Court, and Supreme Court.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Tax Audit (Section 44AB)",
+    "skill_category": "Domain",
+    "skill_description": "Conducting and reporting tax audits for businesses and professionals under Section 44AB of Income Tax Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Customs Duty and Import-Export Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Advising on customs classification, valuation, and import-export compliance under the Customs Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "FEMA (Foreign Exchange Management)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on foreign exchange transactions, FDI, ODI, and FEMA compliance including RBI reporting.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "RBI Compliance (Banking Regulations)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring banking and NBFC compliance with RBI master circulars, licensing, and prudential norms.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "New Labour Codes (India — 4 Codes)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on and implementing compliance under the four New Labour Codes on Wages, IR, Social Security, and OSH.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Industrial Disputes Act 1947",
+    "skill_category": "Domain",
+    "skill_description": "Advising employers on retrenchment, layoff, closure, and dispute resolution under the Industrial Disputes Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Factories Act 1948 (Labour Law)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring factory operations meet working hours, welfare, and safety requirements under the Factories Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Minimum Wages Act (State-wise)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring statutory minimum wage compliance for employees across applicable state wage notifications.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "POSH Act Compliance (Workplace Sexual Harassment)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing POSH Act framework including ICC formation, policy drafting, training, and complaint management.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Employment Contracts and Service Agreements",
+    "skill_category": "Domain",
+    "skill_description": "Drafting employment agreements, offer letters, and non-compete and confidentiality clauses for Indian employers.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Contract Labour (Regulation and Abolition) Act",
+    "skill_category": "Domain",
+    "skill_description": "Managing principal employer compliance and contractor obligations under the Contract Labour Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Shops and Establishments Act (State-wise)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring compliance with state-specific Shops and Establishments Acts governing working hours and conditions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Maternity Benefit Act 1961",
+    "skill_category": "Domain",
+    "skill_description": "Implementing maternity leave entitlements and benefits for female employees under the Maternity Benefit Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Gratuity (Payment of Gratuity Act 1972)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on gratuity computation, payment obligations, and disputes under the Payment of Gratuity Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "EPFO and ESIC Compliance (Statutory)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring employer PF and ESI registration, contributions, and filing compliance under respective Acts.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Industrial Relations and Dispute Resolution",
+    "skill_category": "Domain",
+    "skill_description": "Managing trade union negotiations, conciliation proceedings, and labour court representations.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Non-Disclosure and Confidentiality Agreements",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and enforcing NDAs and confidentiality agreements for employees, vendors, and business partners.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Whistleblower Policy and Vigil Mechanism",
+    "skill_category": "Domain",
+    "skill_description": "Implementing whistleblower policies and vigil mechanisms as required by Companies Act and SEBI LODR.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Patents Act 1970 (India)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on patent filing, prosecution, enforcement, and licensing under the Patents Act 1970.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Trade Marks Act 1999 (India)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on trademark registration, prosecution, opposition, and infringement under the Trade Marks Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Copyright Act 1957 (India)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on copyright ownership, licensing, infringement, and fair dealing provisions under Indian copyright law.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Designs Act 2000 (India)",
+    "skill_category": "Domain",
+    "skill_description": "Managing industrial design registration and protection proceedings under the Designs Act 2000.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Geographic Indications of Goods Act 1999",
+    "skill_category": "Domain",
+    "skill_description": "Advising on GI registration and protection for Indian products under the Geographic Indications Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "IP Portfolio Management",
+    "skill_category": "Domain",
+    "skill_description": "Tracking and managing a company's patent, trademark, and copyright portfolio for renewals and enforcement.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "IP Due Diligence (Transactions)",
+    "skill_category": "Domain",
+    "skill_description": "Conducting IP due diligence reviews to assess risks and value of intellectual property assets in transactions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Technology Transfer and Licensing Agreements",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and negotiating technology transfer, patent licence, and software licence agreements.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Domain Name Disputes (UDRP, INDRP)",
+    "skill_category": "Domain",
+    "skill_description": "Filing and defending domain name disputes before WIPO and INDRP arbitration panels.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "DPDP Act 2023 (Digital Personal Data Protection)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on and implementing compliance under India's Digital Personal Data Protection Act 2023.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Data Privacy Policy Drafting",
+    "skill_category": "Domain",
+    "skill_description": "Drafting privacy policies, cookie policies, and data processing agreements compliant with DPDP Act and global standards.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "GDPR Compliance (for India-based Global Companies)",
+    "skill_category": "Domain",
+    "skill_description": "Advising Indian companies processing EU personal data on GDPR compliance obligations and mechanisms.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Data Localisation Requirements (India)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on RBI, SEBI, and sectoral data localisation mandates for financial, health, and sensitive personal data.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Information Technology Act 2000 (Cyber Law)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on cyber crime, electronic contracting, digital signatures, and intermediary liability under the IT Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "IT (Amendment) Act and Intermediary Guidelines",
+    "skill_category": "Domain",
+    "skill_description": "Advising social media platforms and digital businesses on IT Rules 2021 compliance and grievance mechanisms.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Cybersecurity Incident Response — Legal",
+    "skill_category": "Domain",
+    "skill_description": "Managing legal obligations including CERT-In reporting, breach notification, and evidence preservation.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Arbitration and Conciliation Act 1996 (India)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on domestic and international arbitration proceedings under the Arbitration and Conciliation Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Commercial Courts Act 2015",
+    "skill_category": "Domain",
+    "skill_description": "Managing commercial dispute filings and proceedings in Commercial Courts under the Commercial Courts Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Mediation and Alternative Dispute Resolution (ADR)",
+    "skill_category": "Domain",
+    "skill_description": "Using mediation, negotiation, and Lok Adalat processes to resolve disputes efficiently.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Civil Procedure Code (CPC) 1908",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and applying CPC provisions for civil suits, injunctions, and enforcement in Indian courts.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Contract Act 1872 (Indian Contract Law)",
+    "skill_category": "Domain",
+    "skill_description": "Applying core contract law principles including offer, acceptance, consideration, breach, and remedies.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Specific Relief Act 1963",
+    "skill_category": "Domain",
+    "skill_description": "Applying Specific Relief Act provisions for specific performance, injunctions, and declaration of rights.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Consumer Protection Act 2019",
+    "skill_category": "Domain",
+    "skill_description": "Advising on consumer rights, e-commerce obligations, and representing clients before Consumer Disputes Redressal Commissions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Court Pleadings and Drafting",
+    "skill_category": "Domain",
+    "skill_description": "Drafting plaints, written statements, petitions, appeals, and interim applications for Indian courts.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Evidence Act 1872 (Indian Evidence)",
+    "skill_category": "Domain",
+    "skill_description": "Applying rules of evidence including admissibility, relevancy, and electronic evidence in Indian proceedings.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Contempt of Court Act 1971",
+    "skill_category": "Domain",
+    "skill_description": "Advising on civil and criminal contempt of court proceedings and compliance with court orders.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Supreme Court and High Court Practice",
+    "skill_category": "Domain",
+    "skill_description": "Filing writ petitions, Special Leave Petitions, and managing appellate proceedings in superior courts.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Legal Research Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Systematically researching statutes, case law, and regulations using online and physical legal resources.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Legal Drafting and Writing",
+    "skill_category": "Foundational",
+    "skill_description": "Writing precise, well-structured legal documents, opinions, contracts, and correspondence.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Analytical Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Applying logical and structured reasoning to interpret complex legal provisions and advise on compliance.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Attention to Detail",
+    "skill_category": "Foundational",
+    "skill_description": "Reviewing legal documents, filings, and regulatory submissions with precision to avoid errors and omissions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Communication Skills (Legal)",
+    "skill_category": "Foundational",
+    "skill_description": "Communicating legal analysis clearly to clients, senior counsel, regulators, and non-legal stakeholders.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Confidentiality and Professional Ethics",
+    "skill_category": "Foundational",
+    "skill_description": "Maintaining attorney-client privilege, confidentiality, and professional ethics per Bar Council norms.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Time Management and Deadline Management",
+    "skill_category": "Foundational",
+    "skill_description": "Managing multiple matters, court deadlines, and statutory filing timelines simultaneously.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Negotiation Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Negotiating contract terms, settlement amounts, and regulatory outcomes on behalf of clients.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Critical Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Evaluating legal arguments, precedents, and statutory provisions critically to find the strongest position.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Teamwork and Collaboration",
+    "skill_category": "Foundational",
+    "skill_description": "Working effectively in legal teams, cross-functional committees, and multi-party transaction teams.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Interpersonal Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Building trusted relationships with clients, regulators, opposing counsel, and internal stakeholders.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Resilience and Stress Management",
+    "skill_category": "Foundational",
+    "skill_description": "Maintaining composure and effectiveness under the pressure of litigation, deadlines, and regulatory crises.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Adaptability",
+    "skill_category": "Foundational",
+    "skill_description": "Adjusting to evolving legal frameworks, new regulations, and changing client needs in the legal profession.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Persuasion and Advocacy",
+    "skill_category": "Foundational",
+    "skill_description": "Constructing and presenting persuasive legal arguments orally and in writing before courts and regulators.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Problem Solving",
+    "skill_category": "Foundational",
+    "skill_description": "Identifying practical legal solutions that balance compliance, commercial viability, and risk management.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Business Acumen (Legal)",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding how legal decisions affect business operations, costs, and commercial strategy.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Continuous Learning (Legal CPD)",
+    "skill_category": "Foundational",
+    "skill_description": "Staying current with legislative amendments, judicial developments, and regulatory changes.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Integrity and Professional Ethics (Legal)",
+    "skill_category": "Foundational",
+    "skill_description": "Upholding the highest professional ethics and standards of conduct as required by the Bar Council of India.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Banking Regulation Act 1949",
+    "skill_category": "Domain",
+    "skill_description": "Advising banks and financial institutions on licensing, prudential norms, and regulatory compliance under the Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "NBFC Regulations (RBI)",
+    "skill_category": "Domain",
+    "skill_description": "Advising non-banking financial companies on RBI registration, capital requirements, and fair practices compliance.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Payment and Settlement Systems Act 2007",
+    "skill_category": "Domain",
+    "skill_description": "Advising payment aggregators, wallets, and fintech companies on NPCI and RBI licensing and compliance.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Prevention of Money Laundering Act (PMLA)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing AML/CFT programmes, KYC policies, and suspicious transaction reporting under PMLA obligations.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Anti-Money Laundering (AML) Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Designing and implementing AML controls, customer due diligence, and financial intelligence unit reporting.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "KYC (Know Your Customer) Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Implementing RBI and SEBI-mandated KYC processes for customer onboarding, verification, and risk categorisation.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Foreign Contribution Regulation Act (FCRA)",
+    "skill_category": "Domain",
+    "skill_description": "Managing FCRA registration, compliance, and reporting for NGOs and entities receiving foreign contributions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Benami Transactions Prohibition Act",
+    "skill_category": "Domain",
+    "skill_description": "Advising on Benami property transactions, acquisition notices, and compliance with the Prohibition Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Black Money Act (Undisclosed Foreign Income)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on compliance and proceedings under the Black Money (Undisclosed Foreign Income) Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "IBC (Insolvency and Bankruptcy Code 2016)",
+    "skill_category": "Domain",
+    "skill_description": "Advising creditors, debtors, and resolution professionals on IBC proceedings, resolution plans, and liquidation.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Corporate Insolvency Resolution Process (CIRP)",
+    "skill_category": "Domain",
+    "skill_description": "Managing CIRP proceedings including petition filing, IRP appointment, committee of creditors, and resolution plan.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Environment Protection Act 1986 (India)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on environmental compliance, consent to establish/operate, and regulatory requirements under the Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Forest Rights Act and Wildlife Protection",
+    "skill_category": "Domain",
+    "skill_description": "Advising on forest clearances, wildlife sanctuary obligations, and tribal rights in environmental law.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Real Estate Regulation (RERA 2016)",
+    "skill_category": "Domain",
+    "skill_description": "Advising developers, buyers, and agents on RERA registration, disclosures, and dispute resolution.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Telecom Regulatory Compliance (TRAI, DoT)",
+    "skill_category": "Domain",
+    "skill_description": "Advising telecom operators on TRAI regulations, spectrum licensing, and DoT compliance obligations.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Food Safety Compliance (FSSAI)",
+    "skill_category": "Domain",
+    "skill_description": "Advising food businesses on FSSAI licensing, labelling, and compliance with Food Safety Standards Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Drug and Cosmetics Act (Pharma Regulatory)",
+    "skill_category": "Domain",
+    "skill_description": "Advising pharmaceutical and cosmetic companies on CDSCO approval, manufacturing licence, and compliance.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Medical Device Regulation (MDR India)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on medical device registration, import, and manufacturing compliance under MDR 2017.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Competition Law (Competition Act 2002)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on anti-competitive agreements, abuse of dominance, and merger control under the Competition Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "CCI Merger Control Filing",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and filing merger notifications with CCI and managing competition clearance for transactions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Advertising Standards (ASCI Compliance)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on advertising compliance with ASCI self-regulatory code and consumer protection regulations.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Media and Broadcasting Regulation (MIB, TRAI)",
+    "skill_category": "Domain",
+    "skill_description": "Advising media companies on MIB and TRAI licensing, content regulation, and broadcast compliance.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Mining Laws (MMDR Act, Forest Clearance)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on mineral concessions, lease renewals, and compliance under MMDR Act and related laws.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Electricity Regulatory Compliance (CERC, SERC)",
+    "skill_category": "Domain",
+    "skill_description": "Advising power companies on CERC and SERC licensing, tariff petitions, and regulatory compliance.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Corporate Governance (SEBI and Companies Act)",
+    "skill_category": "Domain",
+    "skill_description": "Advising boards on governance best practices, committee mandates, and compliance with governance codes.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Board and Committee Advisory",
+    "skill_category": "Domain",
+    "skill_description": "Supporting audit, nomination, remuneration, and CSR committees with legal and secretarial advisory services.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Independent Director Obligations",
+    "skill_category": "Domain",
+    "skill_description": "Advising independent directors on their fiduciary duties, disclosure obligations, and liability under the Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Insider Trading Policy Implementation",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and operationalising insider trading codes of conduct and trading window procedures.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Statutory Compliance Calendar Management",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining and tracking all regulatory and statutory compliance due dates for company secretarial obligations.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Regulatory Filing Calendar (MCA, SEBI, RBI)",
+    "skill_category": "Domain",
+    "skill_description": "Managing the regulatory filing calendar across MCA, SEBI, RBI, and sector-specific regulators for corporate entities.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Corporate Policies Drafting",
+    "skill_category": "Domain",
+    "skill_description": "Drafting internal corporate policies including code of conduct, anti-bribery, diversity, and sustainability policies.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "ESG Legal and Regulatory Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Advising on Environmental, Social, and Governance regulatory requirements including SEBI BRSR and sustainability reporting.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "BRSR Compliance (Business Responsibility and Sustainability)",
+    "skill_category": "Domain",
+    "skill_description": "Managing SEBI-mandated BRSR reporting for listed companies covering ESG performance and disclosures.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Anti-Bribery and Anti-Corruption Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Implementing anti-bribery programmes, third-party due diligence, and compliance with the Prevention of Corruption Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Code of Conduct and Ethics Programme",
+    "skill_category": "Domain",
+    "skill_description": "Developing, communicating, and monitoring corporate code of conduct and ethics training programmes.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Compliance Risk Assessment and Mapping",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, mapping, and rating compliance risks across business units and regulatory obligations.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Contract Drafting and Review",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and reviewing commercial contracts including supply agreements, services agreements, and JV agreements.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Non-Disclosure Agreement (NDA) Drafting",
+    "skill_category": "Domain",
+    "skill_description": "Drafting mutual and unilateral NDAs with appropriate scope, duration, and remedies for commercial use.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Joint Venture and Shareholders' Agreement",
+    "skill_category": "Domain",
+    "skill_description": "Drafting joint venture agreements, shareholders' agreements, and governance frameworks for equity arrangements.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Distribution and Franchise Agreements",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and reviewing distribution, dealer, agency, and franchise agreements for Indian market operations.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Service Level Agreement (SLA) Review",
+    "skill_category": "Domain",
+    "skill_description": "Reviewing and negotiating SLAs for IT, outsourcing, and vendor service contracts to protect client interests.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Vendor and Supplier Contracts",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and managing procurement contracts, purchase orders, and supplier agreements with standard protections.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Real Estate and Lease Agreements",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and reviewing commercial lease agreements, lease deeds, and leave-and-licence arrangements.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Loan and Security Documentation",
+    "skill_category": "Domain",
+    "skill_description": "Drafting facility agreements, security documents, pledge deeds, and guarantee documents for lending transactions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Legal Due Diligence",
+    "skill_category": "Domain",
+    "skill_description": "Conducting comprehensive legal due diligence covering corporate, IP, regulatory, and litigation status for transactions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Force Majeure and Material Adverse Change Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Advising on force majeure, MAC, and hardship clauses and their invocation in commercial contracts.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Indemnity and Limitation of Liability Clauses",
+    "skill_category": "Domain",
+    "skill_description": "Negotiating and drafting indemnification, insurance, and liability caps in commercial agreements.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Stamp Duty and Document Registration",
+    "skill_category": "Domain",
+    "skill_description": "Advising on stamp duty applicability, rates, and registration requirements for various instruments under state laws.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Prevention of Corruption Act 1988",
+    "skill_category": "Domain",
+    "skill_description": "Advising on anti-corruption compliance obligations for public servants and companies under the Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Limitation Act 1963 (India)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on limitation periods for filing suits, appeals, and applications before Indian courts and tribunals.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Transfer of Property Act 1882",
+    "skill_category": "Domain",
+    "skill_description": "Advising on property transfers, mortgages, leases, and charges under the Transfer of Property Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Registration Act 1908",
+    "skill_category": "Domain",
+    "skill_description": "Advising on compulsory and optional document registration requirements under the Registration Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Constitutional Law Fundamentals",
+    "skill_category": "Domain",
+    "skill_description": "Applying fundamental rights, directive principles, and constitutional provisions in legal advisory work.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Administrative Law and Judicial Review",
+    "skill_category": "Domain",
+    "skill_description": "Advising on writ jurisdiction, natural justice, and judicial review of administrative decisions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Public Interest Litigation (PIL)",
+    "skill_category": "Domain",
+    "skill_description": "Filing and managing PILs before High Courts and Supreme Court on matters of public interest.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Criminal Procedure Code (CrPC 1973)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on criminal procedure, FIR, bail, and arrest provisions under the CrPC applicable to corporate clients.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Bharatiya Nyaya Sanhita 2023 (BNS)",
+    "skill_category": "Domain",
+    "skill_description": "Applying the new Bharatiya Nyaya Sanhita provisions replacing IPC for criminal law advisory in India.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "National Company Law Tribunal (NCLT) Practice",
+    "skill_category": "Domain",
+    "skill_description": "Filing and managing matters before NCLT including M&A approvals, oppression petitions, and insolvency.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Securities Appellate Tribunal (SAT) Practice",
+    "skill_category": "Domain",
+    "skill_description": "Filing and arguing appeals before SAT against SEBI orders and adjudicating officer proceedings.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Income Tax Appellate Tribunal (ITAT) Practice",
+    "skill_category": "Domain",
+    "skill_description": "Representing taxpayers before ITAT in income tax appeals against CIT(A) and assessment orders.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Telecom Disputes Settlement and Appellate Tribunal (TDSAT)",
+    "skill_category": "Domain",
+    "skill_description": "Filing telecom disputes and appeals against TRAI orders before TDSAT.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Taxmann (Tax Research Database)",
+    "skill_category": "Technical",
+    "skill_description": "Researching Indian tax law, rules, circulars, and judicial decisions using Taxmann's research platform.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "BSE and NSE Disclosure Portals",
+    "skill_category": "Technical",
+    "skill_description": "Submitting corporate action disclosures, financial results, and board decisions on BSE and NSE portals.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "CDSL and NSDL Depository Portals",
+    "skill_category": "Technical",
+    "skill_description": "Managing dematerialisation, share transfers, and corporate actions through CDSL and NSDL depository systems.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "ROC Filings and MCA V3 Portal",
+    "skill_category": "Technical",
+    "skill_description": "Managing Registrar of Companies statutory filings on the latest MCA V3 portal for company law compliance.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Bloomberg Law (International)",
+    "skill_category": "Technical",
+    "skill_description": "Accessing international legal analysis, M&A data, and cross-border regulatory research using Bloomberg Law.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Relativity (eDiscovery)",
+    "skill_category": "Technical",
+    "skill_description": "Managing electronic discovery, document review, and legal hold processes using Relativity eDiscovery platform.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Epiq (Legal Technology)",
+    "skill_category": "Technical",
+    "skill_description": "Managing class action administration, eDiscovery, and legal outsourcing projects using Epiq legal technology.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Luminance (AI Legal Review)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Luminance AI to review, analyse, and extract key data from legal contracts and due diligence documents.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Notarial and Apostille Processing",
+    "skill_category": "Technical",
+    "skill_description": "Managing notarisation, apostille, and document legalisation for cross-border transactions and submissions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Report Writing (Legal and Compliance)",
+    "skill_category": "Foundational",
+    "skill_description": "Writing structured legal opinions, compliance reports, and regulatory briefings for clients and management.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Presentation and Communication (Legal)",
+    "skill_category": "Foundational",
+    "skill_description": "Presenting legal and compliance findings to boards, management committees, and regulatory authorities.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Leadership and People Management (Legal)",
+    "skill_category": "Foundational",
+    "skill_description": "Leading junior legal team members, paralegals, and compliance officers in a law firm or in-house team.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Stakeholder Management",
+    "skill_category": "Foundational",
+    "skill_description": "Managing relationships with clients, boards, regulators, opposing counsel, and internal business units.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Cultural Sensitivity (India — Legal)",
+    "skill_category": "Foundational",
+    "skill_description": "Navigating India's linguistic and cultural diversity in client interactions and legal proceedings.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Strategic Thinking (Legal and Commercial)",
+    "skill_category": "Foundational",
+    "skill_description": "Connecting legal strategy with business objectives to provide commercially sound and risk-balanced advice.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Self-Management and Initiative",
+    "skill_category": "Foundational",
+    "skill_description": "Managing personal workloads, meeting deadlines, and proactively advancing matter progression.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Bilingual Proficiency (Hindi and English)",
+    "skill_category": "Foundational",
+    "skill_description": "Conducting legal proceedings, drafting documents, and client communication in both Hindi and English.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Digital Literacy (Legal Tech)",
+    "skill_category": "Foundational",
+    "skill_description": "Comfortably using legal research databases, e-filing portals, and GRC tools in daily legal practice.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Emotional Intelligence (Legal Context)",
+    "skill_category": "Foundational",
+    "skill_description": "Managing personal emotions and responding empathetically during client crises, contentious disputes, and negotiations.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Statutory Compliance Audit",
+    "skill_category": "Domain",
+    "skill_description": "Conducting comprehensive statutory compliance audits across corporate, tax, labour, and environmental obligations.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Third-Party Risk and Vendor Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Assessing and managing third-party compliance risks including vendor due diligence and contractual safeguards.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Regulatory Response and Show Cause Notice",
+    "skill_category": "Domain",
+    "skill_description": "Preparing responses to regulatory show cause notices, adjudication proceedings, and penalty orders.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Regulatory Liaison and Government Affairs",
+    "skill_category": "Domain",
+    "skill_description": "Managing proactive liaison with regulators, government departments, and industry bodies on compliance matters.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Regulatory Horizon Scanning",
+    "skill_category": "Domain",
+    "skill_description": "Monitoring upcoming regulatory changes and advising internal teams on compliance impact and preparation steps.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Compliance Training and Legal Awareness Programmes",
+    "skill_category": "Domain",
+    "skill_description": "Designing and delivering compliance training for employees on GST, labour law, data privacy, and corporate governance.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Legal Audit and Health Check",
+    "skill_category": "Domain",
+    "skill_description": "Conducting legal health checks for businesses to identify compliance gaps, pending filings, and unregistered contracts.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Sanctions Screening and Export Controls",
+    "skill_category": "Domain",
+    "skill_description": "Screening customers and transactions against OFAC, UN, and Indian sanctions lists and managing export control compliance.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Anti-Bribery and FCPA / UKBA Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Advising Indian companies on FCPA and UK Bribery Act compliance for international business operations.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Goods in Transit and Cargo Insurance",
+    "skill_category": "Domain",
+    "skill_description": "Reviewing commercial transit insurance policies and advising on cargo liability under trade law.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Supply Chain Legal Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Managing legal compliance across supply chains including vendor contracts, customs, and labour standards.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Term Sheet Drafting and Negotiation",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and negotiating investment term sheets for seed, Series A, and later-stage VC and PE transactions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Share Subscription Agreement (SSA)",
+    "skill_category": "Domain",
+    "skill_description": "Drafting share subscription agreements for equity investment rounds in Indian startups and companies.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Share Holders Agreement (SHA) Drafting",
+    "skill_category": "Domain",
+    "skill_description": "Drafting shareholders' agreements covering governance, reserved matters, exit rights, and anti-dilution.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Preferred Stock and Liquidation Preference",
+    "skill_category": "Domain",
+    "skill_description": "Advising on preferred share structures, liquidation waterfall, anti-dilution, and investor rights provisions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "FEMA and FDI Compliance for Investments",
+    "skill_category": "Domain",
+    "skill_description": "Managing FEMA filings, FDI reporting, and RBI approvals for foreign equity investments into India.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Offshore Structure and Mauritius / Singapore Tax Treaties",
+    "skill_category": "Domain",
+    "skill_description": "Advising on offshore fund structures and treaty benefits under India-Mauritius and India-Singapore DTAA.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Escrow Arrangements",
+    "skill_category": "Domain",
+    "skill_description": "Advising on and drafting escrow arrangements for M&A transactions, earnout arrangements, and milestone payments.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Post-Merger Integration (Legal)",
+    "skill_category": "Domain",
+    "skill_description": "Managing legal integration workstreams including contract novation, IP transfer, and regulatory re-registration.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Representations, Warranties, and Indemnities (RWI)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on transaction representations, warranties, indemnities, and W&I insurance for M&A deals.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Investment Agreement Review (DPIIT / FDI Policy)",
+    "skill_category": "Domain",
+    "skill_description": "Reviewing investment agreements for alignment with DPIIT FDI policy and automatic vs approval route conditions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Fintech Regulatory Compliance (RBI Sandbox)",
+    "skill_category": "Domain",
+    "skill_description": "Advising fintech companies on RBI regulatory sandbox applications and compliance requirements for new products.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Account Aggregator Framework (India)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on compliance with the RBI Account Aggregator framework for financial data sharing.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "UPI and Digital Payments Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Advising payment service providers on NPCI UPI guidelines, merchant compliance, and dispute resolution.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "BNPL and Lending App Compliance (RBI)",
+    "skill_category": "Domain",
+    "skill_description": "Advising BNPL and digital lending platforms on RBI's digital lending guidelines, fall disclosures, and KYC.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "E-Commerce Legal Compliance (Consumer Protection)",
+    "skill_category": "Domain",
+    "skill_description": "Advising e-commerce platforms on Consumer Protection Act, product liability, and return policy requirements.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Social Media Intermediary Compliance (IT Rules 2021)",
+    "skill_category": "Domain",
+    "skill_description": "Advising platforms on Significant Social Media Intermediary (SSMI) obligations under IT Rules 2021.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Online Gaming Compliance (India)",
+    "skill_category": "Domain",
+    "skill_description": "Advising online gaming companies on Central and State regulations, GST on gaming, and PMLA compliance.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Cryptocurrency and Virtual Digital Assets (VDA) Regulation",
+    "skill_category": "Domain",
+    "skill_description": "Advising on TDS on VDA, PMLA reporting, and regulatory requirements for crypto exchanges under Indian law.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Healthcare Legal Compliance (Clinical Establishments Act)",
+    "skill_category": "Domain",
+    "skill_description": "Advising hospitals and healthcare providers on Clinical Establishment Act, NABH, and healthcare law.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Education Regulatory Compliance (UGC, AICTE)",
+    "skill_category": "Domain",
+    "skill_description": "Advising educational institutions on UGC, AICTE, and state education regulatory compliance requirements.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Aviation Regulatory Compliance (DGCA)",
+    "skill_category": "Domain",
+    "skill_description": "Advising airlines and aviation businesses on DGCA regulations, aircraft registration, and operator certification.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Shipping and Maritime Law",
+    "skill_category": "Domain",
+    "skill_description": "Advising on Merchant Shipping Act, port regulations, bills of lading, and maritime dispute resolution.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Construction and Infrastructure Law",
+    "skill_category": "Domain",
+    "skill_description": "Advising construction companies on RERA, EPC contract disputes, FIDIC, and government contract compliance.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "PPP (Public Private Partnership) Contracts",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and advising on PPP concession agreements, risk allocation, and government contract disputes.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Demand Notice and Negotiation Before Litigation",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and responding to demand notices and legal notices as a precursor to formal dispute proceedings.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Legal Notice Reply and Pre-litigation Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Advising clients on response strategy to legal notices and pre-litigation dispute resolution options.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Cross-Border Transactions and International Law",
+    "skill_category": "Domain",
+    "skill_description": "Advising on cross-border commercial transactions, international arbitration, and applicable law clauses.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Extradition and Mutual Legal Assistance Treaties (MLAT)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on extradition proceedings and MLAT requests in cross-border criminal and enforcement matters.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Contempt and Enforcement of Decrees",
+    "skill_category": "Domain",
+    "skill_description": "Managing decree execution proceedings, attachment, and contempt applications to enforce court orders.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Appeal and Revision Drafting (Civil and Tax)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and filing first appeals, second appeals, and revision applications in civil and tax matters.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Compounding Offences (MCA, SEBI, RBI)",
+    "skill_category": "Domain",
+    "skill_description": "Filing compounding applications with MCA, SEBI, and RBI for minor regulatory non-compliances.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Legal Metrology Act 2009",
+    "skill_category": "Domain",
+    "skill_description": "Advising on product packaging, labelling, and weight compliance under the Legal Metrology Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Chartered Secretary (CS) Examination Knowledge",
+    "skill_category": "Domain",
+    "skill_description": "Applying ICSI curriculum including company law, taxation, and secretarial practice in professional work.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Bar Council of India Rules (Advocate Conduct)",
+    "skill_category": "Domain",
+    "skill_description": "Adhering to Bar Council professional conduct rules governing advocate duties, fees, and client relations.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Digilocker (India)",
+    "skill_category": "Technical",
+    "skill_description": "Using DigiLocker for accessing and sharing government-issued digital documents for compliance verification.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "e-Stamp Portal (SHCIL / State)",
+    "skill_category": "Technical",
+    "skill_description": "Purchasing electronic stamp papers for legal instruments through SHCIL and state e-stamp portals.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "ROC Public Search (MCA Portal)",
+    "skill_category": "Technical",
+    "skill_description": "Searching company registration details, director information, and filing history on the public MCA portal.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "CERSAI Portal (Security Interest Registry)",
+    "skill_category": "Technical",
+    "skill_description": "Searching and registering security interests in property and assets under SARFAESI on the CERSAI portal.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "SARFAESI Act Portal and e-DRT",
+    "skill_category": "Technical",
+    "skill_description": "Managing SARFAESI enforcement actions and filing applications before Debt Recovery Tribunals.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "National Judicial Data Grid (NJDG)",
+    "skill_category": "Technical",
+    "skill_description": "Monitoring case pendency, orders, and court scheduling data across Indian courts using NJDG.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Zoho Sign (e-Signature India)",
+    "skill_category": "Technical",
+    "skill_description": "Executing legally compliant electronic signatures on contracts and legal documents using Zoho Sign.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Corpository (Company Data India)",
+    "skill_category": "Technical",
+    "skill_description": "Accessing MCA-sourced company data, director networks, and compliance history using Corpository platform.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "GSTN Analytics Portal",
+    "skill_category": "Technical",
+    "skill_description": "Accessing GST analytics, e-invoice data, and return reconciliation tools on the GSTN taxpayer portal.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Active Listening (Legal Context)",
+    "skill_category": "Foundational",
+    "skill_description": "Listening carefully to clients, witnesses, and opposing parties to fully understand facts and legal needs.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Mentoring and Knowledge Sharing (Legal)",
+    "skill_category": "Foundational",
+    "skill_description": "Guiding junior associates and legal trainees through case strategy, research, and professional development.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Cross-Functional Collaboration",
+    "skill_category": "Foundational",
+    "skill_description": "Working effectively with finance, HR, operations, and business teams to embed compliance in all functions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Creativity and Innovative Problem Solving (Legal)",
+    "skill_category": "Foundational",
+    "skill_description": "Developing creative legal structures and arguments that balance commercial needs with regulatory compliance.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Growth Mindset and Learning Agility",
+    "skill_category": "Foundational",
+    "skill_description": "Embracing change in laws and regulation and continuously acquiring new legal and compliance competencies.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Client Service and Client Management",
+    "skill_category": "Foundational",
+    "skill_description": "Delivering high-quality legal service, managing client expectations, and ensuring client satisfaction.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Risk-Based Thinking (Legal)",
+    "skill_category": "Foundational",
+    "skill_description": "Prioritising legal activities by risk impact to focus resources on the most critical compliance obligations.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Professionalism and Client Confidentiality",
+    "skill_category": "Foundational",
+    "skill_description": "Maintaining strict confidentiality, professional conduct, and lawyer-client privilege in all legal engagements.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Securities Law and Capital Markets Regulation",
+    "skill_category": "Domain",
+    "skill_description": "Advising on securities issuances, market manipulation, front-running, and SEBI enforcement actions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Debt Capital Markets (DCM) — Legal",
+    "skill_category": "Domain",
+    "skill_description": "Advising on bond issuances, debenture trust deeds, and listed debt instrument compliance with SEBI and RBI.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Commercial Real Estate Transactions",
+    "skill_category": "Domain",
+    "skill_description": "Advising on commercial property purchase, mortgage creation, title verification, and REITs.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Title Search and Property Due Diligence",
+    "skill_category": "Domain",
+    "skill_description": "Conducting property title searches, encumbrance searches, and chain of title verification for real estate.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Rent Control and Tenancy Laws (State-wise)",
+    "skill_category": "Domain",
+    "skill_description": "Advising landlords and tenants on state-specific rent control legislation, eviction, and tenancy renewal.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Succession Laws (Hindu, Muslim, Indian Succession Act)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on Hindu Succession Act, Indian Succession Act, and personal law inheritance and testamentary matters.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Family Law and Matrimonial Disputes",
+    "skill_category": "Domain",
+    "skill_description": "Advising on divorce, maintenance, custody, and property disputes under Hindu Marriage Act and CRPC.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Power of Attorney Drafting and Registration",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and registering general and specific powers of attorney for legal and business transactions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Wills and Estate Planning",
+    "skill_category": "Domain",
+    "skill_description": "Drafting wills, setting up trusts, and advising on estate planning strategies under Indian succession law.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Trust Law and Trust Deed Drafting",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and advising on private trusts, charitable trusts, and trust deed registration under the Trusts Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Private Limited Company vs LLP — Advisory",
+    "skill_category": "Domain",
+    "skill_description": "Advising entrepreneurs on the legal, tax, and operational differences between Pvt Ltd companies and LLPs.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Startup Legal Advisory (DPIIT Recognition)",
+    "skill_category": "Domain",
+    "skill_description": "Advising startups on DPIIT recognition, Startup India benefits, founder agreements, and equity structuring.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "ESOP Policy Drafting",
+    "skill_category": "Domain",
+    "skill_description": "Drafting ESOP plans and trust structures for Indian companies to attract and retain key talent.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Vesting Schedule and Founder Agreements",
+    "skill_category": "Domain",
+    "skill_description": "Advising on founder vesting, IP assignment, and co-founder dispute resolution for early-stage companies.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Section 8 Company (Non-Profit) Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Managing incorporation, FCRA, 80G/12A registration, and compliance for Section 8 not-for-profit companies.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Pre-Trial Preparation and Case Management",
+    "skill_category": "Domain",
+    "skill_description": "Organising case files, evidence, witness lists, and legal arguments for trial or arbitration proceedings.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Deposition and Witness Statement Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing client witnesses, drafting affidavits, and organising deposition logistics for disputes.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Document Review and eDiscovery (India)",
+    "skill_category": "Domain",
+    "skill_description": "Reviewing documents for privilege, relevance, and responsiveness in litigation and investigation support.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Legal Opinion Writing",
+    "skill_category": "Domain",
+    "skill_description": "Writing structured legal opinions on specific questions of law for clients, courts, and regulators.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Compliance Memoranda and Policy Notes",
+    "skill_category": "Domain",
+    "skill_description": "Drafting clear compliance memoranda translating complex regulations into actionable business guidance.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Settlement Agreements and Consent Terms",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and negotiating settlement agreements, consent terms, and compromise deeds for dispute resolution.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Consent Orders and Undertakings (Regulatory)",
+    "skill_category": "Domain",
+    "skill_description": "Negotiating and implementing consent orders, undertakings, and settlement arrangements with SEBI, RBI.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "External Investigation and Forensic Legal Support",
+    "skill_category": "Domain",
+    "skill_description": "Supporting external investigations including forensic audits, evidence collection, and regulatory defence.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Internal Investigations and Disciplinary Proceedings",
+    "skill_category": "Domain",
+    "skill_description": "Managing internal investigations for fraud, harassment, and misconduct with appropriate legal safeguards.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Goods and Services Tax (GST) — Input Tax Credit (ITC)",
+    "skill_category": "Domain",
+    "skill_description": "Managing ITC eligibility, blocked credits, and GSTR-2B reconciliation for GST compliance.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "GST Refund Claims",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and filing GST refund applications for exporters, SEZ supplies, and inverted duty structure.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "GST E-Invoicing Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Implementing and managing GST e-invoicing requirements for businesses above the mandatory threshold.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "E-Way Bill Management",
+    "skill_category": "Domain",
+    "skill_description": "Generating and managing e-way bills for goods movement to ensure GST transit compliance.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "MAT and AMT Provisions",
+    "skill_category": "Domain",
+    "skill_description": "Advising on Minimum Alternate Tax and Alternate Minimum Tax implications for companies and LLPs.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Advance Ruling (Tax — AAR, AAAR)",
+    "skill_category": "Domain",
+    "skill_description": "Filing applications for Advance Ruling and AAAR to obtain certainty on tax treatment of transactions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Tax Treaties and BEPS Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Advising on Base Erosion Profit Shifting compliance, country-by-country reporting, and BEPS pillars.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "GST Litigation and Appeal (GSTAT)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing GST appeals before appellate authority, GSTAT, and High Court for disputed tax demands.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Corporate Tax Planning",
+    "skill_category": "Domain",
+    "skill_description": "Advising on tax-efficient business structures, depreciation claims, and deduction strategies under the Income Tax Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Deferred Tax and Ind AS 12 (Tax Accounting)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on deferred tax accounting, temporary differences, and Ind AS 12 Income Taxes treatment.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Environmental Clearance and EIA Procedure",
+    "skill_category": "Domain",
+    "skill_description": "Managing EIA process, public hearings, MoEFCC clearance, and EC monitoring compliance.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "CPCB and SPCB Consent to Operate",
+    "skill_category": "Domain",
+    "skill_description": "Obtaining and renewing Consent to Establish and Consent to Operate from State Pollution Control Boards.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Carbon Credits and Voluntary Carbon Market (India)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on India's Carbon Credit Trading Scheme, BEE, and voluntary carbon market participation.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Secretarial Standards (SS-1 and SS-2)",
+    "skill_category": "Domain",
+    "skill_description": "Applying ICSI Secretarial Standards SS-1 (Board Meetings) and SS-2 (General Meetings) in company secretarial work.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Postal Ballot and e-Voting",
+    "skill_category": "Domain",
+    "skill_description": "Managing postal ballot, e-voting procedures, and scrutiniser appointment for company special resolutions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Annual Report Drafting (Directors' Report)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing Directors' Report, corporate governance report, and management discussion sections of annual reports.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Risk Management Committee (Listed Companies)",
+    "skill_category": "Domain",
+    "skill_description": "Establishing and supporting the Risk Management Committee as mandated by SEBI LODR for listed companies.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Remuneration Committee and Key Managerial Personnel",
+    "skill_category": "Domain",
+    "skill_description": "Advising on NRC committee, KMP appointment, remuneration policy, and executive pay compliance.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Board Evaluation Framework",
+    "skill_category": "Domain",
+    "skill_description": "Designing and conducting formal board evaluation processes as required under Companies Act and governance codes.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Cross-Border Merger and Inbound/Outbound M&A",
+    "skill_category": "Domain",
+    "skill_description": "Managing cross-border merger approvals under NCLT, FEMA, RBI, and Competition Commission in India.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Preferential Allotment (SEBI ICDR)",
+    "skill_category": "Domain",
+    "skill_description": "Managing preferential allotment of shares including pricing, lock-in periods, and BSE/NSE intimation.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "ESOP Compliance (Companies Act and SEBI)",
+    "skill_category": "Domain",
+    "skill_description": "Managing ESOP scheme filings, employee disclosures, and compliance with Companies Act and SEBI ESOP Guidelines.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Compulsory Convertible Instruments (CCD, CCPS)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on structuring and compliance for CCDs and CCPS under FEMA, Companies Act, and SEBI.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Foreign Listing and Overseas Direct Investment (ODI)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on ODI under FEMA, overseas subsidiary setup, and foreign listing on ADR/GDR platforms.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Virtual Data Room (VDR) Management",
+    "skill_category": "Technical",
+    "skill_description": "Managing secure virtual data rooms for M&A due diligence, investor access control, and transaction document distribution.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Intralinks (VDR for Legal)",
+    "skill_category": "Technical",
+    "skill_description": "Managing secure virtual data rooms for M&A, fundraising, and board document distribution using Intralinks.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Litera (Legal Document Comparison)",
+    "skill_category": "Technical",
+    "skill_description": "Comparing contract redlines and document versions for changes during negotiation using Litera Transact.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Exterro (Legal Hold)",
+    "skill_category": "Technical",
+    "skill_description": "Managing legal hold notifications, data preservation, and eDiscovery workflows using Exterro.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Power Automate (Compliance Workflows)",
+    "skill_category": "Technical",
+    "skill_description": "Automating compliance reminders, approval workflows, and regulatory filing notifications using Power Automate.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Clio (Legal Practice Management)",
+    "skill_category": "Technical",
+    "skill_description": "Managing client matters, billing, and calendaring using Clio legal practice management software.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Attention to Regulatory Change",
+    "skill_category": "Foundational",
+    "skill_description": "Proactively monitoring regulatory amendments, circulars, and judicial decisions to keep compliance current.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Accountability and Ownership (Legal)",
+    "skill_category": "Foundational",
+    "skill_description": "Taking personal responsibility for legal deliverables, filing deadlines, and matter management without prompting.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Decision Making Under Uncertainty (Legal)",
+    "skill_category": "Foundational",
+    "skill_description": "Making sound legal recommendations even in areas of legal ambiguity, regulatory silence, or conflicting precedents.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Process Orientation (Legal Workflows)",
+    "skill_category": "Foundational",
+    "skill_description": "Following structured legal processes for due diligence, compliance review, and matter management consistently.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Networking and Professional Community (Legal)",
+    "skill_category": "Foundational",
+    "skill_description": "Building professional networks through bar associations, ICSI, and legal industry events.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Judgment and Sound Discretion",
+    "skill_category": "Foundational",
+    "skill_description": "Exercising sound professional judgment in assessing legal risks, advising clients, and escalating critical issues.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Persuasive Writing (Legal Arguments)",
+    "skill_category": "Foundational",
+    "skill_description": "Constructing well-reasoned, logically structured legal arguments in written submissions and opinions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Data Literacy (Legal Analytics)",
+    "skill_category": "Foundational",
+    "skill_description": "Interpreting compliance data, litigation metrics, and regulatory trends to support evidence-based legal decisions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Standing Orders (Certified)",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and certifying standing orders governing employment terms for industrial and commercial establishments.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Domestic Enquiry and Disciplinary Proceedings",
+    "skill_category": "Domain",
+    "skill_description": "Conducting domestic enquiry proceedings, framing charges, and drafting enquiry reports for misconduct cases.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Conciliation and Labour Court Practice",
+    "skill_category": "Domain",
+    "skill_description": "Representing management or labour in conciliation proceedings and labour courts under Industrial Disputes Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Workmen's Compensation and ESIC Claims",
+    "skill_category": "Domain",
+    "skill_description": "Advising on compensation for occupational injuries and managing ESIC dispute proceedings.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Equal Remuneration Act Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring equal pay for equal work irrespective of gender and maintaining applicable registers.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Apprentices Act 1961 Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Advising on apprenticeship contracts, stipends, and compliance with the Apprentices Act obligations.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Inter-State Migrant Workmen Act Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring compliance for employing interstate migrant workers including registration and welfare provisions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Building and Other Construction Workers Act (BOCW)",
+    "skill_category": "Domain",
+    "skill_description": "Managing welfare fund contributions and compliance for construction workers under the BOCW Act 1996.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Professional Tax Compliance (State-wise)",
+    "skill_category": "Domain",
+    "skill_description": "Computing and remitting professional tax per state-specific slabs and maintaining compliance records.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Labour Welfare Fund (LWF) Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Contributing to state Labour Welfare Fund and maintaining compliance under applicable state Acts.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Fixed-Term Employment Regulations",
+    "skill_category": "Domain",
+    "skill_description": "Advising on fixed-term employment contracts with benefit parity under the Industrial Relations Code 2020.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Gig Worker and Platform Worker Regulations (India)",
+    "skill_category": "Domain",
+    "skill_description": "Advising platforms on emerging gig worker regulations and social security requirements under the Social Security Code.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Industrial Relations Code 2020",
+    "skill_category": "Domain",
+    "skill_description": "Advising on the consolidated Industrial Relations Code covering recognition, disputes, and retrenchment provisions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Social Security Code 2020",
+    "skill_category": "Domain",
+    "skill_description": "Advising on expanded social security benefits including gig workers under the Social Security Code 2020.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Code on Wages 2019",
+    "skill_category": "Domain",
+    "skill_description": "Advising on minimum wage, bonus, and equal remuneration obligations under the Code on Wages 2019.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Securitisation and Reconstruction (SARFAESI)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on secured creditor enforcement, NPA recovery, and DRT proceedings under SARFAESI Act 2002.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Debt Recovery Tribunal (DRT) Practice",
+    "skill_category": "Domain",
+    "skill_description": "Filing and managing debt recovery applications and possession petitions before Debt Recovery Tribunals.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Loan Documentation and Security Creation",
+    "skill_category": "Domain",
+    "skill_description": "Drafting term loan agreements, hypothecation deeds, pledge, and charge documents for lending transactions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Mortgage and Property Financing Legal",
+    "skill_category": "Domain",
+    "skill_description": "Advising on equitable and registered mortgages, title verification, and property financing documentation.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Micro Finance Legal Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Advising MFIs on RBI regulatory requirements, interest rate caps, and compliance for microfinance operations.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Account Freeze and Attachment Orders",
+    "skill_category": "Domain",
+    "skill_description": "Managing income tax, ED, and CBI attachment and freeze orders on bank accounts and assets.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Enforcement Directorate (ED) Proceedings",
+    "skill_category": "Domain",
+    "skill_description": "Advising on FEMA and PMLA proceedings before the Enforcement Directorate including attachment and prosecution.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Central Bureau of Investigation (CBI) Matters",
+    "skill_category": "Domain",
+    "skill_description": "Advising clients on CBI investigations, anticipatory bail, and corporate fraud defence.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Income Tax Search and Seizure",
+    "skill_category": "Domain",
+    "skill_description": "Advising clients during income tax search operations and managing post-search assessment and settlement.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Foreign Trade Policy (DGFT Compliance)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on EXIM Policy, DGFT licences, advance authorisations, and duty exemption compliance.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Special Economic Zone (SEZ) Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Advising SEZ units on FEMA, customs, and SEZ-specific compliance and reporting obligations.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Anti-Dumping and Trade Remedy Law",
+    "skill_category": "Domain",
+    "skill_description": "Advising on anti-dumping duty proceedings, safeguard measures, and trade remedy investigations in India.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Export Control and Dual-Use Goods (SCOMET)",
+    "skill_category": "Domain",
+    "skill_description": "Managing SCOMET list compliance and export authorisations for dual-use goods and strategic items.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "International Commercial Arbitration (ICC, LCIA, SIAC)",
+    "skill_category": "Domain",
+    "skill_description": "Managing international commercial arbitrations under ICC, LCIA, SIAC, and MCIA institutional rules.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "International Treaties and Investment Law (BIT)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on bilateral investment treaties, investor-state arbitration, and Indian BIT claims.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "WTO Dispute Settlement and Trade Law",
+    "skill_category": "Domain",
+    "skill_description": "Advising on WTO agreements, trade dispute mechanisms, and India's obligations under GATT/TRIPS/GATS.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Enterprise Risk Management (ERM) Legal",
+    "skill_category": "Domain",
+    "skill_description": "Supporting ERM frameworks by identifying legal, regulatory, and compliance risks for board reporting.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Fraud Prevention and Detection (Legal)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on fraud risk management, legal controls, and coordination with SFIO and ED investigations.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Board Resolution and Special Resolution Drafting",
+    "skill_category": "Domain",
+    "skill_description": "Drafting board and shareholder resolutions for corporate actions, appointments, and major business decisions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Dividend Policy and Distribution Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Advising on dividend declarations, interim dividends, and IEPF transfer compliance for companies.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Investor Relations Legal Support",
+    "skill_category": "Domain",
+    "skill_description": "Supporting investor communication, quarterly disclosures, and shareholder query management for listed companies.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Promoter Pledging and Lock-In Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Managing SEBI disclosures for promoter share pledging, lock-in periods, and creeping acquisition compliance.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Stock Option and Employee Benefit Plan Taxation",
+    "skill_category": "Domain",
+    "skill_description": "Advising employees on ESOP tax treatment, perquisite tax, and disclosure obligations under Income Tax Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Pharmaceutical Patent Litigation",
+    "skill_category": "Domain",
+    "skill_description": "Managing patent validity challenges, evergreening disputes, and Section 3(d) proceedings in pharma patents.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Compulsory Licensing (Patent Act India)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on compulsory licence applications under Section 84 and Section 92 of the Patents Act 1970.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Trade Secret Protection",
+    "skill_category": "Domain",
+    "skill_description": "Advising on confidentiality agreements, trade secret policies, and misappropriation claims under Indian contract law.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Brand Protection and Anti-Counterfeiting",
+    "skill_category": "Domain",
+    "skill_description": "Managing trademark enforcement, customs recordal, and anti-counterfeiting raids and seizures.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Patent Prosecution Before IPO (India)",
+    "skill_category": "Domain",
+    "skill_description": "Managing patent application prosecution including response to examination reports and hearings at IPO.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "PCT National Phase Filing (India)",
+    "skill_category": "Domain",
+    "skill_description": "Managing PCT national phase entry in India including formal compliance and substantive examination.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "LexisNexis (Contract Intelligence)",
+    "skill_category": "Technical",
+    "skill_description": "Using LexisNexis contract intelligence tools to analyse and benchmark contract clauses.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Clarivate (IP Research Tools)",
+    "skill_category": "Technical",
+    "skill_description": "Using Clarivate Derwent, CompuMark, and CPA Global tools for IP portfolio management and research.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "IP Management Software (Anaqua, Dennemeyer)",
+    "skill_category": "Technical",
+    "skill_description": "Managing global IP portfolio deadlines, renewals, and prosecution using Anaqua or Dennemeyer IP software.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "CASEmine (AI Legal Research India)",
+    "skill_category": "Technical",
+    "skill_description": "Conducting AI-powered Indian case law research and case prediction using CASEmine platform.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "NCLT e-Filing and Case Tracking Portal",
+    "skill_category": "Technical",
+    "skill_description": "Filing insolvency applications and tracking proceedings on the National Company Law Tribunal's e-filing portal.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "ThoughtRiver (AI Contract Review)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using ThoughtRiver AI to accelerate contract playbook review, risk flagging, and clause extraction.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Ethical Conduct in Legal Practice",
+    "skill_category": "Foundational",
+    "skill_description": "Adhering to the Advocates Act 1961 and Bar Council conduct rules governing legal professional ethics.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Commercial Awareness and Industry Knowledge",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding the industries served — fintech, pharma, manufacturing, startups — to provide commercially relevant legal advice.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Deadline and Filing Management",
+    "skill_category": "Foundational",
+    "skill_description": "Tracking and managing all court, tribunal, and regulatory filing deadlines with zero tolerance for lateness.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Brevity and Precision in Legal Writing",
+    "skill_category": "Foundational",
+    "skill_description": "Writing legal documents that are concise, unambiguous, and structured to avoid interpretation disputes.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Cross-Cultural and Multilingual Client Interaction",
+    "skill_category": "Foundational",
+    "skill_description": "Engaging clients, counterparts, and regulators from diverse linguistic and cultural backgrounds in India.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Proactive Risk Identification",
+    "skill_category": "Foundational",
+    "skill_description": "Identifying hidden legal risks in contracts, corporate structures, and business plans before they materialise.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Legal Technology Adoption",
+    "skill_category": "Foundational",
+    "skill_description": "Embracing AI research tools, e-filing portals, and CLM software to improve legal service quality and speed.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Regulatory Sensitivity and Tact",
+    "skill_category": "Foundational",
+    "skill_description": "Navigating regulatory interactions with appropriate deference, transparency, and professional judgment.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Arbitral Award Enforcement",
+    "skill_category": "Domain",
+    "skill_description": "Managing execution of domestic and international arbitral awards including Section 36 enforcement proceedings.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "International Arbitration (UNCITRAL Rules)",
+    "skill_category": "Domain",
+    "skill_description": "Managing ad hoc international arbitration under UNCITRAL rules and advising on procedural matters.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Emergency Arbitrator and Interim Relief",
+    "skill_category": "Domain",
+    "skill_description": "Applying for emergency arbitrator appointments and interim injunctions in institutional arbitrations.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Third Party Funding in Arbitration",
+    "skill_category": "Domain",
+    "skill_description": "Advising on third party funding arrangements for international arbitration claims and funding agreements.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Regulatory Sandbox Applications",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and managing regulatory sandbox applications to SEBI, RBI, and IRDAI for new fintech products.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Central KYC Registry (CKYC)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing CKYC compliance requirements for financial institutions and managing CKYC record maintenance.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "MSME Dispute Resolution (SAMADHAAN)",
+    "skill_category": "Domain",
+    "skill_description": "Filing and managing MSME payment disputes on the SAMADHAAN portal for delayed payment resolution.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Personal Insolvency and Debt Resolution (IBC Part III)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on personal insolvency proceedings under IBC Part III for individuals and partnership firms.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Force Majeure and Frustration of Contract Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Advising on force majeure, material adverse change, and frustration of contract provisions in commercial agreements.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Employer Brand and Non-Poaching Agreements",
+    "skill_category": "Domain",
+    "skill_description": "Advising on the enforceability of non-compete, non-poaching, and garden leave clauses under Indian law.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Joint Developmental Agreements (JDA)",
+    "skill_category": "Domain",
+    "skill_description": "Drafting joint development agreements for real estate projects between landowners and developers.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Housing Society Law (Cooperative Societies)",
+    "skill_category": "Domain",
+    "skill_description": "Advising housing cooperative societies on management, member disputes, and state cooperative society law.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Startup Compliance Calendar (Annual Filings)",
+    "skill_category": "Domain",
+    "skill_description": "Managing the annual compliance calendar for startups covering MCA, GST, income tax, and labour law filings.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Cross-Examination and Witness Management",
+    "skill_category": "Domain",
+    "skill_description": "Preparing cross-examination strategies and conducting witness examination in civil and commercial proceedings.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Regulatory Compounding and Settlement Schemes",
+    "skill_category": "Domain",
+    "skill_description": "Managing compounding applications and participating in SEBI, RBI, and MCA settlement schemes.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Consent Mechanism (SEBI)",
+    "skill_category": "Domain",
+    "skill_description": "Negotiating and implementing SEBI consent orders for companies and intermediaries facing regulatory proceedings.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Notarial Practice and Public Notary",
+    "skill_category": "Domain",
+    "skill_description": "Performing notarial acts including attestation, authentication, and certified copies for official documents.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Bail and Anticipatory Bail Applications",
+    "skill_category": "Domain",
+    "skill_description": "Filing regular bail and anticipatory bail applications in Sessions Courts and High Courts for criminal matters.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Cyber Crime Reporting and Digital Evidence",
+    "skill_category": "Domain",
+    "skill_description": "Advising on cyber crime FIR filing, digital evidence preservation, and Cyber Cell reporting procedures.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Media Law and Defamation",
+    "skill_category": "Domain",
+    "skill_description": "Advising on defamation, right to privacy, and content liability under Indian media and IT law.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Sports Law and Contracts (India)",
+    "skill_category": "Domain",
+    "skill_description": "Advising sportspersons, clubs, and boards on contracts, sponsorship, image rights, and sports regulation.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Entertainment and Film Industry Contracts",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and reviewing production agreements, talent contracts, distribution deals, and OTT licensing.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Drone Regulations (DGCA — India)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on DGCA drone regulations, UAS type certification, remote pilot licensing, and operator permissions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "AI Governance and Emerging Tech Regulation",
+    "skill_category": "Domain",
+    "skill_description": "Advising on AI governance frameworks, liability for AI decisions, and regulatory developments in AI regulation.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Legal Project Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing legal matters with project management disciplines including scope, budget, milestones, and reporting.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Legal Operations (LegalOps)",
+    "skill_category": "Domain",
+    "skill_description": "Optimising in-house legal team efficiency through processes, technology, and data-driven performance management.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Licensing Agreements (General)",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and reviewing software, franchise, and content licensing agreements for commercial transactions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Indemnity Bond and Surety Bond",
+    "skill_category": "Domain",
+    "skill_description": "Drafting indemnity bonds, surety bonds, and guarantee letters for government and commercial compliance.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Lok Adalat and Pre-Litigation Settlement",
+    "skill_category": "Domain",
+    "skill_description": "Using Lok Adalat and MSME SAMADHAAN for cost-effective pre-litigation settlement of disputes.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Regulatory Litigation Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Developing proactive litigation strategies for regulatory proceedings before NCLT, SAT, ITAT, and High Courts.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Due Diligence Report Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing structured legal due diligence reports covering red flags, deal risks, and recommended conditions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Term Loan and Project Finance — Legal",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and advising on project finance documentation including facility agreements, conditions precedent, and security packages.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Debenture Trustee Agreement",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and managing debenture trustee agreements for debt issuances under Companies Act and SEBI LODR.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Letter of Credit and Bank Guarantee (Legal)",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and advising on letters of credit, bank guarantees, and standby LC disputes under UCP 600 and Indian law.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Revenue Stamp and Non-Judicial Stamp Paper",
+    "skill_category": "Domain",
+    "skill_description": "Advising on correct stamp duty payment and document execution on non-judicial stamp paper under state stamp acts.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Digital Signature Certificate (DSC) Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Managing digital signature certificate issuance, renewal, and usage compliance under the IT Act for MCA filings.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Tax Deduction and Collection Account Number (TAN) Portal",
+    "skill_category": "Technical",
+    "skill_description": "Managing TAN registration, TDS challan payments, and filing Form 24Q, 26Q, 27Q on the TRACES/TIN portal.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "CLM Software (Ironclad, Juro)",
+    "skill_category": "Technical",
+    "skill_description": "Automating contract drafting, approval workflows, and expiry alerts using Ironclad or Juro CLM platforms.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "National e-Governance Services Ltd (NeSL)",
+    "skill_category": "Technical",
+    "skill_description": "Registering information utilities and managing loan documentation on NeSL under IBC requirements.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "CGTMSE Portal (MSME Credit Guarantee)",
+    "skill_category": "Technical",
+    "skill_description": "Filing credit guarantee applications and managing CGTMSE coverage for MSME loans on the CGTMSE portal.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "AML Software (Actimize, NICE)",
+    "skill_category": "Technical",
+    "skill_description": "Configuring and operating AML transaction monitoring and sanctions screening using NICE Actimize or similar tools.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Notarial Attestation e-Platform",
+    "skill_category": "Technical",
+    "skill_description": "Processing notarial attestations and apostille applications through MEA and state portal for overseas use.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Reading Speed and Comprehension (Legal)",
+    "skill_category": "Foundational",
+    "skill_description": "Efficiently reading and comprehending large volumes of legal documents, filings, and regulatory texts.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Record Keeping and Filing Discipline",
+    "skill_category": "Foundational",
+    "skill_description": "Maintaining organised, retrievable, and complete files for matters, clients, and regulatory submissions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Professional Networking (Legal Community)",
+    "skill_category": "Foundational",
+    "skill_description": "Building relationships within the legal profession through bar associations, alumni networks, and industry events.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Influencing Without Authority (Legal Context)",
+    "skill_category": "Foundational",
+    "skill_description": "Gaining organisational compliance with legal requirements from business units without formal reporting authority.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Multitasking and Matter Management",
+    "skill_category": "Foundational",
+    "skill_description": "Simultaneously managing multiple client matters, regulatory deadlines, and litigation without quality compromise.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Fact Investigation and Fact Analysis",
+    "skill_category": "Foundational",
+    "skill_description": "Methodically gathering, organising, and analysing factual evidence to build strong legal positions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Structured Legal Reasoning (IRAC Method)",
+    "skill_category": "Foundational",
+    "skill_description": "Applying Issue-Rule-Application-Conclusion legal reasoning to analyse and communicate legal positions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Empathy and Client Sensitivity",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding and responding to clients' emotional and commercial needs during legal disputes and regulatory crises.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Regulatory Impact Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Assessing the business and operational impact of new regulations on company operations and advising on adaptation strategy.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Legal Privilege and Waiver",
+    "skill_category": "Domain",
+    "skill_description": "Advising on legal professional privilege, waiver risks, and protecting privileged communications in investigations.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Document Retention Policy",
+    "skill_category": "Domain",
+    "skill_description": "Designing and implementing document retention and destruction policies compliant with Indian legal requirements.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Regulatory Sanctions and Enforcement Actions",
+    "skill_category": "Domain",
+    "skill_description": "Managing responses to regulatory sanctions, show-cause notices, and enforcement proceedings from SEBI, RBI, MCA.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Corporate Veil and Liability of Directors",
+    "skill_category": "Domain",
+    "skill_description": "Advising on circumstances for piercing the corporate veil and personal liability of directors under Companies Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "EPC and Turnkey Contract Disputes",
+    "skill_category": "Domain",
+    "skill_description": "Advising on disputes arising from engineering, procurement, and construction contracts including FIDIC disputes.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Right to Information Act 2005 (RTI)",
+    "skill_category": "Domain",
+    "skill_description": "Filing RTI applications and managing first and second appeals under the Right to Information Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Lokpal and Grievance Mechanism (India)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding Lokpal jurisdiction, public grievance portals, and anti-corruption reporting mechanisms.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Trademark Watching and Surveillance",
+    "skill_category": "Domain",
+    "skill_description": "Implementing trademark watching services to detect conflicting filings and monitor brand use.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Passing Off Actions (Common Law Trademark)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on passing off claims for unregistered marks and managing passing off proceedings in India.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Voluntary Disclosure Scheme (Tax)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on voluntary disclosure opportunities and settlement schemes offered by income tax authorities.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Green Bond and Sustainability-Linked Instruments",
+    "skill_category": "Domain",
+    "skill_description": "Advising on SEBI Green Bond disclosure requirements and sustainability-linked bond framework compliance.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Corporate Bonds and Debentures — Legal Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Advising on NCD issuance, bond documentation, listing, and SEBI compliance for debt capital market transactions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Commodity Derivative Compliance (SEBI)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on SEBI commodity derivatives regulations, position limits, and compliance for commodity market participants.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Mutual Fund and AIF Documentation",
+    "skill_category": "Domain",
+    "skill_description": "Drafting Scheme Information Documents, Key Information Memoranda, and Private Placement Memoranda for funds.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Consumer Court Practice (State and National)",
+    "skill_category": "Domain",
+    "skill_description": "Filing and defending cases before State and National Consumer Disputes Redressal Commissions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Insurance Contract Law (India)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on insurance policy interpretation, repudiation disputes, and IRDAI regulatory compliance for insurers.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Reinsurance Contracts and Marine Insurance",
+    "skill_category": "Domain",
+    "skill_description": "Drafting reinsurance treaty agreements and advising on marine cargo and hull insurance documentation.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Employee Provident Fund — Exempted Establishment",
+    "skill_category": "Domain",
+    "skill_description": "Managing PF trust compliance for exempted establishments under the EPF Act and EPFO exemption conditions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Aadhaar and eKYC Legal Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Advising on Aadhaar authentication, eKYC use cases, and compliance with UIDAI regulations and DPDP Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Privacy by Design in Legal Tech",
+    "skill_category": "Domain",
+    "skill_description": "Embedding privacy considerations into legal technology implementations under DPDP Act principles.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Consent Framework (DPDP Act Implementation)",
+    "skill_category": "Domain",
+    "skill_description": "Designing lawful consent mechanisms, consent notices, and withdrawal procedures under DPDP Act 2023.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Digital Will and Electronic Testament",
+    "skill_category": "Domain",
+    "skill_description": "Advising on validity and best practices for digital wills and electronic testamentary documents under Indian law.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Preventive Legal Advice and Risk Avoidance",
+    "skill_category": "Domain",
+    "skill_description": "Providing proactive legal advice to prevent disputes, regulatory breaches, and contractual conflicts.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Legal Benchmarking and Best Practice Research",
+    "skill_category": "Domain",
+    "skill_description": "Researching and applying legal industry best practices and comparative jurisdiction analysis for client advice.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Conciliation under the Consumer Protection Act",
+    "skill_category": "Domain",
+    "skill_description": "Using mediation and conciliation mechanisms under the Consumer Protection Act for early dispute settlement.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "SEBI Annual Report and Compliance Review",
+    "skill_category": "Domain",
+    "skill_description": "Conducting annual reviews of SEBI compliance status for listed companies to identify and address lapses.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Authorised Representative and POA in Proceedings",
+    "skill_category": "Domain",
+    "skill_description": "Acting as authorised representative or power of attorney holder in tax, regulatory, and court proceedings.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Legal Entity Identifier (LEI) Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Obtaining and renewing Legal Entity Identifiers for corporate entities as required by RBI and SEBI.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "FSSAI Legal Metrology and Labelling Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring food product labels comply with FSSAI and Legal Metrology Act requirements for packaging and ingredients.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "FSSAI Licensing Portal",
+    "skill_category": "Technical",
+    "skill_description": "Obtaining and renewing FSSAI Food Business Operator licences on the FSSAI portal for food-sector clients.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Startup India Portal (DPIIT Recognition)",
+    "skill_category": "Technical",
+    "skill_description": "Managing DPIIT startup recognition applications and accessing Startup India scheme benefits on the portal.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "APEDA and Export Registration Portals",
+    "skill_category": "Technical",
+    "skill_description": "Registering agricultural exporters and managing RCMC certificates on APEDA's online portal.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Maharashtra GRAS / State e-Stamp Portals",
+    "skill_category": "Technical",
+    "skill_description": "Purchasing state-specific e-stamps and managing document stamp duty compliance on government e-stamp portals.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Indian Patent Office e-Filing",
+    "skill_category": "Technical",
+    "skill_description": "Filing patent applications, status tracking, and correspondence management on the IPO e-filing portal.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "National Consumer Helpline (NCH) Portal",
+    "skill_category": "Technical",
+    "skill_description": "Filing and tracking consumer complaints on the National Consumer Helpline portal for consumer law matters.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "MSME Samadhaan Portal",
+    "skill_category": "Technical",
+    "skill_description": "Filing delayed payment applications for MSME suppliers against buyers using the MSME SAMADHAAN portal.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Compliance Calendar Software (India)",
+    "skill_category": "Technical",
+    "skill_description": "Managing statutory compliance due dates and regulatory filing deadlines for Indian companies using compliance calendar tools.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Docket Manager (Indian Courts)",
+    "skill_category": "Technical",
+    "skill_description": "Tracking case filing dates, hearing schedules, and deadline alerts for Indian court and tribunal matters.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Thomson Reuters Practical Law India",
+    "skill_category": "Technical",
+    "skill_description": "Accessing standard form precedents, legal guides, and practice notes for Indian corporate and commercial law using Practical Law.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Director Disqualification Provisions (Section 164)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on director disqualification grounds under Section 164 and managing restoration of DIN compliance.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Debenture Redemption Reserve (DRR) Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring compliance with DRR requirements under Companies Act for non-convertible debentures issued to public.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Preference Shares — Rights and Redemption Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Managing preference share issuance, dividend arrears, and redemption compliance under Companies Act 2013.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Legal Practice Management Software (India)",
+    "skill_category": "Technical",
+    "skill_description": "Managing legal matters, time billing, client records, and calendaring using Indian law firm practice management systems.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Shareholding Pattern Disclosure (Regulation 31 SEBI LODR)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and filing quarterly shareholding pattern disclosures with stock exchanges per SEBI LODR Regulation 31.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "SEBI Circular Monitoring and Implementation",
+    "skill_category": "Domain",
+    "skill_description": "Tracking new SEBI circulars, master circulars, and orders and implementing compliance changes for listed companies.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "SEBI (Depositories and Participants) Regulations",
+    "skill_category": "Domain",
+    "skill_description": "Advising depository participants and investors on SEBI Depositories and Participants Regulations for dematerialisation.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Tax Residency Certificate (TRC) and DTAA Benefits",
+    "skill_category": "Domain",
+    "skill_description": "Obtaining and applying TRCs from foreign tax authorities to claim DTAA treaty benefits on cross-border payments.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Form 15CA and 15CB (Foreign Remittance Compliance)",
+    "skill_category": "Domain",
+    "skill_description": "Filing Form 15CA declarations and obtaining Form 15CB CA certificates for foreign remittances under Income Tax Rules.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Equalisation Levy (Digital Tax India)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on equalisation levy obligations on digital advertising and e-commerce services under Finance Act 2016.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Faceless Assessment and E-Assessment Scheme (IT)",
+    "skill_category": "Domain",
+    "skill_description": "Managing income tax assessments under the Faceless Assessment Scheme including e-proceedings and responses.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Child and Adolescent Labour (Prohibition and Regulation) Act",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring compliance with child labour prohibition laws and minimum age requirements in workplaces.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "CERT-In Reporting Obligations (Cyber Breach)",
+    "skill_category": "Domain",
+    "skill_description": "Managing mandatory 6-hour incident reporting to CERT-In and coordinating breach notifications under IT Rules.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Data Fiduciary and Data Principal Obligations (DPDP)",
+    "skill_category": "Domain",
+    "skill_description": "Advising data fiduciaries on consent, purpose limitation, and data principal rights under DPDP Act 2023.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Privacy Impact Assessment (PIA)",
+    "skill_category": "Domain",
+    "skill_description": "Conducting privacy impact assessments for new products, services, and data processing activities under DPDP Act.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Mediation Act 2023 (India)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on India's Mediation Act 2023 establishing a statutory framework for pre-litigation and online mediation.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Online Dispute Resolution (ODR)",
+    "skill_category": "Domain",
+    "skill_description": "Using ODR platforms for resolving e-commerce, financial, and consumer disputes without physical court proceedings.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Debt Recovery Appellate Tribunal (DRAT) Practice",
+    "skill_category": "Domain",
+    "skill_description": "Filing and managing appeals before Debt Recovery Appellate Tribunal against DRT orders in debt recovery matters.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Internal Financial Controls (IFC) Reporting",
+    "skill_category": "Domain",
+    "skill_description": "Advising on and reporting on internal financial controls over financial reporting as required under Companies Act 2013.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Common Reporting Standard (CRS) and FATCA Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Implementing CRS automatic exchange of information and FATCA reporting obligations for Indian financial institutions.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Foreign Asset Disclosure (Schedule FA — ITR)",
+    "skill_category": "Domain",
+    "skill_description": "Advising resident Indians on disclosing foreign assets, accounts, and income in Schedule FA of income tax returns.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "eCourt Tracking (National Judicial Data Grid)",
+    "skill_category": "Technical",
+    "skill_description": "Monitoring case listing dates, orders, and court updates across Indian district and High Courts using NJDG.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Pro Bono Legal Service",
+    "skill_category": "Foundational",
+    "skill_description": "Providing free legal services to underserved communities as a professional obligation and Bar Council duty.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Law Firm Business Development",
+    "skill_category": "Foundational",
+    "skill_description": "Building client relationships, cross-selling practice areas, and developing new business for a law firm.",
+    "job_families": [
+      8
+    ]
+  },
+  {
+    "skill_name": "Legal Translation and Regional Language Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Translating legal documents between English and regional Indian languages for courts, clients, and filings.",
+    "job_families": [
+      8
+    ]
+  }
+]

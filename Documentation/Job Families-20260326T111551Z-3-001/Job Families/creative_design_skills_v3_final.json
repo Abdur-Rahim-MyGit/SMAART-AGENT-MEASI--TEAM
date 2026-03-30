@@ -1,0 +1,2978 @@
+[
+  {
+    "skill_name": "Adobe Photoshop",
+    "skill_category": "Technical",
+    "skill_description": "Using Photoshop for photo retouching, compositing, digital painting, and creating raster graphics for print and digital media.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Adobe Illustrator",
+    "skill_category": "Technical",
+    "skill_description": "Creating vector graphics, logos, icons, brand identity elements, and illustration artwork for scalable print and digital use.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Adobe InDesign",
+    "skill_category": "Technical",
+    "skill_description": "Designing multi-page publications, brochures, catalogues, books, and marketing collateral with professional typographic layout.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Adobe After Effects",
+    "skill_category": "Technical",
+    "skill_description": "Creating motion graphics, visual effects, and animated content for broadcast, film, and digital media production.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Adobe Premiere Pro",
+    "skill_category": "Technical",
+    "skill_description": "Editing video footage, colour grading, and assembling broadcast-quality video content for advertising and media.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Adobe Acrobat",
+    "skill_category": "Technical",
+    "skill_description": "Creating, editing, and managing PDF documents for client presentations, regulatory submissions, and print-ready artwork.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Figma",
+    "skill_category": "Technical",
+    "skill_description": "Designing collaborative UI/UX interfaces, component libraries, and interactive prototypes for digital product teams.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Sketch",
+    "skill_category": "Technical",
+    "skill_description": "Designing user interfaces and digital product screens using Sketch's vector-based design tools and symbol libraries.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "CorelDRAW",
+    "skill_category": "Technical",
+    "skill_description": "Creating vector illustrations, technical drawings, and layout designs widely used in Indian printing and signage industries.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "AutoCAD",
+    "skill_category": "Technical",
+    "skill_description": "Producing 2D architectural drawings, technical plans, and construction documents for buildings and interior spaces.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "AutoCAD Architecture",
+    "skill_category": "Technical",
+    "skill_description": "Using AutoCAD Architecture's building-specific tools to create annotated floor plans, sections, and elevation drawings.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Revit",
+    "skill_category": "Technical",
+    "skill_description": "Building information modelling for architecture, structure, and MEP systems using Autodesk Revit for coordinated project delivery.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "SketchUp",
+    "skill_category": "Technical",
+    "skill_description": "Creating 3D architectural models, interior layouts, and conceptual design visualisations for client presentations.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Rhino 3D",
+    "skill_category": "Technical",
+    "skill_description": "Modelling complex freeform 3D geometries for architecture, product design, and computational design workflows.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "3ds Max",
+    "skill_category": "Technical",
+    "skill_description": "Creating detailed 3D architectural visualisations, product renderings, and animation for design presentations.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Lumion",
+    "skill_category": "Technical",
+    "skill_description": "Producing real-time 3D architectural renders and walkthrough animations for client presentations and design reviews.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "V-Ray",
+    "skill_category": "Technical",
+    "skill_description": "Rendering photorealistic 3D visuals for architecture and interior design using V-Ray's physically-based lighting engine.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Enscape",
+    "skill_category": "Technical",
+    "skill_description": "Generating real-time architectural renders and VR walkthroughs directly from Revit or SketchUp models.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Blender",
+    "skill_category": "Technical",
+    "skill_description": "Using Blender's open-source 3D toolset for modelling, animation, sculpting, and rendering for design and media projects.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Cinema 4D",
+    "skill_category": "Technical",
+    "skill_description": "Creating 3D motion graphics, product visualisations, and animated design content for broadcast and advertising.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Zeplin",
+    "skill_category": "Technical",
+    "skill_description": "Generating design specifications and assets from Figma or Sketch files for developer handoff in digital product teams.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Canva",
+    "skill_category": "Technical",
+    "skill_description": "Creating social media graphics, presentations, and marketing materials using Canva's template-based design platform.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Procreate",
+    "skill_category": "Technical",
+    "skill_description": "Creating digital illustrations, concept art, and hand-lettering on iPad using Procreate's professional drawing tools.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Affinity Designer",
+    "skill_category": "Technical",
+    "skill_description": "Designing vector and raster graphics, illustrations, and UI elements using Affinity Designer as an Adobe alternative.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Affinity Photo",
+    "skill_category": "Technical",
+    "skill_description": "Editing and retouching photographs and creating composites using Affinity Photo's professional imaging tools.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "DaVinci Resolve",
+    "skill_category": "Technical",
+    "skill_description": "Editing video, performing professional colour grading, and mixing audio for film, advertising, and digital media projects.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Lightroom",
+    "skill_category": "Technical",
+    "skill_description": "Organising, culling, colour-correcting, and batch-processing photography using Adobe Lightroom (cloud-based) for commercial, editorial, and architectural photography workflows.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Grasshopper",
+    "skill_category": "Technical",
+    "skill_description": "Developing parametric and computational design scripts in Grasshopper within Rhino for algorithmic architecture and facades.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "ArchiCAD",
+    "skill_category": "Technical",
+    "skill_description": "Creating BIM-based architectural models, drawings, and documentation using Graphisoft ArchiCAD for project delivery.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Navisworks",
+    "skill_category": "Technical",
+    "skill_description": "Performing clash detection, project review, and 4D simulation across multidisciplinary BIM models.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Vectorworks",
+    "skill_category": "Technical",
+    "skill_description": "Producing architectural drawings and landscape design plans using Vectorworks' CAD and BIM capabilities.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Photoshop Lightroom Classic",
+    "skill_category": "Technical",
+    "skill_description": "Managing large local photography libraries, applying non-destructive edits, and preparing images for print and digital publication using the desktop-based Lightroom Classic.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Substance Painter",
+    "skill_category": "Technical",
+    "skill_description": "Applying PBR texture maps and surface materials to 3D models for realistic product and architectural visualisation.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Keyshot",
+    "skill_category": "Technical",
+    "skill_description": "Rendering photorealistic product visualisations and turntable animations for industrial and packaging design presentations.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "SolidWorks",
+    "skill_category": "Technical",
+    "skill_description": "Creating precise 3D models and engineering drawings for industrial product design and manufacturing documentation.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Fusion 360",
+    "skill_category": "Technical",
+    "skill_description": "Designing and simulating 3D product models with CAD/CAM capabilities for industrial and product design workflows.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Adobe Audition",
+    "skill_category": "Technical",
+    "skill_description": "Recording, editing, and mixing audio for video production, podcasts, and multimedia design projects.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Final Cut Pro",
+    "skill_category": "Technical",
+    "skill_description": "Editing professional video content for advertising, film, and digital media using Apple's Final Cut Pro.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Hand Sketching and Ideation Drawing",
+    "skill_category": "Domain",
+    "skill_description": "Rapidly communicating design concepts through freehand sketches, perspective drawings, and thumbnail ideation.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Technical Drawing and Drafting",
+    "skill_category": "Domain",
+    "skill_description": "Producing accurate orthographic projections, sections, and detail drawings conforming to IS 962 and Bureau of Indian Standards drafting conventions.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Physical Model Making",
+    "skill_category": "Domain",
+    "skill_description": "Constructing scale architectural and product models using cardboard, foam, wood, or 3D-printed components for design review.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "3D Printing",
+    "skill_category": "Technical",
+    "skill_description": "Preparing STL files and operating FDM or SLA 3D printers to produce design prototypes and architectural models.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Laser Cutting",
+    "skill_category": "Domain",
+    "skill_description": "Operating laser cutting machines to fabricate precision scale models, signage, and design prototypes.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Photography",
+    "skill_category": "Domain",
+    "skill_description": "Capturing architectural, product, editorial, and event photography with professional camera equipment and studio lighting.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Videography",
+    "skill_category": "Domain",
+    "skill_description": "Planning, shooting, and editing video content for brand films, product showcases, and design documentation.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Typography",
+    "skill_category": "Domain",
+    "skill_description": "Selecting, pairing, and setting type with correct hierarchy, spacing, and readability for print and digital applications.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Colour Theory",
+    "skill_category": "Domain",
+    "skill_description": "Applying colour harmonies, cultural colour associations, and psychological effects of colour in design and branding.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Layout and Composition",
+    "skill_category": "Domain",
+    "skill_description": "Organising visual elements using grid systems, white space, alignment, and hierarchy for effective graphic communication.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Logo Design",
+    "skill_category": "Domain",
+    "skill_description": "Conceiving and refining wordmarks, pictorial marks, and combination marks that represent brand identity.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Visual Identity Systems",
+    "skill_category": "Domain",
+    "skill_description": "Developing and documenting comprehensive brand standards — logos, wordmarks, colour palettes, typography, imagery rules, and layout principles — for consistent multi-channel brand communication.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Packaging Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing product packaging with structural dielines, visual graphics, and regulatory compliance labelling for Indian FSSAI and BIS requirements.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Print Production Knowledge",
+    "skill_category": "Domain",
+    "skill_description": "Preparing print-ready artwork with correct bleeds, colour profiles, resolution, and preflight checks for Indian print vendors.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Offset Printing Process",
+    "skill_category": "Domain",
+    "skill_description": "Understanding CMYK separation, plate-making, colour matching, and print finishing for commercial offset print production.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Digital Printing Processes",
+    "skill_category": "Domain",
+    "skill_description": "Preparing files for large-format digital printing including flex, vinyl, backlit, and canvas output for signage and display.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "UI Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing visual interfaces with consistent components, colour systems, and interaction states for web and mobile applications.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "UX Design",
+    "skill_category": "Domain",
+    "skill_description": "Researching user needs, mapping journeys, and designing information architecture to create usable digital experiences.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "User Research",
+    "skill_category": "Domain",
+    "skill_description": "Conducting interviews, surveys, and usability tests to understand user behaviours and inform design decisions.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Wireframing",
+    "skill_category": "Domain",
+    "skill_description": "Creating low-fidelity skeletal layouts showing content structure and navigation flow before visual design is applied.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Prototyping",
+    "skill_category": "Domain",
+    "skill_description": "Building interactive digital prototypes to simulate user flows and test design assumptions before development.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Usability Testing",
+    "skill_category": "Domain",
+    "skill_description": "Facilitating structured user testing sessions and analysing findings to identify friction points in digital products.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Information Architecture",
+    "skill_category": "Domain",
+    "skill_description": "Organising and structuring website or application content hierarchies, navigation, and labelling systems for findability.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Interaction Design",
+    "skill_category": "Domain",
+    "skill_description": "Defining the behaviour, animations, transitions, and micro-interactions of digital interface elements.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Design Systems",
+    "skill_category": "Domain",
+    "skill_description": "Building and maintaining reusable component libraries, tokens, and documentation for consistent product design at scale.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Responsive Web Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing interfaces that adapt fluidly across desktop, tablet, and mobile screen sizes using grid and breakpoint principles.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Motion Design",
+    "skill_category": "Domain",
+    "skill_description": "Creating animated graphics, transitions, and kinetic typography for digital media, apps, and broadcast.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Architectural Design",
+    "skill_category": "Domain",
+    "skill_description": "Conceiving and developing building designs from concept through schematic and design development stages.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Urban Design",
+    "skill_category": "Domain",
+    "skill_description": "Planning and designing public spaces, streetscapes, and mixed-use developments within urban contexts.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Landscape Architecture",
+    "skill_category": "Domain",
+    "skill_description": "Designing outdoor spaces, gardens, parks, and green infrastructure integrating ecology, aesthetics, and functionality.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Interior Design",
+    "skill_category": "Domain",
+    "skill_description": "Planning spatial layouts, material palettes, lighting, furniture, and finishes for residential and commercial interiors.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Space Planning",
+    "skill_category": "Domain",
+    "skill_description": "Optimising floor plan layouts for functional, ergonomic, and regulatory-compliant use of interior space.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Furniture Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing custom furniture pieces considering materials, joinery, ergonomics, and manufacturing constraints.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Product Design",
+    "skill_category": "Domain",
+    "skill_description": "Developing physical product concepts from ideation through material selection, ergonomics, and manufacturing specification.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Industrial Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing mass-produced consumer and industrial products integrating form, function, manufacturing, and user experience.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Fashion Design",
+    "skill_category": "Domain",
+    "skill_description": "Creating clothing and accessory designs including silhouettes, fabric selection, pattern development, and garment construction.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Textile Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing surface patterns, weave structures, and embroidery for Indian handloom, powerloom, and apparel industries.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Jewellery Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing gold, silver, and gemstone jewellery for Indian traditional and contemporary markets including CAD-based design.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Exhibition and Display Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing museum exhibits, retail displays, trade fair stands, and event installations for immersive visitor experiences.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Wayfinding and Signage Design",
+    "skill_category": "Domain",
+    "skill_description": "Creating navigational sign systems, pictograms, and environmental graphics for buildings, campuses, and public spaces, including multilingual wayfinding for Indian airports, metro stations, and hospitals.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Environmental Graphic Design",
+    "skill_category": "Domain",
+    "skill_description": "Integrating graphic communication into physical spaces through supergraphics, murals, and architectural branding.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Illustration",
+    "skill_category": "Domain",
+    "skill_description": "Creating original hand-drawn or digital artwork for editorial, advertising, publishing, and cultural storytelling.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Infographic Design",
+    "skill_category": "Domain",
+    "skill_description": "Visualising complex data and narratives through clear, engaging graphic compositions for digital and print communication.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Icon and Pictogram Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing recognisable, scalable icon sets for digital interfaces, wayfinding systems, and visual communication.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Storyboarding",
+    "skill_category": "Domain",
+    "skill_description": "Creating visual sequences of scenes to plan advertising films, animations, and interactive narratives before production.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Animation Principles",
+    "skill_category": "Domain",
+    "skill_description": "Applying the 12 principles of animation including timing, squash and stretch, and anticipation to create believable movement.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "2D Animation",
+    "skill_category": "Domain",
+    "skill_description": "Producing frame-by-frame or vector-based character and motion animations for digital media and advertising.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "3D Animation",
+    "skill_category": "Domain",
+    "skill_description": "Rigging, skinning, and animating 3D characters and objects for film, games, advertising, and architectural walkthroughs.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Visual Effects (VFX)",
+    "skill_category": "Domain",
+    "skill_description": "Compositing digital effects with live-action footage for advertising films, web series, and feature film post-production.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Graphic Novel and Comics",
+    "skill_category": "Domain",
+    "skill_description": "Writing, illustrating, and laying out sequential art panels and speech bubbles for graphic narrative publishing.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Concept Art",
+    "skill_category": "Domain",
+    "skill_description": "Creating visual representations of environments, characters, and props for games, films, and animation pre-production.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Art Direction",
+    "skill_category": "Domain",
+    "skill_description": "Defining and overseeing the visual style, mood, and consistency of a creative project across all touchpoints.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Creative Direction",
+    "skill_category": "Domain",
+    "skill_description": "Leading creative strategy, concept development, and final output quality for advertising and brand communication campaigns.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Copy Concept Development",
+    "skill_category": "Domain",
+    "skill_description": "Developing advertising taglines, campaign concepts, and narrative messaging in collaboration with art directors.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Advertising Campaign Design",
+    "skill_category": "Domain",
+    "skill_description": "Conceiving and executing 360-degree advertising campaigns across print, digital, OOH, and broadcast media.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Social Media Creative Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing platform-specific visual content for Instagram, Facebook, LinkedIn, and YouTube optimised for engagement.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Digital Marketing Design",
+    "skill_category": "Domain",
+    "skill_description": "Creating digital banners, emailers, landing pages, and display ads aligned with campaign objectives and brand guidelines.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Email Template Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing responsive HTML email templates for newsletters, campaigns, and transactional communications.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Website Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing complete website layouts, visual hierarchy, and user flows for corporate, e-commerce, and portfolio websites.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "E-commerce Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing product pages, checkout flows, and conversion-optimised interfaces for Indian e-commerce platforms.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "App Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing native iOS and Android application interfaces following platform-specific Human Interface and Material Design guidelines.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Design Thinking",
+    "skill_category": "Domain",
+    "skill_description": "Applying empathise-define-ideate-prototype-test methodology to solve complex design and business problems.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "User-Centred Design",
+    "skill_category": "Domain",
+    "skill_description": "Keeping end-user needs, behaviours, and contexts at the centre of every design decision throughout the process.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Accessibility Design (WCAG)",
+    "skill_category": "Domain",
+    "skill_description": "Designing digital interfaces that conform to WCAG 2.1 accessibility standards for users with visual, motor, or cognitive impairments.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Design Research",
+    "skill_category": "Domain",
+    "skill_description": "Conducting ethnographic, contextual, and secondary research to inform design concepts and strategic decisions.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Mood Board Creation",
+    "skill_category": "Domain",
+    "skill_description": "Curating visual reference collages to communicate design direction, aesthetic language, and material palettes to clients.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Design Brief Interpretation",
+    "skill_category": "Domain",
+    "skill_description": "Analysing client briefs to extract design requirements, constraints, audience needs, and success criteria.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Design Presentation",
+    "skill_category": "Domain",
+    "skill_description": "Articulating and defending design decisions to clients, stakeholders, and creative teams through structured visual presentations.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Client Servicing in Design",
+    "skill_category": "Domain",
+    "skill_description": "Managing client relationships, gathering feedback, and translating revisions into actionable design changes in agency contexts.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Design Project Management",
+    "skill_category": "Domain",
+    "skill_description": "Planning timelines, allocating resources, and managing deliverables across creative projects from brief to final output.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Building Bye-Laws and Regulations",
+    "skill_category": "Domain",
+    "skill_description": "Applying municipal building bye-laws, FAR/FSI norms, setback requirements, and height restrictions for Indian cities.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "National Building Code of India",
+    "skill_category": "Domain",
+    "skill_description": "Designing buildings in compliance with NBC 2016 requirements for structure, fire safety, accessibility, and services.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Fire Safety Design",
+    "skill_category": "Domain",
+    "skill_description": "Incorporating fire escape routes, compartmentalisation, sprinkler layouts, and detection systems per NBC and local fire regulations.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Vastu Shastra Principles",
+    "skill_category": "Domain",
+    "skill_description": "Applying traditional Indian Vastu Shastra directional and spatial principles in residential and commercial architectural design.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Green Building Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing buildings for GRIHA or IGBC LEED certification with passive cooling, daylighting, rainwater harvesting, and energy efficiency.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "GRIHA Rating System",
+    "skill_category": "Domain",
+    "skill_description": "Preparing documentation and design features for Green Rating for Integrated Habitat Assessment certification in India.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "IGBC Rating System",
+    "skill_category": "Domain",
+    "skill_description": "Meeting Indian Green Building Council green building certification requirements for LEED India and IGBC rating systems.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Passive Design Strategies",
+    "skill_category": "Domain",
+    "skill_description": "Incorporating orientation, shading, natural ventilation, and thermal mass to reduce building energy loads in Indian climate zones.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Climate-Responsive Architecture",
+    "skill_category": "Domain",
+    "skill_description": "Designing buildings suited to India's diverse climate zones including hot-dry, hot-humid, composite, and temperate regions.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Structural Systems Knowledge",
+    "skill_category": "Domain",
+    "skill_description": "Understanding RCC frame, load-bearing masonry, steel frame, and pre-cast structural systems for architectural design decisions.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Construction Materials Knowledge",
+    "skill_category": "Domain",
+    "skill_description": "Selecting appropriate building materials including brick, stone, concrete, glass, and steel for structural and finishing applications.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Building Services Coordination",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating HVAC, electrical, plumbing, and fire-fighting services within architectural drawings for clash-free design.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Quantity Surveying Basics",
+    "skill_category": "Domain",
+    "skill_description": "Estimating material quantities and preparing preliminary cost estimates from architectural drawings for project budgeting.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Contract Administration",
+    "skill_category": "Domain",
+    "skill_description": "Administering construction contracts, certifying work done, managing variations, and resolving site disputes as architect's representative.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Site Supervision",
+    "skill_category": "Domain",
+    "skill_description": "Visiting construction sites to verify workmanship, quality of materials, and compliance with architectural drawings and specifications.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Tender Documentation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing bills of quantities, specifications, and drawings sets for procurement of construction works through competitive tendering.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "RERA Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring real estate projects comply with Real Estate (Regulation and Development) Act 2016 requirements for registered architects.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Council of Architecture Registration",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining valid registration with the Council of Architecture under the Architects Act 1972 for practising architecture in India.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Heritage Conservation",
+    "skill_category": "Domain",
+    "skill_description": "Surveying, documenting, and designing conservation interventions for protected heritage structures under ASI guidelines.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Urban Planning Regulations",
+    "skill_category": "Domain",
+    "skill_description": "Applying master plan zoning, development control regulations, and town planning schemes in urban design and layout projects.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Architectural Photography",
+    "skill_category": "Domain",
+    "skill_description": "Photographing completed buildings and interiors with correct perspective control, lighting, and post-processing for publication.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Interior Material Specification",
+    "skill_category": "Domain",
+    "skill_description": "Specifying flooring, wall finishes, ceiling materials, hardware, and sanitaryware for interior fit-out projects.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Lighting Design",
+    "skill_category": "Domain",
+    "skill_description": "Planning ambient, task, and accent lighting schemes using artificial and natural light for architectural and interior spaces.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Acoustic Design Basics",
+    "skill_category": "Domain",
+    "skill_description": "Applying sound absorption, isolation, and reflection principles to design auditoria, offices, and residential spaces.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Pattern Making",
+    "skill_category": "Domain",
+    "skill_description": "Creating garment patterns from body measurements and design sketches for sample-making and industrial production in fashion design.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Garment Construction",
+    "skill_category": "Domain",
+    "skill_description": "Sewing and assembling garment samples demonstrating construction techniques including seams, linings, and finishing.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Textile Printing Techniques",
+    "skill_category": "Domain",
+    "skill_description": "Applying block printing, screen printing, digital printing, and resist-dyeing techniques for Indian textile design.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Indian Handloom and Craft Knowledge",
+    "skill_category": "Domain",
+    "skill_description": "Understanding traditional Indian weaves including Banarasi, Kanjeevaram, Khadi, Ikat, and Phulkari for design application.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Fashion Trend Forecasting",
+    "skill_category": "Domain",
+    "skill_description": "Researching global and Indian fashion trends, colour forecasts, and consumer behaviour to inform seasonal collections.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Garment Merchandising",
+    "skill_category": "Domain",
+    "skill_description": "Planning seasonal lines, managing sampling calendars, and costing garments for fashion retail and export markets.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Retail Visual Merchandising",
+    "skill_category": "Domain",
+    "skill_description": "Designing window displays, in-store layouts, and product presentations to maximise retail sales and brand experience.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Ceramics and Craft Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing and producing ceramic, glass, or craft objects blending traditional Indian craft skills with contemporary design.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Graphic Standards Manual",
+    "skill_category": "Domain",
+    "skill_description": "Preparing detailed brand identity manuals specifying correct and incorrect usage of logos, colours, and typography.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Print Layout Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing books, magazines, annual reports, and long-form publications with structured grids and typographic systems.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Presentation Design",
+    "skill_category": "Domain",
+    "skill_description": "Creating visually compelling pitch decks, investor presentations, and proposal documents for business communication.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Design for Social Impact",
+    "skill_category": "Domain",
+    "skill_description": "Applying human-centred design methods to solve challenges in healthcare, education, and sanitation for underserved Indian communities.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Signage Fabrication Knowledge",
+    "skill_category": "Domain",
+    "skill_description": "Understanding materials and fabrication methods for acrylic, metal, and LED signage used in Indian commercial and retail environments.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Colour Grading",
+    "skill_category": "Domain",
+    "skill_description": "Applying primary and secondary colour correction to video footage to achieve a consistent visual look and mood.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Sound Design Basics",
+    "skill_category": "Domain",
+    "skill_description": "Selecting, editing, and layering sound effects and music beds to support visual narratives in video and animation.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Podcast and Audio Production",
+    "skill_category": "Domain",
+    "skill_description": "Recording, editing, and producing podcast and audio content for brand and creative media channels.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "HTML and CSS Basics for Designers",
+    "skill_category": "Technical",
+    "skill_description": "Writing basic HTML structure and CSS styling to enable design handoff, prototype implementation, and developer collaboration.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "WordPress for Designers",
+    "skill_category": "Technical",
+    "skill_description": "Building and customising WordPress websites using themes, page builders, and basic CSS for design portfolio and client sites.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Webflow",
+    "skill_category": "Technical",
+    "skill_description": "Designing and publishing responsive websites visually using Webflow's no-code design-to-code platform.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Google Web Fonts and Type Systems",
+    "skill_category": "Technical",
+    "skill_description": "Selecting and implementing free Google Fonts for digital design projects requiring web-safe typeface solutions.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Adobe Creative Cloud Collaboration",
+    "skill_category": "Technical",
+    "skill_description": "Using Creative Cloud Libraries, shared assets, and co-editing features for team-based design production workflows.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Asset Management and DAM",
+    "skill_category": "Technical",
+    "skill_description": "Organising, tagging, and distributing design assets using digital asset management systems for agency or brand teams.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Colour Management and ICC Profiles",
+    "skill_category": "Technical",
+    "skill_description": "Calibrating monitors and applying correct ICC colour profiles to ensure colour consistency from screen to print.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "File Preparation for Vendors",
+    "skill_category": "Technical",
+    "skill_description": "Exporting and packaging print and digital files with fonts, links, and colour modes correctly set for production vendors.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Microsoft PowerPoint for Designers",
+    "skill_category": "Technical",
+    "skill_description": "Building pixel-perfect, visually designed presentation decks and templates using advanced PowerPoint formatting features.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Google Slides",
+    "skill_category": "Technical",
+    "skill_description": "Designing and collaborating on presentation decks using Google Slides for team-based marketing and pitch communications.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "ChatGPT",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using ChatGPT to generate creative briefs, copywriting, mood board descriptions, and ideation prompts for design projects.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Midjourney",
+    "skill_category": "AI-Tool",
+    "skill_description": "Generating AI image concepts, mood board references, and visual ideation starting points using Midjourney for design exploration.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "DALL-E",
+    "skill_category": "AI-Tool",
+    "skill_description": "Creating AI-generated images and visual concepts for rapid design ideation, storyboarding, and client presentation references.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Adobe Firefly",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Adobe Firefly's generative AI within Creative Cloud to create images, text effects, and vector graphics from text prompts.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Canva AI",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Canva's AI features including Magic Design, text-to-image, and background removal to accelerate design production.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Claude",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Claude for writing creative briefs, generating design concepts, producing brand narrative copy, and research assistance.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Runway ML",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Runway's AI video generation and editing tools for motion graphics, rotoscoping, and experimental visual content creation.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Microsoft Copilot",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Microsoft Copilot in PowerPoint and Word to assist with design presentation content generation and layout suggestions.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Creative Brief Writing",
+    "skill_category": "Foundational",
+    "skill_description": "Articulating project objectives, target audience, messaging, tone, and deliverable requirements in a structured creative brief.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Visual Communication",
+    "skill_category": "Foundational",
+    "skill_description": "Translating ideas and messages into compelling visual formats that communicate clearly to target audiences.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Conceptual Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Generating original, idea-driven design concepts that go beyond surface aesthetics to communicate meaningful messages.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Critical Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Evaluating design decisions, client feedback, and creative approaches with evidence-based analysis and reasoning.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Attention to Detail",
+    "skill_category": "Foundational",
+    "skill_description": "Maintaining precision in spacing, alignment, colour consistency, and file hygiene across all design deliverables.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Communication Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Presenting design concepts clearly and confidently to clients, team members, and stakeholders in verbal and written form.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Teamwork and Collaboration",
+    "skill_category": "Foundational",
+    "skill_description": "Working effectively with copywriters, developers, architects, and account managers in multidisciplinary creative teams.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Time Management",
+    "skill_category": "Foundational",
+    "skill_description": "Meeting multiple project deadlines simultaneously while maintaining quality in a fast-paced agency or studio environment.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Adaptability",
+    "skill_category": "Foundational",
+    "skill_description": "Pivoting design direction in response to client feedback, brief changes, or new market requirements without losing creative quality.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Problem Solving",
+    "skill_category": "Foundational",
+    "skill_description": "Identifying design and communication challenges and developing creative, practical solutions within constraints.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Creativity and Innovation",
+    "skill_category": "Foundational",
+    "skill_description": "Generating original ideas, visual approaches, and design solutions that differentiate brands and products in the market.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Cultural Sensitivity in Design",
+    "skill_category": "Foundational",
+    "skill_description": "Creating designs that are appropriate, resonant, and respectful across India's diverse regional, linguistic, and cultural contexts.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Research and Inspiration Gathering",
+    "skill_category": "Foundational",
+    "skill_description": "Systematically gathering visual references, market insights, and competitive intelligence to inform design decisions.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Portfolio Development",
+    "skill_category": "Foundational",
+    "skill_description": "Curating and presenting professional work samples that demonstrate range, process, and quality for client or employer audiences.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Self-Learning and Skill Updating",
+    "skill_category": "Foundational",
+    "skill_description": "Continuously learning new design tools, techniques, and industry trends through online courses, workshops, and peer learning.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Presentation Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Structuring and delivering compelling visual presentations to win client approvals and communicate design rationale.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Negotiation and Persuasion",
+    "skill_category": "Foundational",
+    "skill_description": "Defending creative decisions and negotiating scope, fees, and timelines with clients and vendors in professional design practice.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Ethics in Design",
+    "skill_category": "Foundational",
+    "skill_description": "Upholding professional standards including copyright compliance, honest representation, and responsible use of AI-generated content.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Intellectual Property and Copyright Awareness",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding copyright law, stock image licensing, and trademark regulations relevant to design practice in India.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Feedback Receptivity",
+    "skill_category": "Foundational",
+    "skill_description": "Receiving and constructively integrating client and peer critique into design revisions without compromising design integrity.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Empathy",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding the needs, frustrations, and aspirations of end users to inform compassionate and effective design decisions.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Storytelling",
+    "skill_category": "Foundational",
+    "skill_description": "Constructing compelling narratives around brands, products, and design concepts to engage audiences and clients.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Business Acumen for Designers",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding commercial objectives, ROI of design, and business strategy to align creative output with client goals.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Freelance Business Management",
+    "skill_category": "Foundational",
+    "skill_description": "Managing contracts, invoicing, client acquisition, and GST compliance as a freelance creative professional in India.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "GST for Creative Freelancers",
+    "skill_category": "Domain",
+    "skill_description": "Registering for GST, raising tax invoices, filing GSTR-1 and GSTR-3B returns for design and creative services provided in India.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "TDS for Professional Services",
+    "skill_category": "Domain",
+    "skill_description": "Understanding Section 194J TDS deductions applicable to professional design fees and managing Form 26AS reconciliation.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Design Agency Operations",
+    "skill_category": "Domain",
+    "skill_description": "Understanding studio workflow, resource scheduling, vendor management, and profitability tracking in Indian design agencies.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Cost Estimation for Design Projects",
+    "skill_category": "Domain",
+    "skill_description": "Preparing project quotations covering creative fees, third-party costs, printing, and production for client approvals.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Purchase Order and Invoice Management",
+    "skill_category": "Domain",
+    "skill_description": "Raising and tracking purchase orders, proforma invoices, and tax invoices for creative project billing.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Vendor Management for Production",
+    "skill_category": "Domain",
+    "skill_description": "Sourcing and coordinating with print vendors, photographers, fabricators, and production houses for project delivery.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Photography Studio Management",
+    "skill_category": "Domain",
+    "skill_description": "Setting up and managing photography studio equipment, lighting rigs, and shoot schedules for commercial assignments.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Set Design and Styling",
+    "skill_category": "Domain",
+    "skill_description": "Designing and dressing physical sets and product arrangements for photography, film, and advertising shoots.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Food Styling",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and styling food for photography and video production to maximise visual appeal for FMCG and food brands.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Fashion Styling",
+    "skill_category": "Domain",
+    "skill_description": "Selecting and coordinating garments, accessories, and looks for editorial, advertising, and celebrity styling assignments.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Draping and Garment Presentation",
+    "skill_category": "Domain",
+    "skill_description": "Presenting fashion designs through draping fabric on mannequins or live models to communicate silhouette and proportion.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Computer-Aided Jewellery Design (CAD)",
+    "skill_category": "Technical",
+    "skill_description": "Using MatrixGold or RhinoGold CAD software to create precise 3D jewellery models for wax printing and casting.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Hallmarking and BIS Standards for Jewellery",
+    "skill_category": "Domain",
+    "skill_description": "Understanding BIS hallmarking requirements, purity standards, and HUID registration for gold and silver jewellery in India.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "FSSAI Label Compliance for Packaging",
+    "skill_category": "Domain",
+    "skill_description": "Designing food packaging with mandatory FSSAI label elements including nutritional information, allergens, and licence numbers.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Legal Metrology Act Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring packaged commodity labels include MRP, net weight, manufacturer details, and other Legal Metrology Act requirements.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "BIS Standards for Design and Products",
+    "skill_category": "Domain",
+    "skill_description": "Applying relevant Bureau of Indian Standards codes in product, packaging, and construction material design specifications.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Agile Design Workflow",
+    "skill_category": "Domain",
+    "skill_description": "Working within sprint-based agile frameworks alongside product and engineering teams for iterative digital product design.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Design Sprint",
+    "skill_category": "Domain",
+    "skill_description": "Facilitating Google Ventures-style five-day design sprints to rapidly test and validate design solutions with real users.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "A/B Testing for Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing and interpreting A/B tests on landing pages, UI elements, and email templates to improve conversion metrics.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Heuristic Evaluation",
+    "skill_category": "Domain",
+    "skill_description": "Assessing digital interfaces against Nielsen's ten usability heuristics to identify design issues without user testing.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Eye Tracking and Heatmap Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Interpreting eye-tracking studies and click heatmaps to understand user attention patterns and optimise interface design.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Design Audit",
+    "skill_category": "Domain",
+    "skill_description": "Reviewing existing design systems, brand assets, and digital interfaces to identify inconsistencies and improvement opportunities.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Service Design",
+    "skill_category": "Domain",
+    "skill_description": "Mapping end-to-end service experiences using journey maps, service blueprints, and stakeholder ecosystem maps.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Customer Journey Mapping",
+    "skill_category": "Domain",
+    "skill_description": "Visualising the complete sequence of interactions a customer has with a brand across touchpoints to identify pain points.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Persona Development",
+    "skill_category": "Domain",
+    "skill_description": "Creating research-based user archetypes representing key audience segments to guide design and communication strategy.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Empathy Mapping",
+    "skill_category": "Domain",
+    "skill_description": "Documenting user thoughts, feelings, actions, and pain points in a structured map to build shared team understanding.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Design Critique Facilitation",
+    "skill_category": "Domain",
+    "skill_description": "Leading structured peer reviews of design work using constructive critique frameworks to improve output quality.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Design Ethics and Dark Patterns Avoidance",
+    "skill_category": "Domain",
+    "skill_description": "Identifying and avoiding deceptive UI patterns and designing transparent, honest digital experiences.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Creative Studio Etiquette",
+    "skill_category": "Foundational",
+    "skill_description": "Operating professionally in studio and agency environments including file versioning, naming conventions, and asset organisation.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Constructive Feedback Delivery",
+    "skill_category": "Foundational",
+    "skill_description": "Giving specific, actionable, and respectful critique of design work to peers and junior team members.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Trend Awareness",
+    "skill_category": "Foundational",
+    "skill_description": "Monitoring visual design trends, emerging aesthetics, and industry developments to keep creative output current and relevant.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Cultural Heritage and Indian Art History",
+    "skill_category": "Domain",
+    "skill_description": "Drawing on knowledge of Indian art movements, craft traditions, and visual culture to inform culturally grounded design.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Art History and Design History",
+    "skill_category": "Domain",
+    "skill_description": "Understanding the history of graphic design, architecture, and visual art as context for contemporary design practice.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Semiotics in Design",
+    "skill_category": "Domain",
+    "skill_description": "Analysing and applying the relationship between signs, symbols, and meaning to create culturally resonant visual communication.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Gestalt Principles",
+    "skill_category": "Domain",
+    "skill_description": "Applying proximity, similarity, continuity, closure, and figure-ground principles to organise visual elements effectively.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Golden Ratio and Grid Systems",
+    "skill_category": "Domain",
+    "skill_description": "Using mathematical proportional systems and modular grids to create visually balanced and harmonious design layouts.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Printing Ink and Substrate Knowledge",
+    "skill_category": "Domain",
+    "skill_description": "Understanding printing inks, paper stocks, card weights, and specialty substrates used by Indian commercial printers.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Finishing and Binding Techniques",
+    "skill_category": "Domain",
+    "skill_description": "Specifying lamination, foil stamping, die-cutting, embossing, saddle stitching, and perfect binding for print projects.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Outdoor Advertising (OOH) Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing billboards, hoardings, transit ads, and kiosk displays for high-visibility outdoor advertising in Indian cities.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Point of Sale Display Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing retail point-of-sale materials including shelf danglers, standees, wobblers, and countertop displays.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Event and Exhibition Booth Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing trade fair stalls, corporate event stages, and product launch backdrops for Indian exhibitions and conferences.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Photography Post-Processing",
+    "skill_category": "Technical",
+    "skill_description": "Retouching and colour-correcting photographs using Lightroom and Photoshop for commercial, editorial, and architectural use.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "360-Degree Photography and VR",
+    "skill_category": "Technical",
+    "skill_description": "Capturing and processing 360-degree photographic panoramas and publishing VR walkthroughs for architectural and real estate marketing.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Drone Photography and Videography",
+    "skill_category": "Technical",
+    "skill_description": "Operating drones for aerial site photography, architectural documentation, and film production within DGCA regulations.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "DGCA Drone Regulations",
+    "skill_category": "Domain",
+    "skill_description": "Understanding Directorate General of Civil Aviation drone registration, pilot licensing, and no-fly zone rules for commercial aerial photography.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Augmented Reality in Design",
+    "skill_category": "Technical",
+    "skill_description": "Creating AR experiences for interior design visualisation, packaging, and retail using tools like Adobe Aero or web-based AR.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Virtual Reality Walkthrough Design",
+    "skill_category": "Technical",
+    "skill_description": "Designing and publishing interactive VR architectural walkthroughs using Enscape, Twinmotion, or Unity for client presentations.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Twinmotion",
+    "skill_category": "Technical",
+    "skill_description": "Creating high-quality real-time 3D visualisations and walkthroughs from Revit and ArchiCAD models using Twinmotion.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Unity for Architectural Visualisation",
+    "skill_category": "Technical",
+    "skill_description": "Using Unity game engine to create interactive real-time architectural walkthroughs and VR experiences.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Unreal Engine for Visualisation",
+    "skill_category": "Technical",
+    "skill_description": "Producing photorealistic real-time architectural renders and interactive visualisations using Unreal Engine.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "BIM Coordination",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating architecture, structure, and MEP BIM models using Navisworks or BIM 360 to detect and resolve clashes.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "BIM Level of Development (LOD)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and specifying LOD 100–500 requirements for BIM model elements across project phases.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Drawing Sheet Preparation",
+    "skill_category": "Technical",
+    "skill_description": "Setting up drawing sheets with correct title blocks, north arrows, scale bars, and drawing registers per IS 962 standards.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "ArcGIS",
+    "skill_category": "Technical",
+    "skill_description": "Analysing and visualising spatial data for urban planning, site analysis, and landscape architecture using ArcGIS.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "QGIS",
+    "skill_category": "Technical",
+    "skill_description": "Performing open-source GIS analysis for site mapping, land-use study, and spatial planning using QGIS.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Site Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating site topography, sun path, wind direction, views, access, and context to inform architectural design decisions.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Sun Path and Shadow Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Simulating solar exposure and shadow casting on building designs to optimise daylighting and shading strategies.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Energy Modelling Basics",
+    "skill_category": "Domain",
+    "skill_description": "Running building energy simulations using EnergyPlus or similar tools to evaluate design performance against energy targets.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Space Syntax Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Using space syntax methods to analyse spatial connectivity, movement patterns, and legibility in buildings and urban spaces.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Zoning and Land Use Regulations",
+    "skill_category": "Domain",
+    "skill_description": "Interpreting master plan zoning maps and DCR provisions for permissible land uses and development intensity.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Project Documentation Management",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining drawing registers, revision history, and document control for architecture and design project files.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "ISO 9001 Quality Management in Design",
+    "skill_category": "Domain",
+    "skill_description": "Implementing quality management system procedures for design review, approval, and documentation in architectural practices.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Specification Writing",
+    "skill_category": "Domain",
+    "skill_description": "Writing detailed technical specifications for materials, finishes, and workmanship standards for construction and interior projects.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Building Energy Conservation Code",
+    "skill_category": "Domain",
+    "skill_description": "Applying Energy Conservation Building Code (ECBC) 2017 requirements for envelope, lighting, HVAC, and renewable energy.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Slope and Drainage Design",
+    "skill_category": "Domain",
+    "skill_description": "Planning site grading, surface drainage, and stormwater management for landscape and architectural projects.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Rainwater Harvesting Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing rooftop and surface rainwater harvesting systems compliant with state government mandates and NBC guidelines.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Waste Management in Construction",
+    "skill_category": "Domain",
+    "skill_description": "Specifying construction waste segregation, recycling, and disposal procedures per CPCB guidelines in project specifications.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Adobe Animate",
+    "skill_category": "Technical",
+    "skill_description": "Creating interactive animations, HTML5 banner ads, and web-based animated content using Adobe Animate.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Lottie Animation",
+    "skill_category": "Technical",
+    "skill_description": "Exporting After Effects animations as Lottie JSON files for lightweight, scalable implementation in web and mobile apps.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "SVG Animation",
+    "skill_category": "Technical",
+    "skill_description": "Creating interactive and animated SVG graphics for web using CSS and GSAP for lightweight, resolution-independent motion.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Lean UX",
+    "skill_category": "Domain",
+    "skill_description": "Applying lean startup principles to UX design by validating assumptions quickly with minimum viable prototypes.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Atomic Design Methodology",
+    "skill_category": "Domain",
+    "skill_description": "Structuring UI design and component libraries using Brad Frost's atoms, molecules, organisms, templates, and pages hierarchy.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Design Token Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing and documenting reusable design tokens for colour, spacing, and typography across multi-platform design systems.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Voice User Interface Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing conversational flows and voice responses for Alexa, Google Assistant, or custom voice interfaces.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Chatbot and Conversational UI Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing dialogue flows, personality, and visual interface for chatbot interactions in customer service and e-commerce.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Data Visualisation Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing charts, dashboards, and interactive data displays that communicate insights clearly and accurately.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Design for Print Accessibility",
+    "skill_category": "Domain",
+    "skill_description": "Applying readability standards, contrast ratios, and large-print formats for printed materials serving all audience needs.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Zine and Independent Publishing Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing self-published zines, chapbooks, and independent publications using low-cost print and digital formats.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Book Cover Design",
+    "skill_category": "Domain",
+    "skill_description": "Creating compelling book cover artwork and typography for Indian publishers across fiction, non-fiction, and academic titles.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Album Art and Music Packaging Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing album artwork, cover images, and digital release assets for Indian music labels and independent artists.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Mural and Large-Format Artwork",
+    "skill_category": "Domain",
+    "skill_description": "Designing and executing large-scale wall murals, building wraps, and branded art installations for urban and commercial spaces.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Street Art and Public Art Design",
+    "skill_category": "Domain",
+    "skill_description": "Creating public art proposals and installations for civic projects, urban beautification, and cultural festivals in India.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Art Installation Design",
+    "skill_category": "Domain",
+    "skill_description": "Conceptualising and fabricating temporary and permanent art installations for galleries, museums, and public spaces.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Game Design Basics",
+    "skill_category": "Domain",
+    "skill_description": "Understanding core mechanics, level design, player experience, and visual design principles for casual and mobile games.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Game UI Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing heads-up displays, menus, icons, and user interfaces for mobile, PC, and console games.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Tile and Surface Pattern Design",
+    "skill_category": "Domain",
+    "skill_description": "Creating repeat surface patterns for ceramic tiles, wallpapers, furnishing fabrics, and decorative products.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Indian Motif and Decorative Arts",
+    "skill_category": "Domain",
+    "skill_description": "Applying classical Indian decorative motifs from Mughal, Rajput, and regional art traditions in contemporary design applications.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Typography in Indian Scripts",
+    "skill_category": "Domain",
+    "skill_description": "Setting type in Devanagari, Tamil, Bengali, Gujarati, or other Indic scripts with correct optical sizing and spacing.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Bilingual Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing layouts incorporating both English and Indian language text with correct typographic hierarchy and script rendering.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Behance and Dribbble Profile Management",
+    "skill_category": "Technical",
+    "skill_description": "Publishing and maintaining design work on Behance and Dribbble platforms to build professional visibility and attract clients.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "LinkedIn for Designers",
+    "skill_category": "Technical",
+    "skill_description": "Optimising LinkedIn profiles, sharing design work, and networking professionally on LinkedIn for career and business development.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Instagram for Creative Brand Building",
+    "skill_category": "Technical",
+    "skill_description": "Building a creative personal brand by curating and posting design work, process content, and reels on Instagram.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Creative Project Collaboration Tools",
+    "skill_category": "Technical",
+    "skill_description": "Using Notion, Trello, Asana, or similar project management tools for tracking design tasks, briefs, and deliverables.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Version Control for Design Files",
+    "skill_category": "Technical",
+    "skill_description": "Using Figma version history, Abstract, or naming conventions to manage design file versions and avoid overwrite conflicts.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Slack for Creative Teams",
+    "skill_category": "Technical",
+    "skill_description": "Using Slack channels for brief sharing, design feedback, and asynchronous creative team communication.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Miro for Design Workshops",
+    "skill_category": "Technical",
+    "skill_description": "Running remote design workshops, journey mapping sessions, and brainstorming activities using Miro's virtual whiteboard.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Design Contracts and IP Agreements",
+    "skill_category": "Domain",
+    "skill_description": "Drafting service agreements, IP assignment clauses, and usage rights terms for freelance and agency design engagements.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Pitch Deck Design for Startups",
+    "skill_category": "Domain",
+    "skill_description": "Creating investor pitch decks for Indian startups that communicate vision, market, traction, and ask with visual clarity.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Annual Report Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing and laying out corporate annual reports combining financial data, narrative content, and photography.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Signage and Illuminated Sign Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing LED, neon, acrylic, and metal signage for retail, corporate, and outdoor applications in Indian contexts.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Window Display Design",
+    "skill_category": "Domain",
+    "skill_description": "Conceiving and executing seasonal retail window displays to attract footfall and communicate brand messages.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Corporate Gifting and Merchandise Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing branded merchandise, corporate gifts, and promotional items for Indian business gifting culture.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Festive Campaign Design",
+    "skill_category": "Domain",
+    "skill_description": "Creating culturally resonant visual campaigns for Diwali, Holi, Eid, Navratri, and other Indian festivals.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Cricket and Sports Sponsorship Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing jerseys, stadium branding, sponsor visibility, and digital assets for IPL and other Indian sporting events.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Film Poster and Movie Marketing Design",
+    "skill_category": "Domain",
+    "skill_description": "Creating theatrical poster artwork, digital banners, and social media assets for Bollywood and regional film promotions.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Wedding and Event Stationery Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing invitation cards, menus, seating plans, and decorative graphics for Indian weddings and premium events.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Souvenir and Cultural Product Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing craft-based souvenirs, gift products, and cultural artefacts drawing on Indian regional art and craft identities.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Adobe Fresco",
+    "skill_category": "Technical",
+    "skill_description": "Creating natural-media digital paintings and live brush illustrations using Adobe Fresco for illustration and concept art.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Pantone Colour Matching System",
+    "skill_category": "Technical",
+    "skill_description": "Specifying Pantone spot colours in design files for accurate colour reproduction in print, packaging, and branding projects.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Material Boards and Swatches",
+    "skill_category": "Domain",
+    "skill_description": "Assembling physical or digital material sample boards showing fabric, paint, tile, and finish selections for interior and product projects.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Ergonomics in Product Design",
+    "skill_category": "Domain",
+    "skill_description": "Applying anthropometric data and ergonomic principles to ensure product and furniture designs are comfortable and safe to use.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Universal Design Principles",
+    "skill_category": "Domain",
+    "skill_description": "Designing spaces, products, and communications that are accessible and usable by people of all abilities and ages.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Age-Friendly Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing buildings, products, and interfaces suited to elderly users in compliance with RPwD Act 2016 accessibility guidelines.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Child-Safe Product Design",
+    "skill_category": "Domain",
+    "skill_description": "Applying BIS and international safety standards to product design ensuring safety for children under 14 years.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Rapid Prototyping",
+    "skill_category": "Domain",
+    "skill_description": "Quickly building rough physical or digital prototypes to test design hypotheses and gather user or client feedback early.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Material Research",
+    "skill_category": "Domain",
+    "skill_description": "Investigating new, sustainable, and traditional materials for use in product, interior, and architectural design applications.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Circular Design Principles",
+    "skill_category": "Domain",
+    "skill_description": "Designing products and packaging for longevity, repairability, disassembly, and recyclability aligned with circular economy goals.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Sustainable Sourcing in Design",
+    "skill_category": "Domain",
+    "skill_description": "Specifying sustainably sourced timber, recycled materials, and low-VOC finishes in Indian design and construction projects.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Upcycled and Recycled Material Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing products, interiors, and installations using salvaged, upcycled, or recycled materials for sustainable creative practice.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Modular and Prefabricated Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing modular furniture, prefabricated structures, and flat-pack products for cost-effective production and delivery.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Adaptive Reuse and Renovation Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing the sensitive conversion of existing buildings including heritage structures into new contemporary uses.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Mixed Reality Design Concepts",
+    "skill_category": "Domain",
+    "skill_description": "Designing user interactions and spatial experiences that blend physical and digital content using MR headsets and spatial computing platforms.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Design for Manufacturing",
+    "skill_category": "Domain",
+    "skill_description": "Designing products with manufacturing processes, tolerances, material constraints, and assembly methods in mind for cost-effective production and end-user self-assembly.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Competitive Design Benchmarking",
+    "skill_category": "Domain",
+    "skill_description": "Researching and analysing competitor products, interfaces, and brand identities to identify design differentiation opportunities.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Cultural Contextual Research",
+    "skill_category": "Domain",
+    "skill_description": "Conducting ethnographic and secondary research into Indian cultural contexts to ground design in authentic local relevance.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Sensory Design",
+    "skill_category": "Domain",
+    "skill_description": "Considering touch, smell, sound, and taste in addition to vision when designing products and environments for multi-sensory impact.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Tactile Graphics Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing raised-line and textured graphics for visually impaired users in signage, maps, and educational materials.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Design Mentorship and Leadership",
+    "skill_category": "Foundational",
+    "skill_description": "Guiding junior designers through skill development, creative feedback, and professional growth in studio or agency settings.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Cross-Cultural Design Collaboration",
+    "skill_category": "Foundational",
+    "skill_description": "Working effectively with international clients and creative teams across cultural and time-zone differences.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Resilience and Creative Block Management",
+    "skill_category": "Foundational",
+    "skill_description": "Applying workload management and creative recovery strategies to maintain output quality during tight deadlines and extended creative projects.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Networking in the Creative Industry",
+    "skill_category": "Foundational",
+    "skill_description": "Building professional relationships through design events, NID/IIT alumni networks, and industry associations in India.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Professional Ethics in Architecture",
+    "skill_category": "Foundational",
+    "skill_description": "Upholding Council of Architecture professional conduct standards including confidentiality, fee ethics, and public interest.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Environmental Sustainability Awareness",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding climate change, resource depletion, and sustainability imperatives that shape responsible design practice.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Public Speaking and Jury Presentation",
+    "skill_category": "Foundational",
+    "skill_description": "Presenting design work persuasively before academic juries, client panels, and industry award committees.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Drawing Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Developing freehand observational drawing, life drawing, and compositional skills as foundational design communication tools.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Spatial Awareness",
+    "skill_category": "Foundational",
+    "skill_description": "Developing the ability to perceive, imagine, and communicate three-dimensional space, scale, and proportion essential for architectural, interior, and product design practice.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Zoho Projects for Design Teams",
+    "skill_category": "Technical",
+    "skill_description": "Using Zoho Projects to track design tasks, deadlines, and milestones for creative agency or studio project management.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Notion for Design Documentation",
+    "skill_category": "Technical",
+    "skill_description": "Organising design briefs, research notes, brand guidelines, and project documentation using Notion collaborative workspace.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Dropbox for Creative Asset Sharing",
+    "skill_category": "Technical",
+    "skill_description": "Using Dropbox to share large design files, photography assets, and video content securely with clients and vendors.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "WeTransfer for File Delivery",
+    "skill_category": "Technical",
+    "skill_description": "Delivering large design files and production-ready artwork to clients and vendors using WeTransfer.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Font Management",
+    "skill_category": "Technical",
+    "skill_description": "Installing, activating, and organising typeface libraries using Adobe Fonts, FontExplorer, or Suitcase Fusion for studio workflows.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Stock Photography and Asset Licensing",
+    "skill_category": "Domain",
+    "skill_description": "Sourcing and correctly licensing stock images, vectors, and audio from Shutterstock, Adobe Stock, or Unsplash for client projects.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Creative Commons Licensing",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and applying Creative Commons licence types when using and sharing open-access creative works.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Design Award Submissions",
+    "skill_category": "Foundational",
+    "skill_description": "Preparing case studies and applications for Indian and international design awards including NID, CII Design Excellence, and Kyoorius.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "NID and IIT Design Programme Awareness",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding the curriculum, specialisations, and alumni networks of National Institute of Design and IIT design programmes.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Design for Bharat (Tier 2/3 Users)",
+    "skill_category": "Domain",
+    "skill_description": "Designing digital products, print materials, and services for low-literacy, vernacular-language, and first-time digital users in smaller Indian cities.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Low-Bandwidth Design Optimisation",
+    "skill_category": "Domain",
+    "skill_description": "Optimising images, animations, and digital interfaces for users on 2G/3G connections common in rural and semi-urban India.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Feature Phone and USSD Interface Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing simple text-based and USSD interfaces for feature phone users in Indian rural digital service delivery.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Dark Mode Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing dark colour scheme variants of digital interfaces with correct contrast, colour tokens, and visual hierarchy.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Micro-interaction Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing small but impactful interface animations and feedback moments that improve perceived product quality.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Skeleton Screen Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing loading state placeholder screens to improve perceived performance in mobile and web applications.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Onboarding Flow Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing first-run user onboarding experiences that orient new users and demonstrate product value quickly.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Push Notification Design",
+    "skill_category": "Domain",
+    "skill_description": "Writing and designing mobile push notification copy and visual prompts to drive re-engagement without causing notification fatigue.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "App Store Optimisation Assets",
+    "skill_category": "Domain",
+    "skill_description": "Creating app icon, screenshots, preview video, and feature graphic assets for Google Play and Apple App Store listings.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Design Metrics and KPIs",
+    "skill_category": "Domain",
+    "skill_description": "Defining and tracking design success metrics including task completion rate, NPS, conversion uplift, and error rate.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Competitive Teardown Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Systematically documenting and analysing competitor apps, websites, and brand identities to extract design insights.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Screen Printing",
+    "skill_category": "Domain",
+    "skill_description": "Designing and producing graphics for screen printing on textiles, posters, and promotional materials using mesh stencil and ink layering techniques.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Sublimation Printing",
+    "skill_category": "Domain",
+    "skill_description": "Preparing artwork files and operating sublimation heat-transfer processes for printing full-colour designs onto garments, mugs, and promotional merchandise.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Card Sorting",
+    "skill_category": "Domain",
+    "skill_description": "Conducting open and closed card sorting exercises to understand how users categorise information and inform navigation and IA design decisions.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Tree Testing",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating the effectiveness of an information architecture by testing users' ability to locate items within a proposed content hierarchy.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Cognitive Walkthrough",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating interface usability by systematically stepping through user tasks from a first-time user's perspective to identify learnability issues.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Jobs to Be Done Framework",
+    "skill_category": "Domain",
+    "skill_description": "Applying the JTBD framework to understand core user motivations and design products that fulfil functional, emotional, and social needs.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Accessibility Audit",
+    "skill_category": "Domain",
+    "skill_description": "Conducting structured WCAG 2.1 compliance audits of digital interfaces to identify, document, and prioritise accessibility barriers for remediation.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Plinth Area and Carpet Area Calculation",
+    "skill_category": "Domain",
+    "skill_description": "Computing plinth, built-up, super built-up, and carpet areas as per RERA definitions for residential and commercial project documentation.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Architectural Drawing Standards (IS 962)",
+    "skill_category": "Domain",
+    "skill_description": "Applying IS 962 Indian Standard conventions for line weights, dimensioning, cross-hatching, symbols, and sheet organisation in architectural drawings.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Construction Cost Estimation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing detailed cost estimates for construction and interior projects using state Schedule of Rates and market rates for materials and labour.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Design Fee Calculation",
+    "skill_category": "Domain",
+    "skill_description": "Calculating professional architectural and design fees using Council of Architecture guidelines and percentage-of-project-cost methods.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Tender Evaluation",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating contractor bids, preparing comparative cost statements, and recommending award of construction and interior contracts.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Embroidery Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing hand and machine embroidery patterns including zardozi, chikankari, kantha, and mirror work for Indian fashion and textile products.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "CLO 3D",
+    "skill_category": "Technical",
+    "skill_description": "Creating virtual garment prototypes, simulating fabric drape and fit, and generating 3D fashion presentations using CLO 3D software.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Grading and Size Specifications",
+    "skill_category": "Domain",
+    "skill_description": "Creating graded pattern sets across standard size ranges and documenting size specifications for industrial garment production.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Figma Dev Mode",
+    "skill_category": "Technical",
+    "skill_description": "Using Figma's Dev Mode to inspect design specifications, extract CSS and platform-specific code snippets, and manage design-to-development handoff.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Framer",
+    "skill_category": "Technical",
+    "skill_description": "Building high-fidelity interactive prototypes and production-ready websites using Framer's component-based visual design and publishing platform.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Notion AI",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Notion AI to draft design briefs, summarise research notes, generate client proposal content, and organise project documentation.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "India Design Mark (I Mark)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding the India Design Mark certification administered by NID to recognise and promote quality design of Indian products.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Design Patent Filing in India",
+    "skill_category": "Domain",
+    "skill_description": "Filing industrial design patents with the Indian Patent Office under the Designs Act 2000 to protect original product and visual design innovations.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Trademark Registration for Logos",
+    "skill_category": "Domain",
+    "skill_description": "Registering brand logos and visual marks with the Trade Marks Registry under the Trade Marks Act 1999 to establish exclusive rights in India.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Khadi and Village Industries Commission Products",
+    "skill_category": "Domain",
+    "skill_description": "Applying design knowledge of KVIC-certified khadi, natural fibre, and village craft products in sustainable fashion and product design practice.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "GJEPC Export Standards for Jewellery",
+    "skill_category": "Domain",
+    "skill_description": "Understanding Gems and Jewellery Export Promotion Council quality, documentation, and compliance standards for Indian jewellery export.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Active Listening",
+    "skill_category": "Foundational",
+    "skill_description": "Practising focused, non-judgmental listening during client briefings and design reviews to fully understand needs, feedback, and unstated requirements.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Written Communication",
+    "skill_category": "Foundational",
+    "skill_description": "Writing clear, professional emails, design rationale documents, project reports, and client communications in standard business English.",
+    "job_families": [
+      10
+    ]
+  },
+  {
+    "skill_name": "Mentoring Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Guiding junior designers through skill development, providing structured feedback, and supporting professional growth in studio or agency settings.",
+    "job_families": [
+      10
+    ]
+  }
+]

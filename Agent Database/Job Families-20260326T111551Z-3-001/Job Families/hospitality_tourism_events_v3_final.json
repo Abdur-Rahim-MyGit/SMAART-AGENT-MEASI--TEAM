@@ -1,0 +1,2890 @@
+[
+  {
+    "skill_name": "Front Office Operations",
+    "skill_category": "Domain",
+    "skill_description": "Managing hotel reception, guest check-in, check-out, reservations, and front desk procedures in accordance with property standards.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Housekeeping Management",
+    "skill_category": "Domain",
+    "skill_description": "Overseeing room cleaning schedules, linen management, laundry operations, and housekeeping staff coordination in hotels.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Food and Beverage Service",
+    "skill_category": "Domain",
+    "skill_description": "Delivering table service, banquet service, and bar operations following standard service sequences and hospitality etiquette.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Restaurant Operations",
+    "skill_category": "Domain",
+    "skill_description": "Managing day-to-day restaurant functions including covers management, seating, service flow, and dining room setup.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Banquet and Catering Operations",
+    "skill_category": "Domain",
+    "skill_description": "Planning, coordinating, and executing large-scale banquet events including menu planning, setup, and service delivery.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Bar and Beverage Operations",
+    "skill_category": "Domain",
+    "skill_description": "Managing bar setup, mixology, beverage service, stock control, and compliance with Indian liquor licensing requirements.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Kitchen Operations",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating kitchen workflow, mise en place, section management, and production planning for hotel and restaurant kitchens.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Menu Planning and Development",
+    "skill_category": "Domain",
+    "skill_description": "Designing seasonal menus, costing dishes, and developing recipes aligned with outlet concept and target guest profile.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Food Production and Culinary Skills",
+    "skill_category": "Domain",
+    "skill_description": "Applying classical and contemporary cooking techniques across Indian and international cuisines for hotel and restaurant production.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Indian Cuisine Specialisation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and presenting regional Indian cuisines including Mughlai, South Indian, Rajasthani, and coastal seafood traditions.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Continental Cuisine Skills",
+    "skill_category": "Domain",
+    "skill_description": "Preparing European cuisine including French, Italian, and Mediterranean dishes to hotel food production standards.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Bakery and Pastry Skills",
+    "skill_category": "Domain",
+    "skill_description": "Producing breads, pastries, desserts, and confectionery items for hotel bakeries and restaurant dessert menus.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Butchery and Meat Handling",
+    "skill_category": "Domain",
+    "skill_description": "Portioning, trimming, and preparing meat, poultry, and seafood according to standard yields and hygiene protocols.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "HACCP Implementation",
+    "skill_category": "Domain",
+    "skill_description": "Applying Hazard Analysis Critical Control Point principles to maintain food safety standards in commercial kitchens.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "FSSAI Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring food operations comply with Food Safety and Standards Authority of India licensing, labelling, and hygiene regulations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Food Hygiene and Sanitation",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining personal hygiene, kitchen cleanliness, and food storage standards to prevent contamination and comply with FSSAI norms.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Allergen Management",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, labelling, and communicating allergen information to guests and kitchen staff as per food safety standards.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Room Division Management",
+    "skill_category": "Domain",
+    "skill_description": "Overseeing front office, housekeeping, and reservations departments to maximise occupancy, revenue, and guest satisfaction.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Revenue Management",
+    "skill_category": "Domain",
+    "skill_description": "Developing strategic pricing and distribution plans using demand forecasting, segment analysis, and competitor benchmarking to maximise total hotel revenue.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Hotel Revenue Management Systems",
+    "skill_category": "Technical",
+    "skill_description": "Using revenue management software to set pricing strategies, analyse demand patterns, and optimise room rate decisions.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Property Management System (PMS)",
+    "skill_category": "Technical",
+    "skill_description": "Operating hotel property management systems such as Opera, IDS Next, or Hotelogix for reservations, check-in, billing, and reporting.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Opera PMS",
+    "skill_category": "Technical",
+    "skill_description": "Using Oracle Opera Property Management System for front office operations, reservations, and guest profile management in hotels.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "IDS Next Hotel Software",
+    "skill_category": "Technical",
+    "skill_description": "Using IDS Next (Fortune) hotel management software widely deployed in Indian hotel chains for operations and billing.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Hotelogix PMS",
+    "skill_category": "Technical",
+    "skill_description": "Using Hotelogix cloud-based PMS for small and mid-size Indian hotels for reservations, front desk, and housekeeping management.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Central Reservation System (CRS)",
+    "skill_category": "Technical",
+    "skill_description": "Managing hotel inventory and rates across distribution channels using central reservation systems.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Channel Manager",
+    "skill_category": "Technical",
+    "skill_description": "Using channel management software to synchronise hotel room availability and rates across OTAs, GDS, and direct booking channels.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Online Travel Agency (OTA) Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing hotel listings, rates, and availability on OTA platforms such as MakeMyTrip, Goibibo, Booking.com, and Agoda.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Global Distribution System (GDS)",
+    "skill_category": "Technical",
+    "skill_description": "Using Amadeus, Sabre, or Galileo GDS platforms to manage hotel and travel inventory for travel agents and corporate clients.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Amadeus GDS",
+    "skill_category": "Technical",
+    "skill_description": "Using Amadeus global distribution system for hotel, air, and travel product booking and distribution.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Sabre GDS",
+    "skill_category": "Technical",
+    "skill_description": "Using Sabre travel platform for airline ticket booking, hotel reservations, and travel agency operations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Point of Sale System (POS)",
+    "skill_category": "Technical",
+    "skill_description": "Operating restaurant and retail POS systems for order entry, billing, split payments, and sales reporting.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Petpooja POS",
+    "skill_category": "Technical",
+    "skill_description": "Using Petpooja restaurant POS software widely used in Indian food service operations for order management and billing.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Torqus POS",
+    "skill_category": "Technical",
+    "skill_description": "Operating Torqus restaurant management and POS system used by Indian restaurant chains for orders, inventory, and analytics.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Guest Relationship Management",
+    "skill_category": "Domain",
+    "skill_description": "Building personalised guest relationships through pre-arrival communication, in-stay engagement, and post-stay follow-up.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Guest Complaint Handling",
+    "skill_category": "Domain",
+    "skill_description": "Resolving guest complaints using the LEARN or LAST methodology to restore satisfaction and prevent escalation.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Concierge Services",
+    "skill_category": "Domain",
+    "skill_description": "Providing travel information, tour bookings, restaurant recommendations, and personalised assistance to hotel guests.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Butler Service",
+    "skill_category": "Domain",
+    "skill_description": "Delivering personalised butler services for luxury hotel guests including valet, packing, and bespoke in-room dining.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Housekeeping Standards and SOPs",
+    "skill_category": "Domain",
+    "skill_description": "Following standard operating procedures for room cleaning, turndown service, and public area maintenance.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Laundry and Linen Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing linen inventory, laundry operations, quality control, and par stock for hotel housekeeping departments.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Night Audit",
+    "skill_category": "Domain",
+    "skill_description": "Performing end-of-day front office audit, reconciling accounts, generating management reports, and processing room charges.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Yield Management",
+    "skill_category": "Domain",
+    "skill_description": "Setting tactical rate restrictions, minimum stay requirements, and hurdle rates to optimise room occupancy and short-term revenue in real time.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "RevPAR and KPI Tracking",
+    "skill_category": "Domain",
+    "skill_description": "Monitoring Revenue Per Available Room, Average Daily Rate, occupancy percentage, and other key hospitality performance metrics.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Hotel Sales and Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Developing and executing hotel sales strategies for corporate accounts, MICE, leisure, and OTA segments.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "MICE Sales",
+    "skill_category": "Domain",
+    "skill_description": "Selling meetings, incentives, conferences, and exhibitions business to corporate clients, event planners, and PCOs.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Corporate Account Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing corporate hotel accounts, negotiating rates, and maintaining relationships with travel managers and procurement teams.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Tour Package Design",
+    "skill_category": "Domain",
+    "skill_description": "Creating FIT and GIT tour packages including accommodation, transport, sightseeing, and meal components for Indian destinations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Destination Knowledge - India",
+    "skill_category": "Domain",
+    "skill_description": "Advising on Indian tourist destinations including national parks, heritage sites, pilgrimage circuits, hill stations, and beach resorts.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Inbound Tourism",
+    "skill_category": "Domain",
+    "skill_description": "Planning and managing itineraries for international tourists visiting India including visa assistance, escort services, and cultural guidance.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Outbound Tourism",
+    "skill_category": "Domain",
+    "skill_description": "Designing and selling international holiday packages for Indian travellers covering visa, flights, hotels, and sightseeing.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Domestic Tourism Operations",
+    "skill_category": "Domain",
+    "skill_description": "Planning and operating domestic tour packages for Indian travellers using rail, road, and air transport across Indian destinations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Tour Guiding",
+    "skill_category": "Domain",
+    "skill_description": "Conducting guided tours of heritage sites, natural parks, and cultural destinations with accurate commentary for diverse groups.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Tourist Guide Licence (MOT)",
+    "skill_category": "Domain",
+    "skill_description": "Obtaining and maintaining Ministry of Tourism approved regional or national tourist guide licence for professional guiding.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Visa and Immigration Assistance",
+    "skill_category": "Domain",
+    "skill_description": "Advising clients on visa requirements, documentation, and application procedures for international and Indian destinations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Indian Visa Regulations",
+    "skill_category": "Domain",
+    "skill_description": "Applying knowledge of e-Visa, VOA, and regular visa categories for foreign nationals visiting India for tourism and business.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Air Ticketing and Reservation",
+    "skill_category": "Domain",
+    "skill_description": "Booking domestic and international air tickets, managing itinerary changes, and issuing tickets through GDS or airline portals.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "IATA Ticketing Rules",
+    "skill_category": "Domain",
+    "skill_description": "Applying IATA fare construction, ticketing, and refund rules for correct issuance of airline tickets through travel agencies.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Rail Reservation and IRCTC",
+    "skill_category": "Technical",
+    "skill_description": "Booking Indian Railways tickets through IRCTC portal and managing rail travel components within tour packages.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "IRCTC Agent Portal",
+    "skill_category": "Technical",
+    "skill_description": "Using IRCTC authorised agent portal for bulk rail ticket booking, cancellations, and passenger services.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Travel Insurance Knowledge",
+    "skill_category": "Domain",
+    "skill_description": "Advising travellers on appropriate insurance coverage, policy conditions, and claims processes for domestic and international trips.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Foreign Exchange and Currency Handling",
+    "skill_category": "Domain",
+    "skill_description": "Managing foreign currency transactions, travel card issuance, and compliance with FEMA and RBI foreign exchange regulations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "FEMA and RBI Foreign Exchange Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring foreign currency transactions comply with Foreign Exchange Management Act and Reserve Bank of India dealer norms.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Event Planning and Management",
+    "skill_category": "Domain",
+    "skill_description": "Conceptualising, planning, coordinating, and executing events from concept to completion within budget and timeline.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Venue Selection and Management",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating, negotiating with, and managing venues for corporate, social, and cultural events across India.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Event Budgeting and Cost Control",
+    "skill_category": "Domain",
+    "skill_description": "Preparing event budgets, tracking expenditure, managing vendor payments, and ensuring cost efficiency within approved spends.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Event Logistics and Operations",
+    "skill_category": "Domain",
+    "skill_description": "Managing on-ground event logistics including setup, transport, accommodation, AV equipment, and supplier coordination.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Vendor and Supplier Management",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, negotiating with, and managing vendors including caterers, decorators, AV companies, and entertainment agencies.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Sponsorship Acquisition",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, pitching, and securing event sponsors by creating compelling sponsorship proposals and managing sponsor relationships.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Stage and Production Management",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating stage design, sound, lighting, rigging, and production elements for live events and shows.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Audiovisual and Technical Setup",
+    "skill_category": "Domain",
+    "skill_description": "Managing AV equipment, projection, PA systems, and lighting rigs for events, conferences, and corporate functions.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Decor and Theme Design",
+    "skill_category": "Domain",
+    "skill_description": "Conceptualising and executing event decor themes including floral arrangements, lighting, draping, and branded installations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Wedding Planning",
+    "skill_category": "Domain",
+    "skill_description": "Planning and coordinating all elements of Indian weddings including ceremonies, catering, decor, entertainment, and guest management.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Indian Wedding Traditions and Rituals",
+    "skill_category": "Domain",
+    "skill_description": "Understanding Hindu, Muslim, Sikh, Christian, and Jain wedding rituals to plan and execute culturally appropriate ceremonies.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Destination Wedding Planning",
+    "skill_category": "Domain",
+    "skill_description": "Planning multi-day wedding events at heritage hotels, palace venues, and hill stations with accommodation and logistics management.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Conference and Exhibition Management",
+    "skill_category": "Domain",
+    "skill_description": "Planning and managing large-scale conferences, trade shows, and exhibitions including exhibitor management, floor planning, and delegate services.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Protocol and Ceremonial Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing protocol requirements for government events, diplomatic functions, and VIP gatherings following Indian official protocol.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Entertainment and Artist Management",
+    "skill_category": "Domain",
+    "skill_description": "Booking and managing performers, artists, and entertainers for events including contracts, riders, and on-site coordination.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Event Marketing and Promotion",
+    "skill_category": "Domain",
+    "skill_description": "Promoting events through digital channels, media partnerships, PR campaigns, and on-ground activations to drive attendance.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Ticketing and Registration Systems",
+    "skill_category": "Technical",
+    "skill_description": "Using online ticketing platforms such as BookMyShow, Townscript, or Eventbrite for event registrations and ticket sales.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "BookMyShow for Events",
+    "skill_category": "Technical",
+    "skill_description": "Listing, managing, and promoting events on BookMyShow platform for ticket sales and audience engagement.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Townscript Event Management",
+    "skill_category": "Technical",
+    "skill_description": "Using Townscript platform for event registration, ticketing, and attendee management for Indian events.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Event Registration and Badge Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing delegate registration, ID verification, badge printing, and accreditation processes for conferences and corporate events.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Crowd Management and Safety",
+    "skill_category": "Domain",
+    "skill_description": "Planning and implementing crowd control measures, evacuation procedures, and safety protocols for large public events.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Risk Management in Events",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, assessing, and mitigating risks including weather, security, technical failure, and crowd incidents for event safety.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Event Permits and NOC Management",
+    "skill_category": "Domain",
+    "skill_description": "Obtaining No Objection Certificates from police, municipality, fire department, and other authorities for event permissions in India.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Guest Management and Hospitality",
+    "skill_category": "Domain",
+    "skill_description": "Managing guest lists, RSVPs, seating arrangements, and on-site hospitality for corporate and social events.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Catering Management for Events",
+    "skill_category": "Domain",
+    "skill_description": "Planning menus, coordinating with catering vendors, managing food stations, and ensuring service standards at events.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Sustainable Event Practices",
+    "skill_category": "Domain",
+    "skill_description": "Implementing green event practices including waste reduction, locally sourced food, digital ticketing, and carbon footprint reduction.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Hotel Financial Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing hotel departmental budgets, cost of sales, labour costs, and financial reporting for hospitality operations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Food Cost Control",
+    "skill_category": "Domain",
+    "skill_description": "Monitoring food cost percentages, managing recipe yields, controlling wastage, and implementing cost-saving measures in F&B operations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Beverage Cost Control",
+    "skill_category": "Domain",
+    "skill_description": "Managing bar inventory, beverage cost percentage, pour controls, and minimising shrinkage in hotel and restaurant beverage operations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Stores and Purchase Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing hotel and catering procurement, stock levels, purchase orders, and supplier relationships for perishable and non-perishable goods.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Inventory Management for Hospitality",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining par stocks, conducting physical inventories, and managing spoilage for hotel kitchen and housekeeping stores.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Tally ERP for Hospitality",
+    "skill_category": "Technical",
+    "skill_description": "Using Tally ERP or Tally Prime for accounting, GST filing, payroll, and financial reporting in hotels, restaurants, and travel agencies.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "GST Compliance for Hospitality",
+    "skill_category": "Domain",
+    "skill_description": "Applying correct GST slabs for hotel accommodation (12%/18%), restaurant services, tour packages, and event services and maintaining input tax credit records.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "GST Filing (GSTR-1 and GSTR-3B)",
+    "skill_category": "Domain",
+    "skill_description": "Filing monthly GSTR-1 outward supply returns and GSTR-3B summary returns for hotel, travel agency, and event business on the GST portal.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "TDS Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Deducting and depositing Tax Deducted at Source on vendor payments, professional fees, and employee salaries as per Income Tax Act.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Tourism Finance and Billing",
+    "skill_category": "Domain",
+    "skill_description": "Preparing tour invoices, managing advance payments, processing refunds, and reconciling travel bookings for agency billing.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "EPFO and ESI Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Managing Employees Provident Fund and Employee State Insurance contributions and filings for hotel and hospitality staff.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Indian Labour Laws for Hospitality",
+    "skill_category": "Domain",
+    "skill_description": "Applying Shops and Establishments Act, minimum wage notifications, and working hours regulations for hospitality sector employees.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Hotel Licensing and Permits",
+    "skill_category": "Domain",
+    "skill_description": "Obtaining and renewing trade licences, health licences, fire NOCs, liquor licences, and music licences for hotel operations in India.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Liquor Licence Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing state excise department liquor licence renewals, compliance filings, and bar operations within Indian state liquor regulations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "FHRAI and HRAEI Membership",
+    "skill_category": "Domain",
+    "skill_description": "Utilising Federation of Hotel and Restaurant Associations of India and regional hotel association membership for industry advocacy, training, and compliance guidance.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Ministry of Tourism Classification",
+    "skill_category": "Domain",
+    "skill_description": "Applying for and maintaining hotel star classification under Ministry of Tourism Hotel and Restaurant Approval and Classification Committee.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Incredible India Brand Guidelines",
+    "skill_category": "Domain",
+    "skill_description": "Applying Ministry of Tourism's Incredible India brand identity and messaging in tourism marketing and promotional materials.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Eco-Tourism and Responsible Tourism",
+    "skill_category": "Domain",
+    "skill_description": "Planning and operating eco-tourism experiences that minimise environmental impact and benefit local communities in India.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Heritage Tourism",
+    "skill_category": "Domain",
+    "skill_description": "Developing tourism products around India's UNESCO World Heritage Sites, ASI monuments, and living heritage traditions.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Medical Tourism",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating medical tourism packages including hospital tie-ups, treatment planning, visa support, and post-treatment recovery stays.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Wellness and Spa Tourism",
+    "skill_category": "Domain",
+    "skill_description": "Designing Ayurveda, yoga retreat, and wellness tourism products aligned with India's traditional wellness heritage.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Adventure Tourism",
+    "skill_category": "Domain",
+    "skill_description": "Planning and operating adventure tourism activities including trekking, rafting, and wildlife safaris within safety and regulatory guidelines.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Wildlife Tourism and Safari Operations",
+    "skill_category": "Domain",
+    "skill_description": "Operating jungle safaris, bird watching tours, and wildlife experiences in Indian national parks and tiger reserves.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Pilgrimage Tourism",
+    "skill_category": "Domain",
+    "skill_description": "Organising pilgrimage tours to Char Dham, Vaishno Devi, Tirupati, Ajmer, and other major Indian religious destinations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Rural and Village Tourism",
+    "skill_category": "Domain",
+    "skill_description": "Developing home-stay-based rural tourism products and community tourism experiences in Indian villages and tribal areas.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Home Stay Operations",
+    "skill_category": "Domain",
+    "skill_description": "Setting up, registering, and managing approved home stay accommodations as per state tourism department guidelines.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Tourism Product Development",
+    "skill_category": "Domain",
+    "skill_description": "Creating new tourism products and experiences by identifying market gaps, destination potential, and target visitor segments.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Destination Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Promoting tourist destinations through digital campaigns, trade fairs, media familiarisation trips, and B2B partnerships.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Tourism Fairs and Roadshows",
+    "skill_category": "Domain",
+    "skill_description": "Participating in trade fairs such as OTM, TTF, WTM, and ITB to promote destinations, hotels, and tour products.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Familiarisation Trip (FAM Trip) Management",
+    "skill_category": "Domain",
+    "skill_description": "Planning and hosting familiarisation trips for travel agents, media, and influencers to experience and promote destinations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Travel Agency Operations",
+    "skill_category": "Domain",
+    "skill_description": "Managing retail travel agency functions including client consultation, itinerary preparation, bookings, and documentation.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Travel Agency Accounting",
+    "skill_category": "Domain",
+    "skill_description": "Managing travel agency accounts, BSP reconciliation, debit memos, and commission tracking for IATA accredited agencies.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "BSP Reconciliation",
+    "skill_category": "Domain",
+    "skill_description": "Reconciling Billing and Settlement Plan transactions between travel agencies and airlines through IATA BSP processes.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Tour Cost Sheet Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing detailed tour cost sheets with vendor costs, markup, taxes, and selling price for FIT and GIT tour packages.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Hotel Rate Negotiation",
+    "skill_category": "Domain",
+    "skill_description": "Negotiating contracted rates, allotments, and override commissions with hotel properties for tour operator and MICE bookings.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Online Reputation Management",
+    "skill_category": "Domain",
+    "skill_description": "Proactively monitoring hotel mentions, ratings, and competitor reviews across TripAdvisor, Google, and OTAs to protect brand reputation.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Hospitality CRM",
+    "skill_category": "Technical",
+    "skill_description": "Using customer relationship management systems to track guest preferences, manage loyalty programmes, and personalise guest communications.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Zoho CRM for Hospitality",
+    "skill_category": "Technical",
+    "skill_description": "Using Zoho CRM to manage hotel sales pipeline, corporate accounts, event leads, and client communication in hospitality.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Salesforce for Hospitality",
+    "skill_category": "Technical",
+    "skill_description": "Using Salesforce CRM for hotel sales, MICE management, and guest relationship tracking in large hospitality chains.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Microsoft Excel for Hospitality",
+    "skill_category": "Technical",
+    "skill_description": "Using Excel for room revenue reports, banquet event orders, cost sheets, payroll summaries, and occupancy dashboards.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Microsoft Word for Hospitality",
+    "skill_category": "Technical",
+    "skill_description": "Preparing banquet event orders, proposals, SOPs, function sheets, and guest correspondence using Microsoft Word.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Microsoft PowerPoint for Hospitality",
+    "skill_category": "Technical",
+    "skill_description": "Creating hotel sales presentations, event proposals, training materials, and destination pitch decks using PowerPoint.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Hospitality Email Communication",
+    "skill_category": "Foundational",
+    "skill_description": "Writing professional guest correspondence, booking confirmations, complaint responses, and sales communications via email.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "WhatsApp Business for Hospitality",
+    "skill_category": "Technical",
+    "skill_description": "Using WhatsApp Business to communicate with guests, send booking confirmations, and provide concierge support.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Hotel Social Media Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing hotel Instagram, Facebook, and YouTube accounts to build brand presence, promote offers, and engage with guests.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Canva for Hospitality Marketing",
+    "skill_category": "Technical",
+    "skill_description": "Designing hotel promotional creatives, event flyers, social media posts, and menu cards using Canva.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Google Analytics for Hotels",
+    "skill_category": "Technical",
+    "skill_description": "Analysing hotel website traffic, booking funnel, and digital campaign performance using Google Analytics.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Meta Ads for Hospitality",
+    "skill_category": "Technical",
+    "skill_description": "Running Facebook and Instagram paid ad campaigns to drive direct hotel bookings, event registrations, and restaurant awareness.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Email Marketing for Hospitality",
+    "skill_category": "Technical",
+    "skill_description": "Creating and sending targeted email campaigns to hotel loyalty members, past guests, and event enquiries using Mailchimp or Zoho Campaigns.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Mailchimp for Hospitality",
+    "skill_category": "Technical",
+    "skill_description": "Using Mailchimp to design, schedule, and track email marketing campaigns for hotel promotions and event communications.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Zoho Campaigns",
+    "skill_category": "Technical",
+    "skill_description": "Using Zoho Campaigns for email automation, segmentation, and hospitality client communication workflows.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Search Engine Optimisation for Hotels",
+    "skill_category": "Domain",
+    "skill_description": "Optimising hotel website content, meta tags, and local SEO to improve organic search rankings and direct booking traffic.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Hotel Booking Engine Management",
+    "skill_category": "Technical",
+    "skill_description": "Managing direct booking engine configuration, rate parity, and promotional codes to drive commission-free direct bookings.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "TripAdvisor Management",
+    "skill_category": "Technical",
+    "skill_description": "Managing hotel TripAdvisor profile, responding to reviews, and using TripAdvisor analytics to improve traveller satisfaction scores.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Google My Business for Hotels",
+    "skill_category": "Technical",
+    "skill_description": "Managing hotel Google Business Profile, updating information, responding to reviews, and monitoring local search performance.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Loyalty Programme Management",
+    "skill_category": "Domain",
+    "skill_description": "Administering hotel loyalty programmes, managing points accrual, redemption, and tier benefits for repeat guests.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Spa and Wellness Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing hotel spa and wellness facilities including treatment scheduling, therapist management, and product retail.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Ayurveda Treatment Knowledge",
+    "skill_category": "Domain",
+    "skill_description": "Understanding classical Ayurveda treatments including Panchakarma, Abhyangam, and Shirodhara for wellness resort and spa operations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Yoga and Wellness Programming",
+    "skill_category": "Domain",
+    "skill_description": "Designing and delivering yoga, meditation, and holistic wellness programmes for hotel guests and retreat participants.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Recreation and Leisure Management",
+    "skill_category": "Domain",
+    "skill_description": "Planning and managing hotel recreational facilities including swimming pool, gym, sports courts, and kids' club.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Security and Loss Prevention",
+    "skill_category": "Domain",
+    "skill_description": "Implementing hotel security protocols, access control, CCTV management, and incident response procedures.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Safety and Emergency Procedures",
+    "skill_category": "Domain",
+    "skill_description": "Executing fire safety drills, emergency evacuation, first aid response, and disaster management plans for hospitality properties.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Occupational Health and Safety",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring safe working conditions for hotel staff by complying with Factories Act and Shops and Establishments safety standards.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Hotel Engineering and Maintenance",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating preventive maintenance, repairs, and energy management for hotel buildings, plant, and mechanical equipment.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Energy Management in Hotels",
+    "skill_category": "Domain",
+    "skill_description": "Monitoring and reducing energy consumption in hotels through energy audits, BMS systems, and sustainability initiatives.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Green Hotel Certification",
+    "skill_category": "Domain",
+    "skill_description": "Pursuing and maintaining eco-friendly hotel certifications such as Earth Check, Green Key, or Ministry of Tourism's responsible tourism guidelines.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Human Resource Management in Hospitality",
+    "skill_category": "Domain",
+    "skill_description": "Managing hotel HR functions including recruitment, induction, scheduling, performance appraisal, and employee engagement.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Training and Development in Hospitality",
+    "skill_category": "Domain",
+    "skill_description": "Designing and delivering on-the-job training, service skills workshops, and SOPs training for hotel and restaurant staff.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Roster and Shift Scheduling",
+    "skill_category": "Domain",
+    "skill_description": "Preparing staff duty rosters, managing shift changes, and ensuring adequate coverage across hospitality departments.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Payroll Management for Hospitality",
+    "skill_category": "Domain",
+    "skill_description": "Processing hotel payroll including salary, tips, overtime, allowances, and statutory deductions using HRMS or Tally.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "GreytHR for Hospitality",
+    "skill_category": "Technical",
+    "skill_description": "Using GreytHR HRMS platform for hotel payroll processing, attendance management, leave tracking, and compliance filings.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Zoho People for Hospitality",
+    "skill_category": "Technical",
+    "skill_description": "Using Zoho People for employee management, attendance, leave, and performance tracking in hospitality organisations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Standard Operating Procedures (SOPs)",
+    "skill_category": "Domain",
+    "skill_description": "Writing and implementing SOPs for all hotel and event operational processes to ensure consistency and service standards.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Quality Assurance in Hospitality",
+    "skill_category": "Domain",
+    "skill_description": "Conducting internal quality audits, mystery guest evaluations, and service inspections to maintain brand service standards.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Brand Standards Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring hotel operations comply with brand standards set by hotel chains like Taj, Oberoi, ITC, Marriott, or Accor.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "ISO 22000 Food Safety Management",
+    "skill_category": "Domain",
+    "skill_description": "Implementing ISO 22000 food safety management system requirements in hotel kitchens and catering operations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Guest Satisfaction Surveys",
+    "skill_category": "Domain",
+    "skill_description": "Designing, distributing, and analysing guest satisfaction surveys to identify service gaps and improvement priorities.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Net Promoter Score (NPS) for Hospitality",
+    "skill_category": "Domain",
+    "skill_description": "Measuring and tracking hotel NPS from post-stay surveys and OTA reviews to monitor guest loyalty and advocacy.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Communication Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Communicating clearly and professionally with guests, colleagues, and suppliers in verbal, written, and digital formats.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "English Language Proficiency",
+    "skill_category": "Foundational",
+    "skill_description": "Using English fluently for guest communication, report writing, and professional correspondence in hospitality settings.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Hindi Language Proficiency",
+    "skill_category": "Foundational",
+    "skill_description": "Communicating in Hindi with domestic guests, local staff, and vendors in hospitality operations across India.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Regional Language Proficiency",
+    "skill_category": "Foundational",
+    "skill_description": "Communicating in a regional Indian language to serve domestic guests and coordinate with local hospitality team members.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Foreign Language Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Using French, German, Spanish, Mandarin, or another foreign language to communicate with international guests.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Customer Service Excellence",
+    "skill_category": "Foundational",
+    "skill_description": "Delivering consistently high service standards by anticipating guest needs, showing warmth, and resolving issues gracefully.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Interpersonal Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Building positive working relationships with guests, colleagues, and external stakeholders in team-based hospitality environments.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Empathy and Emotional Intelligence",
+    "skill_category": "Foundational",
+    "skill_description": "Recognising and responding to guest and colleague emotions to deliver compassionate service and resolve conflicts.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Teamwork and Collaboration",
+    "skill_category": "Foundational",
+    "skill_description": "Working cooperatively across departments including F&B, housekeeping, front office, and events to deliver seamless guest experiences.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Time Management",
+    "skill_category": "Foundational",
+    "skill_description": "Prioritising tasks, meeting deadlines, and managing multiple concurrent requests in fast-paced hospitality environments.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Problem Solving",
+    "skill_category": "Foundational",
+    "skill_description": "Identifying and resolving operational problems and guest issues quickly and calmly under service pressure.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Adaptability",
+    "skill_category": "Foundational",
+    "skill_description": "Adjusting to changing guest demands, event requirements, and shift conditions with flexibility and professionalism.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Attention to Detail",
+    "skill_category": "Foundational",
+    "skill_description": "Maintaining precision in room setups, event execution, food presentation, and guest service delivery.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Leadership and Team Management",
+    "skill_category": "Foundational",
+    "skill_description": "Motivating, directing, and developing hospitality teams to achieve service targets and operational goals.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Grooming and Personal Presentation",
+    "skill_category": "Foundational",
+    "skill_description": "Maintaining impeccable personal appearance, uniform standards, and professional grooming as required in hospitality roles.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Cultural Sensitivity",
+    "skill_category": "Foundational",
+    "skill_description": "Serving guests from diverse regional, religious, and international backgrounds with respect and cultural awareness.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Stress Management",
+    "skill_category": "Foundational",
+    "skill_description": "Managing personal stress and maintaining composure during peak occupancy, event days, and guest complaint situations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Ethics and Integrity",
+    "skill_category": "Foundational",
+    "skill_description": "Upholding honest and ethical conduct in cash handling, guest data management, and all hospitality transactions.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Hospitality Etiquette and Protocol",
+    "skill_category": "Foundational",
+    "skill_description": "Applying formal dining etiquette, correct addressing of guests, and professional hospitality protocols in service delivery.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Report Writing and Documentation",
+    "skill_category": "Foundational",
+    "skill_description": "Preparing daily operations reports, incident reports, event briefs, and management summaries accurately and on time.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Negotiation Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Negotiating rates, contracts, and service terms with vendors, clients, and hotel counterparts professionally.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Sales and Upselling Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Identifying and acting on opportunities to upsell room upgrades, restaurant covers, spa packages, and event add-ons.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "ChatGPT",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using ChatGPT to draft guest communications, event proposals, menu descriptions, and training content for hospitality teams.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Claude",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Claude for drafting event briefs, travel itineraries, RFP responses, and guest correspondence in hospitality operations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Canva AI",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Canva AI features to generate hotel social media creatives, event collateral, and promotional materials efficiently.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Microsoft Copilot",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Microsoft Copilot in Excel and Word to automate hospitality reports, draft event proposals, and analyse revenue data.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Power BI for Hospitality Analytics",
+    "skill_category": "Technical",
+    "skill_description": "Building hospitality performance dashboards tracking RevPAR, occupancy, F&B revenue, and guest satisfaction using Power BI.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "STR Report Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Interpreting Smith Travel Research competitive set reports to benchmark hotel performance against market compset.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Event Project Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing event projects using timelines, run-of-show documents, and project tracking tools to ensure on-time delivery.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Run of Show (ROS) Documentation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing detailed minute-by-minute run-of-show scripts coordinating all event elements, technical cues, and stakeholder actions.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Function Sheet and BEO Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Creating Banquet Event Orders and function sheets detailing all requirements for events hosted at hotel properties.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Site Inspection and Walk-Through",
+    "skill_category": "Domain",
+    "skill_description": "Conducting venue site inspections with clients to assess suitability and plan event logistics for hotels and standalone venues.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Event Debriefing and Reporting",
+    "skill_category": "Domain",
+    "skill_description": "Conducting post-event reviews with team members and clients to capture learnings, resolve outstanding issues, and improve future events.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Trello for Event Planning",
+    "skill_category": "Technical",
+    "skill_description": "Using Trello boards to organise event tasks, track vendor deliverables, and manage team responsibilities for events.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Asana for Event Management",
+    "skill_category": "Technical",
+    "skill_description": "Using Asana to manage event project plans, assign tasks, set deadlines, and track progress across event teams.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Google Workspace for Hospitality",
+    "skill_category": "Technical",
+    "skill_description": "Using Google Docs, Sheets, Calendar, and Drive for collaborative planning, event documentation, and team coordination.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Zoom and Video Conferencing for Events",
+    "skill_category": "Technical",
+    "skill_description": "Setting up and managing virtual and hybrid events using Zoom, Microsoft Teams, or similar video conferencing platforms.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Hybrid Event Technology",
+    "skill_category": "Technical",
+    "skill_description": "Using streaming platforms, virtual attendee engagement tools, and broadcast technology for hybrid conference and event delivery.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Social Media for Events",
+    "skill_category": "Domain",
+    "skill_description": "Creating event hashtag campaigns, live social media coverage, and post-event content for Instagram, Facebook, and LinkedIn.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Influencer Marketing for Hospitality",
+    "skill_category": "Domain",
+    "skill_description": "Engaging travel and food influencers for hotel stays, restaurant launches, and destination campaigns to reach digital audiences.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Photography and Videography for Events",
+    "skill_category": "Domain",
+    "skill_description": "Briefing and managing photographers and videographers at events to capture deliverables for client and marketing use.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Cocktail and Mocktail Making",
+    "skill_category": "Domain",
+    "skill_description": "Preparing classic and contemporary cocktails and Indian-inspired mocktails for hotel bars and event beverage stations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Wine and Beverage Knowledge",
+    "skill_category": "Domain",
+    "skill_description": "Advising guests on wine pairing, beverage selection, and service standards for hotel fine dining and events.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Coffee and Specialty Beverage Service",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and presenting specialty coffee, tea, and artisan beverages in hotel all-day dining and specialty cafe settings.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Sommelier Skills",
+    "skill_category": "Domain",
+    "skill_description": "Providing professional wine recommendations, pairing suggestions, and wine programme management for luxury hotel restaurants.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Transport and Ground Handling",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating airport transfers, ground transport logistics, and vehicle management for hotel guests and tour groups.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Porter and Bell Desk Operations",
+    "skill_category": "Domain",
+    "skill_description": "Managing luggage handling, storage, vehicle coordination, and guest assistance services at the hotel bell desk.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Night Manager Duties",
+    "skill_category": "Domain",
+    "skill_description": "Overseeing all hotel operations during night shifts including emergency response, VIP arrivals, and management reporting.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "VIP Guest Handling",
+    "skill_category": "Domain",
+    "skill_description": "Providing specialised pre-arrival, in-house, and post-departure service for VIP, VVIP, and celebrity hotel guests.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Diplomatic and Government Protocol",
+    "skill_category": "Domain",
+    "skill_description": "Managing protocol requirements for government delegations, diplomatic guests, and ministerial visits in hotel settings.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Conference Room Setup",
+    "skill_category": "Domain",
+    "skill_description": "Arranging conference rooms in theatre, classroom, U-shape, boardroom, and cabaret configurations per client requirements.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Outdoor Catering Operations",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing off-site catering events including logistics, equipment transport, kitchen setup, and service at client locations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Buffet Planning and Presentation",
+    "skill_category": "Domain",
+    "skill_description": "Designing and executing buffet spreads with appropriate layout, replenishment systems, and presentation standards.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Food Plating and Presentation",
+    "skill_category": "Domain",
+    "skill_description": "Applying classical and contemporary plating techniques to present food dishes attractively for hotel and event dining.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Kitchen Hierarchy and Brigade System",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and working within the classical kitchen brigade structure from Commis Chef to Executive Chef.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Portion Control and Standardised Recipes",
+    "skill_category": "Domain",
+    "skill_description": "Following standardised recipe cards and portion specifications to maintain consistency and food cost control.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Cold Kitchen and Garde Manger",
+    "skill_category": "Domain",
+    "skill_description": "Preparing cold appetisers, salads, charcuterie, and decorative food displays in the hotel garde manger section.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Live Cooking Stations",
+    "skill_category": "Domain",
+    "skill_description": "Operating live food stations at buffets and events including tawa, tandoor, pasta, and carving stations for guest engagement.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Tandoor and Indian Bread Making",
+    "skill_category": "Domain",
+    "skill_description": "Preparing naan, roti, paratha, kulcha, and tandoori dishes in hotel Indian restaurant kitchens using clay tandoor ovens.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Kitchen Equipment Operation and Safety",
+    "skill_category": "Domain",
+    "skill_description": "Operating hotel kitchen equipment safely including ovens, grills, fryers, and blast chillers following manufacturer and safety guidelines.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Cold Chain Management",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining correct temperature storage for perishables, monitoring cold chain compliance, and preventing food safety breaches.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Sustainability in Hospitality",
+    "skill_category": "Domain",
+    "skill_description": "Implementing waste reduction, water conservation, energy efficiency, and plastic-free initiatives in hotel operations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Accessibility and Inclusive Hospitality",
+    "skill_category": "Domain",
+    "skill_description": "Providing accessible services and facilities for guests with disabilities in compliance with Rights of Persons with Disabilities Act 2016.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Crisis Management in Hospitality",
+    "skill_category": "Domain",
+    "skill_description": "Managing hospitality operations during crises including natural disasters, public health events, and political disruptions.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Data Privacy and Guest Data Protection",
+    "skill_category": "Domain",
+    "skill_description": "Protecting guest personal data in compliance with Indian data protection norms and hotel brand privacy policies.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Digital Payment Systems",
+    "skill_category": "Technical",
+    "skill_description": "Processing hotel and event payments through UPI, credit cards, net banking, and digital wallets at front desk and F&B outlets.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "UPI and Payment Gateway Management",
+    "skill_category": "Technical",
+    "skill_description": "Managing UPI payments, payment gateway reconciliation, and digital transaction records for hotel cashiering.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Cash Handling and Cashiering",
+    "skill_category": "Technical",
+    "skill_description": "Managing front office and F&B cashiering, processing bills, handling cash, and reconciling daily collections.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Zoho Books for Hospitality",
+    "skill_category": "Technical",
+    "skill_description": "Using Zoho Books for hotel and event company accounting, invoicing, expense tracking, and GST filing.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Freshdesk for Hospitality",
+    "skill_category": "Technical",
+    "skill_description": "Using Freshdesk to manage hotel guest service requests, complaints, and internal help desk tickets efficiently.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Intercom for Guest Communication",
+    "skill_category": "Technical",
+    "skill_description": "Using Intercom or similar customer messaging platforms for automated pre-arrival, in-stay, and post-stay digital guest communication.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "OTA Extranet Management",
+    "skill_category": "Technical",
+    "skill_description": "Managing hotel content, rates, availability, and promotions on OTA extranets including MakeMyTrip, Booking.com, and Agoda.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "MakeMyTrip for Partners",
+    "skill_category": "Technical",
+    "skill_description": "Using MakeMyTrip partner portal to manage hotel listings, pricing, promotions, and booking performance for Indian OTA distribution.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Agoda Partner Portal",
+    "skill_category": "Technical",
+    "skill_description": "Managing hotel inventory, rates, and promotional deals on Agoda's partner extranet for Asia-Pacific travel market distribution.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Housekeeping Management System",
+    "skill_category": "Technical",
+    "skill_description": "Using digital housekeeping management tools to assign rooms, track cleaning status, and manage room inspections.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Maintenance Management System",
+    "skill_category": "Technical",
+    "skill_description": "Logging, tracking, and managing maintenance requests and preventive maintenance schedules using hotel maintenance software.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Event Management Software",
+    "skill_category": "Technical",
+    "skill_description": "Using event management platforms for planning, vendor tracking, budget management, and attendee coordination.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Presentation Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Delivering confident, well-structured presentations to clients, management, and event audiences.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Creativity and Innovation",
+    "skill_category": "Foundational",
+    "skill_description": "Developing original event concepts, hospitality experiences, and service innovations to differentiate and delight guests.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Networking and Relationship Building",
+    "skill_category": "Foundational",
+    "skill_description": "Building and maintaining a professional network of clients, vendors, hotel operators, and industry contacts.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Digital Literacy",
+    "skill_category": "Foundational",
+    "skill_description": "Using digital tools, hotel software, OTA portals, and online communication platforms confidently in daily hospitality work.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Financial Literacy for Hospitality",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding profit and loss statements, departmental budgets, and key financial ratios relevant to hotel and event operations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Professional Development and Certification",
+    "skill_category": "Foundational",
+    "skill_description": "Pursuing NCHMCT, FHRAI, IATA, or industry certification programmes to advance professional credentials in hospitality.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Workplace Safety Awareness",
+    "skill_category": "Foundational",
+    "skill_description": "Recognising hazards, using PPE, and following safety protocols in hotel kitchens, maintenance areas, and event venues.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "First Aid and CPR",
+    "skill_category": "Foundational",
+    "skill_description": "Providing basic first aid and cardiopulmonary resuscitation in emergencies involving guests or staff.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Fire Safety and Evacuation",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding fire prevention, use of fire extinguishers, and evacuation procedures for hotels and event venues.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Self-Motivation and Initiative",
+    "skill_category": "Foundational",
+    "skill_description": "Proactively identifying service improvement opportunities and taking ownership of tasks without constant supervision.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Cultural Awareness of Indian Guests",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding dietary preferences, religious observances, and regional expectations of Indian domestic travellers.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Responsible Alcohol Service",
+    "skill_category": "Domain",
+    "skill_description": "Applying responsible service of alcohol principles to prevent overconsumption and manage intoxicated guests safely.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Rate Parity Management",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring consistent hotel room rates across all distribution channels to maintain OTA contractual compliance and direct booking competitiveness.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "GIT and FIT Tour Operations",
+    "skill_category": "Domain",
+    "skill_description": "Operating Group Inclusive Tours and Fully Independent Travel packages with appropriate group transport, hotels, and guide services.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Coach and Bus Tour Management",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating coach touring operations including route planning, driver management, and en-route hospitality stops.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Cruise Tourism",
+    "skill_category": "Domain",
+    "skill_description": "Selling and operating river cruise and coastal cruise tourism products relevant to Indian maritime and river tourism.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Mice Budget Management",
+    "skill_category": "Domain",
+    "skill_description": "Preparing MICE event budgets, tracking expenditures against approvals, and reporting financial performance to corporate clients.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "RFP Response Writing",
+    "skill_category": "Domain",
+    "skill_description": "Preparing compelling Request for Proposal responses for MICE, corporate events, and hotel management contracts.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Contract Drafting for Events",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and reviewing event contracts, hotel agreements, vendor terms, and client service level agreements.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Interpretation and Translation Services",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating simultaneous and consecutive interpretation services for international conferences and multi-language events.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Incentive Travel Planning",
+    "skill_category": "Domain",
+    "skill_description": "Designing and operating incentive travel programmes for corporate sales teams including rewards experiences and exclusive activities.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Cultural Tourism Programming",
+    "skill_category": "Domain",
+    "skill_description": "Creating cultural immersion experiences including craft workshops, cooking classes, folk performances, and heritage walks.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Accessible Tourism",
+    "skill_category": "Domain",
+    "skill_description": "Planning and delivering tourism experiences that are accessible to travellers with physical, sensory, and cognitive disabilities.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Tourism Statistics and Research",
+    "skill_category": "Domain",
+    "skill_description": "Analysing Ministry of Tourism, UNWTO, and state tourism statistics to understand market trends for destination planning.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Visitor Experience Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing engaging, immersive visitor experiences at heritage sites, museums, theme parks, and natural attractions.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Box Office and Advance Ticket Sales",
+    "skill_category": "Domain",
+    "skill_description": "Managing advance ticket sales, walk-in box office operations, and seat allocation for large-scale concerts, sports events, and cultural programmes in India.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Live Event Production",
+    "skill_category": "Domain",
+    "skill_description": "Managing production elements for live concerts, award shows, and entertainment events including talent, staging, and broadcast.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Star Rating Standards Application",
+    "skill_category": "Domain",
+    "skill_description": "Applying three, four, and five-star hotel service and facility standards in day-to-day hotel operations and audits.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Hygiene and Sanitation Audits",
+    "skill_category": "Domain",
+    "skill_description": "Conducting kitchen and hotel facility hygiene audits to identify and rectify non-compliance before regulatory inspections.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Integrated Resort and Casino Operations",
+    "skill_category": "Domain",
+    "skill_description": "Understanding integrated resort concepts and, where applicable under Indian law (Goa, Sikkim, Daman), casino hospitality operations and regulatory compliance.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Airport Hospitality and Lounge Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing airport lounge operations including food service, passenger handling, and premium amenities for airline partners.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Festival and Cultural Event Management",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing large-scale Indian cultural festivals, music events, and religious fairs with crowd management.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Corporate Event Management",
+    "skill_category": "Domain",
+    "skill_description": "Planning and delivering corporate annual days, product launches, town halls, and awards ceremonies for Indian corporates.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Sports Event Management",
+    "skill_category": "Domain",
+    "skill_description": "Organising sporting events including IPL hospitality, marathon events, and corporate sports days with logistics and ticketing.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Political and Government Event Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing protocol-intensive government events, political rallies, and official state functions with security coordination.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Fashion Show and Exhibition Event",
+    "skill_category": "Domain",
+    "skill_description": "Managing fashion shows, art exhibitions, and product launch events including staging, lighting, and model coordination.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Music and Entertainment Event Management",
+    "skill_category": "Domain",
+    "skill_description": "Planning concerts, music festivals, and live entertainment events including artist contracts, sound, and stage management.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Food Festival Management",
+    "skill_category": "Domain",
+    "skill_description": "Organising culinary festivals, food exhibitions, and chef competitions for hotels, tourism boards, and hospitality brands.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Artificial Intelligence in Hospitality",
+    "skill_category": "Domain",
+    "skill_description": "Understanding AI applications in hospitality including chatbots, personalisation engines, and predictive revenue management.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Contactless Technology in Hotels",
+    "skill_category": "Technical",
+    "skill_description": "Implementing mobile check-in, digital room keys, QR code menus, and contactless payment for seamless guest experiences.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "QR Code Menu Management",
+    "skill_category": "Technical",
+    "skill_description": "Creating, updating, and managing digital QR code menus for hotel restaurants and event food stations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "App-Based Concierge Services",
+    "skill_category": "Technical",
+    "skill_description": "Using hotel guest mobile apps to deliver in-room services, dining orders, spa bookings, and concierge requests digitally.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "IoT in Hospitality",
+    "skill_category": "Domain",
+    "skill_description": "Understanding Internet of Things applications in hotel rooms including smart temperature control, automated lighting, and occupancy sensors.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Chatbot for Hotel Guest Services",
+    "skill_category": "Technical",
+    "skill_description": "Deploying and managing AI chatbots on hotel websites and WhatsApp for automated guest queries, bookings, and FAQ handling.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Food Delivery App Integration",
+    "skill_category": "Technical",
+    "skill_description": "Managing hotel restaurant listings on Swiggy, Zomato, and other food delivery platforms for extended revenue channels.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Swiggy and Zomato Partner Management",
+    "skill_category": "Technical",
+    "skill_description": "Using Swiggy and Zomato restaurant partner portals to manage menus, pricing, promotions, and order tracking.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Zomato for Business",
+    "skill_category": "Technical",
+    "skill_description": "Using Zomato for Business partner tools to manage restaurant listings, respond to reviews, and run online promotions.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Social Listening for Hospitality",
+    "skill_category": "Technical",
+    "skill_description": "Monitoring brand mentions, guest reviews, and competitor activity across social media and review platforms.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Reputation Management Tools",
+    "skill_category": "Technical",
+    "skill_description": "Using review management platforms such as ReviewPro or Revinate to track, analyse, and respond to hotel guest feedback.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Hotel Website Management",
+    "skill_category": "Technical",
+    "skill_description": "Maintaining hotel website content, updating promotions, and managing SEO to drive direct bookings and brand visibility.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Content Marketing for Hotels",
+    "skill_category": "Domain",
+    "skill_description": "Creating blog posts, destination guides, video reels, and social content to attract travellers, showcase hotel experiences, and drive direct bookings.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Photography for Food and Hospitality",
+    "skill_category": "Domain",
+    "skill_description": "Directing food, hotel property, and destination photography for menus, social media, OTA listings, tourism campaigns, and marketing collateral.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Tour Operator - Ministry of Tourism Registration",
+    "skill_category": "Domain",
+    "skill_description": "Obtaining and renewing Ministry of Tourism approved tour operator recognition for Indian travel and tour companies.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "IATA Agency Accreditation",
+    "skill_category": "Domain",
+    "skill_description": "Understanding IATA accreditation requirements, BSP membership, and compliance obligations for travel agency operations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "TAAI and TAFI Membership",
+    "skill_category": "Domain",
+    "skill_description": "Understanding Travel Agents Association of India and Travel Agents Federation of India membership benefits and industry standards.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "ADTOI Membership",
+    "skill_category": "Domain",
+    "skill_description": "Understanding Association of Domestic Tour Operators of India membership and its role in promoting inbound and domestic tourism.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "PATA and UNWTO Framework",
+    "skill_category": "Domain",
+    "skill_description": "Applying Pacific Asia Travel Association and UNWTO sustainable tourism frameworks to destination and tour product development.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Cross-Selling and Package Bundling",
+    "skill_category": "Domain",
+    "skill_description": "Creating and selling bundled travel packages combining flights, hotels, sightseeing, and activities for higher revenue yield.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Post-Event Analysis and ROI Reporting",
+    "skill_category": "Domain",
+    "skill_description": "Measuring event success against objectives, preparing ROI reports, and presenting outcomes to clients and management.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Virtual Event Management",
+    "skill_category": "Domain",
+    "skill_description": "Planning and delivering fully online events including webinars, virtual conferences, and digital award ceremonies.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Night Club and Entertainment Venue Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing nightclub, bar, and entertainment venue operations including staffing, programming, compliance, and revenue.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Hotel Chain Management",
+    "skill_category": "Domain",
+    "skill_description": "Understanding multi-property hotel chain operations including centralised services, brand standards, and franchise models.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Franchise and Management Contract Knowledge",
+    "skill_category": "Domain",
+    "skill_description": "Understanding hotel franchise agreements, management contracts, and brand licensing terms for hotel investment and operations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Hotel Feasibility and Pre-opening",
+    "skill_category": "Domain",
+    "skill_description": "Supporting hotel pre-opening activities including recruitment, training, systems installation, and soft opening planning.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Property and Asset Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing hotel physical assets, renovation planning, FF&E replacement, and capital expenditure planning.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Corporate Social Responsibility in Hospitality",
+    "skill_category": "Domain",
+    "skill_description": "Implementing CSR programmes in hospitality including local community hiring, skill development, and environmental initiatives.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Guest Feedback and Review Management",
+    "skill_category": "Domain",
+    "skill_description": "Systematically collecting in-stay and post-stay guest feedback through surveys, WhatsApp, and OTA review platforms, and implementing corrective actions.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Mystery Audit Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing hotel teams for mystery guest evaluations by reinforcing service standards and conducting pre-audit mock inspections.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Cross-Cultural Guest Service",
+    "skill_category": "Domain",
+    "skill_description": "Adapting hospitality service delivery for international guests from different cultural backgrounds and communication preferences.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Concierge Software and Apps",
+    "skill_category": "Technical",
+    "skill_description": "Using concierge management platforms and local recommendation apps to deliver personalised guest services and destination information.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Digital Signage for Hotels and Events",
+    "skill_category": "Technical",
+    "skill_description": "Managing digital signage displays for hotel lobbies, event wayfinding, menu boards, and promotional messaging.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Social Tables Event Diagramming",
+    "skill_category": "Technical",
+    "skill_description": "Using Social Tables for collaborative event floor plan design, seating charts, and client presentations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Printed and Digital Menu Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing visually appealing printed and digital menus that comply with FSSAI calorie labelling requirements and allergen disclosure.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Mixology and Signature Drink Creation",
+    "skill_category": "Domain",
+    "skill_description": "Developing signature cocktail and mocktail menus that reflect local Indian flavours and seasonal ingredients.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Banquet Sales and Conversion",
+    "skill_category": "Domain",
+    "skill_description": "Converting banquet enquiries into confirmed bookings through venue showrounds, customised proposals, and relationship management.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Hospitality Revenue Forecasting",
+    "skill_category": "Domain",
+    "skill_description": "Preparing short and long-term revenue forecasts for hotel rooms, F&B, and events based on bookings, trends, and market data.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Departmental P&L Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing a hotel department's profit and loss account including revenue targets, cost control, and variance reporting.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Tour Leader and Escort Skills",
+    "skill_category": "Domain",
+    "skill_description": "Leading tour groups throughout a journey including briefings, problem resolution, supplier coordination, and group safety.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Tipping Culture and Gratuity Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing service charge, gratuity distribution, and tipping protocols for hotel and restaurant staff in Indian hospitality.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Conference Technology and AV Basics",
+    "skill_category": "Technical",
+    "skill_description": "Setting up and troubleshooting conference room AV systems, projectors, microphones, and video conferencing equipment.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "MiceBook and Event Tech Platforms",
+    "skill_category": "Technical",
+    "skill_description": "Using MiceBook and similar Indian MICE technology platforms for venue RFP management, supplier discovery, and delegate registration workflows.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Cloud-Based PMS Solutions",
+    "skill_category": "Technical",
+    "skill_description": "Operating cloud-based hotel property management systems accessible from any device for modern, mobile-enabled hotel management.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Tableau for Hospitality Data",
+    "skill_category": "Technical",
+    "skill_description": "Using Tableau to visualise hotel performance data, occupancy trends, and guest satisfaction scores for management reporting.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Restaurant Reservation Systems",
+    "skill_category": "Technical",
+    "skill_description": "Using digital reservation platforms such as Dineout, EazyDiner, or TableAgent to manage restaurant bookings and covers.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Dineout Partner Management",
+    "skill_category": "Technical",
+    "skill_description": "Managing hotel restaurant listings, promotions, and bookings on Dineout platform for Indian restaurant discovery and reservations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "EazyDiner Restaurant Management",
+    "skill_category": "Technical",
+    "skill_description": "Using EazyDiner partner tools to manage reservations, promote dining offers, and track covers for Indian hotel restaurants.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Dietary and Special Meal Handling",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and delivering special dietary meals including Jain, vegan, diabetic, gluten-free, and allergy-specific options.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Religious and Cultural Food Observance",
+    "skill_category": "Domain",
+    "skill_description": "Accommodating halal, kosher, sattvic, and festival-specific dietary requirements for diverse Indian and international guests.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Guest Itinerary Planning",
+    "skill_category": "Domain",
+    "skill_description": "Creating personalised day-by-day travel itineraries for hotel guests combining sightseeing, dining, and experiential activities.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Travel Blogging and Content Creation",
+    "skill_category": "Domain",
+    "skill_description": "Creating destination guides, travel blogs, and social content that drive tourism interest and support hospitality brand marketing.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Reservations Management",
+    "skill_category": "Domain",
+    "skill_description": "Handling room reservations via phone, email, OTA, and walk-in channels including room blocking, waitlisting, deposit collection, and confirmation procedures.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Guest Arrival and Departure Procedures",
+    "skill_category": "Domain",
+    "skill_description": "Executing standardised pre-arrival room preparation, welcome rituals, seamless check-in, and efficient check-out processes aligned with brand standards.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "In-Room Dining Service",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating, preparing, and delivering room service orders with correct table setup, tray presentation, order accuracy, timing, and billing procedures.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Minibar Management",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining, replenishing, and correctly billing minibar items in hotel guest rooms as part of in-room ancillary revenue management.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Hotel Front Desk Accounting",
+    "skill_category": "Domain",
+    "skill_description": "Posting room charges, F&B charges, and incidentals to guest folios, managing paid-outs, and reconciling front office accounts at shift close.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Coffee Machine Operation",
+    "skill_category": "Technical",
+    "skill_description": "Operating commercial espresso machines, bean-to-cup machines, and filter coffee equipment in hotel cafes and restaurant beverage service.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Recipe Costing and Yield Testing",
+    "skill_category": "Domain",
+    "skill_description": "Calculating precise recipe costs, conducting yield tests on ingredients, and establishing menu selling prices based on target food cost percentages.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Tasting and Sensory Evaluation",
+    "skill_category": "Domain",
+    "skill_description": "Conducting systematic food and beverage tastings to assess quality, flavour consistency, and presentation before service or menu approval.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Galileo GDS",
+    "skill_category": "Technical",
+    "skill_description": "Using Galileo (Travelport) global distribution system for domestic and international air, hotel, and car booking in Indian travel agency operations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "TBO.com Travel Platform",
+    "skill_category": "Technical",
+    "skill_description": "Using TBO.com (Travel Boutique Online) wholesale B2B platform for hotel, flight, holiday package, and ancillary travel product bookings popular with Indian travel agents.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Passport and Documentation Assistance",
+    "skill_category": "Domain",
+    "skill_description": "Guiding clients through passport application, Tatkal renewal, and document preparation including PAN, Aadhaar, and photographs required for travel.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Yatra Corporate Travel Platform",
+    "skill_category": "Technical",
+    "skill_description": "Using Yatra for Business platform for corporate travel bookings, expense management, and travel policy compliance for Indian corporate accounts.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Event Insurance Management",
+    "skill_category": "Domain",
+    "skill_description": "Arranging event liability insurance, cancellation insurance, and vendor indemnity coverage to protect against financial and operational risks.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Event Seating Plan Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing seating arrangements for conferences, galas, and weddings ensuring protocol hierarchy, accessibility, and guest relationship considerations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Master of Ceremonies Skills",
+    "skill_category": "Domain",
+    "skill_description": "Hosting corporate and social events as MC including scripted introductions, managing programme flow, audience engagement, and handling unplanned situations.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Emcee Script Writing",
+    "skill_category": "Domain",
+    "skill_description": "Writing structured emcee and anchor scripts for corporate events, award ceremonies, and social functions including speaker introductions and programme links.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Exhibition Stand Management",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating exhibitor stall setup, branding, staffing, and lead capture operations at trade fairs, expos, and business exhibitions.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Staff Recruitment in Hospitality",
+    "skill_category": "Domain",
+    "skill_description": "Sourcing, screening, and selecting hotel and event staff through hotel management institute placements, job portals, and walk-in drives.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Hotel Induction and Onboarding",
+    "skill_category": "Domain",
+    "skill_description": "Designing and delivering structured induction programmes for new hotel employees covering brand values, property familiarisation, and role-specific SOPs.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Gratuity and Statutory Payroll Deductions",
+    "skill_category": "Domain",
+    "skill_description": "Calculating and managing gratuity under the Payment of Gratuity Act, professional tax, and other statutory deductions in hotel payroll processing.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Google Hotel Ads Management",
+    "skill_category": "Technical",
+    "skill_description": "Managing Google Hotel Ads campaigns to display hotel rates and availability directly in Google Search, Maps, and Hotel Search for direct bookings.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Hotel SEM and Paid Search",
+    "skill_category": "Technical",
+    "skill_description": "Running Google Ads and Meta paid search campaigns to drive targeted hotel website traffic and direct booking conversions.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Microsoft Teams for Hospitality",
+    "skill_category": "Technical",
+    "skill_description": "Using Microsoft Teams for internal hotel team communications, shift briefings, cross-department coordination, and remote management meetings.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Dekho Apna Desh Initiative",
+    "skill_category": "Domain",
+    "skill_description": "Applying Ministry of Tourism's Dekho Apna Desh scheme to promote domestic tourism, participating in webinars, and marketing Indian destinations to domestic travellers.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Swachh Paryatan Abhiyan",
+    "skill_category": "Domain",
+    "skill_description": "Implementing Ministry of Tourism Swachh Paryatan cleanliness standards at tourist sites, hotels, and hospitality facilities.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "MSME Registration for Hospitality",
+    "skill_category": "Domain",
+    "skill_description": "Registering small hotels, travel agencies, and event companies as MSMEs on Udyam portal to access government schemes, priority credit, and tax benefits.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Active Listening",
+    "skill_category": "Foundational",
+    "skill_description": "Practising focused, non-interruptive listening during guest interactions, briefings, and team meetings to accurately understand needs and instructions.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Conflict Resolution",
+    "skill_category": "Foundational",
+    "skill_description": "Resolving disputes between guests, team members, and vendors calmly through de-escalation, mediation, and principled negotiation techniques.",
+    "job_families": [
+      11
+    ]
+  },
+  {
+    "skill_name": "Personal Accountability",
+    "skill_category": "Foundational",
+    "skill_description": "Taking ownership of service failures, task completion, and professional commitments without deflecting responsibility in hospitality roles.",
+    "job_families": [
+      11
+    ]
+  }
+]

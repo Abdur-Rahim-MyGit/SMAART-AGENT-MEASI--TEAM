@@ -1,0 +1,3138 @@
+[
+  {
+    "skill_name": "Tally ERP 9",
+    "skill_category": "Technical",
+    "skill_description": "Used for day-to-day accounting, ledger management, and financial reporting in Indian SMEs.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Tally Prime",
+    "skill_category": "Technical",
+    "skill_description": "Latest version of Tally used for GST-compliant accounting, inventory, and payroll management.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "SAP FICO",
+    "skill_category": "Technical",
+    "skill_description": "SAP Financial Accounting and Controlling module used for enterprise-level financial operations.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "SAP S/4HANA Finance",
+    "skill_category": "Technical",
+    "skill_description": "Next-gen SAP ERP platform used for real-time financial processing and reporting.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Oracle Financials",
+    "skill_category": "Technical",
+    "skill_description": "Oracle ERP suite used for financial management, procurement, and reporting in large enterprises.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Microsoft Excel",
+    "skill_category": "Technical",
+    "skill_description": "Used for financial modelling, data analysis, MIS reporting, and budgeting across all finance roles.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+    "skill_category": "Technical",
+    "skill_description": "Advanced Excel features used for complex financial analysis, dashboards, and automated reporting.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Power BI",
+    "skill_category": "Technical",
+    "skill_description": "Used for creating interactive financial dashboards and management reporting.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "SQL",
+    "skill_category": "Technical",
+    "skill_description": "Used to query financial databases for MIS, reconciliation, and audit trail analysis.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Python for Finance",
+    "skill_category": "Technical",
+    "skill_description": "Used for financial data analysis, automation of reconciliations, and risk modelling.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Zoho Books",
+    "skill_category": "Technical",
+    "skill_description": "Cloud accounting software used by Indian SMEs for GST invoicing, expense tracking, and reporting.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Busy Accounting Software",
+    "skill_category": "Technical",
+    "skill_description": "Indian accounting software widely used in retail and distribution businesses for GST compliance.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "QuickBooks (MNC and Startup Context)",
+    "skill_category": "Technical",
+    "skill_description": "Accounting software used by MNC subsidiaries and startups in India for bookkeeping and financial statement preparation.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "ClearTax",
+    "skill_category": "Technical",
+    "skill_description": "Indian tax filing platform used for GST returns, ITR filing, and TDS compliance.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "GSTN Portal",
+    "skill_category": "Technical",
+    "skill_description": "Government GST Network portal used for filing GSTR-1, GSTR-3B, and other GST returns.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Income Tax e-Filing Portal",
+    "skill_category": "Technical",
+    "skill_description": "Government portal used for filing ITR, TDS returns, and responding to tax notices.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "TRACES Portal",
+    "skill_category": "Technical",
+    "skill_description": "TDS Reconciliation Analysis and Correction Enabling System used for TDS/TCS compliance and Form 16 generation.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "MCA21 Portal",
+    "skill_category": "Technical",
+    "skill_description": "Ministry of Corporate Affairs portal used for company filings, ROC compliance, and director KYC.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Bloomberg Terminal",
+    "skill_category": "Technical",
+    "skill_description": "Financial data and analytics platform used for market data, bond pricing, and investment research.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "LSEG Workspace (formerly Reuters Eikon)",
+    "skill_category": "Technical",
+    "skill_description": "Financial market data platform (previously Reuters Eikon) used for equity research, news, market data, and trading analytics.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Tableau",
+    "skill_category": "Technical",
+    "skill_description": "Data visualisation tool used for creating financial performance dashboards and KPI reports.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "RBI XBRL Reporting",
+    "skill_category": "Domain",
+    "skill_description": "Extensible Business Reporting Language used for regulatory data submissions to the Reserve Bank of India.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "SEBI SCORES Portal",
+    "skill_category": "Domain",
+    "skill_description": "SEBI's online complaint redressal platform used by brokers and listed companies for investor grievance management.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "NSDL/CDSL Depository Systems",
+    "skill_category": "Technical",
+    "skill_description": "Depository systems used for managing demat accounts, pledge creation, and securities settlement.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "NSE/BSE Trading Platforms",
+    "skill_category": "Technical",
+    "skill_description": "Exchange trading systems used for equity, derivatives, and debt market transactions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "SWIFT Messaging",
+    "skill_category": "Technical",
+    "skill_description": "International financial messaging network used for cross-border payments and bank-to-bank communications.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Core Banking System (CBS)",
+    "skill_category": "Technical",
+    "skill_description": "Centralised banking platform (e.g., Finacle, BaNCS) used for managing accounts, loans, and transactions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Finacle",
+    "skill_category": "Technical",
+    "skill_description": "Infosys banking software used by Indian public and private sector banks for core banking operations.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "BaNCS (TCS)",
+    "skill_category": "Technical",
+    "skill_description": "TCS banking platform used for core banking, payments, and insurance operations.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Temenos Transact (formerly T24)",
+    "skill_category": "Technical",
+    "skill_description": "Temenos core banking platform (formerly T24) used for retail and corporate banking operations in Indian private banks.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "PFMS Portal",
+    "skill_category": "Technical",
+    "skill_description": "Public Financial Management System used for tracking government fund flows and direct benefit transfers.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "TReDS Platform",
+    "skill_category": "Technical",
+    "skill_description": "Trade Receivables Discounting System platform used for MSME invoice financing and supply chain finance.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "NACH/ECS Processing",
+    "skill_category": "Technical",
+    "skill_description": "National Automated Clearing House used for bulk payment processing such as EMI collection and salary disbursement.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "UPI Integration and Reconciliation",
+    "skill_category": "Technical",
+    "skill_description": "Unified Payments Interface reconciliation used by banks and fintechs to match UPI transactions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "NEFT/RTGS/IMPS Processing",
+    "skill_category": "Technical",
+    "skill_description": "Electronic fund transfer systems used for interbank payment processing and settlement.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "ACL Analytics / Diligent HighBond",
+    "skill_category": "Technical",
+    "skill_description": "Audit analytics software (formerly ACL Analytics, now Diligent HighBond) used for data extraction, fraud detection, and continuous auditing.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "IDEA Data Analysis Software",
+    "skill_category": "Technical",
+    "skill_description": "Audit software used by internal and external auditors for data analysis and exception testing.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Zoho Analytics",
+    "skill_category": "Technical",
+    "skill_description": "Cloud BI tool used by finance teams for automated reporting and data storytelling.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Microsoft Power Query",
+    "skill_category": "Technical",
+    "skill_description": "ETL tool within Excel and Power BI used for data transformation and financial data consolidation.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "VBA (Visual Basic for Applications)",
+    "skill_category": "Technical",
+    "skill_description": "Excel macro language used to automate repetitive finance tasks such as MIS generation and reconciliation.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Zoho Payroll",
+    "skill_category": "Technical",
+    "skill_description": "Indian payroll software used for salary processing, PF/ESI compliance, and payslip generation.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "GreytHR",
+    "skill_category": "Technical",
+    "skill_description": "Indian HRMS platform used for payroll processing, attendance, and statutory compliance.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Keka HR",
+    "skill_category": "Technical",
+    "skill_description": "Indian HR and payroll platform used for salary management, compliance, and employee self-service.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "ChatGPT",
+    "skill_category": "AI-Tool",
+    "skill_description": "Used for drafting financial reports, summarising regulatory documents, and preparing client communications.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Claude (Anthropic)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Used for analysing long financial documents, regulatory filings, and generating structured financial summaries.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+    "skill_category": "AI-Tool",
+    "skill_description": "AI assistant in Microsoft 365 Excel used for formula generation, data analysis, and automated financial summarisation.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Power BI Copilot",
+    "skill_category": "AI-Tool",
+    "skill_description": "AI feature in Power BI used for generating reports and insights from financial datasets using natural language.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "GitHub Copilot",
+    "skill_category": "AI-Tool",
+    "skill_description": "AI coding assistant used by fintech developers and quant analysts for writing Python/SQL financial scripts.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Salesforce Einstein",
+    "skill_category": "AI-Tool",
+    "skill_description": "AI layer in Salesforce CRM used by banking relationship managers for lead scoring and customer analytics.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Zoho Zia",
+    "skill_category": "AI-Tool",
+    "skill_description": "AI assistant in Zoho CRM and analytics suite used for sales insights, workflow automation, and business data suggestions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Financial Accounting",
+    "skill_category": "Domain",
+    "skill_description": "Core accounting knowledge covering journal entries, ledger posting, trial balance, and financial statement preparation.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Management Accounting",
+    "skill_category": "Domain",
+    "skill_description": "Used for preparing cost reports, variance analysis, and management information systems for internal decision-making.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ind AS (Indian Accounting Standards)",
+    "skill_category": "Domain",
+    "skill_description": "Indian accounting standards converged with IFRS, mandatory for listed companies and large corporates.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Indian GAAP (Generally Accepted Accounting Principles)",
+    "skill_category": "Domain",
+    "skill_description": "Traditional Indian accounting framework under Companies Act used by non-Ind AS entities.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "GST (Goods and Services Tax)",
+    "skill_category": "Domain",
+    "skill_description": "Comprehensive knowledge of GST law, rates, input tax credit, returns filing, and reconciliation.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "GST Return Filing (GSTR-1, GSTR-3B, GSTR-9)",
+    "skill_category": "Domain",
+    "skill_description": "Preparation and filing of monthly, quarterly, and annual GST returns on the GSTN portal.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Input Tax Credit (ITC) Management",
+    "skill_category": "Domain",
+    "skill_description": "Tracking, reconciling, and claiming GST input tax credit to optimise tax outflow.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "TDS (Tax Deducted at Source)",
+    "skill_category": "Domain",
+    "skill_description": "Compliance with TDS provisions, deduction, deposit, and return filing under Income Tax Act.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "TCS (Tax Collected at Source)",
+    "skill_category": "Domain",
+    "skill_description": "Compliance with TCS provisions applicable to certain transactions under Income Tax Act.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Income Tax (Personal and Corporate)",
+    "skill_category": "Domain",
+    "skill_description": "Knowledge of Income Tax Act provisions for computing and filing tax returns for individuals and companies.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Advance Tax Computation",
+    "skill_category": "Domain",
+    "skill_description": "Estimating and depositing advance tax instalments to avoid interest under Income Tax Act.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Tax Audit (Section 44AB)",
+    "skill_category": "Domain",
+    "skill_description": "Conducting tax audits and preparing Form 3CA/3CB/3CD as required under the Income Tax Act.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Transfer Pricing",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring intercompany transactions are priced at arm's length in compliance with Indian transfer pricing regulations.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "International Taxation (DTAA)",
+    "skill_category": "Domain",
+    "skill_description": "Applying Double Taxation Avoidance Agreements to cross-border transactions and foreign remittances.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Corporate Tax Planning",
+    "skill_category": "Domain",
+    "skill_description": "Structuring business transactions to optimise tax liability within legal provisions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Statutory Audit",
+    "skill_category": "Domain",
+    "skill_description": "Conducting year-end audits of financial statements under Companies Act and auditing standards.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Internal Audit",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating internal controls, risk management, and governance processes in an organisation.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Concurrent Audit (Banking)",
+    "skill_category": "Domain",
+    "skill_description": "Ongoing audit of bank branches to detect errors and irregularities on a near-real-time basis.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Bank Audit (Statutory)",
+    "skill_category": "Domain",
+    "skill_description": "Audit of bank financial statements, advances, deposits, and RBI regulatory compliance.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Revenue Audit",
+    "skill_category": "Domain",
+    "skill_description": "Verifying accuracy of revenue recognition and identifying revenue leakages in an organisation.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Audit Report Writing (CARO)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing Companies Auditor Report Order (CARO 2020) report for applicable companies as part of statutory audit deliverables.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Companies Act 2013 Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring corporate governance, board resolutions, annual filings, and other statutory requirements under Companies Act 2013.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "ROC Filing and Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Filing annual returns, financial statements, and event-based forms with the Registrar of Companies.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "SEBI Regulations",
+    "skill_category": "Domain",
+    "skill_description": "Knowledge of SEBI LODR, ICDR, insider trading, and other regulations applicable to listed companies.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "SEBI LODR Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring listed companies meet quarterly, half-yearly, and annual disclosure obligations under SEBI LODR.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "RBI Regulations and Guidelines",
+    "skill_category": "Domain",
+    "skill_description": "Knowledge of Reserve Bank of India master directions, circulars, and prudential norms applicable to banks and NBFCs.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "NBFC Compliance (RBI)",
+    "skill_category": "Domain",
+    "skill_description": "Regulatory compliance for Non-Banking Financial Companies including capital adequacy, NPA norms, and fair practices.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "FEMA Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring foreign exchange transactions comply with Foreign Exchange Management Act provisions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "PMLA Compliance (Anti-Money Laundering)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing KYC, customer due diligence, and suspicious transaction reporting under Prevention of Money Laundering Act.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "KYC and Customer Due Diligence",
+    "skill_category": "Domain",
+    "skill_description": "Verifying customer identity and assessing risk profiles as required by RBI/SEBI/PMLA regulations.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Credit Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Assessing creditworthiness of individuals and businesses for loan sanctioning and credit limit decisions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Credit Risk Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating probability of default, loss given default, and exposure at default for lending portfolios.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Loan Appraisal (Retail and Corporate)",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating loan applications by analysing financials, security, and repayment capacity.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Working Capital Finance",
+    "skill_category": "Domain",
+    "skill_description": "Structuring and managing working capital facilities such as CC, OD, packing credit, and bill discounting.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Project Finance",
+    "skill_category": "Domain",
+    "skill_description": "Financing long-term infrastructure and industrial projects based on cash flow projections and security structures.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Trade Finance",
+    "skill_category": "Domain",
+    "skill_description": "Handling letters of credit, bank guarantees, bills for collection, and export finance instruments.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "NPA Management and Recovery",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, classifying, and recovering Non-Performing Assets as per RBI prudential norms.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "SARFAESI Act Procedures",
+    "skill_category": "Domain",
+    "skill_description": "Initiating asset recovery under Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "IBC (Insolvency and Bankruptcy Code) Procedures",
+    "skill_category": "Domain",
+    "skill_description": "Initiating and participating in corporate insolvency resolution processes under the IBC 2016.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Treasury Operations",
+    "skill_category": "Domain",
+    "skill_description": "Managing bank's investment portfolio, liquidity, and funding through money market and capital market instruments.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Cash and Liquidity Management",
+    "skill_category": "Domain",
+    "skill_description": "Optimising cash positioning, forecasting daily liquidity needs, and managing short-term borrowings.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Foreign Exchange (Forex) Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing currency risk through hedging instruments such as forwards, options, and swaps.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Interest Rate Risk Management",
+    "skill_category": "Domain",
+    "skill_description": "Measuring and hedging interest rate exposure in banking and treasury portfolios.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "ALM (Asset Liability Management)",
+    "skill_category": "Domain",
+    "skill_description": "Managing balance sheet risks arising from mismatches in asset and liability repricing and maturity profiles.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Equity Valuation",
+    "skill_category": "Domain",
+    "skill_description": "Valuing companies using DCF, comparable company analysis, and precedent transaction methods.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Financial Modelling",
+    "skill_category": "Domain",
+    "skill_description": "Building three-statement models, DCF models, and LBO models for investment and credit analysis.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "DCF Valuation (Discounted Cash Flow)",
+    "skill_category": "Domain",
+    "skill_description": "Estimating intrinsic value of a business or asset by discounting projected free cash flows.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Equity Research",
+    "skill_category": "Domain",
+    "skill_description": "Analysing listed companies to produce buy/sell/hold recommendations with target prices.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Fixed Income Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating bonds, debentures, and other debt instruments for yield, duration, and credit quality.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Mutual Fund Concepts and Regulations",
+    "skill_category": "Domain",
+    "skill_description": "Understanding SEBI mutual fund regulations, fund types, NAV, and distributor compliance.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Portfolio Management",
+    "skill_category": "Domain",
+    "skill_description": "Constructing and managing investment portfolios to optimise risk-adjusted returns for clients.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Derivatives (Futures and Options)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and using derivative instruments for hedging and speculative strategies on NSE/BSE.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Financial Statement Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Interpreting balance sheets, P&L, and cash flow statements to assess financial health and performance.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ratio Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Computing liquidity, profitability, leverage, and efficiency ratios for credit and investment decisions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Cash Flow Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Analysing operating, investing, and financing cash flows to evaluate business sustainability.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Budgeting and Forecasting",
+    "skill_category": "Domain",
+    "skill_description": "Preparing annual budgets and rolling forecasts aligned with business strategy.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Variance Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Investigating differences between actual and budgeted financial results to identify causes and corrective actions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Cost Accounting",
+    "skill_category": "Domain",
+    "skill_description": "Tracking and analysing costs of production, services, and operations to support pricing and efficiency decisions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Standard Costing",
+    "skill_category": "Domain",
+    "skill_description": "Setting predetermined costs for products and services to control expenses and measure efficiency.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Activity-Based Costing (ABC)",
+    "skill_category": "Domain",
+    "skill_description": "Allocating overhead costs to products and services based on actual activity drivers.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Cost Audit",
+    "skill_category": "Domain",
+    "skill_description": "Conducting cost audits as mandated under Companies (Cost Records and Audit) Rules for specified industries.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Accounts Payable Management",
+    "skill_category": "Domain",
+    "skill_description": "Processing vendor invoices, managing payment runs, and ensuring accurate creditor reconciliation.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Accounts Receivable Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing customer invoicing, credit control, collections, and debtor reconciliation.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Bank Reconciliation",
+    "skill_category": "Domain",
+    "skill_description": "Matching company books with bank statements to identify and resolve discrepancies.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Month-End and Year-End Close",
+    "skill_category": "Domain",
+    "skill_description": "Completing accruals, provisions, and final journal entries to close the accounting period accurately.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Fixed Asset Accounting",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining fixed asset register, computing depreciation, and accounting for disposals under Companies Act.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Depreciation (Companies Act and Income Tax)",
+    "skill_category": "Domain",
+    "skill_description": "Calculating depreciation under Schedule II of Companies Act and Income Tax Act provisions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Payroll Accounting",
+    "skill_category": "Domain",
+    "skill_description": "Processing monthly payroll, computing salary components, and accounting for PF, ESI, and PT deductions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "EPFO Compliance (PF)",
+    "skill_category": "Domain",
+    "skill_description": "Managing Employees' Provident Fund deductions, employer contributions, and monthly ECR filing.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "ESIC Compliance (ESI)",
+    "skill_category": "Domain",
+    "skill_description": "Managing ESI contributions and filing half-yearly returns with the Employees' State Insurance Corporation.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Professional Tax Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Deducting and remitting professional tax as per state-specific slab rates.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Gratuity and Leave Encashment Accounting",
+    "skill_category": "Domain",
+    "skill_description": "Actuarial valuation and accounting for gratuity and leave encashment provisions under Ind AS 19.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Consolidated Financial Statements",
+    "skill_category": "Domain",
+    "skill_description": "Preparing group-level consolidated accounts by eliminating intercompany transactions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Related Party Transactions (RPT)",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, disclosing, and obtaining approvals for related party transactions under Companies Act and Ind AS.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Forex Accounting (Ind AS 21)",
+    "skill_category": "Domain",
+    "skill_description": "Accounting for foreign currency transactions and translating foreign operations as per Ind AS 21.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Revenue Recognition (Ind AS 115)",
+    "skill_category": "Domain",
+    "skill_description": "Applying five-step model for recognising revenue from contracts with customers under Ind AS 115.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Leases Accounting (Ind AS 116)",
+    "skill_category": "Domain",
+    "skill_description": "Recognising right-of-use assets and lease liabilities on balance sheet as required by Ind AS 116.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Financial Instruments (Ind AS 109)",
+    "skill_category": "Domain",
+    "skill_description": "Classifying, measuring, and applying impairment and hedge accounting for financial instruments.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Deferred Tax (Ind AS 12)",
+    "skill_category": "Domain",
+    "skill_description": "Computing and recognising deferred tax assets and liabilities arising from timing differences.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Impairment of Assets (Ind AS 36)",
+    "skill_category": "Domain",
+    "skill_description": "Testing and recognising impairment of fixed assets and goodwill as per Ind AS 36.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Risk Management Framework",
+    "skill_category": "Domain",
+    "skill_description": "Designing and implementing enterprise risk management frameworks covering credit, market, and operational risks.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Operational Risk Management",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, assessing, and mitigating risks arising from internal processes, systems, and people failures.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Basel III Norms (Capital Adequacy Framework)",
+    "skill_category": "Domain",
+    "skill_description": "Applying Basel III capital adequacy, liquidity ratios (LCR, NSFR), and leverage ratio norms as implemented by RBI in the Indian banking context.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Capital Adequacy Ratio (CRAR)",
+    "skill_category": "Domain",
+    "skill_description": "Computing and monitoring Capital to Risk-weighted Assets Ratio as per RBI Basel III guidelines.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Provisioning Norms (RBI)",
+    "skill_category": "Domain",
+    "skill_description": "Applying RBI asset classification and provisioning norms for standard, sub-standard, and doubtful assets.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Stress Testing (Banking)",
+    "skill_category": "Domain",
+    "skill_description": "Supporting senior risk teams in simulating adverse scenarios to assess impact on a bank's capital, liquidity, and earnings (support/analyst level at entry-mid).",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Investment Banking (ECM/DCM)",
+    "skill_category": "Domain",
+    "skill_description": "Supporting equity capital market and debt capital market transactions including IPOs, QIPs, and bond issuances.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Mergers and Acquisitions (M&A) Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Conducting due diligence, valuation, and deal structuring for M&A transactions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Due Diligence (Financial)",
+    "skill_category": "Domain",
+    "skill_description": "Reviewing target company's financials, contracts, and liabilities during M&A or funding transactions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "IPO Process and SEBI ICDR Regulations",
+    "skill_category": "Domain",
+    "skill_description": "Understanding IPO documentation, SEBI ICDR compliance, and public issue procedures.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Venture Capital and Private Equity Concepts",
+    "skill_category": "Domain",
+    "skill_description": "Understanding VC/PE deal structures, term sheets, valuation methods, and fund economics.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Microfinance and Priority Sector Lending",
+    "skill_category": "Domain",
+    "skill_description": "Understanding RBI priority sector lending norms and microfinance institution (MFI) regulations.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "MSME Lending and Government Schemes",
+    "skill_category": "Domain",
+    "skill_description": "Processing MSME loans under government guarantee schemes such as CGTMSE and ECLGS.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Home Loan Processing",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating, processing, and disbursing retail home loans with title verification and mortgage creation.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Pradhan Mantri Jan Dhan Yojana (PMJDY) Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Opening and managing accounts under PMJDY with associated compliance and reporting requirements.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Financial Inclusion Initiatives",
+    "skill_category": "Domain",
+    "skill_description": "Implementing RBI and government financial inclusion mandates such as BC network management.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Treasury Bills and Government Securities",
+    "skill_category": "Domain",
+    "skill_description": "Investing in and managing G-Sec and T-Bill portfolio under RBI Held-to-Maturity and AFS categories.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Bond Valuation and Duration",
+    "skill_category": "Domain",
+    "skill_description": "Computing bond price, yield to maturity, modified duration, and convexity for portfolio management.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Securitisation and ABS",
+    "skill_category": "Domain",
+    "skill_description": "Structuring and investing in asset-backed securities and mortgage-backed securities in the Indian market.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Insurance Products (IRDAI Regulations)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding life and general insurance products and their regulatory framework under IRDAI.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Bancassurance",
+    "skill_category": "Domain",
+    "skill_description": "Distributing insurance products through bank channels in compliance with RBI and IRDAI bancassurance guidelines.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "CSR Accounting (Section 135)",
+    "skill_category": "Domain",
+    "skill_description": "Accounting for mandatory CSR expenditure and ensuring disclosure compliance under Companies Act Section 135.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ind AS 37 (Provisions and Contingencies)",
+    "skill_category": "Domain",
+    "skill_description": "Recognising and measuring provisions, contingent liabilities, and contingent assets under Ind AS 37.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Internal Financial Controls (IFC)",
+    "skill_category": "Domain",
+    "skill_description": "Designing and testing internal financial controls over financial reporting as required by Companies Act 2013.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Fraud Risk Management",
+    "skill_category": "Domain",
+    "skill_description": "Identifying fraud indicators, conducting fraud investigations, and implementing preventive controls.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Forensic Accounting",
+    "skill_category": "Domain",
+    "skill_description": "Applying accounting skills to investigate financial fraud, embezzlement, and litigation support.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "GST Audit (Section 65 and 66)",
+    "skill_category": "Domain",
+    "skill_description": "Conducting GST audits under CGST Act to verify tax liability, ITC claims, and compliance.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Customs Duty and Import-Export Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Computing customs duties, handling ICEGATE filings, and ensuring import-export documentation compliance.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "EXIM Policy and Foreign Trade",
+    "skill_category": "Domain",
+    "skill_description": "Applying India's Foreign Trade Policy for export incentives, advance authorisations, and RoDTEP/SEIS schemes.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "IBC Process Knowledge (Creditor/Support Role)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding corporate insolvency resolution process under IBC 2016 for bankers and advisors supporting Committee of Creditors or resolution applicants.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Financial Derivatives Accounting (Ind AS 109 Hedge)",
+    "skill_category": "Domain",
+    "skill_description": "Applying hedge accounting under Ind AS 109 to offset gains and losses on hedging instruments.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Environmental, Social and Governance (ESG) Reporting",
+    "skill_category": "Domain",
+    "skill_description": "Preparing Business Responsibility and Sustainability Report (BRSR) as mandated by SEBI for top listed companies.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Integrated Reporting",
+    "skill_category": "Domain",
+    "skill_description": "Communicating how an organisation creates long-term value through integrated reporting frameworks.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Cash Budget Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Projecting weekly and monthly cash inflows and outflows to manage working capital requirements.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Capital Budgeting",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating long-term investments using NPV, IRR, payback period, and profitability index.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Dividend Policy Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Assessing dividend payment capacity and recommending payout policy in compliance with Companies Act.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Lease vs Buy Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating financial merits of leasing versus purchasing assets for capital allocation decisions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Credit Rating Process (CRISIL, ICRA, CARE)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding credit rating methodologies of Indian rating agencies and their implications for borrowing costs.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Mutual Fund Distribution Compliance (AMFI)",
+    "skill_category": "Domain",
+    "skill_description": "Complying with AMFI regulations for mutual fund distributors including commission disclosures and KYC.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "NRI Banking Regulations (NRE/NRO/FCNR)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding RBI regulations governing NRI accounts, remittances, and repatriation rules.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Commodity Markets and MCX Trading",
+    "skill_category": "Domain",
+    "skill_description": "Understanding commodity futures trading on MCX and NCDEX and related hedging strategies.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Peer-to-Peer (P2P) Lending Regulations",
+    "skill_category": "Domain",
+    "skill_description": "Understanding RBI's NBFC-P2P framework and compliance requirements for peer-to-peer lending platforms.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Digital Lending Guidelines (RBI)",
+    "skill_category": "Domain",
+    "skill_description": "Complying with RBI digital lending guidelines on disbursement, collection, and data privacy.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Account Aggregator Framework",
+    "skill_category": "Domain",
+    "skill_description": "Understanding RBI's AA framework for consent-based financial data sharing between FIPs and FIUs.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Systematic Investment Plan (SIP) Operations",
+    "skill_category": "Domain",
+    "skill_description": "Processing, tracking, and reporting SIP transactions for mutual fund and distribution platforms.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Demat Account Operations",
+    "skill_category": "Domain",
+    "skill_description": "Opening, maintaining, and managing demat accounts through NSDL and CDSL depository participants.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Broker-Dealer Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring stockbroker compliance with SEBI regulations on margin, client funds, and reporting.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "IFRS (International Financial Reporting Standards)",
+    "skill_category": "Domain",
+    "skill_description": "Applying IFRS for entities with international reporting obligations or cross-border listings.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "US GAAP Basics (for GCC/Shared Services Roles)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding key US GAAP principles relevant for professionals working in Global Capability Centres or MNC captive finance teams.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Shared Services Centre (SSC) Operations",
+    "skill_category": "Domain",
+    "skill_description": "Managing finance processes in a shared services model including AP, AR, R2R, and reporting.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Record to Report (R2R)",
+    "skill_category": "Domain",
+    "skill_description": "Managing the end-to-end financial close and reporting cycle from journal entry to final statements.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Order to Cash (O2C)",
+    "skill_category": "Domain",
+    "skill_description": "Managing the entire receivables cycle from sales order through customer payment and cash application.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Procure to Pay (P2P)",
+    "skill_category": "Domain",
+    "skill_description": "Managing the end-to-end payables process from purchase requisition through vendor payment.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "ICAI Standards on Auditing (SAs)",
+    "skill_category": "Domain",
+    "skill_description": "Applying Institute of Chartered Accountants of India Standards on Auditing in audit engagements.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "ICAI Ethical Standards and Code of Ethics",
+    "skill_category": "Domain",
+    "skill_description": "Adhering to ICAI Code of Ethics including independence, objectivity, and professional scepticism.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Statutory Compliance Calendar Management",
+    "skill_category": "Domain",
+    "skill_description": "Tracking and meeting all statutory due dates for GST, TDS, ROC, PF, and other regulatory filings.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "RERA Compliance (Real Estate Finance)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring financial reporting and escrow compliance under Real Estate Regulatory Authority provisions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Stamp Duty and Registration (Financial Instruments)",
+    "skill_category": "Domain",
+    "skill_description": "Computing and paying stamp duty on financial instruments under the Indian Stamp Act and state regulations.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Wealth Management and Financial Planning",
+    "skill_category": "Domain",
+    "skill_description": "Providing holistic financial planning covering investments, tax, insurance, and retirement for HNI clients.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Retail Banking Products Knowledge",
+    "skill_category": "Domain",
+    "skill_description": "Understanding savings accounts, FDs, personal loans, credit cards, and retail banking product features.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Corporate Banking Products Knowledge",
+    "skill_category": "Domain",
+    "skill_description": "Understanding corporate credit, cash management, trade finance, and forex products offered to business clients.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "CIBIL and Credit Bureau Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Interpreting CIBIL, Equifax, and CRIF credit bureau reports for retail and MSME credit decisions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Loan Documentation and Security Creation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing loan agreements, mortgage deeds, hypothecation letters, and perfecting security interests.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Microfinance Lending (JLG/SHG)",
+    "skill_category": "Domain",
+    "skill_description": "Managing Joint Liability Group and Self-Help Group lending operations as per RBI MFIN norms.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Prepaid Payment Instruments (PPI) Regulations",
+    "skill_category": "Domain",
+    "skill_description": "Understanding RBI PPI master directions applicable to wallets, prepaid cards, and voucher issuers.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Communication Skills (Written and Verbal)",
+    "skill_category": "Foundational",
+    "skill_description": "Presenting financial information clearly to stakeholders, clients, and management.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Analytical Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Breaking down complex financial problems into structured components for effective analysis.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Attention to Detail",
+    "skill_category": "Foundational",
+    "skill_description": "Ensuring accuracy in financial calculations, compliance filings, and audit documentation.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Numerical Aptitude",
+    "skill_category": "Foundational",
+    "skill_description": "Working confidently with large volumes of numerical data in financial analysis and reporting.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Time Management and Prioritisation",
+    "skill_category": "Foundational",
+    "skill_description": "Meeting strict deadlines for tax filings, audit submissions, and month-end close cycles.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ethical Conduct and Integrity",
+    "skill_category": "Foundational",
+    "skill_description": "Maintaining professional ethics and independence in financial reporting and advisory roles.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Problem-Solving Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Identifying and resolving accounting discrepancies, system issues, and compliance gaps.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Teamwork and Collaboration",
+    "skill_category": "Foundational",
+    "skill_description": "Working effectively in cross-functional teams across audit, compliance, and finance operations.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Client Relationship Management",
+    "skill_category": "Foundational",
+    "skill_description": "Building and maintaining long-term relationships with banking, audit, and advisory clients.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Negotiation Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Negotiating loan terms, vendor payments, and commercial contracts on behalf of the organisation.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Report Writing",
+    "skill_category": "Foundational",
+    "skill_description": "Preparing structured financial, audit, and management reports for internal and external audiences.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Presentation Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Presenting financial results, investment recommendations, and risk findings to senior management.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Critical Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Evaluating assumptions, data quality, and conclusions in financial analysis and audit work.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Regulatory Awareness",
+    "skill_category": "Foundational",
+    "skill_description": "Staying updated on changing tax, SEBI, RBI, and Companies Act regulations affecting finance roles.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Data Literacy",
+    "skill_category": "Foundational",
+    "skill_description": "Ability to read, interpret, and draw conclusions from financial and operational datasets.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Process Orientation",
+    "skill_category": "Foundational",
+    "skill_description": "Following and improving standardised processes for financial controls, audit, and reporting.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Adaptability and Learning Agility",
+    "skill_category": "Foundational",
+    "skill_description": "Quickly adapting to new accounting standards, regulatory changes, and technology tools.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Business Acumen",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding how business decisions affect financial outcomes and organisational performance.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Confidentiality and Data Privacy",
+    "skill_category": "Foundational",
+    "skill_description": "Handling sensitive financial, client, and audit information with strict confidentiality.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Stakeholder Management",
+    "skill_category": "Foundational",
+    "skill_description": "Managing expectations of auditors, regulators, board members, and investors on financial matters.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Cross-Functional Coordination",
+    "skill_category": "Foundational",
+    "skill_description": "Coordinating with operations, legal, HR, and IT teams on finance-related projects and compliance.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Continuous Learning Mindset",
+    "skill_category": "Foundational",
+    "skill_description": "Proactively upskilling through professional certifications, CPE hours, and self-directed learning.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Deadline Management",
+    "skill_category": "Foundational",
+    "skill_description": "Consistently delivering audit reports, tax filings, and financial statements within statutory timelines.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Documentation and Record-Keeping",
+    "skill_category": "Foundational",
+    "skill_description": "Maintaining accurate, well-organised financial records and audit working papers.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Leadership and Team Management",
+    "skill_category": "Foundational",
+    "skill_description": "Leading audit teams, finance departments, or project groups to deliver quality outputs.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Decision Making Under Uncertainty",
+    "skill_category": "Foundational",
+    "skill_description": "Making sound financial and risk-based decisions with incomplete or ambiguous information.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Cultural Sensitivity and Diversity Awareness",
+    "skill_category": "Foundational",
+    "skill_description": "Working effectively with diverse clients and teams across India's varied business contexts.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Proficiency in English (Business)",
+    "skill_category": "Foundational",
+    "skill_description": "Reading, writing, and speaking professional English for financial documents, emails, and presentations.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Hindi Business Communication",
+    "skill_category": "Foundational",
+    "skill_description": "Communicating in Hindi for client-facing and government agency interactions in domestic banking and finance.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "GST E-Invoicing (IRP Portal)",
+    "skill_category": "Technical",
+    "skill_description": "Generating and uploading e-invoices on the Invoice Registration Portal (IRP) as mandated for GST-registered businesses above the applicable turnover threshold.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "GST E-Way Bill Generation and Compliance",
+    "skill_category": "Technical",
+    "skill_description": "Generating, modifying, and managing E-Way Bills on the NIC portal for goods movement compliance under GST rules.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "GSTR-2B vs Purchase Register Reconciliation",
+    "skill_category": "Domain",
+    "skill_description": "Monthly reconciliation of auto-populated GSTR-2B with the purchase register to validate input tax credit claims under GST.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Form 26AS and AIS/TIS Reconciliation",
+    "skill_category": "Domain",
+    "skill_description": "Reconciling Form 26AS and Annual Information Statement (AIS/TIS) with books of accounts to ensure accuracy in income tax return filing.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Faceless Assessment and E-Proceedings (Income Tax)",
+    "skill_category": "Domain",
+    "skill_description": "Responding to income tax notices, conducting assessments, and filing submissions through the faceless assessment scheme and e-proceedings portal.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Virtual Digital Assets (VDA) Taxation (Section 115BBH)",
+    "skill_category": "Domain",
+    "skill_description": "Computing tax on income from cryptocurrency and virtual digital assets at 30% under Section 115BBH and TDS compliance under Section 194S.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ind AS 2 (Inventories)",
+    "skill_category": "Domain",
+    "skill_description": "Valuing inventories at lower of cost and net realisable value and applying cost formula methods as per Ind AS 2.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ind AS 16 (Property, Plant and Equipment)",
+    "skill_category": "Domain",
+    "skill_description": "Accounting for PPE under cost or revaluation model, applying componentisation, and computing depreciation as per Ind AS 16.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ind AS 32 (Financial Instruments: Presentation)",
+    "skill_category": "Domain",
+    "skill_description": "Classifying financial instruments as debt or equity and accounting for compound instruments such as convertible bonds under Ind AS 32.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Journal Entry and Ledger Posting",
+    "skill_category": "Domain",
+    "skill_description": "Recording business transactions as journal entries and posting them to respective ledger accounts.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Trial Balance Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Extracting and verifying debit and credit balances from all ledger accounts to prepare the trial balance.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Petty Cash Management",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining imprest petty cash fund, recording small expenses, and periodic reimbursement reconciliation.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Intercompany Reconciliation",
+    "skill_category": "Domain",
+    "skill_description": "Matching intercompany receivables and payables between group entities to eliminate balances at consolidation.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Suspense Account Management",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, monitoring, and clearing unallocated entries parked in suspense accounts within defined timelines.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Accruals and Prepayments Accounting",
+    "skill_category": "Domain",
+    "skill_description": "Recording period-end accruals and prepayments to ensure income and expenses are matched to the correct accounting period.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Chart of Accounts Management",
+    "skill_category": "Domain",
+    "skill_description": "Designing, maintaining, and controlling the chart of accounts structure to ensure consistent financial classification.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Bookkeeping (Single and Double Entry)",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining books of accounts using single-entry or double-entry systems for small businesses and proprietorships.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ind AS 1 (Presentation of Financial Statements)",
+    "skill_category": "Domain",
+    "skill_description": "Applying requirements for presentation of general-purpose financial statements including going concern and accrual basis.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ind AS 7 (Statement of Cash Flows)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing cash flow statements using direct or indirect method to report operating, investing, and financing activities.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ind AS 8 (Accounting Policies, Estimates and Errors)",
+    "skill_category": "Domain",
+    "skill_description": "Selecting, applying, and changing accounting policies and correcting prior-period errors under Ind AS 8.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ind AS 19 (Employee Benefits)",
+    "skill_category": "Domain",
+    "skill_description": "Accounting for short-term benefits, defined contribution plans, and actuarial valuation of defined benefit plans like gratuity.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ind AS 20 (Government Grants)",
+    "skill_category": "Domain",
+    "skill_description": "Recognising and presenting government grants and disclosure of government assistance in financial statements.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ind AS 23 (Borrowing Costs)",
+    "skill_category": "Domain",
+    "skill_description": "Capitalising borrowing costs directly attributable to acquisition or construction of qualifying assets.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ind AS 24 (Related Party Disclosures)",
+    "skill_category": "Domain",
+    "skill_description": "Identifying related parties, disclosing transactions and balances, and ensuring compliance with Ind AS 24 disclosure requirements.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ind AS 27 (Separate Financial Statements)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing separate financial statements for investments in subsidiaries, associates, and joint ventures.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ind AS 28 (Investments in Associates and Joint Ventures)",
+    "skill_category": "Domain",
+    "skill_description": "Applying the equity method of accounting for investments in associates and joint ventures.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ind AS 33 (Earnings Per Share)",
+    "skill_category": "Domain",
+    "skill_description": "Computing basic and diluted earnings per share for listed companies as required by Ind AS 33.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ind AS 34 (Interim Financial Reporting)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing quarterly and half-yearly interim financial reports in compliance with Ind AS 34 and SEBI LODR.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ind AS 38 (Intangible Assets)",
+    "skill_category": "Domain",
+    "skill_description": "Recognising, measuring, and amortising intangible assets such as software, patents, and trademarks under Ind AS 38.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ind AS 40 (Investment Property)",
+    "skill_category": "Domain",
+    "skill_description": "Accounting for property held to earn rental income or capital appreciation using cost or fair value model under Ind AS 40.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ind AS 103 (Business Combinations)",
+    "skill_category": "Domain",
+    "skill_description": "Applying acquisition method for business combinations, recognising goodwill, and accounting for contingent consideration.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ind AS 107 (Financial Instruments: Disclosures)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing disclosures about significance of financial instruments and nature of risks arising from them.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ind AS 108 (Operating Segments)",
+    "skill_category": "Domain",
+    "skill_description": "Identifying reportable operating segments and preparing segment disclosures based on management information.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ind AS 110 (Consolidated Financial Statements)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing consolidated financial statements by combining parent and subsidiary financials and eliminating intra-group transactions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Ind AS 113 (Fair Value Measurement)",
+    "skill_category": "Domain",
+    "skill_description": "Applying fair value measurement framework using Level 1, 2, and 3 inputs for financial and non-financial assets.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "GST Annual Return (GSTR-9C Reconciliation Statement)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and filing GSTR-9C reconciliation statement between audited financial statements and GST annual returns.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "GST Composition Scheme",
+    "skill_category": "Domain",
+    "skill_description": "Understanding eligibility, tax rates, and compliance requirements under the GST Composition Scheme for small taxpayers.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "GST on Imports and Reverse Charge Mechanism (RCM)",
+    "skill_category": "Domain",
+    "skill_description": "Computing and discharging GST liability on imports and specified RCM supplies on which recipient pays tax.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "GST Refund Filing and Tracking",
+    "skill_category": "Domain",
+    "skill_description": "Filing GST refund applications for exports, inverted duty structure, and excess tax paid through the GSTN portal.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "GST Notices and Demand Management",
+    "skill_category": "Domain",
+    "skill_description": "Responding to GST show-cause notices, demand orders, and appearing before GST adjudicating authorities.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Place of Supply Rules (GST)",
+    "skill_category": "Domain",
+    "skill_description": "Determining place of supply for goods and services to ascertain correct CGST, SGST, or IGST applicability.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "GST Classification (HSN and SAC Codes)",
+    "skill_category": "Domain",
+    "skill_description": "Classifying goods and services using Harmonised System of Nomenclature (HSN) and Services Accounting Codes (SAC) for correct GST rate application.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "GST TDS and TCS Provisions (Section 51 and 52)",
+    "skill_category": "Domain",
+    "skill_description": "Complying with GST TDS deduction under Section 51 and GST TCS collection under Section 52 of CGST Act.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Letter of Undertaking (LUT) for Zero-Rated Exports",
+    "skill_category": "Domain",
+    "skill_description": "Filing and renewing Letter of Undertaking on the GSTN portal to export goods and services without payment of IGST.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Capital Gains Tax Computation (LTCG and STCG)",
+    "skill_category": "Domain",
+    "skill_description": "Computing long-term and short-term capital gains on sale of equity, debt, property, and other assets under the Income Tax Act.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "MAT (Minimum Alternate Tax) Computation",
+    "skill_category": "Domain",
+    "skill_description": "Computing Minimum Alternate Tax liability under Section 115JB and MAT credit entitlement for companies.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Presumptive Taxation (Section 44AD and 44ADA)",
+    "skill_category": "Domain",
+    "skill_description": "Computing income under presumptive taxation scheme for small businesses and specified professionals.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Form 16 and Form 16A Issuance",
+    "skill_category": "Domain",
+    "skill_description": "Generating and issuing TDS certificates Form 16 (salary) and Form 16A (non-salary) to deductees after quarterly TDS return filing.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Income Tax Notice Handling (Section 143, 148, 263)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing responses to income tax scrutiny notices under Sections 143(2), 148, and revision under Section 263.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Charitable Trust Taxation (Section 12A and 80G)",
+    "skill_category": "Domain",
+    "skill_description": "Obtaining and maintaining 12A/12AB registration and 80G approval for charitable trusts and NGOs under Income Tax Act.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Tax Exemptions and Deductions (Chapter VI-A)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on and computing deductions under Chapter VI-A including Sections 80C, 80D, 80G, 80TTA for individuals and HUFs.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "New Tax Regime vs Old Tax Regime Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Comparing tax liability under default new tax regime (Section 115BAC) and old regime to optimise personal tax outflow.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Equalisation Levy (Digital Tax)",
+    "skill_category": "Domain",
+    "skill_description": "Computing and depositing equalisation levy on specified digital services and e-commerce transactions under Finance Act 2016.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Country-by-Country Reporting (CbCR)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and filing Country-by-Country Reports for multinational groups with consolidated revenue above the threshold under Indian transfer pricing rules.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Risk-Based Audit Approach",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing audits by identifying and prioritising high-risk areas to focus audit effort and resources.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Audit Sampling Techniques",
+    "skill_category": "Domain",
+    "skill_description": "Applying statistical and non-statistical sampling methods to draw audit conclusions on financial statement populations.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Audit Working Papers Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Documenting audit evidence, procedures performed, and conclusions in well-organised working papers per ICAI Standards on Auditing.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Management Representation Letter",
+    "skill_category": "Domain",
+    "skill_description": "Obtaining and evaluating written management representations as required by SA 580 during statutory audit.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Audit of Specific Areas (Inventory, Debtors, Fixed Assets)",
+    "skill_category": "Domain",
+    "skill_description": "Performing substantive testing on key balance sheet items including physical verification, circularisation, and title checks.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "IS Audit and IT Audit",
+    "skill_category": "Domain",
+    "skill_description": "Auditing information systems, application controls, and data integrity to assess IT-related financial statement risks.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "IT General Controls Audit (ITGC)",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating IT general controls including access management, change management, and backup and recovery controls.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Compliance Audit",
+    "skill_category": "Domain",
+    "skill_description": "Verifying adherence to applicable laws, regulations, and internal policies across business functions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Secretarial Audit (SS-1 and SS-2)",
+    "skill_category": "Domain",
+    "skill_description": "Conducting secretarial audit under Section 204 of Companies Act and verifying compliance with Secretarial Standards.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Stock Audit (Banking)",
+    "skill_category": "Domain",
+    "skill_description": "Conducting physical verification of hypothecated stocks and debtors on behalf of lending banks to detect fraud and overvaluation.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Peer Review (ICAI)",
+    "skill_category": "Domain",
+    "skill_description": "Undergoing or conducting ICAI mandatory peer review of audit practice quality for firms in specified practice units.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Quality Control in Audit (SQC 1)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing firm-level quality control policies and procedures as required by Standard on Quality Control 1 (SQC 1) issued by ICAI.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Account Opening and KYC Onboarding",
+    "skill_category": "Domain",
+    "skill_description": "Processing new account opening requests with complete KYC documentation as per RBI KYC Master Direction.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Cash Management Services (CMS)",
+    "skill_category": "Domain",
+    "skill_description": "Providing corporate clients with collection, payment, and liquidity management services through bank CMS platforms.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Bank Guarantee Issuance and Management",
+    "skill_category": "Domain",
+    "skill_description": "Processing, issuing, and tracking financial and performance bank guarantees for corporate clients.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Letter of Credit Operations (LC)",
+    "skill_category": "Domain",
+    "skill_description": "Opening, advising, negotiating, and settling documentary letters of credit for import and export transactions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Foreign Inward Remittance Certificate (FIRC)",
+    "skill_category": "Domain",
+    "skill_description": "Issuing and tracking Foreign Inward Remittance Certificates for export proceeds and FDI inflows received by Indian entities.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Cheque Truncation System (CTS) Processing",
+    "skill_category": "Domain",
+    "skill_description": "Processing inward and outward cheque clearing through the CTS grid-based electronic clearing system.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Dormant and Inoperative Account Management",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, flagging, and reactivating dormant accounts as per RBI guidelines and transferring unclaimed deposits to DEAF.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "CERSAI Registration and Charge Management",
+    "skill_category": "Domain",
+    "skill_description": "Registering and satisfying charges on secured assets with Central Registry of Securitisation Asset Reconstruction and Security Interest.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Priority Sector Lending Certificates (PSLC) Trading",
+    "skill_category": "Domain",
+    "skill_description": "Buying and selling Priority Sector Lending Certificates on the RBI CBS platform to meet PSL targets.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Agricultural and Kisan Credit Card (KCC) Lending",
+    "skill_category": "Domain",
+    "skill_description": "Processing and disbursing agricultural loans and Kisan Credit Card limits as per RBI and NABARD guidelines.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Gold Loan Processing",
+    "skill_category": "Domain",
+    "skill_description": "Appraising gold ornaments, processing gold loan applications, and managing gold loan portfolio per RBI guidelines.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Loan Against Securities (LAS)",
+    "skill_category": "Domain",
+    "skill_description": "Processing loans against pledge of shares, mutual fund units, bonds, and insurance policies within RBI regulatory limits.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "FATF Compliance (AML and CFT)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing Financial Action Task Force recommendations on anti-money laundering and countering financing of terrorism in Indian banks.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Suspicious Transaction Report (STR) Filing",
+    "skill_category": "Domain",
+    "skill_description": "Identifying suspicious financial activity and filing Suspicious Transaction Reports with the Financial Intelligence Unit – India (FIU-IND).",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "KYC Periodic Review and Risk Categorisation",
+    "skill_category": "Domain",
+    "skill_description": "Conducting periodic KYC refresh and risk-based categorisation of customers as Low, Medium, or High risk per RBI KYC norms.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Model Risk Management",
+    "skill_category": "Domain",
+    "skill_description": "Validating, monitoring, and governing credit, market, and operational risk models used in banking decision-making.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Liquidity Coverage Ratio (LCR) Management",
+    "skill_category": "Domain",
+    "skill_description": "Computing and maintaining Liquidity Coverage Ratio by holding adequate High Quality Liquid Assets as per RBI Basel III liquidity norms.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Net Stable Funding Ratio (NSFR) Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Monitoring and reporting Net Stable Funding Ratio to ensure stable funding profile over a one-year horizon per RBI guidelines.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "ICAAP (Internal Capital Adequacy Assessment Process)",
+    "skill_category": "Domain",
+    "skill_description": "Conducting bank's internal assessment of capital adequacy relative to its risk profile under RBI Pillar 2 requirements.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "RBI Inspection and Audit Preparedness",
+    "skill_category": "Domain",
+    "skill_description": "Preparing documentation, data, and compliance evidence for RBI Annual Financial Inspection and other regulatory examinations.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Cyber Risk Management in Banking",
+    "skill_category": "Domain",
+    "skill_description": "Identifying and mitigating cyber risks in banking operations per RBI Cybersecurity Framework for banks.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Third-Party and Vendor Risk Management",
+    "skill_category": "Domain",
+    "skill_description": "Assessing and monitoring risks from third-party service providers and outsourcing arrangements per RBI outsourcing guidelines.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "RBI Regulatory Reporting (BSR and DSB Returns)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and submitting Basic Statistical Returns (BSR) and Data Security Bureau (DSB) returns to the Reserve Bank of India.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Money Market Instruments (Commercial Paper, Certificate of Deposit)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding issuance, pricing, and trading of Commercial Paper (CP), Certificate of Deposit (CD), and other money market instruments.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Repo and Reverse Repo Operations",
+    "skill_category": "Domain",
+    "skill_description": "Executing repurchase and reverse repurchase agreements for short-term liquidity management using government securities.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Currency Futures and Options (NSE)",
+    "skill_category": "Domain",
+    "skill_description": "Trading and hedging currency exposure using USD-INR and other currency futures and options on NSE.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Interest Rate Swaps (IRS)",
+    "skill_category": "Domain",
+    "skill_description": "Structuring and valuing interest rate swap contracts to convert fixed to floating rate exposure or vice versa.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Cross-Currency Swaps",
+    "skill_category": "Domain",
+    "skill_description": "Using cross-currency swap agreements to hedge both currency and interest rate risk on foreign currency borrowings.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Mark to Market (MTM) Accounting",
+    "skill_category": "Domain",
+    "skill_description": "Valuing financial instruments at current market prices and recording unrealised gains and losses in financial statements.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "RBI Open Market Operations (OMO)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding RBI's purchase and sale of government securities for monetary policy transmission and liquidity management.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Sovereign Gold Bonds (SGB)",
+    "skill_category": "Domain",
+    "skill_description": "Distributing and managing Sovereign Gold Bond subscriptions, redemptions, and interest payments on behalf of RBI.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Infrastructure Investment Trusts (InvIT)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding SEBI InvIT regulations, structure, and investment mechanics for infrastructure asset monetisation.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Real Estate Investment Trusts (REIT)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding SEBI REIT regulations, distribution requirements, and investment characteristics for income-generating real estate assets.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "SEBI Portfolio Management Services (PMS) Regulations",
+    "skill_category": "Domain",
+    "skill_description": "Complying with SEBI PMS regulations for registration, client agreements, reporting, and investment restrictions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Alternative Investment Funds (AIF) – SEBI Regulations",
+    "skill_category": "Domain",
+    "skill_description": "Understanding SEBI AIF Regulations for Category I, II, and III funds including registration, eligible investors, and compliance.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "MIS Reporting",
+    "skill_category": "Domain",
+    "skill_description": "Preparing Management Information System reports with key financial and operational metrics for senior management decision-making.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Rolling Forecast and Driver-Based Planning",
+    "skill_category": "Domain",
+    "skill_description": "Updating financial forecasts on a rolling basis using business driver assumptions rather than fixed annual budgets.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Zero-Based Budgeting (ZBB)",
+    "skill_category": "Domain",
+    "skill_description": "Building budgets from zero each period by justifying every expense rather than using prior year as a baseline.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "KPI Monitoring and Dashboard Reporting",
+    "skill_category": "Domain",
+    "skill_description": "Tracking key performance indicators and presenting them through visual dashboards for operational and financial oversight.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Business Partnering (Finance to Business)",
+    "skill_category": "Domain",
+    "skill_description": "Providing commercial insight and financial decision support to business units as a finance business partner.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Scenario Analysis and Sensitivity Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Modelling best-case, base-case, and worst-case financial outcomes and testing model sensitivity to key assumptions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Long Range Planning and Strategic Finance",
+    "skill_category": "Domain",
+    "skill_description": "Developing multi-year financial plans aligned with corporate strategy for board and investor communication.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Product Profitability Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Analysing revenue, cost, and margin at product or SKU level to support pricing and portfolio decisions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Customer Profitability Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Computing net profitability per customer or customer segment after allocating all servicing costs.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Working Capital Cycle Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Measuring debtors days, creditors days, and inventory days to assess and optimise cash conversion cycle.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Break-Even Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Computing break-even point in units and revenue to assess minimum sales required to cover fixed and variable costs.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Weighted Average Cost of Capital (WACC)",
+    "skill_category": "Domain",
+    "skill_description": "Computing blended cost of equity and debt to derive the discount rate used in DCF and investment appraisal.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Capital Structure Optimisation",
+    "skill_category": "Domain",
+    "skill_description": "Determining the optimal mix of debt and equity financing to minimise cost of capital and maximise firm value.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Rights Issue and Share Buyback Procedures",
+    "skill_category": "Domain",
+    "skill_description": "Executing rights issues and share buybacks in compliance with SEBI and Companies Act regulations.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Preference Share Accounting",
+    "skill_category": "Domain",
+    "skill_description": "Classifying and accounting for preference shares as debt or equity and computing dividend obligations.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Goodwill and Intangibles Accounting (Ind AS 103 and 38)",
+    "skill_category": "Domain",
+    "skill_description": "Recognising, allocating, and testing goodwill and intangible assets arising from business combinations for impairment.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "LBO (Leveraged Buyout) Modelling",
+    "skill_category": "Domain",
+    "skill_description": "Building LBO models to evaluate private equity acquisition scenarios, debt repayment schedules, and investor returns.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Comparable Company and Precedent Transaction Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Valuing companies using trading multiples of comparable listed peers and transaction multiples from precedent M&A deals.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Pitch Book Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Creating investment banking pitch books for M&A advisory, capital raising, and coverage presentations to clients.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Syndicated Loan Market",
+    "skill_category": "Domain",
+    "skill_description": "Understanding structure, documentation, and Indian market practices for multi-bank syndicated credit facilities.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Salary Structure Design (CTC and Take-Home)",
+    "skill_category": "Domain",
+    "skill_description": "Designing tax-efficient CTC structures with optimal allocation across allowances, perquisites, and retirement benefits.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Form 24Q TDS Return (Salary)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and filing quarterly TDS returns on salary payments using Form 24Q with correct deductee details.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Labour Welfare Fund (LWF) Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Deducting and remitting Labour Welfare Fund contributions as per applicable state-specific LWF Acts.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Shops and Establishments Act Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Registering establishments and complying with state-specific Shops and Establishments Act provisions on working hours and leave.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Minimum Wages Act Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring all employees are paid at or above the applicable minimum wages notified under the Minimum Wages Act.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Payment of Bonus Act Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Computing and paying statutory bonus under the Payment of Bonus Act to eligible employees within prescribed timelines.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "New Labour Codes Compliance (4 Labour Codes)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and preparing for implementation of the four new Labour Codes on Wages, IR, Social Security, and OSH.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Superannuation Fund Accounting",
+    "skill_category": "Domain",
+    "skill_description": "Managing and accounting for employer contributions to approved superannuation funds and complying with Income Tax Act provisions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "R Programming for Finance",
+    "skill_category": "Technical",
+    "skill_description": "Using R language for financial data analysis, statistical modelling, risk analytics, and portfolio optimisation.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Robotic Process Automation (RPA) in Finance",
+    "skill_category": "Technical",
+    "skill_description": "Designing and deploying RPA bots using tools like UiPath or Automation Anywhere to automate repetitive finance processes.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Microsoft Power Automate (Finance Workflows)",
+    "skill_category": "Technical",
+    "skill_description": "Building automated finance workflows for approvals, alerts, and data transfers using Microsoft Power Automate.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "SAP Ariba (Procurement and AP)",
+    "skill_category": "Technical",
+    "skill_description": "Managing procurement, purchase orders, and accounts payable processes on the SAP Ariba platform.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "SAP Treasury and Risk Management (TRM)",
+    "skill_category": "Technical",
+    "skill_description": "Using SAP TRM module for managing treasury transactions, hedge accounting, and risk exposure reporting.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Oracle Hyperion / Oracle EPM",
+    "skill_category": "Technical",
+    "skill_description": "Using Oracle Hyperion or Cloud EPM for enterprise budgeting, consolidation, and financial close management.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Anaplan (Financial Planning and Analysis)",
+    "skill_category": "Technical",
+    "skill_description": "Building connected planning models in Anaplan for FP&A, sales planning, and workforce forecasting.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Kyriba (Treasury Management System)",
+    "skill_category": "Technical",
+    "skill_description": "Using Kyriba TMS for cash visibility, payment processing, and treasury risk management.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "RegTech Tools for Compliance Automation",
+    "skill_category": "Technical",
+    "skill_description": "Using regulatory technology platforms to automate compliance monitoring, reporting, and regulatory change management.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Blockchain Concepts in Finance",
+    "skill_category": "Domain",
+    "skill_description": "Understanding distributed ledger technology applications in trade finance, cross-border payments, and smart contracts.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Cloud-Based Accounting and ERP (AWS and Azure)",
+    "skill_category": "Technical",
+    "skill_description": "Operating finance and accounting systems hosted on cloud infrastructure and managing data security on cloud platforms.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "ERP Implementation and Finance Module Configuration",
+    "skill_category": "Technical",
+    "skill_description": "Participating in ERP implementation projects by configuring finance modules, chart of accounts, and business rules.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "CRISIL and ICRA Research Reports Usage",
+    "skill_category": "Domain",
+    "skill_description": "Interpreting sector and company research reports from CRISIL, ICRA, and CARE for credit and investment analysis.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "RBI CRILC Database",
+    "skill_category": "Domain",
+    "skill_description": "Using RBI's Central Repository of Information on Large Credits (CRILC) to assess borrower credit history across lenders.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Equifax and CRIF High Mark Credit Reports",
+    "skill_category": "Domain",
+    "skill_description": "Pulling and interpreting Equifax and CRIF High Mark credit bureau reports for MSME and retail lending decisions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Credit Scoring Models and Internal Scorecards",
+    "skill_category": "Domain",
+    "skill_description": "Developing and using statistical credit scoring models and bank-internal scorecards for retail and MSME loan origination.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Legal and Commercial Due Diligence",
+    "skill_category": "Domain",
+    "skill_description": "Reviewing legal documents, contracts, regulatory approvals, and commercial terms during M&A and lending transactions.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Company Secretary (CS) Functions",
+    "skill_category": "Domain",
+    "skill_description": "Performing statutory functions of a Company Secretary including board support, governance, and regulatory filings.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Board Meeting and AGM Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Convening board meetings, general meetings, and AGMs with proper notices, agenda, and minutes as per Companies Act 2013.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Memorandum and Articles of Association",
+    "skill_category": "Domain",
+    "skill_description": "Drafting, reviewing, and amending Memorandum of Association and Articles of Association for companies.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Director's Report and Board Report Drafting",
+    "skill_category": "Domain",
+    "skill_description": "Drafting the annual Director's Report and Board's Report with all statutory disclosures under Companies Act 2013.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Statutory Registers Maintenance",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining mandatory statutory registers such as Register of Members, Directors, Contracts, and Charges under Companies Act.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Debenture Trustee Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Fulfilling debenture trustee obligations under SEBI Debenture Trustee Regulations for listed debt instruments.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "NCLT and NCLAT Proceedings Knowledge",
+    "skill_category": "Domain",
+    "skill_description": "Understanding National Company Law Tribunal and Appellate Tribunal proceedings for mergers, insolvency, and oppression matters.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Life Insurance Products (Term, Endowment, ULIP)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding features, taxation, and regulatory framework of term, endowment, and unit-linked insurance plans under IRDAI.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "General Insurance Products (Motor, Health, Fire)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding coverage, claims, and underwriting of general insurance products including motor, health, and property insurance.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Actuarial Valuation Basics",
+    "skill_category": "Domain",
+    "skill_description": "Understanding actuarial concepts including mortality tables, discount rates, and liability estimation for insurance and pension funds.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "IRDAI Annual Return Filing",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and submitting annual returns and financial statements of insurance companies to IRDAI in prescribed formats.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Insurance Premium Accounting",
+    "skill_category": "Domain",
+    "skill_description": "Accounting for premium income, unearned premium reserve, and claims provisions in insurance company books.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Reinsurance Concepts and Accounting",
+    "skill_category": "Domain",
+    "skill_description": "Understanding treaty and facultative reinsurance arrangements and accounting for reinsurance premiums and recoveries.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Pradhan Mantri Jan Arogya Yojana (PMJAY) Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Understanding Ayushman Bharat PMJAY scheme operations, empanelment requirements, and claims processing for hospitals and insurers.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Microsoft Office Suite (Word and PowerPoint)",
+    "skill_category": "Technical",
+    "skill_description": "Using Microsoft Word for financial report drafting and PowerPoint for investor, management, and client presentations.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Email and Professional Communication Etiquette",
+    "skill_category": "Foundational",
+    "skill_description": "Writing clear, concise, and professional business emails and maintaining appropriate communication standards in a finance workplace.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Interpersonal Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Building effective working relationships with colleagues, clients, and regulators through empathy and active listening.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Conflict Resolution",
+    "skill_category": "Foundational",
+    "skill_description": "Managing and resolving workplace disagreements constructively to maintain team productivity and client relationships.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Mentoring and Knowledge Sharing",
+    "skill_category": "Foundational",
+    "skill_description": "Guiding junior team members on technical and professional matters to build team capability.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Project Management Basics",
+    "skill_category": "Foundational",
+    "skill_description": "Planning, executing, and monitoring finance projects such as ERP rollouts, audits, and regulatory submissions within scope and timelines.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Lean and Six Sigma Process Improvement",
+    "skill_category": "Foundational",
+    "skill_description": "Applying Lean and Six Sigma methodologies to identify waste and reduce errors in finance and accounting processes.",
+    "job_families": [
+      1
+    ]
+  },
+  {
+    "skill_name": "Personal Finance and Financial Literacy",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding personal financial planning concepts including budgeting, investing, tax saving, and insurance for professional credibility.",
+    "job_families": [
+      1
+    ]
+  }
+]

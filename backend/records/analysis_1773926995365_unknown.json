@@ -1,0 +1,484 @@
+{
+  "timestamp": "2026-03-19T13:29:55.365Z",
+  "status": "completed",
+  "input_user_data": {
+    "education": [
+      {
+        "degreeLevel": "Postgraduate (PG)",
+        "domain": "Computer Science & IT",
+        "degreeGroup": "Master of Computer Applications",
+        "specialization": "Cloud Computing",
+        "specialization2": "",
+        "currentlyPursuing": false,
+        "isOtherSpec": false,
+        "isOtherSpec2": false,
+        "isDualSpecialization": false
+      }
+    ],
+    "preferences": {
+      "primary": {
+        "role": "Cloud Engineer",
+        "roleSuggestions": [],
+        "sectors": [
+          "Information Technology & Software",
+          "Telecom & Technology Infrastructure",
+          "Education & EdTech"
+        ],
+        "jobType": "Full-Time",
+        "salary": "3–5 LPA",
+        "locations": [
+          "Chennai",
+          "Bangalore",
+          "Thane"
+        ],
+        "orgTypes": [
+          "Startup (Early-stage / Growth-stage)",
+          "Multinational Corporation (MNC)",
+          "Consulting / Professional Services Firm"
+        ]
+      },
+      "secondary": {
+        "role": "",
+        "roleSuggestions": [],
+        "sectors": [],
+        "jobType": "",
+        "salary": "",
+        "locations": [
+          "",
+          "",
+          ""
+        ],
+        "orgTypes": []
+      },
+      "tertiary": {
+        "role": "",
+        "roleSuggestions": [],
+        "sectors": [],
+        "jobType": "",
+        "salary": "",
+        "locations": [
+          "",
+          "",
+          ""
+        ],
+        "orgTypes": []
+      }
+    },
+    "experience": [
+      {
+        "orgName": "xyzz",
+        "designation": "Cloud Architect",
+        "designationOther": false,
+        "sector": "Information Technology & Software",
+        "sectorOther": "",
+        "startDate": "2026-03-05",
+        "endDate": "",
+        "currentlyWorking": true
+      }
+    ],
+    "hasExperience": true,
+    "skills": [
+      "aws",
+      "docker",
+      "pipe line",
+      "hostinger",
+      "ec2",
+      "se3"
+    ],
+    "certifications": [
+      {
+        "name": "AWS ",
+        "issuer": "amazon",
+        "year": "2026",
+        "mode": "URL",
+        "url": "http:dsdss.com",
+        "fileUrl": "",
+        "skills": [
+          "aws",
+          "docker",
+          "pipe line",
+          "hostinger",
+          "ec2",
+          "se3"
+        ]
+      }
+    ],
+    "hasCertifications": true
+  },
+  "output_generated_report": {
+    "status": "success_v2_ultra",
+    "generated_at": "2026-03-19T13:29:55.387Z",
+    "primary": {
+      "zone": "Amber",
+      "zone_message": "Moderate alignment. You need to bridge specific skill gaps — a focused 3–5 month plan will get you there.",
+      "preparation_time": "4–6 months (Transition)",
+      "match_explanation": "Strategic analysis indicates a 42% alignment with the Cloud Engineer profile. You have successfully validated 1 of the 6 core competencies. The remaining gap of 5 skills defines your immediate learning trajectory.",
+      "tab1": {
+        "role_name": "Cloud Engineer",
+        "role_description": "The Cloud Engineer position is a high-impact role driving digital transformation in modern Indian enterprises. It requires a unique blend of technical precision, business acumen, and increasingly, AI-tooling fluency to manage complex workflows and deliver scalable value.",
+        "typical_employers_india": "AWS India, Microsoft India, IBM, Accenture Cloud, Tata Communications",
+        "common_entry_paths": "Campus placements (AMCAT/CoCubes), open-source contributions to GitHub repos, FAANG referrals, and mass-apply portals like Instahyre & Cutshort.",
+        "job_demand": "Extremely High (28% CAGR projected)",
+        "salary_range": "8–20 LPA",
+        "ai_impact": "AI is fundamentally reshaping the Cloud Engineer landscape. While 30% of routine tasks are being automated, the role is evolving towards \"High-Level Architecture\" and \"Human-in-the-Loop decision making\". Professionals who master AI co-pilots are seeing a 1.5x salary premium in the Indian market.",
+        "emerging_roles": [
+          {
+            "name": "AI-Orchestrated Cloud Engineer",
+            "description": "A next-gen specialist who builds automated agents to handle data pre-processing and routine drafting."
+          },
+          {
+            "name": "Strategic Cloud Engineer Advisor",
+            "description": "A senior-level role focusing on complex stakeholder tradeoffs that AI cannot yet resolve."
+          },
+          {
+            "name": "Cross-Domain Cloud Engineer Lead",
+            "description": "Professionals who can bridge the gap between technical execution and C-suite business strategy."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [
+          {
+            "skill": "AWS / Azure / GCP Core Services",
+            "priority": "CRITICAL",
+            "description": "AWS Skill Builder free tier / Microsoft Learn (free) / Google Cloud Skills Boost free"
+          },
+          {
+            "skill": "Infrastructure as Code (Terraform / Ansible)",
+            "priority": "HIGH",
+            "description": "HashiCorp Learn (free) / Ansible free documentation"
+          },
+          {
+            "skill": "Containers and Kubernetes",
+            "priority": "HIGH",
+            "description": "Kubernetes official free docs / Docker official free docs"
+          },
+          {
+            "skill": "CI/CD Pipelines",
+            "priority": "HIGH",
+            "description": "GitHub Actions free documentation / GitLab free CI/CD docs"
+          }
+        ],
+        "nice_to_have": [
+          "Monitoring (Prometheus, Grafana)",
+          "Platform Engineering (Backstage — free open-source)"
+        ]
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "Terraform (free open-source)",
+            "category": "AI-Powered",
+            "usage": "Infrastructure as Code provisioning",
+            "adoption_level": "Mission-Critical"
+          },
+          {
+            "name": "Docker (free for personal/educational use)",
+            "category": "AI-Powered",
+            "usage": "Container image building and management",
+            "adoption_level": "Standard Deployment"
+          },
+          {
+            "name": "Pulumi (free open-source IaC)",
+            "category": "AI-Powered",
+            "usage": "Cloud infrastructure-as-code with general-purpose languages",
+            "adoption_level": "Exploratory"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "65%",
+          "level": "Proactive Integration",
+          "tasks_assisted": "Automated data cleanup, first-draft documentation, unit test generation, and complex sentiment analysis",
+          "human_value": "Strategic architecture, ethical oversight, empathetic communication, and final accountability"
+        },
+        "human_skills": [
+          "Critical Systems Thinking",
+          "Articulate Communication",
+          "Empathetic Leadership",
+          "Radical Adaptability",
+          "Radical Ownership"
+        ]
+      },
+      "tab5": {
+        "future_scope": "Over the next 5–7 years, the Cloud Engineer role will transition from a \"hands-on execution\" role into a \"strategic manager of AI systems\". The value will shift from knowing \"how to do it\" to \"knowing what to ask AI to do\". The Indian market, particularly in Global Capability Centers (GCCs), is looking for professionals who can lead this transition.",
+        "target_audience": "Fortune 500 GCCs, Tier-1 Indian Product Tech Companies, AI-First Startups, and High-End Consultancy Groups.",
+        "growth_trajectory": "Accelerated upward mobility for those with T-shaped skills. Expect to reach manager/lead levels in 3–4 years if AI-fluency is demonstrated early."
+      }
+    },
+    "secondary": {
+      "zone": "Red",
+      "zone_message": "This role typically requires a different background. Dedicated preparation of 6–12 months is recommended before applying.",
+      "preparation_time": "8–12 months (Re-skilling)",
+      "match_explanation": "Strategic analysis indicates a 20% alignment with the Secondary Role profile. You have successfully validated 0 of the 2 core competencies. The remaining gap of 2 skills defines your immediate learning trajectory.",
+      "tab1": {
+        "role_name": "Secondary Role",
+        "role_description": "The Secondary Role position is a high-impact role driving digital transformation in modern Indian enterprises. It requires a unique blend of technical precision, business acumen, and increasingly, AI-tooling fluency to manage complex workflows and deliver scalable value.",
+        "typical_employers_india": "TCS, Infosys, Wipro, HCLTech, Cognizant, Capgemini, Accenture India, IBM",
+        "common_entry_paths": "Campus placements, internship conversions, direct applications via Naukri/LinkedIn, and professional networking through events like NASSCOM.",
+        "job_demand": "Extremely High (28% CAGR projected)",
+        "salary_range": "4–12 LPA",
+        "ai_impact": "AI is fundamentally reshaping the Secondary Role landscape. While 30% of routine tasks are being automated, the role is evolving towards \"High-Level Architecture\" and \"Human-in-the-Loop decision making\". Professionals who master AI co-pilots are seeing a 1.5x salary premium in the Indian market.",
+        "emerging_roles": [
+          {
+            "name": "AI-Orchestrated Secondary Role",
+            "description": "A next-gen specialist who builds automated agents to handle data pre-processing and routine drafting."
+          },
+          {
+            "name": "Strategic Secondary Role Advisor",
+            "description": "A senior-level role focusing on complex stakeholder tradeoffs that AI cannot yet resolve."
+          },
+          {
+            "name": "Cross-Domain Secondary Role Lead",
+            "description": "Professionals who can bridge the gap between technical execution and C-suite business strategy."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [
+          {
+            "skill": "Domain Knowledge",
+            "priority": "High",
+            "description": "Professional workshops & textbooks"
+          }
+        ],
+        "nice_to_have": [
+          "Industry Best Practices"
+        ]
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "ChatGPT",
+            "category": "AI-Powered",
+            "usage": "General Assistance",
+            "adoption_level": "Exploratory"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "65%",
+          "level": "Proactive Integration",
+          "tasks_assisted": "Automated data cleanup, first-draft documentation, unit test generation, and complex sentiment analysis",
+          "human_value": "Strategic architecture, ethical oversight, empathetic communication, and final accountability"
+        },
+        "human_skills": [
+          "Critical Systems Thinking",
+          "Articulate Communication",
+          "Empathetic Leadership",
+          "Radical Adaptability",
+          "Radical Ownership"
+        ]
+      },
+      "tab5": {
+        "future_scope": "Over the next 5–7 years, the Secondary Role role will transition from a \"hands-on execution\" role into a \"strategic manager of AI systems\". The value will shift from knowing \"how to do it\" to \"knowing what to ask AI to do\". The Indian market, particularly in Global Capability Centers (GCCs), is looking for professionals who can lead this transition.",
+        "target_audience": "Fortune 500 GCCs, Tier-1 Indian Product Tech Companies, AI-First Startups, and High-End Consultancy Groups.",
+        "growth_trajectory": "Accelerated upward mobility for those with T-shaped skills. Expect to reach manager/lead levels in 3–4 years if AI-fluency is demonstrated early."
+      }
+    },
+    "tertiary": {
+      "zone": "Red",
+      "zone_message": "This role typically requires a different background. Dedicated preparation of 6–12 months is recommended before applying.",
+      "preparation_time": "8–12 months (Re-skilling)",
+      "match_explanation": "Strategic analysis indicates a 20% alignment with the Tertiary Role profile. You have successfully validated 0 of the 2 core competencies. The remaining gap of 2 skills defines your immediate learning trajectory.",
+      "tab1": {
+        "role_name": "Tertiary Role",
+        "role_description": "The Tertiary Role position is a high-impact role driving digital transformation in modern Indian enterprises. It requires a unique blend of technical precision, business acumen, and increasingly, AI-tooling fluency to manage complex workflows and deliver scalable value.",
+        "typical_employers_india": "TCS, Infosys, Wipro, HCLTech, Cognizant, Capgemini, Accenture India, IBM",
+        "common_entry_paths": "Campus placements, internship conversions, direct applications via Naukri/LinkedIn, and professional networking through events like NASSCOM.",
+        "job_demand": "Extremely High (28% CAGR projected)",
+        "salary_range": "4–12 LPA",
+        "ai_impact": "AI is fundamentally reshaping the Tertiary Role landscape. While 30% of routine tasks are being automated, the role is evolving towards \"High-Level Architecture\" and \"Human-in-the-Loop decision making\". Professionals who master AI co-pilots are seeing a 1.5x salary premium in the Indian market.",
+        "emerging_roles": [
+          {
+            "name": "AI-Orchestrated Tertiary Role",
+            "description": "A next-gen specialist who builds automated agents to handle data pre-processing and routine drafting."
+          },
+          {
+            "name": "Strategic Tertiary Role Advisor",
+            "description": "A senior-level role focusing on complex stakeholder tradeoffs that AI cannot yet resolve."
+          },
+          {
+            "name": "Cross-Domain Tertiary Role Lead",
+            "description": "Professionals who can bridge the gap between technical execution and C-suite business strategy."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [
+          {
+            "skill": "Domain Knowledge",
+            "priority": "High",
+            "description": "Professional workshops & textbooks"
+          }
+        ],
+        "nice_to_have": [
+          "Industry Best Practices"
+        ]
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "ChatGPT",
+            "category": "AI-Powered",
+            "usage": "General Assistance",
+            "adoption_level": "Exploratory"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "65%",
+          "level": "Proactive Integration",
+          "tasks_assisted": "Automated data cleanup, first-draft documentation, unit test generation, and complex sentiment analysis",
+          "human_value": "Strategic architecture, ethical oversight, empathetic communication, and final accountability"
+        },
+        "human_skills": [
+          "Critical Systems Thinking",
+          "Articulate Communication",
+          "Empathetic Leadership",
+          "Radical Adaptability",
+          "Radical Ownership"
+        ]
+      },
+      "tab5": {
+        "future_scope": "Over the next 5–7 years, the Tertiary Role role will transition from a \"hands-on execution\" role into a \"strategic manager of AI systems\". The value will shift from knowing \"how to do it\" to \"knowing what to ask AI to do\". The Indian market, particularly in Global Capability Centers (GCCs), is looking for professionals who can lead this transition.",
+        "target_audience": "Fortune 500 GCCs, Tier-1 Indian Product Tech Companies, AI-First Startups, and High-End Consultancy Groups.",
+        "growth_trajectory": "Accelerated upward mobility for those with T-shaped skills. Expect to reach manager/lead levels in 3–4 years if AI-fluency is demonstrated early."
+      }
+    },
+    "combined_tab4": {
+      "combined_pathway_summary": "Your bespoke career trajectory is optimized for a high-speed transition into Cloud Engineer. This plan doesn't just focus on \"learning skills\" — it focuses on building a professional signal that cut through the noise of the Indian job market. By following this 6-month roadmap, you will move from a generalist profile to a specialized, AI-ready professional.",
+      "skill_gap": {
+        "current_skills": [
+          "aws",
+          "docker",
+          "pipe line",
+          "hostinger",
+          "ec2",
+          "se3"
+        ],
+        "missing_skills": [
+          "Infrastructure as Code (Terraform / Ansible)",
+          "Containers and Kubernetes",
+          "CI/CD Pipelines",
+          "Monitoring (Prometheus, Grafana)",
+          "Platform Engineering (Backstage — free open-source)"
+        ]
+      },
+      "learning_roadmap": [
+        {
+          "step": "Month 1: Foundation & Prerequisite Mastery",
+          "title": "Structural Grounding",
+          "description": "Deep dive into the theoretical framework of Cloud Engineer. Focus on logical architectures, industry standards, and the mathematics of the domain.",
+          "kpis": [
+            "Understand 5 core architectural patterns",
+            "Complete 10 foundational assessments",
+            "Master the baseline terminology"
+          ],
+          "estimated_hours": 45
+        },
+        {
+          "step": "Month 2: Core Technical Implementation",
+          "title": "Hard Skill Acceleration",
+          "description": "Intensive focus on the absolute must-have skills: Infrastructure as Code (Terraform / Ansible), Containers and Kubernetes, CI/CD Pipelines. These are the non-negotiables that recruiters look for.",
+          "kpis": [
+            "Build a repository showcasing Infrastructure as Code (Terraform / Ansible)",
+            "Score 80%+ on technical skill challenges"
+          ],
+          "estimated_hours": 60
+        },
+        {
+          "step": "Month 3: Secondary Toolchain & Integration",
+          "title": "Eco-system Fluency",
+          "description": "Bridging the gap with secondary tools: Monitoring (Prometheus, Grafana), Platform Engineering (Backstage — free open-source). Learn how these tools interact with the core stack.",
+          "kpis": [
+            "Integrate 3 different tools in a single environment",
+            "Complete documentation for a medium-scale system"
+          ],
+          "estimated_hours": 50
+        },
+        {
+          "step": "Month 4: AI-Augmented Workflow Optimization",
+          "title": "The AI Multiplier",
+          "description": "Implementing AI-first workflows for Cloud Engineer. Use LLMs for code generation, research automation, and complex documentation to multiply your output by 3x.",
+          "kpis": [
+            "Establish an automated prompt library",
+            "Demonstrate 40% reduction in routine task time using AI"
+          ],
+          "estimated_hours": 40
+        },
+        {
+          "step": "Month 5: Industrial Project Synthesis",
+          "title": "Portfolio Excellence",
+          "description": "Building a \"Platinum-Grade\" capstone project. This isn't just a tutorial; it's a solved real-world problem for a specific Indian industry vertical.",
+          "kpis": [
+            "Publish a high-visibility LinkedIn technical article",
+            "Deploy a functional end-to-end prototype"
+          ],
+          "estimated_hours": 80
+        },
+        {
+          "step": "Month 6: Market Penetration & Soft Skills",
+          "title": "Job Market Readiness",
+          "description": "Final certification push and interview simulation. Focus on \"Business Communication\" and \"Stakeholder Management\" often missing in technical profiles.",
+          "kpis": [
+            "Complete 5 mock interviews",
+            "Optimize resume for ATS score > 90"
+          ],
+          "estimated_hours": 30
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Advanced Professional Cloud Engineer Specialization",
+          "issuer": "Google / IBM / Meta via Coursera",
+          "difficulty": "Professional-Grade",
+          "duration": "3–5 months"
+        },
+        {
+          "name": "GenAI for Technical Leaders",
+          "issuer": "MIT xPRO / Stanford Online",
+          "difficulty": "Elite / Strategic",
+          "duration": "8–12 weeks"
+        },
+        {
+          "name": "Cloud Engineer Associate Certification",
+          "issuer": "AWS / Azure / GCP (Role-Specific)",
+          "difficulty": "Industry Standard",
+          "duration": "2 months"
+        }
+      ],
+      "free_courses": [
+        {
+          "course_name": "Complete Cloud Engineer Bootcamp",
+          "platform": "FreeCodeCamp / YouTube University",
+          "link_status": "100% Free / Open Source"
+        },
+        {
+          "course_name": "Prompt Engineering for Developers",
+          "platform": "DeepLearning.AI",
+          "link_status": "Free Access"
+        },
+        {
+          "course_name": "CS50: Introduction to Computer Science",
+          "platform": "Harvard University (edX)",
+          "link_status": "Audit Free"
+        }
+      ],
+      "projects": [
+        {
+          "project_name": "Enterprise-Scale Cloud Engineer Architecture",
+          "description": "A full-scale implementation of a Cloud Engineer workflow, including data pipelines, security protocols, and real-time monitoring.",
+          "skills_demonstrated": "Infrastructure as Code (Terraform / Ansible), Containers and Kubernetes, CI/CD Pipelines, Monitoring (Prometheus, Grafana), Platform Engineering (Backstage — free open-source)"
+        },
+        {
+          "project_name": "AI-Agentic Cloud Engineer Dashboard",
+          "description": "Build a custom LLM-powered assistant designed specifically for the Cloud Engineer role to automate analysis.",
+          "skills_demonstrated": "LangChain, OpenAI API, React, Domain Business Logic"
+        },
+        {
+          "project_name": "Indian Market Sentiment Analyzer",
+          "description": "A data-driven project exploring specific market trends in India relevant to the Cloud Engineer industry vertical.",
+          "skills_demonstrated": "Data Scraped Analysis, Python, Visualisation, Market Intel"
+        }
+      ]
+    }
+  }
+}

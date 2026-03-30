@@ -1,0 +1,4466 @@
+[
+  {
+    "skill_name": "Microsoft Excel (Advanced)",
+    "skill_category": "Technical",
+    "skill_description": "Using pivot tables, VLOOKUP, XLOOKUP, Power Query, and complex formulas for business data analysis and reporting.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Microsoft PowerPoint",
+    "skill_category": "Technical",
+    "skill_description": "Creating structured management presentations, board decks, and client-facing slide decks with professional formatting.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Microsoft Word",
+    "skill_category": "Technical",
+    "skill_description": "Drafting business reports, proposals, SOPs, and formal documents with professional formatting and styles.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Microsoft Outlook",
+    "skill_category": "Technical",
+    "skill_description": "Managing professional email, calendar scheduling, task management, and stakeholder communications.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Microsoft Teams",
+    "skill_category": "Technical",
+    "skill_description": "Conducting virtual meetings, managing team channels, and sharing documents in enterprise collaboration.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Microsoft Power BI",
+    "skill_category": "Technical",
+    "skill_description": "Building interactive business dashboards and reports to visualise KPIs and management information.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Microsoft SharePoint",
+    "skill_category": "Technical",
+    "skill_description": "Managing document libraries, team sites, and knowledge management portals for enterprise collaboration.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Microsoft Visio",
+    "skill_category": "Technical",
+    "skill_description": "Creating process flowcharts, organisation charts, and business architecture diagrams for documentation.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Microsoft Project",
+    "skill_category": "Technical",
+    "skill_description": "Planning, scheduling, and tracking project timelines, resources, and milestones using Gantt charts.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Google Sheets",
+    "skill_category": "Technical",
+    "skill_description": "Using Google Sheets for collaborative data analysis, financial models, and real-time team reporting.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Google Slides",
+    "skill_category": "Technical",
+    "skill_description": "Creating collaborative presentations and pitch decks using Google Slides for team and client engagements.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Google Docs",
+    "skill_category": "Technical",
+    "skill_description": "Writing and collaborating on business documents, reports, and proposals in Google's cloud environment.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Google Analytics 4 (GA4)",
+    "skill_category": "Technical",
+    "skill_description": "Analysing website traffic, user behaviour, and conversion data to support marketing and business decisions.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Salesforce CRM",
+    "skill_category": "Technical",
+    "skill_description": "Managing customer relationships, sales pipelines, and activity tracking using Salesforce.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Zoho CRM",
+    "skill_category": "Technical",
+    "skill_description": "Managing leads, contacts, sales pipelines, and client interactions using Zoho CRM in Indian business contexts.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "HubSpot CRM",
+    "skill_category": "Technical",
+    "skill_description": "Managing inbound sales funnels, contact databases, and marketing automation using HubSpot.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Freshsales",
+    "skill_category": "Technical",
+    "skill_description": "Managing sales activities, lead scoring, and customer communication using Freshworks' Freshsales CRM.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "SAP ERP",
+    "skill_category": "Technical",
+    "skill_description": "Using SAP modules for procurement, finance, HR, and supply chain operations in large enterprises.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "SAP S/4HANA",
+    "skill_category": "Technical",
+    "skill_description": "Navigating SAP S/4HANA for real-time business operations, financial management, and reporting.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Oracle ERP",
+    "skill_category": "Technical",
+    "skill_description": "Using Oracle ERP for financial management, supply chain, procurement, and HR in large organisations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Tally ERP 9",
+    "skill_category": "Technical",
+    "skill_description": "Managing accounts, GST compliance, payroll, and inventory using Tally ERP 9 in Indian SMEs.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Tally Prime",
+    "skill_category": "Technical",
+    "skill_description": "Using Tally Prime for GST-compliant accounting, invoicing, inventory, and payroll management.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Zoho Books",
+    "skill_category": "Technical",
+    "skill_description": "Managing accounting, invoicing, GST returns, and financial reports using Zoho Books for Indian SMEs.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Odoo ERP",
+    "skill_category": "Technical",
+    "skill_description": "Using Odoo's open-source ERP for sales, procurement, accounting, and HR management.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Microsoft Dynamics 365",
+    "skill_category": "Technical",
+    "skill_description": "Using Dynamics 365 for CRM, ERP, sales management, and business process automation.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Jira",
+    "skill_category": "Technical",
+    "skill_description": "Managing project tasks, sprints, and issue tracking using Jira for agile and hybrid project management.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Asana",
+    "skill_category": "Technical",
+    "skill_description": "Organising project tasks, timelines, and team responsibilities using Asana for work management.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Trello",
+    "skill_category": "Technical",
+    "skill_description": "Managing projects and tasks using Trello's Kanban-style boards for visual workflow management.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Monday.com",
+    "skill_category": "Technical",
+    "skill_description": "Planning and tracking projects, workflows, and team deliverables using Monday.com work OS.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Notion",
+    "skill_category": "Technical",
+    "skill_description": "Managing knowledge bases, project wikis, meeting notes, and team documentation using Notion.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Smartsheet",
+    "skill_category": "Technical",
+    "skill_description": "Managing complex project plans, resource allocation, and portfolio tracking using Smartsheet.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "SQL",
+    "skill_category": "Technical",
+    "skill_description": "Writing SQL queries to extract, aggregate, and analyse business data from relational databases.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Tableau",
+    "skill_category": "Technical",
+    "skill_description": "Creating interactive data visualisations and business dashboards using Tableau.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Looker Studio (formerly Google Data Studio)",
+    "skill_category": "Technical",
+    "skill_description": "Building connected dashboards and reports using Looker Studio for marketing and operations analytics.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Python (Business Analytics)",
+    "skill_category": "Technical",
+    "skill_description": "Using Python with pandas and matplotlib for data cleaning, analysis, and reporting in business contexts.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "R Programming (Business Analytics)",
+    "skill_category": "Technical",
+    "skill_description": "Using R for statistical analysis, survey data analysis, and business intelligence reporting.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "SPSS",
+    "skill_category": "Technical",
+    "skill_description": "Conducting market research surveys, statistical analysis, and consumer behaviour studies using IBM SPSS.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Slack",
+    "skill_category": "Technical",
+    "skill_description": "Managing team communications, project notifications, and cross-functional collaboration using Slack.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Zoom",
+    "skill_category": "Technical",
+    "skill_description": "Conducting virtual meetings, webinars, and client calls using Zoom in remote and hybrid work settings.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Google Meet",
+    "skill_category": "Technical",
+    "skill_description": "Hosting video meetings and virtual client interactions using Google Meet.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Miro",
+    "skill_category": "Technical",
+    "skill_description": "Facilitating virtual brainstorming, design thinking workshops, and process mapping using Miro.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Lucidchart",
+    "skill_category": "Technical",
+    "skill_description": "Creating business process maps, system diagrams, and organisational charts using Lucidchart.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Confluence",
+    "skill_category": "Technical",
+    "skill_description": "Building and maintaining team wikis, project documentation, and knowledge management using Confluence.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "GreytHR",
+    "skill_category": "Technical",
+    "skill_description": "Processing payroll, managing leave, and ensuring statutory compliance using GreytHR HRMS in India.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Keka HR",
+    "skill_category": "Technical",
+    "skill_description": "Managing employee data, payroll, appraisals, and compliance using Keka's Indian HRMS platform.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Darwinbox",
+    "skill_category": "Technical",
+    "skill_description": "Using Darwinbox for end-to-end HR lifecycle management, payroll, and workforce analytics in India.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Zoho People",
+    "skill_category": "Technical",
+    "skill_description": "Managing HR operations including attendance, leave, onboarding, and appraisals using Zoho People.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "SAP SuccessFactors",
+    "skill_category": "Technical",
+    "skill_description": "Managing talent acquisition, performance management, and learning using SAP SuccessFactors.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Workday",
+    "skill_category": "Technical",
+    "skill_description": "Using Workday for HR, finance, and planning in large Indian enterprises and MNC shared service centres.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "GSTN Portal",
+    "skill_category": "Technical",
+    "skill_description": "Filing GST returns (GSTR-1, GSTR-3B, GSTR-9) and managing compliance on the government GSTN portal.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Income Tax e-Filing Portal",
+    "skill_category": "Technical",
+    "skill_description": "Filing income tax returns, TDS returns, and responding to notices on the income tax e-filing portal.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "TRACES Portal",
+    "skill_category": "Technical",
+    "skill_description": "Managing TDS/TCS compliance, downloading Form 16, and reconciling TDS using the TRACES portal.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "MCA21 Portal",
+    "skill_category": "Technical",
+    "skill_description": "Filing ROC returns, annual reports, and company compliance forms on the Ministry of Corporate Affairs portal.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "EPF Unified Member Portal",
+    "skill_category": "Technical",
+    "skill_description": "Managing EPFO compliance, monthly ECR filings, and employee PF account operations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "ESIC Portal",
+    "skill_category": "Technical",
+    "skill_description": "Managing employee state insurance compliance, monthly filings, and claims using the ESIC portal.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Shram Suvidha Portal",
+    "skill_category": "Technical",
+    "skill_description": "Filing labour law compliance returns for Contract Labour Act, CLRA, and other labour regulations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "ClearTax",
+    "skill_category": "Technical",
+    "skill_description": "Filing GST returns, ITR, and managing tax compliance for individuals and businesses using ClearTax.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Zoho Payroll",
+    "skill_category": "Technical",
+    "skill_description": "Processing monthly payroll with PF, ESI, PT deductions, and statutory filings using Zoho Payroll.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Busy Accounting Software",
+    "skill_category": "Technical",
+    "skill_description": "Managing GST-compliant accounts, inventory, and taxation using Busy Accounting in Indian SMEs.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Mailchimp",
+    "skill_category": "Technical",
+    "skill_description": "Designing and sending email marketing campaigns and automations using Mailchimp.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Canva",
+    "skill_category": "Technical",
+    "skill_description": "Creating marketing collaterals, presentations, social media graphics, and business visuals using Canva.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Hootsuite",
+    "skill_category": "Technical",
+    "skill_description": "Scheduling and managing social media posts and analytics across platforms using Hootsuite.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Buffer",
+    "skill_category": "Technical",
+    "skill_description": "Scheduling social media content and tracking engagement metrics using Buffer.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Semrush",
+    "skill_category": "Technical",
+    "skill_description": "Conducting SEO analysis, keyword research, and competitive intelligence using Semrush.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Google Search Console",
+    "skill_category": "Technical",
+    "skill_description": "Monitoring website performance, indexing status, and search visibility using Google Search Console.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Google Ads",
+    "skill_category": "Technical",
+    "skill_description": "Creating and managing paid search and display advertising campaigns on Google Ads.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Meta Ads Manager",
+    "skill_category": "Technical",
+    "skill_description": "Managing Facebook and Instagram paid advertising campaigns, targeting, and performance using Meta Ads Manager.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "SurveyMonkey",
+    "skill_category": "Technical",
+    "skill_description": "Designing and distributing quantitative surveys for market research, employee feedback, and customer insights.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Typeform",
+    "skill_category": "Technical",
+    "skill_description": "Creating engaging, conversational online surveys and forms for lead generation and feedback collection.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Google Forms",
+    "skill_category": "Technical",
+    "skill_description": "Designing and collecting data through Google Forms for surveys, feedback, and internal data collection.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Qualtrics",
+    "skill_category": "Technical",
+    "skill_description": "Conducting advanced market research, employee experience surveys, and customer satisfaction studies.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Bloomberg Terminal",
+    "skill_category": "Technical",
+    "skill_description": "Accessing financial data, market news, and analytics using Bloomberg Terminal for investment and strategy work.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Capital IQ (S&P)",
+    "skill_category": "Technical",
+    "skill_description": "Accessing company financials, deal data, and market intelligence using S&P Capital IQ.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "CMIE Prowess",
+    "skill_category": "Technical",
+    "skill_description": "Accessing Indian company financials, industry data, and economic statistics using CMIE Prowess database.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "ChatGPT",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using ChatGPT for drafting business reports, summarising research, generating strategic frameworks, and writing communications.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Claude (Anthropic)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Claude for analysing long documents, drafting consulting deliverables, and synthesising complex business research.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using AI-powered Excel Copilot to generate formulas, analyse data, and create summaries from spreadsheets.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Power BI Copilot",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using AI in Power BI to generate reports, answer natural language queries, and create data summaries.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Canva AI",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Canva's AI features including Magic Write and text-to-image for rapid creation of business visuals.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Gemini (Google)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Google Gemini for research synthesis, document drafting, and AI-assisted productivity in Google Workspace.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Notion AI",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Notion AI to summarise notes, draft documents, generate action items, and organise project information.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Perplexity AI",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Perplexity AI for real-time research, competitive intelligence, and fact-finding in business analysis.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Salesforce Einstein",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Salesforce Einstein for AI-powered sales forecasting, lead scoring, and CRM recommendations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Zoho Zia",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Zoho's AI assistant Zia for sales insights, anomaly alerts, and CRM automation suggestions.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Grammarly",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Grammarly for AI-assisted proofreading, tone adjustment, and professional writing quality in business documents.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Otter.ai",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Otter.ai to transcribe meetings, generate summaries, and capture action items from business conversations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Strategic Planning",
+    "skill_category": "Domain",
+    "skill_description": "Developing long-term organisational direction, setting objectives, and aligning resources with business goals.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Business Strategy Frameworks",
+    "skill_category": "Domain",
+    "skill_description": "Applying frameworks such as Porter's Five Forces, SWOT, BCG Matrix, and Ansoff Matrix for strategic analysis.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Porter's Five Forces Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Analysing industry competitiveness by evaluating supplier power, buyer power, rivalry, substitutes, and new entrants.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "SWOT Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating an organisation's strengths, weaknesses, opportunities, and threats to inform strategic decisions.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "PESTLE Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Analysing the political, economic, social, technological, legal, and environmental factors affecting business strategy.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "BCG Matrix",
+    "skill_category": "Domain",
+    "skill_description": "Classifying business units or products into Stars, Cash Cows, Question Marks, and Dogs for portfolio management.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Ansoff Matrix",
+    "skill_category": "Domain",
+    "skill_description": "Applying the Ansoff growth matrix to evaluate market penetration, development, product development, and diversification strategies.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Value Chain Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Identifying primary and support activities in an organisation's value chain to find cost and differentiation opportunities.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Business Model Canvas",
+    "skill_category": "Domain",
+    "skill_description": "Mapping and designing business models across nine building blocks including value proposition, channels, and revenue streams.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Competitive Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Researching and benchmarking competitors across market share, pricing, product features, and go-to-market strategies.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Market Sizing and TAM/SAM/SOM",
+    "skill_category": "Domain",
+    "skill_description": "Estimating total addressable, serviceable addressable, and serviceable obtainable market for business planning.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Go-to-Market Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Designing market entry plans including targeting, positioning, pricing, channels, and launch sequencing.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Blue Ocean Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Applying Blue Ocean Strategy concepts to identify uncontested market spaces and create new demand.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Scenario Planning",
+    "skill_category": "Domain",
+    "skill_description": "Developing and analysing multiple future scenarios to stress-test strategy and inform contingency planning.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "OKR Framework (Objectives and Key Results)",
+    "skill_category": "Domain",
+    "skill_description": "Setting and cascading organisational goals using the OKR framework for alignment and performance tracking.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Balanced Scorecard",
+    "skill_category": "Domain",
+    "skill_description": "Translating strategy into measurable objectives across financial, customer, internal process, and learning perspectives.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "KPI Development and Monitoring",
+    "skill_category": "Domain",
+    "skill_description": "Defining, tracking, and reporting key performance indicators to measure business performance against targets.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Management Consulting Methodology",
+    "skill_category": "Domain",
+    "skill_description": "Applying structured problem-solving, hypothesis-driven analysis, and structured communication used in consulting engagements.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Issue Tree / MECE Framework",
+    "skill_category": "Domain",
+    "skill_description": "Structuring complex business problems into mutually exclusive, collectively exhaustive issue trees for systematic analysis.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Pyramid Principle (Barbara Minto)",
+    "skill_category": "Domain",
+    "skill_description": "Communicating recommendations and findings using top-down structured logic following the Pyramid Principle.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Root Cause Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Using techniques such as 5 Whys, fishbone diagrams, and fault tree analysis to identify problem root causes.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "McKinsey 7S Framework",
+    "skill_category": "Domain",
+    "skill_description": "Analysing organisational alignment across Strategy, Structure, Systems, Shared Values, Skills, Style, and Staff.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Design Thinking",
+    "skill_category": "Domain",
+    "skill_description": "Applying the five-stage design thinking process—empathise, define, ideate, prototype, test—to business problems.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Jobs to be Done (JTBD) Framework",
+    "skill_category": "Domain",
+    "skill_description": "Identifying the functional and emotional jobs that customers hire products or services to do.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Business Process Mapping",
+    "skill_category": "Domain",
+    "skill_description": "Documenting and analysing current-state business processes using flowcharts and SIPOC diagrams.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Business Process Re-engineering (BPR)",
+    "skill_category": "Domain",
+    "skill_description": "Redesigning core business processes to achieve significant improvements in efficiency, quality, and cost.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Standard Operating Procedure (SOP) Development",
+    "skill_category": "Domain",
+    "skill_description": "Writing detailed SOPs to standardise workflows, ensure compliance, and enable consistent execution.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Lean Management",
+    "skill_category": "Domain",
+    "skill_description": "Applying lean principles to eliminate waste, reduce cycle times, and improve value delivery in operations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Six Sigma (DMAIC)",
+    "skill_category": "Domain",
+    "skill_description": "Using the DMAIC methodology to reduce process variation and defects in business and manufacturing operations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Lean Six Sigma",
+    "skill_category": "Domain",
+    "skill_description": "Combining Lean waste elimination and Six Sigma quality methods for business process improvement.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Kaizen",
+    "skill_category": "Domain",
+    "skill_description": "Implementing continuous incremental improvement in processes through small, regular changes.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "5S Methodology",
+    "skill_category": "Domain",
+    "skill_description": "Applying Sort, Set in Order, Shine, Standardise, and Sustain principles to organise workplace operations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Total Quality Management (TQM)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing organisation-wide quality systems to continuously improve products, services, and processes.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "ISO 9001 Quality Management",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and implementing ISO 9001 quality management system requirements for certification and compliance.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Supply Chain Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing the flow of goods, information, and finances across procurement, production, logistics, and distribution.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Inventory Management",
+    "skill_category": "Domain",
+    "skill_description": "Optimising stock levels using techniques such as EOQ, ABC analysis, JIT, and safety stock calculations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Demand Forecasting",
+    "skill_category": "Domain",
+    "skill_description": "Using quantitative and qualitative methods to predict future demand for planning and procurement decisions.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Vendor Management",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating, onboarding, negotiating with, and monitoring supplier performance and contracts.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Procurement and Sourcing",
+    "skill_category": "Domain",
+    "skill_description": "Identifying suppliers, issuing RFPs/RFQs, evaluating bids, and managing the end-to-end sourcing process.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Contract Management",
+    "skill_category": "Domain",
+    "skill_description": "Drafting, reviewing, negotiating, and monitoring business contracts for compliance and performance.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Logistics and Distribution Management",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating transportation, warehousing, and last-mile delivery to ensure efficient product distribution.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Warehouse Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing inbound, storage, picking, packing, and outbound operations in warehouse facilities.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Project Management (PMP Methodology)",
+    "skill_category": "Domain",
+    "skill_description": "Managing projects through initiation, planning, execution, monitoring, and closure using PMI standards.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Agile Project Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing projects using agile methodologies including Scrum, Kanban, and SAFe for iterative delivery.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Scrum Framework",
+    "skill_category": "Domain",
+    "skill_description": "Implementing Scrum ceremonies, roles, and artefacts for iterative product and project delivery.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Waterfall Project Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing sequential project phases with defined deliverables and milestones using the waterfall methodology.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Project Charter and Scope Management",
+    "skill_category": "Domain",
+    "skill_description": "Defining project scope, objectives, deliverables, and governance through a formal project charter.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Risk Management (Project)",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, assessing, and mitigating project risks using risk registers and mitigation strategies.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Stakeholder Management",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, mapping, and engaging project and organisational stakeholders to ensure alignment and support.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Change Management",
+    "skill_category": "Domain",
+    "skill_description": "Planning and managing organisational change using frameworks such as ADKAR and Kotter's 8-Step model.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Resource Planning and Allocation",
+    "skill_category": "Domain",
+    "skill_description": "Estimating, allocating, and optimising human and physical resources across project activities and timelines.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Earned Value Management (EVM)",
+    "skill_category": "Domain",
+    "skill_description": "Measuring project performance using earned value metrics such as SPI, CPI, EAC, and VAC.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Critical Path Method (CPM)",
+    "skill_category": "Domain",
+    "skill_description": "Identifying the longest sequence of dependent tasks to determine the minimum project duration.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Work Breakdown Structure (WBS)",
+    "skill_category": "Domain",
+    "skill_description": "Decomposing project deliverables into manageable work packages using a hierarchical WBS.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "PRINCE2 Methodology",
+    "skill_category": "Domain",
+    "skill_description": "Managing projects using PRINCE2's process-based framework including stages, themes, and governance.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Financial Modelling",
+    "skill_category": "Domain",
+    "skill_description": "Building three-statement models, DCF models, and scenario analyses for business planning and valuation.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Financial Statement Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Interpreting income statements, balance sheets, and cash flows to assess business financial health.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Budgeting and Forecasting",
+    "skill_category": "Domain",
+    "skill_description": "Preparing annual budgets, rolling forecasts, and variance analyses for business planning and control.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Management Reporting (MIS)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing monthly MIS reports with financial and operational metrics for management decision-making.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Business Case Development",
+    "skill_category": "Domain",
+    "skill_description": "Building structured business cases with ROI, NPV, and payback analysis to justify investment decisions.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Cost-Benefit Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating project and initiative viability by comparing total costs against expected financial and non-financial benefits.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Break-Even Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Computing the sales volume at which total revenues equal total costs to assess business viability.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Working Capital Management",
+    "skill_category": "Domain",
+    "skill_description": "Optimising cash conversion cycle, debtor days, creditor days, and inventory to manage liquidity.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "GST (Goods and Services Tax)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding GST structure, rates, input tax credit, and compliance requirements for business operations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "GST Return Filing",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and filing monthly and annual GST returns including GSTR-1, GSTR-3B, and GSTR-9.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Input Tax Credit (ITC) Management",
+    "skill_category": "Domain",
+    "skill_description": "Tracking, reconciling, and claiming input tax credit to optimise GST liability.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "TDS (Tax Deducted at Source)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring TDS compliance including deduction, deposit, return filing, and Form 16/16A issuance.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Income Tax (Corporate and Personal)",
+    "skill_category": "Domain",
+    "skill_description": "Computing and filing income tax returns for businesses and individuals under the Income Tax Act.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Transfer Pricing",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring intercompany transactions are priced at arm's length in compliance with Indian transfer pricing rules.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Ind AS (Indian Accounting Standards)",
+    "skill_category": "Domain",
+    "skill_description": "Applying Ind AS for financial reporting of companies mandated to follow Indian GAAP convergence standards.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Indian GAAP",
+    "skill_category": "Domain",
+    "skill_description": "Applying traditional Indian Generally Accepted Accounting Principles for financial reporting under Companies Act.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Companies Act 2013 Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring corporate governance, board obligations, annual filings, and statutory compliance under Companies Act 2013.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "ROC Filing and Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Filing annual returns, financial statements, and statutory forms with the Registrar of Companies.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Ratio Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Computing and interpreting financial ratios including liquidity, solvency, profitability, and efficiency ratios.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "DCF Valuation (Discounted Cash Flow)",
+    "skill_category": "Domain",
+    "skill_description": "Valuing businesses or assets by discounting projected free cash flows at the weighted average cost of capital.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Equity Valuation",
+    "skill_category": "Domain",
+    "skill_description": "Valuing companies using comparable company analysis, precedent transactions, and intrinsic value methods.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "FEMA Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring foreign exchange transactions and cross-border dealings comply with FEMA provisions.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "SEBI Regulations (Listed Companies)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding SEBI LODR, insider trading regulations, and disclosure obligations for listed entities.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Talent Acquisition and Recruitment",
+    "skill_category": "Domain",
+    "skill_description": "Designing and executing hiring processes including JD creation, sourcing, interviewing, and offer management.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Employee Onboarding",
+    "skill_category": "Domain",
+    "skill_description": "Designing and executing structured onboarding programmes to integrate new employees into the organisation.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Performance Management",
+    "skill_category": "Domain",
+    "skill_description": "Designing and running performance appraisal systems including goal-setting, reviews, and calibration.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Learning and Development (L&D)",
+    "skill_category": "Domain",
+    "skill_description": "Designing training programmes, identifying learning needs, and building employee capability development plans.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Compensation and Benefits Design",
+    "skill_category": "Domain",
+    "skill_description": "Structuring competitive CTC packages, salary bands, and benefits programmes for talent retention.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Employee Engagement",
+    "skill_category": "Domain",
+    "skill_description": "Measuring and improving employee satisfaction, motivation, and organisational commitment.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Succession Planning",
+    "skill_category": "Domain",
+    "skill_description": "Identifying and developing internal talent pipelines for critical and senior roles in the organisation.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "HR Analytics",
+    "skill_category": "Domain",
+    "skill_description": "Using data to analyse attrition, engagement, hiring effectiveness, and workforce planning.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "EPFO Compliance (PF)",
+    "skill_category": "Domain",
+    "skill_description": "Managing Provident Fund deductions, employer contributions, and monthly ECR filings with EPFO.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "ESIC Compliance (ESI)",
+    "skill_category": "Domain",
+    "skill_description": "Managing ESI contributions, half-yearly returns, and employee benefit administration under ESIC.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Gratuity and Leave Encashment",
+    "skill_category": "Domain",
+    "skill_description": "Computing and administering gratuity under the Payment of Gratuity Act and leave encashment policies.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Indian Labour Laws",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and applying key labour legislation including Factories Act, POSH Act, and Contract Labour Regulation.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "New Labour Codes (4 Codes)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding the four new Labour Codes on Wages, Industrial Relations, Social Security, and OSH.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Minimum Wages Act Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring all employees are paid at or above applicable minimum wages under the Minimum Wages Act.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Payment of Bonus Act",
+    "skill_category": "Domain",
+    "skill_description": "Computing and disbursing statutory bonus to eligible employees under the Payment of Bonus Act.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "POSH Act Compliance (Prevention of Sexual Harassment)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing the POSH Act framework including ICC formation, policy, training, and complaint resolution.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "HR Business Partnering (HRBP)",
+    "skill_category": "Domain",
+    "skill_description": "Acting as a strategic HR partner to business units to align people practices with business objectives.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Workforce Planning",
+    "skill_category": "Domain",
+    "skill_description": "Forecasting and planning workforce requirements to ensure the right talent is available at the right time.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Organisational Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing organisational structures, reporting lines, and roles to support strategy and operational efficiency.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Salary Structure Design (CTC)",
+    "skill_category": "Domain",
+    "skill_description": "Structuring tax-efficient CTC components including allowances, reimbursements, and retirement benefits.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Professional Tax Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Computing and remitting professional tax as per state-specific slabs and maintaining compliance records.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Marketing Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Developing integrated marketing strategies covering segmentation, targeting, positioning, and the marketing mix.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Brand Management",
+    "skill_category": "Domain",
+    "skill_description": "Building and maintaining brand equity, brand identity, and consistent messaging across customer touchpoints.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Digital Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing digital marketing campaigns across SEO, SEM, social media, email, and content.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Content Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Creating and distributing valuable content to attract, engage, and convert target audience segments.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Search Engine Optimisation (SEO)",
+    "skill_category": "Domain",
+    "skill_description": "Optimising website content, structure, and backlinks to improve organic search ranking and visibility.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Social Media Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Planning and managing brand presence, campaigns, and community engagement on social media platforms.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Performance Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Managing paid digital campaigns on Google, Meta, and LinkedIn with focus on CAC, ROAS, and conversion.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Marketing Analytics",
+    "skill_category": "Domain",
+    "skill_description": "Measuring campaign performance, customer acquisition costs, and ROI using marketing data and tools.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Customer Segmentation",
+    "skill_category": "Domain",
+    "skill_description": "Dividing the customer base into segments based on demographics, behaviour, and value for targeted marketing.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Customer Lifetime Value (CLV)",
+    "skill_category": "Domain",
+    "skill_description": "Computing and optimising the total revenue expected from a customer over their entire relationship with the business.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Customer Acquisition and Retention",
+    "skill_category": "Domain",
+    "skill_description": "Designing strategies to attract new customers and reduce churn through loyalty, re-engagement, and service.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Net Promoter Score (NPS)",
+    "skill_category": "Domain",
+    "skill_description": "Measuring customer loyalty and satisfaction using NPS surveys and acting on promoter/detractor insights.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Sales Process Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing the end-to-end B2B or B2C sales cycle from prospecting through closing and after-sales.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "B2B Sales Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Developing account-based selling strategies, navigating complex buying committees, and closing enterprise deals.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Sales Pipeline Management",
+    "skill_category": "Domain",
+    "skill_description": "Tracking, prioritising, and forecasting sales opportunities across funnel stages using CRM tools.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Key Account Management",
+    "skill_category": "Domain",
+    "skill_description": "Building deep relationships and driving growth within strategic high-value customer accounts.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Pricing Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Designing pricing models including cost-plus, value-based, competitive, and dynamic pricing strategies.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Market Research",
+    "skill_category": "Domain",
+    "skill_description": "Conducting primary and secondary research to understand market dynamics, consumer behaviour, and competitive landscape.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Focus Group Facilitation",
+    "skill_category": "Domain",
+    "skill_description": "Designing and moderating focus groups to gather qualitative consumer insights for research and strategy.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Conjoint Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Using conjoint analysis to understand how customers value different product attributes and price points.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Product Lifecycle Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing product strategy across introduction, growth, maturity, and decline stages of the product lifecycle.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Business Requirements Gathering",
+    "skill_category": "Domain",
+    "skill_description": "Eliciting, documenting, and validating business requirements from stakeholders for systems or process changes.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Business Requirements Document (BRD)",
+    "skill_category": "Domain",
+    "skill_description": "Writing comprehensive BRDs that capture functional and non-functional requirements for IT or business projects.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Functional Requirements Specification (FRS)",
+    "skill_category": "Domain",
+    "skill_description": "Translating business needs into detailed functional specifications for system development or process design.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "User Acceptance Testing (UAT)",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating and executing UAT to validate that new systems or changes meet business requirements.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Gap Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Comparing current-state performance or capabilities against desired future state to identify improvement gaps.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Feasibility Study",
+    "skill_category": "Domain",
+    "skill_description": "Assessing the technical, financial, operational, and time feasibility of proposed business initiatives.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Data Analysis and Interpretation",
+    "skill_category": "Domain",
+    "skill_description": "Analysing business data to identify patterns, trends, and insights that support decision-making.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Dashboard Design and Reporting",
+    "skill_category": "Domain",
+    "skill_description": "Designing management dashboards that communicate key metrics and operational performance clearly.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Business Intelligence (BI) Reporting",
+    "skill_category": "Domain",
+    "skill_description": "Producing BI reports and analytics that translate data into actionable business insights.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Decision Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Applying structured decision analysis frameworks including decision trees and expected value to complex choices.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Benchmarking",
+    "skill_category": "Domain",
+    "skill_description": "Comparing organisational processes, metrics, and performance against industry best practices and competitors.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Corporate Governance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring boards, management, and stakeholders adhere to governance frameworks, ethics, and transparency standards.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Regulatory Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Monitoring and ensuring adherence to all applicable regulations, statutes, and industry standards.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Enterprise Risk Management (ERM)",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, assessing, and managing strategic, operational, financial, and compliance risks across the organisation.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Internal Audit",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating the effectiveness of internal controls, risk management, and governance processes.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Internal Controls",
+    "skill_category": "Domain",
+    "skill_description": "Designing and testing financial and operational controls to safeguard assets and ensure reporting accuracy.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Fraud Prevention and Detection",
+    "skill_category": "Domain",
+    "skill_description": "Implementing controls and investigation frameworks to prevent and detect financial fraud.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Business Continuity Planning",
+    "skill_category": "Domain",
+    "skill_description": "Developing plans to maintain critical business operations during disruptions, disasters, or crises.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "CSR (Corporate Social Responsibility) — Section 135",
+    "skill_category": "Domain",
+    "skill_description": "Managing CSR obligations, budgets, and reporting under Section 135 of the Companies Act 2013.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "ESG Reporting (BRSR)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing Business Responsibility and Sustainability Reports as mandated by SEBI for listed companies.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "SEBI LODR Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring listed company compliance with SEBI Listing Obligations and Disclosure Requirements.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Anti-Bribery and Anti-Corruption (ABAC)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing and monitoring anti-bribery and corruption compliance frameworks and policies.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Mergers and Acquisitions (M&A)",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating acquisition targets, conducting due diligence, and supporting deal execution and integration.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Due Diligence (Financial and Commercial)",
+    "skill_category": "Domain",
+    "skill_description": "Reviewing target company financials, contracts, liabilities, and commercial risks in M&A and investment transactions.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Post-Merger Integration (PMI)",
+    "skill_category": "Domain",
+    "skill_description": "Planning and managing the integration of systems, processes, and cultures after an M&A transaction.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Fundraising and Investor Relations",
+    "skill_category": "Domain",
+    "skill_description": "Preparing investor materials, managing roadshows, and maintaining relationships with equity and debt investors.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Pitch Deck Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Creating compelling investor pitch decks with market sizing, business model, financial projections, and team slides.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Venture Capital and PE Concepts",
+    "skill_category": "Domain",
+    "skill_description": "Understanding VC/PE deal structures, term sheets, liquidation preferences, and fund economics.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "IPO Process (India)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding SEBI ICDR regulations, DRHP preparation, and the IPO process in the Indian capital market.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Capital Budgeting",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating capital investment proposals using NPV, IRR, MIRR, payback period, and profitability index.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "RBI Regulations",
+    "skill_category": "Domain",
+    "skill_description": "Understanding RBI master directions and guidelines applicable to banking, NBFCs, and payment systems.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "NBFC Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring compliance with RBI regulations for Non-Banking Financial Companies including capital and NPA norms.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "FSSAI Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Obtaining and maintaining FSSAI licences and complying with food safety standards for food businesses.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "BIS Standards (Bureau of Indian Standards)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring products and processes comply with BIS quality and safety standards for Indian markets.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "NABL Accreditation",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and managing NABL accreditation processes for testing and calibration laboratories.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "DPIIT Startup India Registration",
+    "skill_category": "Domain",
+    "skill_description": "Registering startups with DPIIT to access tax benefits, funding schemes, and regulatory relaxations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Startup India / MSME Schemes",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and leveraging government schemes for MSMEs and startups including MUDRA, PLI, and SIDBI schemes.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "GST E-Invoicing (IRP)",
+    "skill_category": "Domain",
+    "skill_description": "Generating and registering e-invoices on the Invoice Registration Portal for GST-mandated businesses.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "GST E-Way Bill Management",
+    "skill_category": "Domain",
+    "skill_description": "Generating and managing E-Way Bills for goods movement in compliance with GST regulations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "RERA Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Understanding RERA registration, project disclosures, and compliance for real estate businesses.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "MCA Compliance (Companies Act)",
+    "skill_category": "Domain",
+    "skill_description": "Managing annual and event-based MCA filings including AOC-4, MGT-7, and DIR-3 KYC.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Shops and Establishments Act",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring compliance with state-specific Shops and Establishments Acts governing working conditions and hours.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "DPDP Act 2023 (Data Privacy)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing data protection obligations under India's Digital Personal Data Protection Act for businesses.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Entrepreneurship and New Venture Creation",
+    "skill_category": "Domain",
+    "skill_description": "Identifying market opportunities, validating ideas, and building new business ventures from inception.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Lean Startup Methodology",
+    "skill_category": "Domain",
+    "skill_description": "Applying Build-Measure-Learn cycles and validated learning to de-risk new product and business development.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Product-Market Fit Validation",
+    "skill_category": "Domain",
+    "skill_description": "Identifying and validating product-market fit through customer discovery, experiments, and cohort analysis.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Business Plan Writing",
+    "skill_category": "Domain",
+    "skill_description": "Writing comprehensive business plans covering market analysis, operations, financial projections, and team.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Innovation Management",
+    "skill_category": "Domain",
+    "skill_description": "Building processes and culture for systematic idea generation, evaluation, and commercialisation.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Corporate Venturing and Intrapreneurship",
+    "skill_category": "Domain",
+    "skill_description": "Driving new business creation and innovation within established corporate structures.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Client Relationship Management",
+    "skill_category": "Domain",
+    "skill_description": "Building and sustaining long-term advisory relationships with key clients across strategy and consulting engagements.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Consulting Proposal Writing",
+    "skill_category": "Domain",
+    "skill_description": "Structuring and writing compelling consulting proposals with problem statements, approach, team, and commercials.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Engagement Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing client engagements including scoping, delivery, quality control, budgets, and stakeholder communication.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Workshop Facilitation",
+    "skill_category": "Domain",
+    "skill_description": "Designing and facilitating strategic workshops, offsites, and ideation sessions with client and internal teams.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Management Presentation Skills",
+    "skill_category": "Domain",
+    "skill_description": "Structuring and delivering persuasive board-level and executive presentations with clear recommendations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Report Writing (Management and Consulting)",
+    "skill_category": "Domain",
+    "skill_description": "Writing structured, insight-driven management reports, feasibility studies, and consulting deliverables.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "RFP / Tender Response Writing",
+    "skill_category": "Domain",
+    "skill_description": "Preparing technical and commercial responses to Requests for Proposals and government/private tenders.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Macroeconomics",
+    "skill_category": "Domain",
+    "skill_description": "Understanding GDP, inflation, interest rates, and fiscal policy and their impact on business strategy.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Microeconomics",
+    "skill_category": "Domain",
+    "skill_description": "Applying supply and demand, elasticity, and market structure concepts to business pricing and strategy.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Indian Economic Policy",
+    "skill_category": "Domain",
+    "skill_description": "Understanding Union Budget, economic survey, monetary policy, and their impact on Indian businesses.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Trade Policy and EXIM",
+    "skill_category": "Domain",
+    "skill_description": "Understanding India's export-import policies, trade agreements, customs duties, and DGFT regulations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Industry Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Analysing industry structure, growth drivers, competitive intensity, and regulatory environment for a sector.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Public Policy Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating government policies and their business implications using structured policy analysis frameworks.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Critical Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Evaluating evidence, questioning assumptions, and reasoning systematically to make sound business decisions.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Analytical Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Breaking down complex business problems into structured components and identifying causal relationships.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Problem Solving",
+    "skill_category": "Foundational",
+    "skill_description": "Applying structured approaches to identify root causes, generate options, and implement effective solutions.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Logical Reasoning",
+    "skill_category": "Foundational",
+    "skill_description": "Constructing coherent, evidence-based arguments and recommendations to persuade stakeholders.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Quantitative Reasoning",
+    "skill_category": "Foundational",
+    "skill_description": "Working confidently with numbers, percentages, ratios, and data to draw meaningful business insights.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Written Communication",
+    "skill_category": "Foundational",
+    "skill_description": "Writing clear, concise, and professional business documents including emails, memos, and reports.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Verbal Communication and Public Speaking",
+    "skill_category": "Foundational",
+    "skill_description": "Presenting ideas, leading meetings, and communicating confidently to diverse audiences at all levels.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Executive Communication",
+    "skill_category": "Foundational",
+    "skill_description": "Adapting communication style and content for senior executives and board-level audiences.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Persuasion and Influence",
+    "skill_category": "Foundational",
+    "skill_description": "Building consensus and influencing decisions through evidence, relationships, and structured arguments.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Negotiation Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Negotiating deals, contracts, and agreements to achieve favourable outcomes while maintaining relationships.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Active Listening",
+    "skill_category": "Foundational",
+    "skill_description": "Listening attentively to clients and stakeholders to fully understand needs, concerns, and context.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Interpersonal Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Building effective working relationships across teams, functions, and organisational hierarchies.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Leadership",
+    "skill_category": "Foundational",
+    "skill_description": "Inspiring, guiding, and developing teams to achieve business goals and organisational outcomes.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Team Management",
+    "skill_category": "Foundational",
+    "skill_description": "Managing team performance, resolving conflicts, delegating tasks, and building high-performing teams.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Conflict Resolution",
+    "skill_category": "Foundational",
+    "skill_description": "Navigating and resolving professional disagreements constructively to maintain team and client relationships.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Emotional Intelligence (EQ)",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding and managing one's own emotions and empathising with others to improve workplace effectiveness.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Cultural Sensitivity and Diversity",
+    "skill_category": "Foundational",
+    "skill_description": "Working effectively with colleagues, clients, and partners from diverse cultural and social backgrounds.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Time Management",
+    "skill_category": "Foundational",
+    "skill_description": "Prioritising tasks, managing deadlines, and balancing multiple workstreams effectively.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Self-Management and Discipline",
+    "skill_category": "Foundational",
+    "skill_description": "Taking ownership of one's own performance, meeting commitments, and managing workload independently.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Growth Mindset",
+    "skill_category": "Foundational",
+    "skill_description": "Embracing challenges, learning from failure, and continuously seeking to improve skills and knowledge.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Adaptability",
+    "skill_category": "Foundational",
+    "skill_description": "Adjusting quickly to changing priorities, ambiguous situations, and evolving business environments.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Business Acumen",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding how businesses create value, manage costs, and compete in their market to drive decisions.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Commercial Awareness",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding the commercial drivers of a business including revenue, margins, costs, and competitive pressures.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Networking and Relationship Building",
+    "skill_category": "Foundational",
+    "skill_description": "Building professional networks, maintaining industry relationships, and leveraging connections for business development.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Ethics and Professional Integrity",
+    "skill_category": "Foundational",
+    "skill_description": "Upholding ethical standards, transparency, and professional conduct in all business dealings.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Decision Making",
+    "skill_category": "Foundational",
+    "skill_description": "Making timely, well-reasoned decisions under uncertainty using data, frameworks, and stakeholder input.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Creativity and Innovation",
+    "skill_category": "Foundational",
+    "skill_description": "Generating novel ideas, challenging existing assumptions, and bringing creative solutions to business problems.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Attention to Detail",
+    "skill_category": "Foundational",
+    "skill_description": "Ensuring accuracy in financial models, reports, proposals, and client deliverables.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Resilience and Stress Management",
+    "skill_category": "Foundational",
+    "skill_description": "Maintaining performance and composure under pressure, tight deadlines, and high-stakes situations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Mentoring and Coaching",
+    "skill_category": "Foundational",
+    "skill_description": "Developing junior team members through guidance, feedback, and structured knowledge sharing.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Cross-Functional Collaboration",
+    "skill_category": "Foundational",
+    "skill_description": "Working effectively across finance, marketing, operations, and technology functions to deliver shared goals.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Continuous Learning",
+    "skill_category": "Foundational",
+    "skill_description": "Proactively updating professional knowledge through reading, courses, and engagement with industry trends.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Data-Driven Decision Making",
+    "skill_category": "Foundational",
+    "skill_description": "Using data and evidence rather than intuition alone to drive business and management decisions.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "English Proficiency (Business)",
+    "skill_category": "Foundational",
+    "skill_description": "Reading, writing, and speaking professional English for international clients, reports, and stakeholders.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Hindi Business Communication",
+    "skill_category": "Foundational",
+    "skill_description": "Communicating effectively in Hindi for domestic client engagement, government interactions, and pan-India operations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Mergers and Acquisitions Integration",
+    "skill_category": "Domain",
+    "skill_description": "Managing cultural, operational, and systems integration following an M&A transaction to realise synergies.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Corporate Strategy Development",
+    "skill_category": "Domain",
+    "skill_description": "Defining long-term corporate direction, portfolio strategy, and growth priorities at the enterprise level.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Strategic Alliances and Partnerships",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, negotiating, and managing strategic partnerships, JVs, and alliances to accelerate growth.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Innovation Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Building frameworks for continuous innovation including open innovation, incubation, and R&D portfolio management.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Competitive Intelligence",
+    "skill_category": "Domain",
+    "skill_description": "Systematically gathering and analysing competitor information to inform strategy and business development.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Growth Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Designing organic and inorganic growth strategies across markets, products, and customer segments.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Restructuring and Turnaround",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing business restructuring to restore financial health and operational performance.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Digital Transformation Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Designing and leading digital transformation programmes to modernise operations and business models.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Platform Business Models",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and designing multi-sided platform business models that create value by connecting users and producers.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Subscription Business Model",
+    "skill_category": "Domain",
+    "skill_description": "Designing and managing subscription-based business models including SaaS, D2C, and media subscriptions.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Operations Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Aligning operational capabilities and resources with business strategy to deliver competitive advantage.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Production Planning and Control",
+    "skill_category": "Domain",
+    "skill_description": "Planning and scheduling manufacturing activities to meet demand while optimising costs and capacity.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Capacity Planning",
+    "skill_category": "Domain",
+    "skill_description": "Forecasting and managing operational capacity to meet future business demand without over- or under-resourcing.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Quality Assurance and Control",
+    "skill_category": "Domain",
+    "skill_description": "Implementing inspection, testing, and quality control systems to ensure products and services meet standards.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Just-in-Time (JIT) Manufacturing",
+    "skill_category": "Domain",
+    "skill_description": "Implementing JIT principles to minimise inventory and align production with demand signals.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Make vs Buy Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating whether to produce internally or outsource using cost, capability, and risk criteria.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Outsourcing and Offshoring Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing outsourced and offshored operations including SLA governance, performance management, and transitions.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Facility Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing physical office and operational facilities including space planning, maintenance, and cost control.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "ERP Implementation and Change Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing the business-side of ERP implementations including process redesign, training, and go-live support.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Treasury Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing cash, investments, foreign exchange, and funding to optimise liquidity and minimise financial risk.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Debt and Equity Financing",
+    "skill_category": "Domain",
+    "skill_description": "Structuring and sourcing debt and equity funding from banks, capital markets, and private investors.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Accounts Payable and Receivable",
+    "skill_category": "Domain",
+    "skill_description": "Managing creditor and debtor accounts, payment processing, collections, and reconciliations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Month-End and Year-End Close",
+    "skill_category": "Domain",
+    "skill_description": "Executing period-end closing procedures including accruals, reconciliations, and financial statement preparation.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Cost Accounting",
+    "skill_category": "Domain",
+    "skill_description": "Tracking and analysing costs to support pricing, margin analysis, and profitability decisions.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Standard Costing and Variance Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Setting standard costs and investigating material, labour, and overhead variances against budget.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Cash Flow Management",
+    "skill_category": "Domain",
+    "skill_description": "Monitoring and optimising cash inflows and outflows to maintain liquidity and fund operations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Advance Tax Computation",
+    "skill_category": "Domain",
+    "skill_description": "Estimating and paying advance tax instalments on time to avoid interest under the Income Tax Act.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Indirect Taxation",
+    "skill_category": "Domain",
+    "skill_description": "Managing compliance with GST, customs duties, and other indirect taxes applicable to business transactions.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Payroll Processing",
+    "skill_category": "Domain",
+    "skill_description": "Computing employee net pay, deductions, and disbursements with accuracy and on-time statutory filings.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Credit Management",
+    "skill_category": "Domain",
+    "skill_description": "Assessing creditworthiness, setting credit limits, and managing debtor risk across the customer portfolio.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Job Analysis and Job Description Writing",
+    "skill_category": "Domain",
+    "skill_description": "Conducting job analysis and writing accurate, structured JDs that reflect responsibilities and requirements.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Competency Framework Design",
+    "skill_category": "Domain",
+    "skill_description": "Developing behavioural and technical competency frameworks aligned with organisational values and strategy.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Talent Management",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, developing, and retaining high-potential employees to build long-term organisational capability.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Employee Relations",
+    "skill_category": "Domain",
+    "skill_description": "Managing workplace relations, grievance handling, disciplinary proceedings, and maintaining positive employee relations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "HR Policies and Handbooks",
+    "skill_category": "Domain",
+    "skill_description": "Drafting, reviewing, and maintaining HR policies, employee handbooks, and codes of conduct.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Diversity, Equity and Inclusion (DEI)",
+    "skill_category": "Domain",
+    "skill_description": "Designing and implementing DEI strategies to build inclusive, equitable, and diverse workplaces.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Exit Management and F&F Settlement",
+    "skill_category": "Domain",
+    "skill_description": "Managing employee separation, full and final settlement, and exit interview processes.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Industrial Relations",
+    "skill_category": "Domain",
+    "skill_description": "Managing relationships with trade unions, handling collective bargaining, and ensuring industrial harmony.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Payroll Compliance (India)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring payroll complies with PF, ESI, PT, TDS, and labour laws with accurate and timely statutory filings.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Customer Experience (CX) Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing end-to-end customer journeys that deliver consistent, positive experiences across all touchpoints.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Brand Architecture",
+    "skill_category": "Domain",
+    "skill_description": "Designing the relationship between master brands, sub-brands, and product brands in a portfolio.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Advertising and Media Planning",
+    "skill_category": "Domain",
+    "skill_description": "Planning and buying media across TV, digital, print, and outdoor to reach target audiences efficiently.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Public Relations (PR) Management",
+    "skill_category": "Domain",
+    "skill_description": "Building and protecting organisational reputation through media relations, press releases, and crisis communication.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Influencer Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Identifying and collaborating with influencers to amplify brand messages in the Indian digital market.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "E-commerce Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Building and optimising e-commerce channels on platforms like Amazon India, Flipkart, and D2C websites.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "D2C (Direct-to-Consumer) Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Designing direct-to-consumer go-to-market strategies to build customer relationships without intermediaries.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Category Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing product categories strategically through assortment, pricing, placement, and promotional decisions.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Trade Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Executing shopper and retailer-focused marketing programmes to drive off-take at the point of purchase.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Rural Marketing (India)",
+    "skill_category": "Domain",
+    "skill_description": "Designing marketing strategies adapted for rural Indian consumers considering FMCG distribution and consumer behaviour.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Shopper Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Influencing purchase decisions at the point of sale through in-store activations, displays, and promotions.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Customer Journey Mapping",
+    "skill_category": "Domain",
+    "skill_description": "Visualising the end-to-end customer experience across touchpoints to identify pain points and opportunities.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Loyalty Programme Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing customer loyalty programmes that incentivise repeat purchase and increase lifetime value.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Secondary Research and Literature Review",
+    "skill_category": "Domain",
+    "skill_description": "Synthesising existing research, reports, and data to build an evidence base for business decisions.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Primary Research Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing qualitative and quantitative research including surveys, interviews, and observational studies.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Statistical Analysis (Business)",
+    "skill_category": "Domain",
+    "skill_description": "Applying descriptive and inferential statistics to analyse survey data, sales trends, and operational metrics.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Predictive Analytics",
+    "skill_category": "Domain",
+    "skill_description": "Building models to forecast sales, churn, demand, and other business outcomes from historical data.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Consumer Behaviour Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Analysing how consumers make decisions to improve product design, marketing, and customer experience.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Ethnographic Research",
+    "skill_category": "Domain",
+    "skill_description": "Conducting observational research in natural settings to generate rich qualitative consumer insights.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Voice of Customer (VOC)",
+    "skill_category": "Domain",
+    "skill_description": "Systematically capturing and acting on customer feedback to improve products, services, and experiences.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "PMLA Compliance (Anti-Money Laundering)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing KYC, customer due diligence, and suspicious transaction reporting under the Prevention of Money Laundering Act.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Data Governance",
+    "skill_category": "Domain",
+    "skill_description": "Establishing data ownership, quality standards, and policies to ensure data is accurate, secure, and compliant.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Policy Development and Management",
+    "skill_category": "Domain",
+    "skill_description": "Drafting, reviewing, and maintaining organisational policies and procedures to ensure governance and compliance.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Whistleblower Policy and Ethics Hotline",
+    "skill_category": "Domain",
+    "skill_description": "Designing and administering whistleblower mechanisms and ethics reporting channels for corporate governance.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "ISO 14001 Environmental Management",
+    "skill_category": "Domain",
+    "skill_description": "Implementing and maintaining environmental management systems in compliance with ISO 14001 standard.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Occupational Health and Safety (OHS)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring workplace safety compliance under the Factories Act, OSH Code, and applicable safety standards.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Healthcare Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing hospital operations, healthcare supply chains, and regulatory compliance in the Indian healthcare sector.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Pharmaceutical Regulatory Affairs",
+    "skill_category": "Domain",
+    "skill_description": "Managing drug approvals, licensing, and compliance with CDSCO regulations for pharmaceutical businesses.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Real Estate Business Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing real estate project development, sales, financing, and RERA compliance.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Retail Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing retail operations including merchandising, store operations, staff management, and customer service.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Hospitality Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing hotel and restaurant operations, guest experience, revenue management, and food safety compliance.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "EdTech and Education Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing educational operations, curriculum design, faculty management, and regulatory compliance in India's education sector.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Fintech Business Models",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and designing fintech business models including digital lending, payments, wealthtech, and insurtech.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Agribusiness Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing farm-to-market operations, agricultural supply chains, and government scheme compliance in Indian agriculture.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Infrastructure Project Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing large infrastructure projects in construction, energy, and transport including government liaison and compliance.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "NGO and Social Enterprise Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing non-profit operations including fundraising, programme delivery, FCRA compliance, and impact measurement.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Zoho Analytics",
+    "skill_category": "Technical",
+    "skill_description": "Creating business dashboards and automated reports using Zoho Analytics connected to operational data sources.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Freshdesk",
+    "skill_category": "Technical",
+    "skill_description": "Managing customer support operations, ticket queues, and SLA tracking using Freshdesk — relevant for customer-facing business and operations managers.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Freshservice",
+    "skill_category": "Technical",
+    "skill_description": "Managing IT service requests and internal helpdesk operations using Freshservice — relevant for digital transformation and shared services roles.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Zoho Desk",
+    "skill_category": "Technical",
+    "skill_description": "Managing customer support and helpdesk operations using Zoho Desk for omnichannel service management.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "SAP Ariba",
+    "skill_category": "Technical",
+    "skill_description": "Managing procurement, purchase orders, and supplier collaboration using SAP Ariba platform.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Procure-to-Pay (P2P) Systems",
+    "skill_category": "Technical",
+    "skill_description": "Using digital P2P platforms to automate purchase requisitions, approvals, and vendor payment processing.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Power Automate (Microsoft)",
+    "skill_category": "Technical",
+    "skill_description": "Automating business workflows including approvals, notifications, and data transfers using Microsoft Power Automate.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "DocuSign",
+    "skill_category": "Technical",
+    "skill_description": "Managing digital signatures and e-contracts for business agreements and compliance documentation.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Zoho Sign",
+    "skill_category": "Technical",
+    "skill_description": "Using Zoho Sign for digital signature workflows on contracts and approval documents in Indian business contexts.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Microsoft Copilot (PowerPoint)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using AI-powered PowerPoint Copilot to generate slide outlines, design suggestions, and presentation summaries.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Microsoft Copilot (Word)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using AI in Microsoft Word Copilot to draft, rewrite, and summarise business documents and reports.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Workload and Priority Management",
+    "skill_category": "Foundational",
+    "skill_description": "Organising and prioritising tasks, commitments, and deadlines to manage personal workload effectively in demanding business roles.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Strategic Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Thinking beyond immediate tasks to consider long-term implications, systemic patterns, and broader business context.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Stakeholder Influence Without Authority",
+    "skill_category": "Foundational",
+    "skill_description": "Driving outcomes and decisions by influencing peers and senior stakeholders without direct reporting authority.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Presentation Design",
+    "skill_category": "Foundational",
+    "skill_description": "Designing visually compelling, logically structured presentations that communicate complex ideas clearly.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Feedback Culture",
+    "skill_category": "Foundational",
+    "skill_description": "Giving and receiving honest, constructive feedback in a professional manner to drive team improvement.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Cross-Cultural Communication",
+    "skill_category": "Foundational",
+    "skill_description": "Communicating effectively with colleagues and clients from diverse national and regional cultural backgrounds.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Pipedrive",
+    "skill_category": "Technical",
+    "skill_description": "Managing sales pipeline, deal tracking, and activity-based selling using Pipedrive CRM.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "LinkedIn Sales Navigator",
+    "skill_category": "Technical",
+    "skill_description": "Prospecting and building B2B sales lists using LinkedIn Sales Navigator for targeted outreach.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Mailerlite",
+    "skill_category": "Technical",
+    "skill_description": "Managing email marketing campaigns and subscriber lists using Mailerlite for SME marketing needs.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Zoho Campaigns",
+    "skill_category": "Technical",
+    "skill_description": "Running email marketing campaigns and automations integrated with Zoho CRM using Zoho Campaigns.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Zendesk",
+    "skill_category": "Technical",
+    "skill_description": "Managing customer support operations, ticketing, and help centre using Zendesk.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Intercom",
+    "skill_category": "Technical",
+    "skill_description": "Managing customer messaging, live chat, and support automation using Intercom.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Webex",
+    "skill_category": "Technical",
+    "skill_description": "Conducting enterprise video meetings, webinars, and virtual events using Cisco Webex.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "QuickBooks (India)",
+    "skill_category": "Technical",
+    "skill_description": "Using QuickBooks for accounting, invoicing, and financial management in Indian SME contexts.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Winman Tax Software",
+    "skill_category": "Technical",
+    "skill_description": "Filing income tax returns and managing tax compliance using Winman tax software in India.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "CompuTax",
+    "skill_category": "Technical",
+    "skill_description": "Filing ITR, TDS returns, and managing direct tax compliance using CompuTax software in India.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Leegality (Digital Contract Execution Platform)",
+    "skill_category": "Technical",
+    "skill_description": "Managing digital contract execution, e-signatures, and document workflows using Leegality for Indian businesses.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Zoho Projects",
+    "skill_category": "Technical",
+    "skill_description": "Planning and tracking projects, tasks, and milestones using Zoho Projects for SME project management.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Basecamp",
+    "skill_category": "Technical",
+    "skill_description": "Managing project communication, tasks, and documents using Basecamp for small team collaboration.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Airtable",
+    "skill_category": "Technical",
+    "skill_description": "Building flexible databases and project trackers using Airtable for business operations and reporting.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Freshteam",
+    "skill_category": "Technical",
+    "skill_description": "Managing recruitment, onboarding, and HR operations using Freshworks' Freshteam HRMS platform.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "IBM Cognos",
+    "skill_category": "Technical",
+    "skill_description": "Creating enterprise reports and dashboards using IBM Cognos Analytics for BI and performance management.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Oracle BI (OBIEE)",
+    "skill_category": "Technical",
+    "skill_description": "Building enterprise business intelligence reports and dashboards using Oracle BI Enterprise Edition.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "SAP BusinessObjects",
+    "skill_category": "Technical",
+    "skill_description": "Creating enterprise analytical reports and dashboards using SAP BusinessObjects BI suite.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Business Development",
+    "skill_category": "Domain",
+    "skill_description": "Identifying new revenue opportunities, building partnerships, and driving growth through new markets and clients.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Account-Based Marketing (ABM)",
+    "skill_category": "Domain",
+    "skill_description": "Targeting and engaging specific high-value accounts with personalised marketing and sales campaigns.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Revenue Operations (RevOps)",
+    "skill_category": "Domain",
+    "skill_description": "Aligning sales, marketing, and customer success operations around shared revenue data, tools, and processes.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Sales Enablement",
+    "skill_category": "Domain",
+    "skill_description": "Providing sales teams with the content, tools, training, and data needed to engage buyers effectively.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Channel Sales Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing distribution partners, dealers, and channel intermediaries to drive indirect sales.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Churn Analysis and Retention Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Analysing customer attrition drivers and designing targeted retention programmes to reduce churn.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Customer Feedback Management",
+    "skill_category": "Domain",
+    "skill_description": "Collecting, analysing, and acting on customer feedback across surveys, reviews, and service interactions.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Omnichannel Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Designing integrated customer experiences across online, offline, and mobile channels for seamless engagement.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Social Commerce",
+    "skill_category": "Domain",
+    "skill_description": "Leveraging social media platforms including Instagram and WhatsApp for direct product discovery and sales in India.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Quick Commerce (Q-commerce)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding ultra-fast delivery business models and operations in the Indian quick commerce market.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "ONDC Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Understanding Open Network for Digital Commerce architecture and strategy for buyers and sellers in India.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Corporate Training and Facilitation",
+    "skill_category": "Domain",
+    "skill_description": "Designing and delivering corporate training programmes, leadership workshops, and capability building initiatives.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Consulting Deck Structuring",
+    "skill_category": "Domain",
+    "skill_description": "Structuring management consulting deliverables including situation-complication-resolution narrative frameworks.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Management Buy-Out (MBO)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding MBO deal structures and processes as knowledge relevant for corporate finance and M&A advisory support roles.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Divestiture and Spin-Off Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing divestiture, carve-out, and spin-off transactions to optimise business portfolio.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Joint Venture Structuring",
+    "skill_category": "Domain",
+    "skill_description": "Structuring and managing joint ventures including governance, equity sharing, and exit provisions.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Franchising Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing franchise expansion, franchise agreements, quality control, and franchisee support.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Financial Due Diligence",
+    "skill_category": "Domain",
+    "skill_description": "Reviewing financial statements, working capital, and quality of earnings in target company due diligence.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Commercial Due Diligence",
+    "skill_category": "Domain",
+    "skill_description": "Assessing market size, competitive position, customer concentration, and revenue sustainability in M&A.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Investment Thesis Development",
+    "skill_category": "Domain",
+    "skill_description": "Building structured investment rationales covering market opportunity, competitive moat, and value creation plan.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Exit Strategy Planning",
+    "skill_category": "Domain",
+    "skill_description": "Planning investor exit options including IPO, strategic sale, and secondary buyouts for PE-backed companies.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Intellectual Property Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing patents, trademarks, copyrights, and trade secrets to protect and monetise business IP.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Contract Drafting Basics",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and reviewing commercial contracts including NDAs, vendor agreements, and SLAs.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Corporate Law Basics",
+    "skill_category": "Domain",
+    "skill_description": "Understanding foundational corporate law including incorporation, board obligations, and shareholder rights.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Information Security Management (ISMS)",
+    "skill_category": "Domain",
+    "skill_description": "Managing information security policies and controls in compliance with ISO 27001 and regulatory requirements.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Cyber Risk for Business Leaders",
+    "skill_category": "Domain",
+    "skill_description": "Understanding cybersecurity risks and governance obligations for business leaders and non-technical managers.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Sustainability Reporting",
+    "skill_category": "Domain",
+    "skill_description": "Preparing sustainability reports aligned with GRI, BRSR, or UN SDGs for stakeholder communication.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Net Zero and Carbon Accounting",
+    "skill_category": "Domain",
+    "skill_description": "Measuring, reporting, and reducing corporate carbon emissions aligned with net-zero commitments.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Circular Economy Business Models",
+    "skill_category": "Domain",
+    "skill_description": "Designing business models that reduce waste and extend product lifecycles through reuse and recycling.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Social Impact Measurement",
+    "skill_category": "Domain",
+    "skill_description": "Measuring and reporting on the social outcomes and impact of CSR programmes and social enterprises.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Balanced Scorecard Implementation",
+    "skill_category": "Domain",
+    "skill_description": "Translating the Balanced Scorecard framework into operational KPIs, scorecards, and management routines.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Hoshin Kanri (Policy Deployment)",
+    "skill_category": "Domain",
+    "skill_description": "Aligning organisational goals from leadership to front-line operations using the Hoshin Kanri planning method.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Total Cost of Ownership (TCO) Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating full lifecycle costs of assets, technology, or supplier relationships beyond initial purchase price.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Sensitivity and Scenario Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Testing financial model outputs across best, base, and worst-case scenarios and key driver sensitivities.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Monte Carlo Simulation (Business)",
+    "skill_category": "Domain",
+    "skill_description": "Modelling financial uncertainty and risk using Monte Carlo simulation for business planning.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Service Level Agreement (SLA) Design",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and managing SLAs with vendors and service providers to define performance expectations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Business Process Outsourcing (BPO) Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing BPO vendor relationships, governance, and performance for outsourced business processes.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Shared Services Management",
+    "skill_category": "Domain",
+    "skill_description": "Designing and managing shared service centres for finance, HR, and IT to achieve cost efficiencies.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Management Information System (MIS) Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing MIS frameworks that provide timely, accurate, and relevant information for management decisions.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Regulatory Affairs Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing regulatory submissions, approvals, and ongoing compliance for regulated industries.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Internal Communications",
+    "skill_category": "Domain",
+    "skill_description": "Designing and executing internal communication strategies to engage employees and align the organisation.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Crisis Communication",
+    "skill_category": "Domain",
+    "skill_description": "Managing communication during business crises including media relations, messaging, and stakeholder updates.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Corporate Communication",
+    "skill_category": "Domain",
+    "skill_description": "Managing external communications including annual reports, investor communications, and media relations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Lobbying and Government Relations",
+    "skill_category": "Domain",
+    "skill_description": "Engaging with government ministries, regulatory bodies, and industry associations to influence policy.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "MSME and SME Advisory",
+    "skill_category": "Domain",
+    "skill_description": "Providing business advisory services to micro, small, and medium enterprises on operations, finance, and strategy.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Management Audit",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating management effectiveness, organisational efficiency, and governance quality through structured audits.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Productivity Management",
+    "skill_category": "Domain",
+    "skill_description": "Measuring and improving individual and team productivity through systems, incentives, and process design.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Meeting Management and Facilitation",
+    "skill_category": "Domain",
+    "skill_description": "Structuring and facilitating effective meetings with clear agendas, outcomes, and action items.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Executive Coaching",
+    "skill_category": "Domain",
+    "skill_description": "Providing structured coaching support to senior leaders for professional development and performance.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Information Synthesis and Research Efficiency",
+    "skill_category": "Foundational",
+    "skill_description": "Rapidly synthesising large volumes of business information, reports, and research to extract key insights.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Systems Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding how parts of a business system interact and how changes create cascading effects.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "First-Principles Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Deconstructing complex problems to fundamental truths and reasoning upward to innovative solutions.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Storytelling with Data",
+    "skill_category": "Foundational",
+    "skill_description": "Using data narratives and visualisation to communicate business insights compellingly to non-technical audiences.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Personal Branding",
+    "skill_category": "Foundational",
+    "skill_description": "Building a credible professional reputation and thought leadership presence in a business domain.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Executive Presence",
+    "skill_category": "Foundational",
+    "skill_description": "Projecting authority, confidence, and credibility in high-stakes business interactions and presentations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Accountability and Ownership",
+    "skill_category": "Foundational",
+    "skill_description": "Taking responsibility for outcomes, following through on commitments, and delivering results without excuses.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Structured Communication",
+    "skill_category": "Foundational",
+    "skill_description": "Communicating ideas in a structured, logical manner using frameworks like SCQA and Pyramid Principle.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Meeting Facilitation",
+    "skill_category": "Foundational",
+    "skill_description": "Facilitating productive meetings with clear outcomes, managed discussions, and documented decisions.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "International Business Development",
+    "skill_category": "Domain",
+    "skill_description": "Identifying and entering international markets through exports, partnerships, and overseas expansion strategies.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Cross-Border Taxation",
+    "skill_category": "Domain",
+    "skill_description": "Managing tax implications of international business activities including withholding tax and DTAA benefits.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Transfer Pricing Documentation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing master file, local file, and Form 3CEB documentation for transfer pricing compliance.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "GST Audit (Section 65 and 66)",
+    "skill_category": "Domain",
+    "skill_description": "Conducting and preparing for GST audits by tax authorities under Sections 65 and 66 of the CGST Act.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Faceless Assessment (Income Tax)",
+    "skill_category": "Domain",
+    "skill_description": "Responding to income tax faceless assessments and appeals through the designated e-proceedings portal.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "New Tax Regime vs Old Tax Regime",
+    "skill_category": "Domain",
+    "skill_description": "Advising employees and businesses on optimal tax regime selection under the Income Tax Act.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Capital Gains Planning",
+    "skill_category": "Domain",
+    "skill_description": "Structuring transactions to optimise LTCG and STCG tax liability under the Income Tax Act.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "GST Reconciliation (GSTR-2B)",
+    "skill_category": "Domain",
+    "skill_description": "Reconciling GSTR-2B auto-populated data against purchase registers to validate input tax credit claims.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Annual Information Statement (AIS) Reconciliation",
+    "skill_category": "Domain",
+    "skill_description": "Reviewing and reconciling AIS and Form 26AS data with books before filing income tax returns.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Corporate Secretarial Practice",
+    "skill_category": "Domain",
+    "skill_description": "Managing board resolutions, AGM notices, statutory registers, and secretarial compliance under Companies Act.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Debenture and Debt Instrument Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing issuance, redemption, and compliance for NCDs and other debt instruments under SEBI regulations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Working Capital Cycle Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Analysing debtor days, creditor days, and inventory turnover to assess and improve cash conversion cycle.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Zero-Based Budgeting (ZBB)",
+    "skill_category": "Domain",
+    "skill_description": "Building budgets from zero each period by justifying every expense without reference to prior-year spend.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Rolling Forecast",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining continuously updated financial forecasts that extend a fixed time horizon beyond the current period.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Driver-Based Planning",
+    "skill_category": "Domain",
+    "skill_description": "Linking financial forecasts to underlying operational drivers for more accurate and agile business planning.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Board Reporting and Board Pack Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing comprehensive board packs with financial results, strategic updates, and governance items.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Investor Relations Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing quarterly earnings calls, investor presentations, and financial communication with capital market participants.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Economic Value Added (EVA)",
+    "skill_category": "Domain",
+    "skill_description": "Computing EVA to assess whether a business generates returns above its cost of capital.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Credit Rating Interaction",
+    "skill_category": "Domain",
+    "skill_description": "Managing relationships with CRISIL, ICRA, and CARE for credit ratings, data submissions, and rating surveillance.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "CPPP and Government Tendering",
+    "skill_category": "Domain",
+    "skill_description": "Managing government tender participation through Central Public Procurement Portal and state e-procurement systems.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Public-Private Partnership (PPP) Models",
+    "skill_category": "Domain",
+    "skill_description": "Understanding BOT, BOOT, HAM, and other PPP frameworks for infrastructure and public service projects.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "MSME Udyam Registration",
+    "skill_category": "Domain",
+    "skill_description": "Registering businesses under Udyam portal and leveraging MSME classification benefits for loans and subsidies.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Trade Finance and LC Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing letters of credit, bank guarantees, and trade finance instruments for import-export businesses.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Foreign Direct Investment (FDI) Regulations",
+    "skill_category": "Domain",
+    "skill_description": "Understanding FEMA FDI regulations, automatic and approval routes, and reporting requirements.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "ODI (Overseas Direct Investment) Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Managing RBI compliance for Indian companies making overseas direct investments or establishing subsidiaries abroad.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "India Entry Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Advising foreign companies on market entry modes, regulatory approvals, and business setup in India.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Special Economic Zone (SEZ) Operations",
+    "skill_category": "Domain",
+    "skill_description": "Managing business operations within SEZs including compliance, duty-free procurement, and export obligations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Professional Services Firm Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing a CA, law, or consulting firm including billing, utilisation, practice development, and partner management.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Engagement Scoping and Fee Negotiation",
+    "skill_category": "Domain",
+    "skill_description": "Defining consulting or advisory engagement scope and negotiating fees with clients.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Client Onboarding (Professional Services)",
+    "skill_category": "Domain",
+    "skill_description": "Conducting KYC, engagement letter documentation, and risk assessment for new professional services clients.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Time Tracking and Billing (Professional Services)",
+    "skill_category": "Domain",
+    "skill_description": "Recording billable hours, managing WIP, and preparing invoices in professional services environments.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Practice Development",
+    "skill_category": "Domain",
+    "skill_description": "Building and growing a consulting or advisory practice through thought leadership, networking, and business development.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Thought Leadership and White Paper Writing",
+    "skill_category": "Domain",
+    "skill_description": "Developing industry research, white papers, and articles to build credibility and attract consulting mandates.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "GeM Portal (Government e-Marketplace)",
+    "skill_category": "Technical",
+    "skill_description": "Using the Government e-Marketplace portal for government procurement, vendor registration, and bid management.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "SEBI SCORES Portal",
+    "skill_category": "Technical",
+    "skill_description": "Filing and tracking investor grievances and SEBI regulatory compliance submissions using the SCORES portal.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "RBI Complaint Management System (CMS)",
+    "skill_category": "Technical",
+    "skill_description": "Understanding and using RBI's Complaint Management System for banking grievance escalation — relevant for compliance and customer experience roles in financial services.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Startup India Portal",
+    "skill_category": "Technical",
+    "skill_description": "Registering on the DPIIT Startup India portal and accessing government benefits, funding, and mentorship.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "NSIC Portal",
+    "skill_category": "Technical",
+    "skill_description": "Accessing MSME procurement benefits and registrations through the National Small Industries Corporation portal.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "IndiaMART and TradeIndia (B2B Marketplaces)",
+    "skill_category": "Technical",
+    "skill_description": "Using IndiaMART and TradeIndia for B2B lead generation, sourcing, and vendor discovery.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Flipkart Seller Hub",
+    "skill_category": "Technical",
+    "skill_description": "Managing product listings, orders, returns, and performance on the Flipkart seller platform.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Amazon Seller Central (India)",
+    "skill_category": "Technical",
+    "skill_description": "Managing product catalogue, inventory, pricing, and ads on Amazon India's seller platform.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "WhatsApp Business API",
+    "skill_category": "Technical",
+    "skill_description": "Managing customer communication, order updates, and marketing using WhatsApp Business API.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Zoho Creator (Low-Code)",
+    "skill_category": "Technical",
+    "skill_description": "Building custom business applications and automated workflows using Zoho Creator's low-code platform.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Power Apps (Microsoft)",
+    "skill_category": "Technical",
+    "skill_description": "Building low-code business applications for data capture, approvals, and operations using Microsoft Power Apps.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Strategy Execution and Implementation",
+    "skill_category": "Domain",
+    "skill_description": "Translating strategic plans into operational initiatives, assigning ownership, tracking milestones, and managing execution risks.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Strategic Communication and Messaging",
+    "skill_category": "Domain",
+    "skill_description": "Crafting and cascading strategic narratives that align employees, investors, and stakeholders with organisational direction.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "OKR Cadence Management",
+    "skill_category": "Domain",
+    "skill_description": "Running quarterly OKR check-ins, grading, and retrospectives to maintain strategic alignment across teams.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Business War Gaming and Competitive Simulation",
+    "skill_category": "Domain",
+    "skill_description": "Running structured competitive simulations to stress-test strategy and anticipate competitor responses.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Working Capital Financing (CC, OD, Bills Discounting)",
+    "skill_category": "Domain",
+    "skill_description": "Structuring and managing Cash Credit, Overdraft, and bill discounting facilities with banks for business liquidity.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "GST GSTR-2A vs GSTR-2B Reconciliation",
+    "skill_category": "Domain",
+    "skill_description": "Reconciling auto-populated GSTR-2A and GSTR-2B with purchase register to validate and claim input tax credit accurately.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Section 80 Deductions (Tax Planning)",
+    "skill_category": "Domain",
+    "skill_description": "Advising on and computing deductions under Chapter VI-A including Sections 80C, 80D, 80G for individuals and HUFs.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Minimum Alternate Tax (MAT) — Section 115JB",
+    "skill_category": "Domain",
+    "skill_description": "Computing MAT liability under Section 115JB and claiming MAT credit in subsequent years for companies.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "TDS on Salary — Section 192 and Form 24Q",
+    "skill_category": "Domain",
+    "skill_description": "Deducting TDS on employee salary under Section 192 and filing quarterly Form 24Q returns accurately.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Forex Hedging (Forward Contracts and Options)",
+    "skill_category": "Domain",
+    "skill_description": "Using forward contracts, currency options, and swaps to hedge foreign exchange risk for import-export businesses.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Letter of Undertaking (LUT) for Exporters",
+    "skill_category": "Domain",
+    "skill_description": "Filing and renewing Letter of Undertaking on the GSTN portal to export goods and services without paying IGST.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "TReDS (Trade Receivables Discounting System)",
+    "skill_category": "Domain",
+    "skill_description": "Using the RBI-mandated TReDS platform for MSME invoice financing and improving receivables liquidity.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Background Verification (BGV) Process",
+    "skill_category": "Domain",
+    "skill_description": "Managing employee background checks including education, employment history, and criminal record verification.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "HR Audit",
+    "skill_category": "Domain",
+    "skill_description": "Conducting systematic reviews of HR policies, practices, payroll compliance, and documentation to identify gaps.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Statutory Compliance Calendar Management (HR)",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining and tracking HR statutory compliance due dates for PF, ESI, PT, TDS, and labour law filings.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Contract Labour and Third-Party Workforce Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing contract staff under the Contract Labour (Regulation and Abolition) Act including principal employer obligations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Employee Stock Option Plan (ESOP) Administration",
+    "skill_category": "Domain",
+    "skill_description": "Administering ESOP grant, vesting, exercise, and tax compliance for employees in startups and listed companies.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "WhatsApp Business Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Using WhatsApp Business and API for customer communication, marketing broadcasts, and sales lead nurturing in India.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Google My Business Management",
+    "skill_category": "Technical",
+    "skill_description": "Setting up and optimising Google Business Profile for local SEO, customer discovery, and review management.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "E-commerce Advertising (Amazon India and Flipkart Sponsored Ads)",
+    "skill_category": "Domain",
+    "skill_description": "Running sponsored product, brand, and display ad campaigns on Amazon India and Flipkart to drive e-commerce sales.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Video Marketing (YouTube, Reels, Shorts)",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing video content strategy for YouTube, Instagram Reels, and YouTube Shorts for brand and product marketing.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Customer Success Management",
+    "skill_category": "Domain",
+    "skill_description": "Proactively managing customer relationships post-purchase to drive adoption, retention, and expansion revenue.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Sales Forecasting",
+    "skill_category": "Domain",
+    "skill_description": "Projecting future sales revenue using historical data, pipeline analysis, and statistical models for planning and target-setting.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Distributor and Dealer Network Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing multi-tier distribution networks including appointment, incentives, sell-through tracking, and scheme management.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "App Marketing and App Store Optimisation (ASO)",
+    "skill_category": "Domain",
+    "skill_description": "Improving mobile app visibility and download rates on Google Play and App Store through ASO and paid campaigns.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Material Requirements Planning (MRP)",
+    "skill_category": "Domain",
+    "skill_description": "Using MRP systems to plan production schedules, raw material procurement, and component availability.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Preventive and Predictive Maintenance Management",
+    "skill_category": "Domain",
+    "skill_description": "Planning and scheduling preventive maintenance programmes and implementing predictive maintenance to reduce downtime.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Environmental Compliance (CPCB and State PCB)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring compliance with Central Pollution Control Board and state PCB regulations for manufacturing and industrial operations.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Project Procurement Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing procurement of materials, equipment, and subcontractors within project constraints of scope, schedule, and budget.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "A/B Testing and Business Experimentation",
+    "skill_category": "Domain",
+    "skill_description": "Designing and analysing controlled experiments to test marketing strategies, pricing, product features, and operational changes.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Process Automation Identification (RPA for Business)",
+    "skill_category": "Domain",
+    "skill_description": "Identifying business processes suitable for Robotic Process Automation and building the automation business case.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Insolvency and Bankruptcy Code (IBC) Basics",
+    "skill_category": "Domain",
+    "skill_description": "Understanding corporate insolvency resolution process, Committee of Creditors, and resolution professional role under IBC 2016.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Secretarial Standards (SS-1 and SS-2)",
+    "skill_category": "Domain",
+    "skill_description": "Complying with Secretarial Standard-1 on Board Meetings and SS-2 on General Meetings issued by ICSI.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Annual Report Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing the annual report including Directors' Report, Management Discussion and Analysis, and statutory disclosures.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "CARO 2020 (Companies Auditor Report Order)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and applying CARO 2020 reporting requirements for statutory auditors of applicable companies.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Insurance Products and IRDAI Framework",
+    "skill_category": "Domain",
+    "skill_description": "Understanding life, health, and general insurance products and IRDAI regulatory framework for financial advisory and corporate insurance management.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Mutual Fund Distribution and AMFI Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Understanding AMFI regulations, distributor compliance, commission disclosures, and KYC for mutual fund distribution.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "E-commerce Marketplace Operations (Meesho, Nykaa, JioMart)",
+    "skill_category": "Domain",
+    "skill_description": "Managing product listings, inventory, and orders on emerging Indian e-commerce aggregator platforms.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Delegation Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Effectively assigning tasks, authority, and accountability to team members to develop capability and improve throughput.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Report and Dashboard Interpretation",
+    "skill_category": "Foundational",
+    "skill_description": "Reading and correctly interpreting management reports, P&L statements, and dashboards to support business decisions.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Professional Email Etiquette",
+    "skill_category": "Foundational",
+    "skill_description": "Writing clear, professional, and appropriately toned business emails for internal and external communication.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Virtual and Remote Team Management",
+    "skill_category": "Foundational",
+    "skill_description": "Managing distributed and hybrid teams effectively using digital tools, async communication, and structured check-ins.",
+    "job_families": [
+      3
+    ]
+  },
+  {
+    "skill_name": "Agile Mindset for Business Professionals",
+    "skill_category": "Foundational",
+    "skill_description": "Applying agile principles including iterative planning, rapid testing, and continuous improvement in non-technical business contexts.",
+    "job_families": [
+      3
+    ]
+  }
+]

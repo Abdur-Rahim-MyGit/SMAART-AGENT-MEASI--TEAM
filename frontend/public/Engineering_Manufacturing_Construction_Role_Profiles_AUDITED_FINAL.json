@@ -1,0 +1,2022 @@
+[
+  {
+    "role_name": "Mechanical Design Engineer",
+    "job_family": "Engineering, Manufacturing and Construction",
+    "domain_skills": [
+      {
+        "skill_name": "Design for Assembly (DFA)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Engineering Drawing Standards (IS 696)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Structural Analysis and Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Finite Element Analysis (FEA) and Simulation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Tolerance Stack-up Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Mechanical Component and System Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "GD&T (Geometric Dimensioning and Tolerancing)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "SOLIDWORKS",
+        "importance": "High"
+      },
+      {
+        "skill_name": "CATIA",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ANSYS Mechanical (FEA)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "AutoCAD",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Autodesk AI (Generative Design)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 40,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "Autodesk AI Generative Design automates topology optimisation, generating multiple design alternatives for weight reduction and structural performance. ChatGPT assists in drafting design documentation, engineering change notices, and technical reports. AI-enhanced FEA tools within ANSYS reduce simulation setup time and automatically flag stress concentration areas.",
+    "human_value_tasks": "Mechanical design engineers make creative engineering judgements balancing performance, cost, manufacturability, and aesthetics that require deep domain experience and contextual understanding AI cannot replicate. They engage directly with manufacturing, procurement, and customers to understand practical constraints not captured in specifications. Design sign-off for safety-critical components carries professional liability requiring qualified human accountability.",
+    "salary_range_low": 350000,
+    "salary_range_high": 900000,
+    "salary_progression": {
+      "year_0_1": "3.5-6 lakh",
+      "year_2_3": "7-13 lakh",
+      "year_4_5": "13-22 lakh",
+      "year_6_plus": "22-45 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Production Engineer",
+    "job_family": "Engineering, Manufacturing and Construction",
+    "domain_skills": [
+      {
+        "skill_name": "Advanced Product Quality Planning (APQP)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "CNC Machine Operation (Turning and Milling)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Capacity Planning",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Manufacturing Process Planning and Routing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "SMED and Quick Changeover Techniques",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Poka-Yoke and Error-Proofing Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Production Planning and Control (PPC)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Arena Simulation Software",
+        "importance": "High"
+      },
+      {
+        "skill_name": "AutoCAD",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Mastercam (CAM Software)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Cross-Functional Collaboration",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 45,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Copilot in Excel automate production MIS reporting, shift performance dashboards, and downtime analysis summaries. AI-enabled production scheduling tools (integrated with SAP PP) optimise job sequencing, machine loading, and material availability. Predictive quality AI tools monitor process parameters in real time and flag potential defect conditions before they occur.",
+    "human_value_tasks": "Production engineers manage the dynamic shop floor environment — responding to machine breakdowns, material shortages, quality escapes, and workforce challenges that require immediate human judgement and authority. They build cross-functional relationships between design, quality, maintenance, and supply chain teams that drive continuous improvement. Process improvement decisions involving capital investment, workforce redeployment, and automation require human accountability.",
+    "salary_range_low": 300000,
+    "salary_range_high": 750000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh",
+      "year_2_3": "6-11 lakh",
+      "year_4_5": "11-18 lakh",
+      "year_6_plus": "18-35 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Quality Engineer",
+    "job_family": "Engineering, Manufacturing and Construction",
+    "domain_skills": [
+      {
+        "skill_name": "Advanced Product Quality Planning (APQP)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "IATF 16949 (Automotive Quality)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Root Cause Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "DFMEA and PFMEA Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Control Plan Development and Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Customer Quality Complaint and 8D Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Statistical Process Control (SPC)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Measurement System Analysis (MSA / Gauge R&R)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Minitab",
+        "importance": "High"
+      },
+      {
+        "skill_name": "SAP Quality Management (SAP QM)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Power BI Copilot",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 50,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "Copilot in Excel and Minitab AI features automate control chart generation, capability analysis, and quality report preparation from production data. ChatGPT accelerates drafting of 8D reports, corrective action plans, and supplier quality audit reports. AI-powered machine vision systems for in-line inspection are increasingly deployed in Indian automotive and electronics manufacturing, reducing escape rates.",
+    "human_value_tasks": "Quality engineers conduct physical dimensional inspections, witness supplier audits, and perform in-process verification that requires trained measurement technique and professional judgement AI cannot provide. They manage customer quality escalations — presenting data, committing to timelines, and negotiating containment — requiring interpersonal skills and commercial awareness. Quality system audits under IATF 16949 require physical on-site assessment of manufacturing processes and people.",
+    "salary_range_low": 350000,
+    "salary_range_high": 900000,
+    "salary_progression": {
+      "year_0_1": "3.5-6 lakh",
+      "year_2_3": "7-12 lakh",
+      "year_4_5": "12-20 lakh",
+      "year_6_plus": "20-40 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Maintenance Engineer",
+    "job_family": "Engineering, Manufacturing and Construction",
+    "domain_skills": [
+      {
+        "skill_name": "Root Cause Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Hydraulic and Pneumatic Systems",
+        "importance": "High"
+      },
+      {
+        "skill_name": "CMMS Operation and Maintenance Work Order Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Mean Time Between Failures (MTBF) and MTTR Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Root Cause Failure Analysis (RCFA)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Preventive and Predictive Maintenance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Total Productive Maintenance (TPM)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "SAP PM (Plant Maintenance)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Vibration Analysis and Condition Monitoring",
+        "importance": "High"
+      },
+      {
+        "skill_name": "PLC Programming (Ladder Logic, Structured Text)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Cross-Functional Collaboration",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 40,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "AI-powered predictive maintenance platforms (integrated with vibration sensors and SAP PM) analyse equipment health data to predict failures before they occur, reducing unplanned downtime. ChatGPT and Copilot in Excel accelerate maintenance reporting, spares consumption analysis, and PM schedule preparation. IoT-based condition monitoring with AI anomaly detection is increasingly standard in large Indian manufacturing plants.",
+    "human_value_tasks": "Maintenance engineers physically diagnose complex equipment failures — combining sensory observation, vibration analysis, and experiential knowledge that AI tools are still developing to match in non-standard conditions. They manage multi-discipline teams (electrical, mechanical, civil) and coordinate planned maintenance shutdowns requiring leadership, negotiation with production, and safety oversight. Emergency breakdown response requires immediate on-site human expertise, authority, and decision-making.",
+    "salary_range_low": 300000,
+    "salary_range_high": 750000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh",
+      "year_2_3": "5.5-10 lakh",
+      "year_4_5": "10-17 lakh",
+      "year_6_plus": "17-32 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Civil Site Engineer",
+    "job_family": "Engineering, Manufacturing and Construction",
+    "domain_skills": [
+      {
+        "skill_name": "Foundation Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Geotechnical Investigation and Soil Testing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Bill of Quantities (BOQ) Preparation and Rate Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Bar Bending Schedule (BBS) Preparation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Construction Quality Control and Material Testing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "IS Code Compliance (Indian Standards)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Site Supervision and Quality Control",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "AutoCAD",
+        "importance": "High"
+      },
+      {
+        "skill_name": "AutoCAD Civil 3D",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Project",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Autodesk AI (Generative Design)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Report Writing",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 35,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT assists in preparing method statements, site inspection reports, and construction correspondence. AI-powered BIM coordination tools are reducing clashes during design review and automating quantity take-offs. Autodesk AI integration in Civil 3D is beginning to automate earthwork calculations and optimise cut-and-fill balancing.",
+    "human_value_tasks": "Civil site engineers physically supervise construction activities — monitoring workmanship quality, material placement, compaction, and reinforcement detailing that require trained observation skills no remote AI system can perform. They make real-time decisions about construction sequencing, resource deployment, and safety management when site conditions deviate from plans. Interaction with contractors, sub-contractors, and government inspectors requires professional authority and interpersonal skills.",
+    "salary_range_low": 300000,
+    "salary_range_high": 750000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh",
+      "year_2_3": "5.5-10 lakh",
+      "year_4_5": "10-17 lakh",
+      "year_6_plus": "17-32 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Structural Engineer",
+    "job_family": "Engineering, Manufacturing and Construction",
+    "domain_skills": [
+      {
+        "skill_name": "Foundation Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "IS Code Compliance (Indian Standards)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Geotechnical Investigation and Soil Testing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "RCC Design (IS 456) — Beams, Columns, Slabs and Footings",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Seismic Analysis and Earthquake-Resistant Design (IS 1893)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Structural Drawings and Detailing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Structural Analysis and Design",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "STAAD.Pro",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ETABS",
+        "importance": "High"
+      },
+      {
+        "skill_name": "SAP2000",
+        "importance": "High"
+      },
+      {
+        "skill_name": "AutoCAD",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Autodesk AI (Generative Design)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Report Writing",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 35,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "Autodesk AI and AI-enhanced structural analysis tools are beginning to automate load combination generation, design optimisation, and code compliance checking within STAAD.Pro and ETABS. ChatGPT assists in drafting structural calculation reports, design basis documents, and site observation reports. AI-powered structural health monitoring systems are emerging for large infrastructure projects.",
+    "human_value_tasks": "Structural engineers bear professional liability for the safety of buildings, bridges, and industrial structures — signing and sealing structural drawings requires qualified engineer accountability that cannot be delegated to AI. They exercise professional judgement on structural systems, detailing decisions, and failure risk assessment in situations where design codes do not cover all scenarios. Site visits for construction supervision and inspection require physical presence and professional authority.",
+    "salary_range_low": 350000,
+    "salary_range_high": 900000,
+    "salary_progression": {
+      "year_0_1": "3.5-6 lakh",
+      "year_2_3": "7-13 lakh",
+      "year_4_5": "13-22 lakh",
+      "year_6_plus": "22-45 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Electrical Design Engineer",
+    "job_family": "Engineering, Manufacturing and Construction",
+    "domain_skills": [
+      {
+        "skill_name": "Earthing and Lightning Protection Systems",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Lighting Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "IS Code Compliance (Indian Standards)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Power Factor Correction (Capacitor Banks)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Engineering Drawing Standards (IS 696)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Electrical LV/MV System Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Motor Control Centre (MCC) and Switchgear Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "AutoCAD Electrical Drafting and Documentation",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "AutoCAD",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ETAP (Electrical Power System Analysis)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Autodesk AI (Generative Design)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 35,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Copilot in Word assist in preparing electrical design specifications, technical datasheets, and installation method statements. AI tools within ETAP automate load flow optimisation and equipment sizing calculations. AI-powered energy management systems analyse building electrical consumption patterns and recommend optimisation measures.",
+    "human_value_tasks": "Electrical design engineers bear professional responsibility for electrical systems safety — their designs must comply with IE Rules, CEA regulations, and IS codes, with personal accountability for approval and sign-off. They conduct site surveys, coordinate with civil and mechanical engineers on equipment layouts, and manage contractor installation quality — requiring physical presence and cross-discipline coordination. Technical authority decisions on protection system settings and fault level analysis require human expertise and judgement.",
+    "salary_range_low": 350000,
+    "salary_range_high": 900000,
+    "salary_progression": {
+      "year_0_1": "3.5-6 lakh",
+      "year_2_3": "7-13 lakh",
+      "year_4_5": "13-22 lakh",
+      "year_6_plus": "22-45 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Power Systems Engineer",
+    "job_family": "Engineering, Manufacturing and Construction",
+    "domain_skills": [
+      {
+        "skill_name": "Battery Storage System Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Power Factor Correction (Capacitor Banks)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "IS Code Compliance (Indian Standards)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Load Flow and Short Circuit Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Protection Relay Coordination and Setting Calculation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "High Voltage Engineering and Substation Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Renewable Energy Systems (Solar, Wind)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "ETAP (Electrical Power System Analysis)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "DIgSILENT PowerFactory",
+        "importance": "High"
+      },
+      {
+        "skill_name": "MATLAB",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Report Writing",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 45,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "AI-powered grid management platforms are transforming power system operations by forecasting renewable energy generation, optimising dispatch, and automating grid balancing in India's rapidly growing renewable sector. ChatGPT and Copilot in Excel assist in power system study report preparation and bid document drafting. AI tools within ETAP and DIgSILENT automate contingency analysis and protection coordination checks.",
+    "human_value_tasks": "Power systems engineers make system planning decisions that affect grid stability, reliability, and safety for thousands of consumers — technical authority requiring qualified expertise and regulatory accountability. They interact with SLDC, RLDC, DISCOM, and CERC officials during grid connection approvals, system studies, and regulatory submissions requiring professional credibility. Complex protection system commissioning requires on-site expertise and real-time decision-making under time pressure.",
+    "salary_range_low": 400000,
+    "salary_range_high": 1000000,
+    "salary_progression": {
+      "year_0_1": "4-7 lakh",
+      "year_2_3": "8-15 lakh",
+      "year_4_5": "15-26 lakh",
+      "year_6_plus": "26-50 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Electronics Engineer",
+    "job_family": "Engineering, Manufacturing and Construction",
+    "domain_skills": [
+      {
+        "skill_name": "Embedded Systems Programming",
+        "importance": "High"
+      },
+      {
+        "skill_name": "IS Code Compliance (Indian Standards)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Root Cause Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analog and Digital Circuit Design and Simulation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "PCB Layout Design and DFM for Electronics",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microcontroller and FPGA Programming",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Altium Designer (PCB)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "KiCad (PCB Design)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "MATLAB",
+        "importance": "High"
+      },
+      {
+        "skill_name": "LabVIEW (National Instruments)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Embedded C Programming",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "GitHub Copilot",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "GitHub Copilot accelerates embedded C and HDL code writing, debugging, and firmware documentation significantly. ChatGPT assists in circuit design reviews, datasheet analysis, and technical documentation. AI-powered EDA tools within Altium Designer automate design rule checking, signal integrity analysis, and component placement optimisation for complex PCB designs.",
+    "human_value_tasks": "Electronics engineers make system-level architectural decisions for embedded products — selecting microcontrollers, defining hardware-software interfaces, and resolving hardware-firmware integration issues that require deep system understanding. They debug complex hardware failures using oscilloscopes, logic analysers, and signal generators — hands-on diagnostic skills requiring physical access to equipment. EMC and functional safety compliance requires human professional sign-off with regulatory accountability.",
+    "salary_range_low": 350000,
+    "salary_range_high": 900000,
+    "salary_progression": {
+      "year_0_1": "3.5-6 lakh",
+      "year_2_3": "7-13 lakh",
+      "year_4_5": "13-22 lakh",
+      "year_6_plus": "22-45 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Instrumentation Engineer",
+    "job_family": "Engineering, Manufacturing and Construction",
+    "domain_skills": [
+      {
+        "skill_name": "IS Code Compliance (Indian Standards)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Root Cause Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Engineering Drawing Standards (IS 696)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "P&ID Development and Instrument Index Preparation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Process Instrumentation Selection, Sizing, and Calibration",
+        "importance": "High"
+      },
+      {
+        "skill_name": "DCS and SIS Configuration and Commissioning",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Functional Safety (IEC 61508, IEC 61511)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "PLC Programming (Ladder Logic, Structured Text)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "SCADA Systems (Wonderware, iFIX)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "AutoCAD",
+        "importance": "High"
+      },
+      {
+        "skill_name": "LabVIEW (National Instruments)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 40,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Copilot in Word assist in preparing instrument data sheets, loop descriptions, and commissioning procedures. AI-driven advanced process control (APC) platforms are widely deployed in Indian refineries and chemical plants, augmenting the instrumentation engineer's role in optimisation. AI-based anomaly detection tools integrated with DCS alert engineers to process deviations and instrument health issues before alarms trigger.",
+    "human_value_tasks": "Instrumentation engineers perform hands-on loop calibration, instrument commissioning, and control system tuning that requires physical access to process equipment and direct interaction with operations teams. They make engineering judgements during HAZOP studies and SIL assessments that have direct process safety implications requiring professional accountability. Complex fault diagnosis on live process instruments requires expert interpretation of process behaviour and instrument response.",
+    "salary_range_low": 350000,
+    "salary_range_high": 950000,
+    "salary_progression": {
+      "year_0_1": "3.5-6.5 lakh",
+      "year_2_3": "7-14 lakh",
+      "year_4_5": "14-24 lakh",
+      "year_6_plus": "24-48 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Chemical Process Engineer",
+    "job_family": "Engineering, Manufacturing and Construction",
+    "domain_skills": [
+      {
+        "skill_name": "Root Cause Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Chemical Process Design and Mass and Energy Balance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Process Equipment Design and Specification",
+        "importance": "High"
+      },
+      {
+        "skill_name": "PFD and P&ID Development for Process Plants",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Process Safety Management (PSM)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "HAZOP (Hazard and Operability Study)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Aspen HYSYS",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Aspen Plus",
+        "importance": "High"
+      },
+      {
+        "skill_name": "CAESAR II (Pipe Stress Analysis)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "AutoCAD",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Report Writing",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 45,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "Perplexity AI and ChatGPT accelerate literature review for process chemistry, regulatory standards research, and technical report drafting. AI-enhanced Aspen simulation tools are beginning to automate convergence optimisation and sensitivity analysis. AI-powered advanced process control (APC) platforms are widely deployed in Indian refineries, petrochemical, and pharmaceutical plants to continuously optimise yields and energy consumption.",
+    "human_value_tasks": "Chemical process engineers bear professional responsibility for process safety — HAZOP leadership, SIL assessment, and Process Safety Management decisions with direct human safety implications requiring qualified engineer accountability. They exercise technical judgement in process troubleshooting situations — diagnosing yield losses, product quality failures, or safety excursions from plant operational data that requires contextual plant knowledge AI cannot provide. Regulatory interactions with PESO, PCBs, and factory inspectorates require professional authority.",
+    "salary_range_low": 400000,
+    "salary_range_high": 1000000,
+    "salary_progression": {
+      "year_0_1": "4-7 lakh",
+      "year_2_3": "8-15 lakh",
+      "year_4_5": "15-26 lakh",
+      "year_6_plus": "26-50 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Environmental Engineer",
+    "job_family": "Engineering, Manufacturing and Construction",
+    "domain_skills": [
+      {
+        "skill_name": "Environmental Impact Assessment (EIA)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "CPCB Environmental Compliance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Environmental Compliance (CPCB and State PCB)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Effluent Treatment Plant (ETP) Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Air Pollution Control (Scrubbers, ESP)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Environmental Audit Report Preparation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "MoEF&CC Regulatory Compliance and EC Process",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Water Treatment Technology and Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Solid and Hazardous Waste Management (India)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "AutoCAD",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "High"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Report Writing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 45,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Copilot in Word dramatically accelerate EIA report drafting, environmental management plan preparation, and regulatory correspondence. Perplexity AI supports rapid literature review for baseline studies and best-available-technology research. AI-powered air dispersion modelling and water quality prediction tools are improving the accuracy of environmental impact predictions.",
+    "human_value_tasks": "Environmental engineers conduct field surveys, baseline monitoring, and site inspections that require physical presence and trained observation — work AI cannot perform remotely. They interact with State PCBs, MoEF&CC officials, and community stakeholders during EIA public consultations that require communication, credibility, and cultural sensitivity. Professional sign-off on EIA reports and compliance certifications carries legal liability requiring human accountability.",
+    "salary_range_low": 350000,
+    "salary_range_high": 850000,
+    "salary_progression": {
+      "year_0_1": "3.5-5.5 lakh",
+      "year_2_3": "6-12 lakh",
+      "year_4_5": "12-20 lakh",
+      "year_6_plus": "20-38 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Safety Officer",
+    "job_family": "Engineering, Manufacturing and Construction",
+    "domain_skills": [
+      {
+        "skill_name": "Factory Act and Occupational Safety (India)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Permit to Work (PTW) System",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Root Cause Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "HAZOP (Hazard and Operability Study)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Process Safety Management (PSM)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "IS Code Compliance (Indian Standards)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ISO 45001 Occupational Health and Safety Management System",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Incident Investigation and Accident Reporting",
+        "importance": "High"
+      },
+      {
+        "skill_name": "EHS Management System and Safety Training Delivery",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft PowerPoint",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Report Writing",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 40,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Copilot in Word accelerate incident investigation report writing, safety procedure drafting, and risk assessment documentation. Perplexity AI supports research on regulatory updates, best practice standards, and incident case studies. AI-powered safety observation platforms are beginning to automate unsafe act/condition tracking and trend analysis.",
+    "human_value_tasks": "Safety officers conduct physical workplace inspections, observe unsafe behaviours, and intervene in real time to prevent accidents — frontline safety functions requiring human presence, authority, and communication skills AI cannot perform. They manage emergency response coordination, lead evacuation drills, and provide first-line crisis management requiring immediate human leadership. Cultural change in safety behaviour requires sustained human engagement, coaching, and visible leadership commitment.",
+    "salary_range_low": 280000,
+    "salary_range_high": 700000,
+    "salary_progression": {
+      "year_0_1": "2.8-4.5 lakh",
+      "year_2_3": "5-9 lakh",
+      "year_4_5": "9-15 lakh",
+      "year_6_plus": "15-28 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Project Engineer",
+    "job_family": "Engineering, Manufacturing and Construction",
+    "domain_skills": [
+      {
+        "skill_name": "IS Code Compliance (Indian Standards)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Value Engineering",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Risk Management (Project)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Site Supervision and Quality Control",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Project Schedule Development (CPM/PERT)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Engineering and Construction Procurement Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Earned Value Management (EVM)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Primavera P6 (Oracle)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Project",
+        "importance": "High"
+      },
+      {
+        "skill_name": "AutoCAD",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "High"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Report Writing",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 45,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Copilot tools accelerate preparation of project status reports, meeting minutes, variation orders, and technical correspondence. Copilot in Excel automates EVM calculations, cost variance analysis, and project dashboard preparation. AI scheduling tools within Primavera are being used to optimise resource levelling and scenario-test schedule recovery options.",
+    "human_value_tasks": "Project engineers manage multi-discipline teams across contractors, vendors, and client representatives — requiring interpersonal leadership, conflict resolution, and sustained relationship management AI cannot replicate. They negotiate variation orders, manage claims, and resolve disputes on-site that require commercial judgement, legal awareness, and professional authority. Crisis management during construction emergencies requires immediate human decision-making and cross-functional coordination.",
+    "salary_range_low": 350000,
+    "salary_range_high": 900000,
+    "salary_progression": {
+      "year_0_1": "3.5-6 lakh",
+      "year_2_3": "7-13 lakh",
+      "year_4_5": "13-22 lakh",
+      "year_6_plus": "22-45 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Estimation Engineer",
+    "job_family": "Engineering, Manufacturing and Construction",
+    "domain_skills": [
+      {
+        "skill_name": "Value Engineering",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Contract Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "IS Code Compliance (Indian Standards)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Engineering Drawing Standards (IS 696)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "CPWD Specifications",
+        "importance": "High"
+      },
+      {
+        "skill_name": "BOQ and Cost Estimation Engineering",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Tender Document Preparation and Bid Management",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "AutoCAD",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Project",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Microsoft Power BI",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Report Writing",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "ChatGPT and Copilot in Excel dramatically accelerate BOQ template generation, rate analysis structuring, and tender document preparation. AI-powered quantity take-off tools linked to AutoCAD and BIM models are transforming estimation speed and accuracy in Indian construction. Copilot in Excel automates cost variance analysis and comparison statement preparation for bid evaluation.",
+    "human_value_tasks": "Estimation engineers exercise judgement on pricing strategy, risk loading, and competitive bid positioning that requires market intelligence, client relationship knowledge, and commercial acumen AI cannot develop. They negotiate rates with subcontractors and vendors, interpreting scope documents and applying practical construction experience to resolve ambiguities. Sign-off on tender bids involving significant financial commitments requires human professional accountability.",
+    "salary_range_low": 300000,
+    "salary_range_high": 800000,
+    "salary_progression": {
+      "year_0_1": "3-5.5 lakh",
+      "year_2_3": "6-12 lakh",
+      "year_4_5": "12-20 lakh",
+      "year_6_plus": "20-38 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Automobile Engineer",
+    "job_family": "Engineering, Manufacturing and Construction",
+    "domain_skills": [
+      {
+        "skill_name": "GD&T (Geometric Dimensioning and Tolerancing)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Design for Manufacturability (DFM)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Lean Manufacturing Tools (VSM, 5S, Kaizen)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Vehicle Dynamics and Chassis Engineering",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Powertrain and Engine Systems Engineering",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Automotive NVH Testing and Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "IATF 16949 (Automotive Quality)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "CATIA",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ANSYS Mechanical (FEA)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "MATLAB",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Hypermesh (Altair)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Autodesk AI (Generative Design)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Cross-Functional Collaboration",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 50,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "Autodesk AI Generative Design is transforming lightweight component design in automotive by automatically generating topology-optimised geometries meeting weight and stiffness targets. AI-enhanced CAE tools within Hypermesh and ANSYS accelerate crash simulation setup and fatigue life prediction. ChatGPT assists in DFMEA documentation, engineering change management, and technical specification drafting.",
+    "human_value_tasks": "Automobile engineers conduct physical vehicle testing — road tests, durability tests, and NVH measurements — that require specialised test drivers, instrumentation setup, and engineering judgement interpreting multi-parameter test data. They make design trade-off decisions balancing performance, weight, cost, and regulatory compliance for market-specific Indian driving conditions. IATF 16949 and CMVR compliance sign-offs carry professional liability requiring qualified engineer accountability.",
+    "salary_range_low": 350000,
+    "salary_range_high": 950000,
+    "salary_progression": {
+      "year_0_1": "3.5-6.5 lakh",
+      "year_2_3": "7-14 lakh",
+      "year_4_5": "14-24 lakh",
+      "year_6_plus": "24-48 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Textile Engineer",
+    "job_family": "Engineering, Manufacturing and Construction",
+    "domain_skills": [
+      {
+        "skill_name": "Lean Manufacturing Tools (VSM, 5S, Kaizen)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Statistical Process Control (SPC)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Production Planning and Control (PPC)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "IS Code Compliance (Indian Standards)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Root Cause Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Overall Equipment Effectiveness (OEE)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Fibre, Yarn, and Fabric Testing and Quality Standards",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Textile Processing Technology",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Textile Quality Management and Sustainability Compliance",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Minitab",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Cross-Functional Collaboration",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 40,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Copilot in Excel assist in quality report preparation, process deviation analysis, and production planning documentation. AI-powered fabric defect detection systems using computer vision are transforming quality control in Indian textile mills, reducing manual inspection reliance. AI tools are emerging for yarn demand forecasting and production scheduling optimisation.",
+    "human_value_tasks": "Textile engineers supervise complex, high-volume production processes where tactile assessment of yarn quality, fabric hand feel, and colour consistency requires trained human sensory evaluation. They troubleshoot machine settings, yarn breaks, and fabric defects through direct observation and hands-on machine adjustments. Managing relationships with yarn suppliers, dye chemical vendors, and brand quality auditors requires interpersonal skills and technical credibility.",
+    "salary_range_low": 280000,
+    "salary_range_high": 650000,
+    "salary_progression": {
+      "year_0_1": "2.8-4.5 lakh",
+      "year_2_3": "5-9 lakh",
+      "year_4_5": "9-15 lakh",
+      "year_6_plus": "15-28 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Agricultural Engineer",
+    "job_family": "Engineering, Manufacturing and Construction",
+    "domain_skills": [
+      {
+        "skill_name": "Crop Production and Agronomy",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Post-Harvest Technology",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ground Improvement Techniques",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Root Cause Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Farm Machinery Design and Agricultural Equipment Engineering",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Irrigation System Design and Water Resource Engineering",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Agro-Processing and Food Engineering",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "AutoCAD",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "MATLAB",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Microsoft Project",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Report Writing",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 40,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Perplexity AI assist in reviewing agricultural engineering literature, preparing project reports, and drafting equipment specifications for farm mechanisation projects. AI-powered precision agriculture platforms using satellite imagery and IoT sensors are transforming irrigation scheduling and crop yield prediction. AI-driven supply chain optimisation tools are improving agro-processing efficiency across India's food processing sector.",
+    "human_value_tasks": "Agricultural engineers conduct field surveys, soil investigations, and site assessments across diverse agro-climatic zones of India that require physical presence, local knowledge, and farmer interaction. They design and commission irrigation systems, farm structures, and processing plants in remote locations requiring on-ground engineering judgment and stakeholder engagement. Customising agricultural machinery for regional crop varieties and smallholder farm sizes requires deep contextual understanding of Indian agriculture.",
+    "salary_range_low": 280000,
+    "salary_range_high": 650000,
+    "salary_progression": {
+      "year_0_1": "2.8-4.5 lakh",
+      "year_2_3": "5-9 lakh",
+      "year_4_5": "9-15 lakh",
+      "year_6_plus": "15-28 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Mining Engineer",
+    "job_family": "Engineering, Manufacturing and Construction",
+    "domain_skills": [
+      {
+        "skill_name": "Permit to Work (PTW) System",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Environmental Impact Assessment (EIA)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "IS Code Compliance (Indian Standards)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Root Cause Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Mine Planning and Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Mineral Processing and Beneficiation Technology",
+        "importance": "High"
+      },
+      {
+        "skill_name": "DGMS Statutory Compliance and Mine Safety",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Rock Mechanics and Blasting",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "AutoCAD",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Project",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Report Writing",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 35,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Copilot in Excel assist in mine planning documentation, blast design calculations, and safety audit report preparation. Perplexity AI supports research on DGMS circulars, mining technology updates, and environmental clearance requirements. AI-powered autonomous drilling and haulage systems are beginning to transform large surface mining operations, though underground mines in India remain predominantly manually operated.",
+    "human_value_tasks": "Mining engineers work underground and in open pits — physically assessing rock conditions, supervising blasting operations, and managing mine safety in hazardous environments that require qualified presence, statutory certification, and human authority. They are personally accountable under the Mines Act 1952 for the safety of workers under their supervision — statutory responsibility that cannot be delegated to AI. Emergency management in mine accidents requires immediate on-site human decision-making and rescue coordination.",
+    "salary_range_low": 350000,
+    "salary_range_high": 900000,
+    "salary_progression": {
+      "year_0_1": "3.5-6 lakh",
+      "year_2_3": "7-13 lakh",
+      "year_4_5": "13-22 lakh",
+      "year_6_plus": "22-45 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Aerospace Engineer (Junior)",
+    "job_family": "Engineering, Manufacturing and Construction",
+    "domain_skills": [
+      {
+        "skill_name": "Structural Analysis and Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Design for Manufacturability (DFM)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Engineering Drawing Standards (IS 696)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Aerospace Structures and Composite Materials Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Aerodynamics and Flight Mechanics Fundamentals",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Aircraft Systems Integration and Avionics Awareness",
+        "importance": "High"
+      },
+      {
+        "skill_name": "AS9100 (Aerospace Quality)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "CATIA",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ANSYS Mechanical (FEA)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "MATLAB",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Siemens NX (Unigraphics)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Autodesk AI (Generative Design)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Report Writing",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 45,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "Autodesk AI Generative Design is being used in aerospace for topology-optimised structural components that meet weight and strength requirements with significantly reduced material. AI-enhanced FEA within ANSYS and Hypermesh speeds up stress analysis iterations for aerostructures. ChatGPT assists in drafting engineering analysis reports, design verification plans, and certification documentation.",
+    "human_value_tasks": "Aerospace engineers apply specialised knowledge of certification standards (DGCA, FAA, EASA) and airworthiness regulations to design decisions — professional accountability for flight safety that cannot be delegated to AI. They conduct physical structural tests, fatigue tests, and systems integration tests on aircraft hardware requiring specialised facilities and trained engineering judgement. India's growing aerospace sector (ISRO, HAL, private space) requires engineers who can interface with regulatory bodies and international partners with professional credibility.",
+    "salary_range_low": 400000,
+    "salary_range_high": 1000000,
+    "salary_progression": {
+      "year_0_1": "4-7 lakh",
+      "year_2_3": "8-15 lakh",
+      "year_4_5": "15-26 lakh",
+      "year_6_plus": "26-55 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": true,
+    "programme_levels": "UG,PG"
+  }
+]

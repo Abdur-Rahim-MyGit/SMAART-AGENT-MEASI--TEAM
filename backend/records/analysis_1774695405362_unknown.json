@@ -1,0 +1,447 @@
+{
+  "timestamp": "2026-03-28T10:56:45.363Z",
+  "status": "completed",
+  "input_user_data": {
+    "name": "souban",
+    "email": "souban@gmail.com",
+    "phone": "1234567880",
+    "password": "souban123",
+    "education": [
+      {
+        "level": "Undergraduate (UG)",
+        "domain": "Commerce & Management",
+        "degreeGroup": "Bachelor of Commerce",
+        "specialization": "General",
+        "yearOfStudy": "2",
+        "gradYear": "2027",
+        "currentlyPursuing": true
+      }
+    ],
+    "collegeCode": "211233",
+    "preferences": {
+      "primary": {
+        "role": "Business Analyst",
+        "jobFunction": "Management",
+        "jobFamily": "Data & Analytics",
+        "sectors": [
+          "Information Technology & Software",
+          "Logistics & Supply Chain",
+          "Hospitality, Travel & Tourism"
+        ],
+        "jobType": "Full-Time",
+        "salary": "0–3 LPA",
+        "locations": [
+          "Chennai",
+          "Bangalore",
+          "Mumbai"
+        ],
+        "orgTypes": [
+          "Multinational Corporation (MNC)",
+          "Government / Public Sector Organization",
+          "Startup (Early-stage / Growth-stage)"
+        ],
+        "jobRole": "Business Analyst"
+      },
+      "secondary": {
+        "role": "Claims Adjuster",
+        "jobFunction": "developer",
+        "jobFamily": "",
+        "sectors": [],
+        "jobType": "",
+        "salary": "",
+        "locations": [
+          "",
+          "",
+          ""
+        ],
+        "orgTypes": [],
+        "jobRole": "Claims Adjuster"
+      },
+      "tertiary": {
+        "role": "",
+        "jobFunction": "",
+        "jobFamily": "",
+        "sectors": [],
+        "jobType": "",
+        "salary": "",
+        "locations": [
+          "",
+          "",
+          ""
+        ],
+        "orgTypes": [],
+        "jobRole": ""
+      }
+    },
+    "skills": [
+      "Power BI"
+    ],
+    "skillDetails": [
+      {
+        "name": "Power BI",
+        "certName": "Power Bi",
+        "issuer": "IBM",
+        "year": "2026",
+        "mode": "Not verified"
+      }
+    ],
+    "experience": []
+  },
+  "output_generated_report": {
+    "status": "success_ml_assisted",
+    "generated_at": "2026-03-28T10:56:45.530Z",
+    "preVerified": {
+      "dataFilesReady": true,
+      "primaryZone": {
+        "employer_zone": "Amber",
+        "skill_coverage_pct": 40
+      },
+      "secondaryZone": {
+        "employer_zone": "Red"
+      },
+      "tertiaryZone": {
+        "employer_zone": "Red"
+      },
+      "primaryMarket": {
+        "demand_level": "Medium",
+        "salary_min_lpa": 4.5,
+        "salary_max_lpa": 10,
+        "ai_automation_risk": "Medium",
+        "emerging_roles": [
+          "Digital Transformation Consultant",
+          "Process Improvement Specialist",
+          "Data Analyst"
+        ]
+      },
+      "primarySkillGap": {
+        "missing": [
+          "Gap Analysis",
+          "User Acceptance Testing (UAT)",
+          "Stakeholder Analysis and Mapping",
+          "As-Is and To-Be Process Mapping",
+          "Use Case and User Story Development",
+          "Business Requirements Gathering",
+          "Business Requirements Document (BRD)"
+        ],
+        "matched": [],
+        "coveragePct": 0,
+        "dataReady": true,
+        "source": "local"
+      }
+    },
+    "primary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 0%. You have 0 matching skills.",
+      "tab1": {
+        "role_name": "Business Analyst",
+        "job_family": "Business, Management and Consulting",
+        "role_description": "Responsible for core operations within the Business Analyst domain.",
+        "narrative_para1": "Responsible for core operations within the Business Analyst domain.",
+        "narrative_para2": "AI systems are augmenting Business Analyst roles significantly.",
+        "narrative_para3": "Business Analyst professionals are entering a high-growth phase. Those with AI tool proficiency and cross-functional skills will thrive. Eligible programme levels: UG,PG,MBA.",
+        "typical_employers_india": "MNCs, Startups, Consultancies",
+        "common_entry_paths": "Campus Placements, MBA Internships, Lateral Hiring",
+        "job_demand": "Actively AI-Evolving",
+        "salary_range": "3.5-6 lakh",
+        "salary_progression": {
+          "year_0_1": "3.5-6 lakh",
+          "year_2_3": "7-12 lakh",
+          "year_4_5": "12-20 lakh",
+          "year_6_plus": "20-38 lakh"
+        },
+        "english_requirement": "Important",
+        "remote_friendly": "Hybrid Available",
+        "emerging_role_flag": false,
+        "programme_levels": "UG,PG,MBA",
+        "ai_exposure_pct": 50,
+        "ai_impact": "AI tools are reshaping Business Analyst roles. 50% of routine tasks are now AI-assisted.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Business Analyst",
+            "description": "Uses AI productivity tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [
+          {
+            "skill": "Gap Analysis",
+            "priority": "High",
+            "description": "Essential core skill."
+          },
+          {
+            "skill": "User Acceptance Testing (UAT)",
+            "priority": "High",
+            "description": "Essential core skill."
+          },
+          {
+            "skill": "Stakeholder Analysis and Mapping",
+            "priority": "High",
+            "description": "Essential core skill."
+          },
+          {
+            "skill": "As-Is and To-Be Process Mapping",
+            "priority": "High",
+            "description": "Essential core skill."
+          },
+          {
+            "skill": "Use Case and User Story Development",
+            "priority": "High",
+            "description": "Essential core skill."
+          },
+          {
+            "skill": "Business Requirements Gathering",
+            "priority": "High",
+            "description": "Essential core skill."
+          },
+          {
+            "skill": "Business Requirements Document (BRD)",
+            "priority": "High",
+            "description": "Essential core skill."
+          }
+        ],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "ChatGPT",
+            "category": "AI-Powered",
+            "usage": "Task Acceleration",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Copilot in Word (Microsoft 365)",
+            "category": "AI-Powered",
+            "usage": "Task Acceleration",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Notion AI",
+            "category": "AI-Powered",
+            "usage": "Task Acceleration",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "50%",
+          "level": "Moderate",
+          "tasks_assisted": "ChatGPT and Copilot in Word assist in drafting BRDs, user stories, and requirements documents from meeting notes and workshop outputs. Notion AI helps structure knowledge bases, process documentation, and sprint backlogs. AI tools accelerate gap analysis by synthesising large volumes of process data and interview transcripts.",
+          "human_value": "Business analysts facilitate requirements workshops, build trust with business stakeholders, and translate ambiguous organisational needs into precise documented requirements — tasks requiring interpersonal skills and contextual business understanding AI cannot replicate. They navigate conflicting stakeholder priorities and broker consensus on scope decisions that impact delivery timelines. Sign-off on requirements has legal and contractual implications that require human accountability."
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Communication Skills (Written and Verbal)",
+          "Stakeholder Management",
+          "Attention to Detail"
+        ]
+      },
+      "tab5": {
+        "future_scope": "Business Analyst is evolving with AI integration across Business, Management and Consulting.",
+        "target_audience": "UG,PG,MBA graduates with interest in Business, Management and Consulting.",
+        "growth_trajectory": "Entry: 3.5-6 lakh → Mid: 7-12 lakh → Senior: 12-20 lakh → Lead: 20-38 lakh"
+      }
+    },
+    "secondary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 0%. You have 0 matching skills.",
+      "tab1": {
+        "role_name": "Claims Adjuster",
+        "job_family": "",
+        "role_description": "Responsible for core operations within the Claims Adjuster domain.",
+        "narrative_para1": "Responsible for core operations within the Claims Adjuster domain.",
+        "narrative_para2": "AI systems are augmenting Claims Adjuster roles significantly.",
+        "narrative_para3": "Claims Adjuster professionals are entering a high-growth phase. Those with AI tool proficiency and cross-functional skills will thrive. Eligible programme levels: UG, PG.",
+        "typical_employers_india": "MNCs, Startups, Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "Stable with AI Augmentation",
+        "salary_range": "3-8 LPA",
+        "salary_progression": null,
+        "english_requirement": "Important",
+        "remote_friendly": "Office-Based",
+        "emerging_role_flag": false,
+        "programme_levels": "",
+        "ai_exposure_pct": 40,
+        "ai_impact": "AI tools are reshaping Claims Adjuster roles. 40% of routine tasks are now AI-assisted.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Claims Adjuster",
+            "description": "Uses AI productivity tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [
+          {
+            "skill": "Domain Knowledge",
+            "priority": "High",
+            "description": "Essential core skill."
+          }
+        ],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "ChatGPT",
+            "category": "AI-Powered",
+            "usage": "General Assistance",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "40%",
+          "level": "Medium",
+          "tasks_assisted": "Repetitive and structured tasks",
+          "human_value": "Strategic judgment, stakeholder communication, creative problem-solving"
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Communication",
+          "Problem Solving",
+          "Continuous Learning"
+        ]
+      },
+      "tab5": {
+        "future_scope": "Claims Adjuster is evolving with AI integration across the industry.",
+        "target_audience": "UG/PG graduates with interest in Claims Adjuster.",
+        "growth_trajectory": "Steady upward growth trajectory with specialisation."
+      }
+    },
+    "tertiary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 0%. You have 0 matching skills.",
+      "tab1": {
+        "role_name": "Tertiary Role",
+        "job_family": "",
+        "role_description": "Responsible for core operations within the Tertiary Role domain.",
+        "narrative_para1": "Responsible for core operations within the Tertiary Role domain.",
+        "narrative_para2": "AI systems are augmenting Tertiary Role roles significantly.",
+        "narrative_para3": "Tertiary Role professionals are entering a high-growth phase. Those with AI tool proficiency and cross-functional skills will thrive. Eligible programme levels: UG, PG.",
+        "typical_employers_india": "MNCs, Startups, Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "Stable with AI Augmentation",
+        "salary_range": "3-8 LPA",
+        "salary_progression": null,
+        "english_requirement": "Important",
+        "remote_friendly": "Office-Based",
+        "emerging_role_flag": false,
+        "programme_levels": "",
+        "ai_exposure_pct": 40,
+        "ai_impact": "AI tools are reshaping Tertiary Role roles. 40% of routine tasks are now AI-assisted.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Tertiary Role",
+            "description": "Uses AI productivity tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [
+          {
+            "skill": "Domain Knowledge",
+            "priority": "High",
+            "description": "Essential core skill."
+          }
+        ],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "ChatGPT",
+            "category": "AI-Powered",
+            "usage": "General Assistance",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "40%",
+          "level": "Medium",
+          "tasks_assisted": "Repetitive and structured tasks",
+          "human_value": "Strategic judgment, stakeholder communication, creative problem-solving"
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Communication",
+          "Problem Solving",
+          "Continuous Learning"
+        ]
+      },
+      "tab5": {
+        "future_scope": "Tertiary Role is evolving with AI integration across the industry.",
+        "target_audience": "UG/PG graduates with interest in Tertiary Role.",
+        "growth_trajectory": "Steady upward growth trajectory with specialisation."
+      }
+    },
+    "ml_success_probability": 0.34,
+    "ml_semantic_skills": [
+      "Data Analysis"
+    ],
+    "combined_tab4": {
+      "combined_pathway_summary": "Your immediate focus must be learning the missing fundamentals for Business Analyst. Role success probability: 34%",
+      "skill_gap": {
+        "current_skills": [
+          "Power BI"
+        ],
+        "missing_skills": [
+          "Gap Analysis",
+          "User Acceptance Testing (UAT)",
+          "Stakeholder Analysis and Mapping",
+          "As-Is and To-Be Process Mapping",
+          "Use Case and User Story Development",
+          "Business Requirements Gathering",
+          "Business Requirements Document (BRD)"
+        ]
+      },
+      "learning_roadmap": [
+        {
+          "step": "Step 1 - Foundation Skills",
+          "description": "Master prerequisites and theoretical fundamentals."
+        },
+        {
+          "step": "Step 2 - Core Technical Skills",
+          "description": "Learn Gap Analysis."
+        },
+        {
+          "step": "Step 3 - Advanced Applications",
+          "description": "Apply skills in complex scenarios."
+        },
+        {
+          "step": "Step 4 - Projects & Portfolio",
+          "description": "Deploy market-ready portfolios demonstrating these skills."
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Certified Business Analyst Professional",
+          "issuer": "Industry Standard Provider",
+          "difficulty": "Intermediate",
+          "duration": "3 months"
+        }
+      ],
+      "free_courses": [
+        {
+          "course_name": "Business Analyst Crash Course",
+          "platform": "YouTube / Coursera",
+          "link_status": "Free"
+        }
+      ],
+      "projects": [
+        {
+          "project_name": "Business Analyst Capstone",
+          "description": "A complete end-to-end implementation.",
+          "skills_demonstrated": "Gap Analysis, User Acceptance Testing (UAT), Stakeholder Analysis and Mapping"
+        }
+      ]
+    }
+  },
+  "profile_hash": "af4317ca1e10844cb3942bdf840461d8c0b25d49f6f9fe470bf06e20de059ff1",
+  "created_at": "2026-03-28T10:56:45.914Z"
+}

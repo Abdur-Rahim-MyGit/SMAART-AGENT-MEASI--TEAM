@@ -1,0 +1,548 @@
+{
+  "timestamp": "2026-03-28T12:00:12.165Z",
+  "status": "completed",
+  "input_user_data": {
+    "personalDetails": {
+      "name": "Vikram Das",
+      "email": "vikram.das3093@example.com",
+      "phone": "9872887691",
+      "location": "Chennai, India"
+    },
+    "education": [
+      {
+        "level": "Undergraduate (UG)",
+        "domain": "Computer Science & IT",
+        "degreeGroup": "Bachelor of Computer Applications",
+        "specialisation": [
+          "General",
+          "Data Science"
+        ],
+        "university": "nit",
+        "graduationYear": "2012",
+        "currentlyPursuing": true
+      }
+    ],
+    "skills": [
+      {
+        "name": "react",
+        "status": "Verified",
+        "cert": {
+          "issuer": "google ",
+          "year": "2014",
+          "url": "http://sojlka.com"
+        }
+      },
+      {
+        "name": "Python",
+        "status": "Verified",
+        "cert": {
+          "issuer": "miceo",
+          "year": "2013",
+          "url": "http://ksjdfl.com"
+        }
+      },
+      {
+        "name": "java",
+        "status": "Verified",
+        "cert": {
+          "issuer": "kja",
+          "year": "2016",
+          "url": "http://sdfs"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "orgName": "google ",
+        "designation": "software developer",
+        "sector": "Information Technology",
+        "type": "Full-Time",
+        "startDate": "2026-03-19",
+        "endDate": "",
+        "currentlyWorking": true,
+        "isCustomSector": false
+      }
+    ],
+    "preferences": {
+      "primary": {
+        "sectors": [
+          "Information Technology",
+          "Engineering & Manufacturing",
+          "Telecom & Networking"
+        ],
+        "sector": "Information Technology",
+        "family": "",
+        "role": "Software Developer",
+        "type": "Full-Time",
+        "salary": "3–5 LPA",
+        "locations": [
+          "Chennai",
+          "Bangalore",
+          "Ahmedabad"
+        ],
+        "location": "Chennai",
+        "orgTypes": [
+          "Startup (Early-stage / Growth-stage)",
+          "Scale-up / High-growth company",
+          "Large Indian Corporate / Conglomerate"
+        ]
+      },
+      "secondary": {
+        "sectors": [
+          "Information Technology",
+          "Healthcare & Pharma",
+          "Engineering & Manufacturing"
+        ],
+        "sector": "Information Technology",
+        "family": "",
+        "role": "Front End Developer",
+        "type": "Full-Time",
+        "salary": "5–8 LPA",
+        "locations": [
+          "Chennai",
+          "Bangalore",
+          "Ahmedabad"
+        ],
+        "location": "Chennai",
+        "orgTypes": [
+          "Small or Medium Enterprise (SME)",
+          "Large Indian Corporate / Conglomerate",
+          "Academic / Research Institution"
+        ]
+      },
+      "tertiary": {
+        "sectors": [
+          "Information Technology",
+          "Healthcare & Pharma",
+          "Engineering & Manufacturing"
+        ],
+        "sector": "Information Technology",
+        "family": "",
+        "role": "Back End Developer",
+        "type": "Full-Time",
+        "salary": "5–8 LPA",
+        "locations": [
+          "Chennai",
+          "Bangalore",
+          "Dhanbad"
+        ],
+        "location": "Chennai",
+        "orgTypes": [
+          "Small or Medium Enterprise (SME)",
+          "Scale-up / High-growth company",
+          "Startup (Early-stage / Growth-stage)"
+        ]
+      }
+    }
+  },
+  "output_generated_report": {
+    "status": "success_ml_assisted",
+    "generated_at": "2026-03-28T12:00:12.240Z",
+    "preVerified": {
+      "dataFilesReady": true,
+      "primaryZone": {
+        "employer_zone": "Amber",
+        "skill_coverage_pct": 45
+      },
+      "secondaryZone": {
+        "employer_zone": "Amber",
+        "skill_coverage_pct": 40
+      },
+      "tertiaryZone": {
+        "employer_zone": "Amber",
+        "skill_coverage_pct": 40
+      },
+      "primaryMarket": {
+        "demand_level": "High",
+        "salary_min_lpa": 4,
+        "salary_max_lpa": 15,
+        "ai_automation_risk": "Medium",
+        "emerging_roles": [
+          "AI/ML Developer",
+          "Full Stack Developer",
+          "Mobile App Developer"
+        ]
+      },
+      "primarySkillGap": {
+        "missing": [
+          "Object-Oriented Programming (OOP)",
+          "Data Structures and Algorithms",
+          "Design Patterns (GoF)",
+          "SOLID Principles",
+          "Software Development Life Cycle (SDLC)",
+          "Code Review Best Practices"
+        ],
+        "matched": [],
+        "coveragePct": 0,
+        "dataReady": true,
+        "source": "local"
+      }
+    },
+    "primary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 20%. You have 0 matching skills.",
+      "tab1": {
+        "role_name": "Software Developer",
+        "job_family": "Technology, Software and Data",
+        "role_description": "A junior Software Developer at an Indian tech company or product startup spends their week writing and reviewing code in Python, Java, or JavaScript, fixing bugs raised on Jira, and attending daily standups in an Agile sprint. Daily tasks include building REST APIs, writing unit tests, peer reviewing pull requests on GitHub, and deploying code through Jenkins or GitHub Actions CI/CD pipelines. They work within version control workflows, follow coding standards, and coordinate with QA engineers before releases. In Indian service companies, they may work on client-facing modules requiring VAPT compliance; in product startups, they work directly on the core product codebase with faster iteration cycles.",
+        "narrative_para1": "A junior Software Developer at an Indian tech company or product startup spends their week writing and reviewing code in Python, Java, or JavaScript, fixing bugs raised on Jira, and attending daily standups in an Agile sprint. Daily tasks include building REST APIs, writing unit tests, peer reviewing pull requests on GitHub, and deploying code through Jenkins or GitHub Actions CI/CD pipelines. They work within version control workflows, follow coding standards, and coordinate with QA engineers before releases. In Indian service companies, they may work on client-facing modules requiring VAPT compliance; in product startups, they work directly on the core product codebase with faster iteration cycles.",
+        "narrative_para2": "With 55% AI exposure, this role is actively AI-Evolving. GitHub Copilot and Tabnine assist with code completion, boilerplate generation, and unit test scaffolding, covering a significant portion of routine coding tasks. ChatGPT and Claude are used for debugging assistance, code explanation, and generating first-draft implementations. AI accelerates repetitive development tasks but requires human review for correctness, security, and architectural fit. However, software developers make architectural decisions, define abstractions, and design systems that meet complex, evolving business requirements. They debug intricate production issues involving concurrency, distributed systems, or data corruption where AI lacks sufficient context. Code review, mentoring junior developers, and aligning technical solutions to product goals demand human communication and accountability. The tools currently reshaping this role include GitHub Copilot, ChatGPT, and Tabnine — each accelerating routine work while leaving the most complex, context-dependent decisions firmly in human hands.",
+        "narrative_para3": "B.Tech, B.Sc (CS), MCA, or M.Tech graduates are the core fit. Those with strong problem-solving instincts, comfort with reading documentation, and the ability to break complex requirements into working code will thrive. Starting salaries of Rs.3.5-6 lakh grow to Rs.7-12 lakh at 2-3 years, Rs.12-20 lakh at senior developer level, and Rs.20-40 lakh for tech leads and architects. DSA (Data Structures and Algorithms) proficiency is the most critical hiring filter. Open source contributions and strong GitHub profiles accelerate progression. Eligible programme levels: UG, PG.",
+        "typical_employers_india": "MNCs, IT Product Companies, Startups, IT Services",
+        "common_entry_paths": "Campus Placements, Postgraduate Internships",
+        "job_demand": "Actively AI-Evolving",
+        "salary_range": "3.5-6 lakh",
+        "salary_progression": {
+          "year_0_1": "3.5-6 lakh",
+          "year_2_3": "7-12 lakh",
+          "year_4_5": "12-20 lakh",
+          "year_6_plus": "20-40 lakh"
+        },
+        "english_requirement": "Important",
+        "remote_friendly": "Commonly Remote",
+        "emerging_role_flag": false,
+        "programme_levels": "UG,PG",
+        "ai_exposure_pct": 55,
+        "ai_impact": "With 55% AI exposure, this role is actively AI-Evolving. GitHub Copilot and Tabnine assist with code completion, boilerplate generation, and unit test scaffolding, covering a significant portion of routine coding tasks. ChatGPT and Claude are used for debugging assistance, code explanation, and generating first-draft implementations. AI accelerates repetitive development tasks but requires human review for correctness, security, and architectural fit. However, software developers make architectural decisions, define abstractions, and design systems that meet complex, evolving business requirements. They debug intricate production issues involving concurrency, distributed systems, or data corruption where AI lacks sufficient context. Code review, mentoring junior developers, and aligning technical solutions to product goals demand human communication and accountability. The tools currently reshaping this role include GitHub Copilot, ChatGPT, and Tabnine — each accelerating routine work while leaving the most complex, context-dependent decisions firmly in human hands.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Software Developer",
+            "description": "Uses GitHub Copilot, ChatGPT daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [
+          {
+            "skill": "Object-Oriented Programming (OOP)",
+            "priority": "High",
+            "description": "Essential core skill."
+          },
+          {
+            "skill": "Data Structures and Algorithms",
+            "priority": "High",
+            "description": "Essential core skill."
+          },
+          {
+            "skill": "Design Patterns (GoF)",
+            "priority": "High",
+            "description": "Essential core skill."
+          },
+          {
+            "skill": "SOLID Principles",
+            "priority": "High",
+            "description": "Essential core skill."
+          },
+          {
+            "skill": "Software Development Life Cycle (SDLC)",
+            "priority": "High",
+            "description": "Essential core skill."
+          },
+          {
+            "skill": "Code Review Best Practices",
+            "priority": "High",
+            "description": "Essential core skill."
+          }
+        ],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "GitHub Copilot",
+            "category": "AI-Powered",
+            "usage": "Task Acceleration",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "ChatGPT",
+            "category": "AI-Powered",
+            "usage": "Task Acceleration",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Tabnine",
+            "category": "AI-Powered",
+            "usage": "Task Acceleration",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "55%",
+          "level": "High",
+          "tasks_assisted": "GitHub Copilot and Tabnine assist with code completion, boilerplate generation, and unit test scaffolding, covering a significant portion of routine coding tasks. ChatGPT and Claude are used for debugging assistance, code explanation, and generating first-draft implementations. AI accelerates repetitive development tasks but requires human review for correctness, security, and architectural fit.",
+          "human_value": "Software developers make architectural decisions, define abstractions, and design systems that meet complex, evolving business requirements — tasks requiring contextual judgement and experience. They debug intricate production issues involving concurrency, distributed systems, or data corruption where AI lacks sufficient context. Code review, mentoring junior developers, and aligning technical solutions to product goals demand human communication and accountability."
+        },
+        "human_skills": [
+          "Problem Solving",
+          "Analytical Thinking",
+          "Communication Skills (Technical)",
+          "Continuous Learning and Technical Development"
+        ]
+      },
+      "tab5": {
+        "future_scope": "B.Tech, B.Sc (CS), MCA, or M.Tech graduates are the core fit. Those with strong problem-solving instincts, comfort with reading documentation, and the ability to break complex requirements into working code will thrive. Starting salaries of Rs.3.5-6 lakh grow to Rs.7-12 lakh at 2-3 years, Rs.12-20 lakh at senior developer level, and Rs.20-40 lakh for tech leads and architects. DSA (Data Structures and Algorithms) proficiency is the most critical hiring filter. Open source contributions and strong GitHub profiles accelerate progression. Eligible programme levels: UG, PG.",
+        "target_audience": "UG,PG graduates with interest in Technology, Software and Data.",
+        "growth_trajectory": "Entry: 3.5-6 lakh → Mid: 7-12 lakh → Senior: 12-20 lakh → Lead: 20-40 lakh"
+      }
+    },
+    "secondary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 23%. You have 3 matching skills.",
+      "tab1": {
+        "role_name": "Front End Developer",
+        "job_family": "",
+        "role_description": "Responsible for core operations within the Front End Developer domain.",
+        "narrative_para1": "Responsible for core operations within the Front End Developer domain.",
+        "narrative_para2": "AI systems are augmenting Front End Developer roles significantly.",
+        "narrative_para3": "Front End Developer professionals are entering a high-growth phase. Those with AI tool proficiency and cross-functional skills will thrive. Eligible programme levels: UG, PG.",
+        "typical_employers_india": "MNCs, Startups, Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "Stable with AI Augmentation",
+        "salary_range": "3-8 LPA",
+        "salary_progression": null,
+        "english_requirement": "Important",
+        "remote_friendly": "Office-Based",
+        "emerging_role_flag": false,
+        "programme_levels": "",
+        "ai_exposure_pct": 40,
+        "ai_impact": "AI tools are reshaping Front End Developer roles. 40% of routine tasks are now AI-assisted.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Front End Developer",
+            "description": "Uses AI productivity tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "GitHub Copilot (free for students)",
+            "category": "AI-Powered",
+            "usage": "AI code completion for JavaScript and React",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "VS Code (free)",
+            "category": "AI-Powered",
+            "usage": "Primary IDE for frontend development",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Cursor (free tier AI IDE) / v0 by Vercel (free tier)",
+            "category": "AI-Powered",
+            "usage": "AI-native frontend development environment",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "40%",
+          "level": "Medium",
+          "tasks_assisted": "Repetitive and structured tasks",
+          "human_value": "Strategic judgment, stakeholder communication, creative problem-solving"
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Communication",
+          "Problem Solving",
+          "Continuous Learning"
+        ]
+      },
+      "tab5": {
+        "future_scope": "Front End Developer is evolving with AI integration across the industry.",
+        "target_audience": "UG/PG graduates with interest in Front End Developer.",
+        "growth_trajectory": "Steady upward growth trajectory with specialisation."
+      }
+    },
+    "tertiary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 23%. You have 1 matching skills.",
+      "tab1": {
+        "role_name": "Back End Developer",
+        "job_family": "",
+        "role_description": "Responsible for core operations within the Back End Developer domain.",
+        "narrative_para1": "Responsible for core operations within the Back End Developer domain.",
+        "narrative_para2": "AI systems are augmenting Back End Developer roles significantly.",
+        "narrative_para3": "Back End Developer professionals are entering a high-growth phase. Those with AI tool proficiency and cross-functional skills will thrive. Eligible programme levels: UG, PG.",
+        "typical_employers_india": "MNCs, Startups, Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "Stable with AI Augmentation",
+        "salary_range": "3-8 LPA",
+        "salary_progression": null,
+        "english_requirement": "Important",
+        "remote_friendly": "Office-Based",
+        "emerging_role_flag": false,
+        "programme_levels": "",
+        "ai_exposure_pct": 40,
+        "ai_impact": "AI tools are reshaping Back End Developer roles. 40% of routine tasks are now AI-assisted.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Back End Developer",
+            "description": "Uses AI productivity tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "GitHub Copilot (free for students)",
+            "category": "AI-Powered",
+            "usage": "AI code completion for backend languages",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Cursor (free tier AI IDE)",
+            "category": "AI-Powered",
+            "usage": "AI-native IDE for backend development",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "40%",
+          "level": "Medium",
+          "tasks_assisted": "Repetitive and structured tasks",
+          "human_value": "Strategic judgment, stakeholder communication, creative problem-solving"
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Communication",
+          "Problem Solving",
+          "Continuous Learning"
+        ]
+      },
+      "tab5": {
+        "future_scope": "Back End Developer is evolving with AI integration across the industry.",
+        "target_audience": "UG/PG graduates with interest in Back End Developer.",
+        "growth_trajectory": "Steady upward growth trajectory with specialisation."
+      }
+    },
+    "ml_success_probability": null,
+    "ml_semantic_skills": [
+      {
+        "name": "react",
+        "status": "Verified",
+        "cert": {
+          "issuer": "google ",
+          "year": "2014",
+          "url": "http://sojlka.com"
+        }
+      },
+      {
+        "name": "Python",
+        "status": "Verified",
+        "cert": {
+          "issuer": "miceo",
+          "year": "2013",
+          "url": "http://ksjdfl.com"
+        }
+      },
+      {
+        "name": "java",
+        "status": "Verified",
+        "cert": {
+          "issuer": "kja",
+          "year": "2016",
+          "url": "http://sdfs"
+        }
+      }
+    ],
+    "combined_tab4": {
+      "combined_pathway_summary": "Your immediate focus must be learning the missing fundamentals for Software Developer. Role success probability: Calculating",
+      "skill_gap": {
+        "current_skills": [
+          {
+            "name": "react",
+            "status": "Verified",
+            "cert": {
+              "issuer": "google ",
+              "year": "2014",
+              "url": "http://sojlka.com"
+            }
+          },
+          {
+            "name": "Python",
+            "status": "Verified",
+            "cert": {
+              "issuer": "miceo",
+              "year": "2013",
+              "url": "http://ksjdfl.com"
+            }
+          },
+          {
+            "name": "java",
+            "status": "Verified",
+            "cert": {
+              "issuer": "kja",
+              "year": "2016",
+              "url": "http://sdfs"
+            }
+          }
+        ],
+        "missing_skills": [
+          "Object-Oriented Programming (OOP)",
+          "Data Structures and Algorithms",
+          "Design Patterns (GoF)",
+          "SOLID Principles",
+          "Software Development Life Cycle (SDLC)",
+          "Code Review Best Practices"
+        ]
+      },
+      "learning_roadmap": [
+        {
+          "step": "Step 1 - Foundation Skills",
+          "description": "Master prerequisites and theoretical fundamentals."
+        },
+        {
+          "step": "Step 2 - Core Technical Skills",
+          "description": "Learn Object-Oriented Programming (OOP)."
+        },
+        {
+          "step": "Step 3 - Advanced Applications",
+          "description": "Apply skills in complex scenarios."
+        },
+        {
+          "step": "Step 4 - Projects & Portfolio",
+          "description": "Deploy market-ready portfolios demonstrating these skills."
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Certified Software Developer Professional",
+          "issuer": "Industry Standard Provider",
+          "difficulty": "Intermediate",
+          "duration": "3 months"
+        }
+      ],
+      "free_courses": [
+        {
+          "course_name": "Software Developer Crash Course",
+          "platform": "YouTube / Coursera",
+          "link_status": "Free"
+        }
+      ],
+      "projects": [
+        {
+          "project_name": "Software Developer Capstone",
+          "description": "A complete end-to-end implementation.",
+          "skills_demonstrated": "Object-Oriented Programming (OOP), Data Structures and Algorithms, Design Patterns (GoF)"
+        }
+      ]
+    }
+  },
+  "profile_hash": "fff709e2b58a64ffecde65ee6e2eda01bc3587e01846f539621548c255abb073",
+  "created_at": "2026-03-28T12:00:12.588Z"
+}

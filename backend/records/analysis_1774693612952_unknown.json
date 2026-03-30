@@ -1,0 +1,474 @@
+{
+  "timestamp": "2026-03-28T10:26:52.953Z",
+  "status": "completed",
+  "input_user_data": {
+    "name": "Souban",
+    "email": "souban@gmail.com",
+    "phone": "1234567890",
+    "password": "souban123",
+    "education": [
+      {
+        "level": "Postgraduate (PG)",
+        "domain": "Commerce & Management",
+        "degreeGroup": "Master of Business Administration",
+        "specialization": "International Business",
+        "yearOfStudy": "2",
+        "gradYear": "2025",
+        "currentlyPursuing": true
+      }
+    ],
+    "collegeCode": "324321",
+    "preferences": {
+      "primary": {
+        "role": "Chief AI Officer",
+        "jobFunction": "Software engineering",
+        "jobFamily": "Big Data",
+        "sectors": [
+          "Information Technology & Software"
+        ],
+        "jobType": "Full-Time",
+        "salary": "8+ LPA",
+        "locations": [
+          "Chennai",
+          "Mumbai",
+          "Kerala"
+        ],
+        "orgTypes": [
+          "Startup (Early-stage / Growth-stage)",
+          "Large Indian Corporate / Conglomerate",
+          "Multinational Corporation (MNC)"
+        ],
+        "jobRole": "Chief AI Officer"
+      },
+      "secondary": {
+        "role": "MLOps Engineer",
+        "jobFunction": "Software Engineering",
+        "jobFamily": "Data Analytics",
+        "sectors": [
+          "Information Technology & Software",
+          "Telecom & Technology Infrastructure",
+          "Automotive & Electric Vehicles"
+        ],
+        "jobType": "Full-Time",
+        "salary": "5–8 LPA",
+        "locations": [
+          "Indore",
+          "Delhi",
+          "Surat"
+        ],
+        "orgTypes": [
+          "Startup (Early-stage / Growth-stage)",
+          "Self-employed / Entrepreneurial Venture",
+          "Scale-up / High-growth company"
+        ],
+        "jobRole": "MLOps Engineer"
+      },
+      "tertiary": {
+        "role": "AI Trainer / Data Labeller",
+        "jobFunction": "Software & specialization",
+        "jobFamily": "",
+        "sectors": [
+          "Information Technology & Software",
+          "Healthcare & Life Sciences"
+        ],
+        "jobType": "Full-Time",
+        "salary": "5–8 LPA",
+        "locations": [
+          "Chennai",
+          "Kolkata",
+          "Hyderabad"
+        ],
+        "orgTypes": [
+          "Startup (Early-stage / Growth-stage)",
+          "Non-Profit / NGO / Social Enterprise",
+          "Academic / Research Institution"
+        ],
+        "jobRole": "AI Trainer / Data Labeller"
+      }
+    },
+    "skills": [
+      "Python",
+      "SQL",
+      "Data Analysis",
+      "Computer Vision"
+    ],
+    "skillDetails": [
+      {
+        "name": "Python",
+        "certName": "AWS Python training",
+        "issuer": "Amazon Web Service",
+        "year": "2020",
+        "mode": "Not verified"
+      },
+      {
+        "name": "SQL",
+        "certName": "Oracle SQL Professional",
+        "issuer": "Oracle",
+        "year": "2020",
+        "mode": "Not verified"
+      },
+      {
+        "name": "Data Analysis",
+        "certName": "IntelIJ Master Mind",
+        "issuer": "IntelIJ",
+        "year": "2021",
+        "mode": "Not verified"
+      },
+      {
+        "name": "Computer Vision",
+        "certName": "OpenAI Visions",
+        "issuer": "Open AI",
+        "year": "2020",
+        "mode": "Not verified"
+      }
+    ],
+    "experience": [
+      {
+        "org": "TCS",
+        "designation": "AI Devloper Intern",
+        "sector": "Information Technology & Software",
+        "type": "Internship (Full-Time)",
+        "startDate": "2026-01",
+        "endDate": "",
+        "currentlyWorking": true
+      }
+    ]
+  },
+  "output_generated_report": {
+    "status": "success_ml_assisted",
+    "generated_at": "2026-03-28T10:26:53.230Z",
+    "preVerified": {
+      "dataFilesReady": true,
+      "primaryZone": {
+        "employer_zone": "Red",
+        "skill_coverage_pct": 10
+      },
+      "secondaryZone": {
+        "employer_zone": "Red",
+        "skill_coverage_pct": 5
+      },
+      "tertiaryZone": {
+        "employer_zone": "Amber",
+        "skill_coverage_pct": 35
+      },
+      "primaryMarket": {
+        "demand_level": "High",
+        "salary_min_lpa": 15,
+        "salary_max_lpa": 50,
+        "ai_automation_risk": "Low",
+        "emerging_roles": [
+          "AI Strategist",
+          "Machine Learning Engineer",
+          "Data Scientist"
+        ]
+      },
+      "primarySkillGap": {
+        "missing": [
+          "AI Strategy and Roadmapping",
+          "AI Ethics and Governance",
+          "Cross-functional Leadership",
+          "AI ROI and Business Case Development",
+          "Regulatory AI Compliance (EU AI Act)"
+        ],
+        "matched": [],
+        "coveragePct": 0,
+        "dataReady": true,
+        "source": "local"
+      }
+    },
+    "primary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 10%. You have 0 matching skills.",
+      "tab1": {
+        "role_name": "Chief AI Officer",
+        "job_family": "",
+        "role_description": "Responsible for core operations within the Chief AI Officer domain.",
+        "narrative_para1": "Responsible for core operations within the Chief AI Officer domain.",
+        "narrative_para2": "AI systems are augmenting Chief AI Officer roles significantly.",
+        "narrative_para3": "Chief AI Officer professionals are entering a high-growth phase. Those with AI tool proficiency and cross-functional skills will thrive. Eligible programme levels: UG, PG.",
+        "typical_employers_india": "MNCs, Startups, Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "Stable with AI Augmentation",
+        "salary_range": "3-8 LPA",
+        "salary_progression": null,
+        "english_requirement": "Important",
+        "remote_friendly": "Office-Based",
+        "emerging_role_flag": false,
+        "programme_levels": "",
+        "ai_exposure_pct": 40,
+        "ai_impact": "AI tools are reshaping Chief AI Officer roles. 40% of routine tasks are now AI-assisted.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Chief AI Officer",
+            "description": "Uses AI productivity tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "ChatGPT (free tier) / Claude (free tier)",
+            "category": "AI-Powered",
+            "usage": "Enterprise AI capability evaluation and testing",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "AI governance frameworks (Fairlearn — free, AI Fairness 360 — free, NIST AI RMF — free)",
+            "category": "AI-Powered",
+            "usage": "Enterprise AI risk and compliance management",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "40%",
+          "level": "Medium",
+          "tasks_assisted": "Repetitive and structured tasks",
+          "human_value": "Strategic judgment, stakeholder communication, creative problem-solving"
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Communication",
+          "Problem Solving",
+          "Continuous Learning"
+        ]
+      },
+      "tab5": {
+        "future_scope": "Chief AI Officer is evolving with AI integration across the industry.",
+        "target_audience": "UG/PG graduates with interest in Chief AI Officer.",
+        "growth_trajectory": "Steady upward growth trajectory with specialisation."
+      }
+    },
+    "secondary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 0%. You have 0 matching skills.",
+      "tab1": {
+        "role_name": "MLOps Engineer",
+        "job_family": "",
+        "role_description": "Responsible for core operations within the MLOps Engineer domain.",
+        "narrative_para1": "Responsible for core operations within the MLOps Engineer domain.",
+        "narrative_para2": "AI systems are augmenting MLOps Engineer roles significantly.",
+        "narrative_para3": "MLOps Engineer professionals are entering a high-growth phase. Those with AI tool proficiency and cross-functional skills will thrive. Eligible programme levels: UG, PG.",
+        "typical_employers_india": "MNCs, Startups, Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "Stable with AI Augmentation",
+        "salary_range": "3-8 LPA",
+        "salary_progression": null,
+        "english_requirement": "Important",
+        "remote_friendly": "Office-Based",
+        "emerging_role_flag": false,
+        "programme_levels": "",
+        "ai_exposure_pct": 40,
+        "ai_impact": "AI tools are reshaping MLOps Engineer roles. 40% of routine tasks are now AI-assisted.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced MLOps Engineer",
+            "description": "Uses AI productivity tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "MLflow (free open-source)",
+            "category": "AI-Powered",
+            "usage": "ML experiment tracking, model registry, and deployment",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Evidently AI (free open-source)",
+            "category": "AI-Powered",
+            "usage": "ML model monitoring and data drift detection",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "GitHub Copilot (free for students via GitHub Education)",
+            "category": "AI-Powered",
+            "usage": "AI-assisted pipeline code and YAML configuration authoring",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "LangSmith (free tier)",
+            "category": "AI-Powered",
+            "usage": "LLM observability and LLMOps tracing for production pipelines",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Weights & Biases (free for students and academics)",
+            "category": "AI-Powered",
+            "usage": "ML experiment tracking with built-in AI-assisted insight summaries",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "40%",
+          "level": "Medium",
+          "tasks_assisted": "Repetitive and structured tasks",
+          "human_value": "Strategic judgment, stakeholder communication, creative problem-solving"
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Communication",
+          "Problem Solving",
+          "Continuous Learning"
+        ]
+      },
+      "tab5": {
+        "future_scope": "MLOps Engineer is evolving with AI integration across the industry.",
+        "target_audience": "UG/PG graduates with interest in MLOps Engineer.",
+        "growth_trajectory": "Steady upward growth trajectory with specialisation."
+      }
+    },
+    "tertiary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 10%. You have 0 matching skills.",
+      "tab1": {
+        "role_name": "AI Trainer / Data Labeller",
+        "job_family": "",
+        "role_description": "Responsible for core operations within the AI Trainer / Data Labeller domain.",
+        "narrative_para1": "Responsible for core operations within the AI Trainer / Data Labeller domain.",
+        "narrative_para2": "AI systems are augmenting AI Trainer / Data Labeller roles significantly.",
+        "narrative_para3": "AI Trainer / Data Labeller professionals are entering a high-growth phase. Those with AI tool proficiency and cross-functional skills will thrive. Eligible programme levels: UG, PG.",
+        "typical_employers_india": "MNCs, Startups, Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "Stable with AI Augmentation",
+        "salary_range": "3-8 LPA",
+        "salary_progression": null,
+        "english_requirement": "Important",
+        "remote_friendly": "Office-Based",
+        "emerging_role_flag": false,
+        "programme_levels": "",
+        "ai_exposure_pct": 40,
+        "ai_impact": "AI tools are reshaping AI Trainer / Data Labeller roles. 40% of routine tasks are now AI-assisted.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced AI Trainer / Data Labeller",
+            "description": "Uses AI productivity tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "CVAT (free open-source annotation tool)",
+            "category": "AI-Powered",
+            "usage": "Image, video, and text annotation",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Label Studio (free open-source)",
+            "category": "AI-Powered",
+            "usage": "Multi-modal data labeling",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Argilla (free open-source)",
+            "category": "AI-Powered",
+            "usage": "Open-source data annotation for LLM fine-tuning",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "40%",
+          "level": "Medium",
+          "tasks_assisted": "Repetitive and structured tasks",
+          "human_value": "Strategic judgment, stakeholder communication, creative problem-solving"
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Communication",
+          "Problem Solving",
+          "Continuous Learning"
+        ]
+      },
+      "tab5": {
+        "future_scope": "AI Trainer / Data Labeller is evolving with AI integration across the industry.",
+        "target_audience": "UG/PG graduates with interest in AI Trainer / Data Labeller.",
+        "growth_trajectory": "Steady upward growth trajectory with specialisation."
+      }
+    },
+    "ml_success_probability": 0.34,
+    "ml_semantic_skills": [
+      "Data Analysis",
+      "Python",
+      "SQL"
+    ],
+    "combined_tab4": {
+      "combined_pathway_summary": "Your immediate focus must be learning the missing fundamentals for Chief AI Officer. Role success probability: 34%",
+      "skill_gap": {
+        "current_skills": [
+          "Python",
+          "SQL",
+          "Data Analysis",
+          "Computer Vision"
+        ],
+        "missing_skills": [
+          "AI Strategy and Roadmapping",
+          "AI Ethics and Governance",
+          "Cross-functional Leadership",
+          "AI ROI and Business Case Development",
+          "Regulatory AI Compliance (EU AI Act)"
+        ]
+      },
+      "learning_roadmap": [
+        {
+          "step": "Step 1 - Foundation Skills",
+          "description": "Master prerequisites and theoretical fundamentals."
+        },
+        {
+          "step": "Step 2 - Core Technical Skills",
+          "description": "Learn AI Strategy and Roadmapping."
+        },
+        {
+          "step": "Step 3 - Advanced Applications",
+          "description": "Apply skills in complex scenarios."
+        },
+        {
+          "step": "Step 4 - Projects & Portfolio",
+          "description": "Deploy market-ready portfolios demonstrating these skills."
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Certified Chief AI Officer Professional",
+          "issuer": "Industry Standard Provider",
+          "difficulty": "Intermediate",
+          "duration": "3 months"
+        }
+      ],
+      "free_courses": [
+        {
+          "course_name": "Chief AI Officer Crash Course",
+          "platform": "YouTube / Coursera",
+          "link_status": "Free"
+        }
+      ],
+      "projects": [
+        {
+          "project_name": "Chief AI Officer Capstone",
+          "description": "A complete end-to-end implementation.",
+          "skills_demonstrated": "AI Strategy and Roadmapping, AI Ethics and Governance, Cross-functional Leadership"
+        }
+      ]
+    }
+  },
+  "profile_hash": "b335c7a1c7bd8011079a0bfb33f6219348cc4e9cebc235d79c9563a0396546bd",
+  "created_at": "2026-03-28T10:26:54.012Z"
+}

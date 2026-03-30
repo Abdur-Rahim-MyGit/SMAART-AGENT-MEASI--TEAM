@@ -1,0 +1,11 @@
+{
+  "source_directories": [
+    "ml-service",
+    "backend"
+  ],
+  "search_path": [
+    "ml-service/.venv/Lib/site-packages",
+    "ml-service"
+  ],
+  "python_version": "3.13"
+}

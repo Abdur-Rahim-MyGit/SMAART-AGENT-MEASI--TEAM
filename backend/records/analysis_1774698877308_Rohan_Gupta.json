@@ -1,0 +1,412 @@
+{
+  "timestamp": "2026-03-28T11:54:37.309Z",
+  "status": "completed",
+  "input_user_data": {
+    "personalDetails": {
+      "name": "Rohan Gupta",
+      "email": "rohan.gupta1692@example.com",
+      "phone": "9875386358",
+      "location": "Hyderabad, India"
+    },
+    "education": [
+      {
+        "level": "Undergraduate (UG)",
+        "domain": "Commerce & Management",
+        "degreeGroup": "Bachelor of Commerce",
+        "specialisation": [
+          "General"
+        ],
+        "university": "MEASI ",
+        "graduationYear": "2028",
+        "currentlyPursuing": true
+      },
+      {
+        "level": "",
+        "domain": "",
+        "degreeGroup": "",
+        "specialisation": [],
+        "university": "",
+        "graduationYear": "",
+        "currentlyPursuing": false
+      }
+    ],
+    "skills": [
+      {
+        "name": "Power BI",
+        "status": "Self-learnt",
+        "cert": null
+      }
+    ],
+    "experience": [
+      {
+        "orgName": "",
+        "designation": "",
+        "sector": "",
+        "type": "Full-Time",
+        "startDate": "",
+        "endDate": "",
+        "currentlyWorking": false,
+        "isCustomSector": false
+      }
+    ],
+    "preferences": {
+      "primary": {
+        "sectors": [
+          "Information Technology",
+          "BFSI",
+          "Education & Research"
+        ],
+        "sector": "Information Technology",
+        "family": "",
+        "role": "Accounts Executive",
+        "type": "Full-Time",
+        "salary": "0–3 LPA",
+        "locations": [
+          "Chennai",
+          "Bangalore",
+          "Mumbai"
+        ],
+        "location": "Chennai",
+        "orgTypes": [
+          "Startup (Early-stage / Growth-stage)",
+          "Scale-up / High-growth company",
+          "Small or Medium Enterprise (SME)"
+        ]
+      },
+      "secondary": {
+        "sectors": [
+          "Information Technology",
+          "BFSI",
+          "Government & Public Sector"
+        ],
+        "sector": "Information Technology",
+        "family": "",
+        "role": "Finance Analyst",
+        "type": "Full-Time",
+        "salary": "",
+        "locations": [
+          "Chennai"
+        ],
+        "location": "Chennai",
+        "orgTypes": [
+          "Startup (Early-stage / Growth-stage)",
+          "Government / Public Sector Organization",
+          "Large Indian Corporate / Conglomerate"
+        ]
+      },
+      "tertiary": {
+        "sectors": [
+          "Information Technology",
+          "BFSI",
+          "Government & Public Sector"
+        ],
+        "sector": "Information Technology",
+        "family": "",
+        "role": "Account Manager",
+        "type": "Full-Time",
+        "salary": "0–3 LPA",
+        "locations": [
+          "Chennai"
+        ],
+        "location": "Chennai",
+        "orgTypes": [
+          "Startup (Early-stage / Growth-stage)",
+          "Large Indian Corporate / Conglomerate",
+          "Multinational Corporation (MNC)"
+        ]
+      }
+    }
+  },
+  "output_generated_report": {
+    "status": "success_ml_assisted",
+    "generated_at": "2026-03-28T11:54:37.472Z",
+    "preVerified": {
+      "dataFilesReady": true,
+      "primaryZone": {
+        "employer_zone": "Red",
+        "skill_coverage_pct": 0
+      },
+      "secondaryZone": {
+        "employer_zone": "Red"
+      },
+      "tertiaryZone": {
+        "employer_zone": "Red"
+      },
+      "primaryMarket": null,
+      "primarySkillGap": {
+        "missing": [],
+        "matched": [],
+        "coveragePct": 0,
+        "dataReady": true,
+        "source": "local"
+      }
+    },
+    "primary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 0%. You have 0 matching skills.",
+      "tab1": {
+        "role_name": "Accounts Executive",
+        "job_family": "",
+        "role_description": "Responsible for core operations within the Accounts Executive domain.",
+        "narrative_para1": "Responsible for core operations within the Accounts Executive domain.",
+        "narrative_para2": "AI systems are augmenting Accounts Executive roles significantly.",
+        "narrative_para3": "Accounts Executive professionals are entering a high-growth phase. Those with AI tool proficiency and cross-functional skills will thrive. Eligible programme levels: UG, PG.",
+        "typical_employers_india": "MNCs, Startups, Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "Stable with AI Augmentation",
+        "salary_range": "3-8 LPA",
+        "salary_progression": null,
+        "english_requirement": "Important",
+        "remote_friendly": "Office-Based",
+        "emerging_role_flag": false,
+        "programme_levels": "",
+        "ai_exposure_pct": 40,
+        "ai_impact": "AI tools are reshaping Accounts Executive roles. 40% of routine tasks are now AI-assisted.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Accounts Executive",
+            "description": "Uses AI productivity tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [
+          {
+            "skill": "Domain Knowledge",
+            "priority": "High",
+            "description": "Essential core skill."
+          }
+        ],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "ChatGPT",
+            "category": "AI-Powered",
+            "usage": "General Assistance",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "40%",
+          "level": "Medium",
+          "tasks_assisted": "Repetitive and structured tasks",
+          "human_value": "Strategic judgment, stakeholder communication, creative problem-solving"
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Communication",
+          "Problem Solving",
+          "Continuous Learning"
+        ]
+      },
+      "tab5": {
+        "future_scope": "Accounts Executive is evolving with AI integration across the industry.",
+        "target_audience": "UG/PG graduates with interest in Accounts Executive.",
+        "growth_trajectory": "Steady upward growth trajectory with specialisation."
+      }
+    },
+    "secondary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 0%. You have 0 matching skills.",
+      "tab1": {
+        "role_name": "Finance Analyst",
+        "job_family": "",
+        "role_description": "Responsible for core operations within the Finance Analyst domain.",
+        "narrative_para1": "Responsible for core operations within the Finance Analyst domain.",
+        "narrative_para2": "AI systems are augmenting Finance Analyst roles significantly.",
+        "narrative_para3": "Finance Analyst professionals are entering a high-growth phase. Those with AI tool proficiency and cross-functional skills will thrive. Eligible programme levels: UG, PG.",
+        "typical_employers_india": "MNCs, Startups, Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "Stable with AI Augmentation",
+        "salary_range": "3-8 LPA",
+        "salary_progression": null,
+        "english_requirement": "Important",
+        "remote_friendly": "Office-Based",
+        "emerging_role_flag": false,
+        "programme_levels": "",
+        "ai_exposure_pct": 40,
+        "ai_impact": "AI tools are reshaping Finance Analyst roles. 40% of routine tasks are now AI-assisted.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Finance Analyst",
+            "description": "Uses AI productivity tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [
+          {
+            "skill": "Domain Knowledge",
+            "priority": "High",
+            "description": "Essential core skill."
+          }
+        ],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "ChatGPT",
+            "category": "AI-Powered",
+            "usage": "General Assistance",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "40%",
+          "level": "Medium",
+          "tasks_assisted": "Repetitive and structured tasks",
+          "human_value": "Strategic judgment, stakeholder communication, creative problem-solving"
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Communication",
+          "Problem Solving",
+          "Continuous Learning"
+        ]
+      },
+      "tab5": {
+        "future_scope": "Finance Analyst is evolving with AI integration across the industry.",
+        "target_audience": "UG/PG graduates with interest in Finance Analyst.",
+        "growth_trajectory": "Steady upward growth trajectory with specialisation."
+      }
+    },
+    "tertiary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 0%. You have 0 matching skills.",
+      "tab1": {
+        "role_name": "Account Manager",
+        "job_family": "",
+        "role_description": "Responsible for core operations within the Account Manager domain.",
+        "narrative_para1": "Responsible for core operations within the Account Manager domain.",
+        "narrative_para2": "AI systems are augmenting Account Manager roles significantly.",
+        "narrative_para3": "Account Manager professionals are entering a high-growth phase. Those with AI tool proficiency and cross-functional skills will thrive. Eligible programme levels: UG, PG.",
+        "typical_employers_india": "MNCs, Startups, Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "Stable with AI Augmentation",
+        "salary_range": "3-8 LPA",
+        "salary_progression": null,
+        "english_requirement": "Important",
+        "remote_friendly": "Office-Based",
+        "emerging_role_flag": false,
+        "programme_levels": "",
+        "ai_exposure_pct": 40,
+        "ai_impact": "AI tools are reshaping Account Manager roles. 40% of routine tasks are now AI-assisted.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Account Manager",
+            "description": "Uses AI productivity tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [
+          {
+            "skill": "Domain Knowledge",
+            "priority": "High",
+            "description": "Essential core skill."
+          }
+        ],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "ChatGPT",
+            "category": "AI-Powered",
+            "usage": "General Assistance",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "40%",
+          "level": "Medium",
+          "tasks_assisted": "Repetitive and structured tasks",
+          "human_value": "Strategic judgment, stakeholder communication, creative problem-solving"
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Communication",
+          "Problem Solving",
+          "Continuous Learning"
+        ]
+      },
+      "tab5": {
+        "future_scope": "Account Manager is evolving with AI integration across the industry.",
+        "target_audience": "UG/PG graduates with interest in Account Manager.",
+        "growth_trajectory": "Steady upward growth trajectory with specialisation."
+      }
+    },
+    "ml_success_probability": 0.34,
+    "ml_semantic_skills": [
+      {
+        "name": "Power BI",
+        "status": "Self-learnt",
+        "cert": null
+      }
+    ],
+    "combined_tab4": {
+      "combined_pathway_summary": "Your immediate focus must be learning the missing fundamentals for Accounts Executive. Role success probability: 34%",
+      "skill_gap": {
+        "current_skills": [
+          {
+            "name": "Power BI",
+            "status": "Self-learnt",
+            "cert": null
+          }
+        ],
+        "missing_skills": []
+      },
+      "learning_roadmap": [
+        {
+          "step": "Step 1 - Foundation Skills",
+          "description": "Master prerequisites and theoretical fundamentals."
+        },
+        {
+          "step": "Step 2 - Core Technical Skills",
+          "description": "Learn core technologies."
+        },
+        {
+          "step": "Step 3 - Advanced Applications",
+          "description": "Apply skills in complex scenarios."
+        },
+        {
+          "step": "Step 4 - Projects & Portfolio",
+          "description": "Deploy market-ready portfolios demonstrating these skills."
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Certified Accounts Executive Professional",
+          "issuer": "Industry Standard Provider",
+          "difficulty": "Intermediate",
+          "duration": "3 months"
+        }
+      ],
+      "free_courses": [
+        {
+          "course_name": "Accounts Executive Crash Course",
+          "platform": "YouTube / Coursera",
+          "link_status": "Free"
+        }
+      ],
+      "projects": [
+        {
+          "project_name": "Accounts Executive Capstone",
+          "description": "A complete end-to-end implementation.",
+          "skills_demonstrated": ""
+        }
+      ]
+    }
+  },
+  "profile_hash": "7fd68b7e4fb4f76921b327e2de269505d3e618d8abf7821a762edcbdacd22ba2",
+  "created_at": "2026-03-28T11:54:38.488Z"
+}

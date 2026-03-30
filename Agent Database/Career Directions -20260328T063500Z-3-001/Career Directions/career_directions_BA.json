@@ -1,0 +1,987 @@
+{
+  "BA English": {
+    "degree": "BA English",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Content & Creative Writing",
+        "direction_description": "Creating written content for digital platforms, brands, publications, and media organisations.",
+        "direction_type": "Primary",
+        "roles": [
+          "Copywriter",
+          "Content Strategist",
+          "Technical Writer",
+          "Medical Writer",
+          "EdTech Content Developer"
+        ],
+        "why_primary": "BA English develops advanced writing, editing, and communication skills that are the direct foundation for content and creative writing careers."
+      },
+      {
+        "direction_name": "Media, PR & Communications",
+        "direction_description": "Building careers in journalism, public relations, and brand communications.",
+        "direction_type": "Primary",
+        "roles": [
+          "PR Executive",
+          "Advertising Account Executive",
+          "Social Media Manager",
+          "Brand Executive",
+          "Media Planner"
+        ],
+        "why_primary": "Language proficiency and critical thinking from BA English are highly valued in media, PR, and communications roles across industries."
+      },
+      {
+        "direction_name": "Education & Training",
+        "direction_description": "Teaching English language and literature in schools, coaching centres, and corporate settings.",
+        "direction_type": "Primary",
+        "roles": [
+          "Teacher (School)",
+          "Language Trainer",
+          "Corporate Trainer",
+          "Lecturer (College Junior)",
+          "Curriculum Developer"
+        ],
+        "why_primary": "English graduates are among the most in-demand for teaching roles in India, with schools and coaching institutions actively recruiting them."
+      },
+      {
+        "direction_name": "Digital Marketing & SEO",
+        "direction_description": "Using writing and language skills to drive digital marketing and SEO-led content strategies.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Digital Marketing Executive",
+          "SEO/SEM Specialist",
+          "Email Marketing Specialist",
+          "Influencer Marketing Coordinator"
+        ],
+        "additional_skills_needed": "SEO tools (Ahrefs, SEMrush), Google Analytics, content management systems, basic HTML, social platform algorithms",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Legal Research & Compliance",
+        "direction_description": "Supporting legal documentation, research, and regulatory compliance using strong language and analytical skills.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Legal Researcher",
+          "Contract Manager",
+          "Compliance Officer",
+          "Legal Associate"
+        ],
+        "additional_skills_needed": "Legal writing and drafting, Indian legal research tools (SCC, Manupatra), LLB or paralegal certification, contract law basics",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "UX Writing & Product Communication",
+        "direction_description": "Crafting microcopy, user flows, and product content for digital products and apps.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Technical Writer",
+          "UI/UX Designer",
+          "Product Manager (Associate)",
+          "Content Strategist"
+        ],
+        "additional_skills_needed": "UX writing principles, Figma basics, information architecture, user research methods, product thinking",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "UX writing is a growing niche in India's tech industry; English graduates have a natural language advantage but need to learn product and design thinking to compete effectively."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a content agency, language training institute, or digital publishing venture.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Copywriter",
+          "Content Strategist",
+          "Language Trainer"
+        ],
+        "additional_skills_needed": "Client acquisition, freelance pricing and contracts, GST registration, content operations tools, personal brand building",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Content and language entrepreneurship is among the most accessible for arts graduates; building a portfolio and freelance client base while employed is the most proven entry path."
+      }
+    ]
+  },
+  "BA History": {
+    "degree": "BA History",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Education & Academic Research",
+        "direction_description": "Teaching history and social sciences in schools and colleges, or pursuing academic research.",
+        "direction_type": "Primary",
+        "roles": [
+          "Teacher (School)",
+          "Lecturer (College Junior)",
+          "Research Associate",
+          "Academic Coordinator",
+          "Curriculum Developer"
+        ],
+        "why_primary": "Teaching and research are the most direct career paths for history graduates in India, with consistent demand across schools and higher education institutions."
+      },
+      {
+        "direction_name": "Civil Services & Public Administration",
+        "direction_description": "Preparing for UPSC and state PSC exams where history is a core optional and general studies subject.",
+        "direction_type": "Primary",
+        "roles": [
+          "Management Trainee",
+          "Operations Executive",
+          "Research Associate",
+          "Programme Coordinator"
+        ],
+        "why_primary": "History is one of the most popular UPSC optionals and the analytical skills developed map well to public administration and policy roles."
+      },
+      {
+        "direction_name": "Content, Writing & Media",
+        "direction_description": "Creating historical content, editorial writing, and media productions for publications and platforms.",
+        "direction_type": "Primary",
+        "roles": [
+          "Content Strategist",
+          "Copywriter",
+          "Technical Writer",
+          "EdTech Content Developer",
+          "PR Executive"
+        ],
+        "why_primary": "Strong research, writing, and narrative skills from BA History are directly applicable to content creation and media roles."
+      },
+      {
+        "direction_name": "Heritage, Culture & Tourism",
+        "direction_description": "Working in heritage tourism, museum management, and cultural documentation roles.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Travel Consultant",
+          "Tour Operations Executive",
+          "Event Manager",
+          "Academic Coordinator"
+        ],
+        "additional_skills_needed": "Heritage tourism regulations, ASI frameworks, museum management basics, cultural documentation tools, tour guiding certification",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Legal Research & Policy Analysis",
+        "direction_description": "Supporting legal research, policy documentation, and regulatory analysis roles.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Legal Researcher",
+          "Research Associate",
+          "Compliance Officer",
+          "Contract Manager"
+        ],
+        "additional_skills_needed": "Legal research tools (Manupatra, SCC), policy writing, constitutional law basics, LLB or PG Diploma in Law",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Archival & Digital Humanities",
+        "direction_description": "Digitising, curating, and managing historical archives and cultural heritage data.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Research Associate",
+          "EdTech Content Developer",
+          "Data Analyst",
+          "Academic Coordinator"
+        ],
+        "additional_skills_needed": "Digital archiving tools, metadata standards, GIS for historical mapping, data management basics, library and information science concepts",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Digital humanities is an emerging field in India with opportunities in government archives, universities, and cultural institutions; requires significant self-driven upskilling in digital tools."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a heritage tourism business, educational content platform, or cultural research consultancy.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Tour Operations Executive",
+          "Content Strategist",
+          "Research Associate"
+        ],
+        "additional_skills_needed": "Tour operator licensing, digital content monetisation, educational platform setup, grant writing for cultural projects",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Heritage and education entrepreneurship is viable but niche; success depends on building strong community networks and digital presence before going fully independent."
+      }
+    ]
+  },
+  "BA Political Science": {
+    "degree": "BA Political Science",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Civil Services & Public Policy",
+        "direction_description": "Pursuing UPSC, state PSC, and public policy roles in government and policy think tanks.",
+        "direction_type": "Primary",
+        "roles": [
+          "Research Associate",
+          "Programme Coordinator",
+          "Management Trainee",
+          "Operations Executive"
+        ],
+        "why_primary": "Political Science is among the most aligned degrees for civil services aspirants; governance, IR, and constitutional studies directly support UPSC preparation."
+      },
+      {
+        "direction_name": "Journalism & Media",
+        "direction_description": "Reporting on political affairs, policy, and governance for news organisations and digital media.",
+        "direction_type": "Primary",
+        "roles": [
+          "PR Executive",
+          "Content Strategist",
+          "Copywriter",
+          "Social Media Manager",
+          "Market Research Analyst"
+        ],
+        "why_primary": "Political awareness and analytical writing from BA Political Science translate directly into journalism and political media roles."
+      },
+      {
+        "direction_name": "Legal Research & Compliance",
+        "direction_description": "Supporting legal and regulatory functions with constitutional and policy expertise.",
+        "direction_type": "Primary",
+        "roles": [
+          "Legal Researcher",
+          "Compliance Officer",
+          "Regulatory Affairs Analyst",
+          "Contract Manager",
+          "Legal Associate"
+        ],
+        "why_primary": "Constitutional law, international relations, and governance studies give Political Science graduates strong preparation for legal research and compliance roles."
+      },
+      {
+        "direction_name": "NGO, Development & Social Sector",
+        "direction_description": "Working in development organisations, NGOs, and international agencies on social impact programmes.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Programme Coordinator",
+          "Research Associate",
+          "HR Executive",
+          "Operations Executive"
+        ],
+        "additional_skills_needed": "Development sector frameworks, M&E tools, grant writing, FCRA regulations, project management basics",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Corporate Affairs & Regulatory",
+        "direction_description": "Managing government relations, regulatory compliance, and public affairs for corporates.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Regulatory Affairs Analyst",
+          "Compliance Officer",
+          "Business Analyst",
+          "Strategy Analyst"
+        ],
+        "additional_skills_needed": "Corporate governance frameworks, SEBI/RBI/regulatory body procedures, stakeholder management, policy analysis tools",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "International Relations & Diplomacy",
+        "direction_description": "Working in international organisations, think tanks, or diplomatic support roles.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Research Associate",
+          "Programme Coordinator",
+          "Legal Researcher",
+          "Regulatory Affairs Analyst"
+        ],
+        "additional_skills_needed": "International law basics, UN system knowledge, foreign language proficiency, Masters in IR or Diplomacy, fellowship programmes (MEA, ICCR)",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Formal diplomacy roles require IFS exam clearance; international organisation roles typically require a postgraduate degree and language skills beyond the UG level."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a policy research firm, political consultancy, or civic-tech venture.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Research Associate",
+          "Content Strategist",
+          "Market Research Analyst"
+        ],
+        "additional_skills_needed": "Political campaign management, data analytics for elections, civic tech tools, client development, fundraising basics",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Political consulting and civic entrepreneurship is an emerging space in India; building credibility through research publications and policy networks before going independent is strongly advised."
+      }
+    ]
+  },
+  "BA Psychology": {
+    "degree": "BA Psychology",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "HR & People Management",
+        "direction_description": "Applying behavioural and psychological knowledge to recruitment, engagement, and organisational development roles.",
+        "direction_type": "Primary",
+        "roles": [
+          "HR Executive",
+          "Recruitment Specialist",
+          "Employee Engagement Executive",
+          "Training and Development Coordinator",
+          "Organisation Development Associate"
+        ],
+        "why_primary": "Human behaviour, motivation, and organisational psychology from BA Psychology directly prepare graduates for people-focused HR roles — among the most common placements for psych graduates in India."
+      },
+      {
+        "direction_name": "Counselling & Mental Health Support",
+        "direction_description": "Providing psychological support, counselling, and mental wellness services in clinical and corporate settings.",
+        "direction_type": "Primary",
+        "roles": [
+          "Hospital Administrator",
+          "Public Health Analyst",
+          "Corporate Trainer",
+          "Education Counsellor"
+        ],
+        "why_primary": "Core counselling, developmental, and clinical psychology modules make graduates foundational contributors in mental health and wellness settings."
+      },
+      {
+        "direction_name": "Education & Research",
+        "direction_description": "Teaching psychology and conducting behavioural research in academic and corporate research settings.",
+        "direction_type": "Primary",
+        "roles": [
+          "Teacher (School)",
+          "Research Associate",
+          "Lecturer (College Junior)",
+          "Instructional Designer",
+          "Curriculum Developer"
+        ],
+        "why_primary": "Psychology graduates are well-suited to research and education roles given their training in research methodology, statistics, and learning theory."
+      },
+      {
+        "direction_name": "Market Research & Consumer Insights",
+        "direction_description": "Applying understanding of consumer behaviour and research methods in market research and insights roles.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Market Research Analyst",
+          "Business Analyst",
+          "Data Analyst",
+          "CRM Executive"
+        ],
+        "additional_skills_needed": "SPSS/R for survey analysis, qualitative research methods, consumer behaviour frameworks, Google Analytics basics",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "UX Research & Design",
+        "direction_description": "Applying psychological research methods to understand user behaviour and improve digital product experiences.",
+        "direction_type": "Secondary",
+        "roles": [
+          "UI/UX Designer",
+          "Market Research Analyst",
+          "Product Manager (Associate)",
+          "Technical Writer"
+        ],
+        "additional_skills_needed": "UX research methods, Figma, usability testing, information architecture, human-computer interaction basics",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Clinical Psychology & Therapy",
+        "direction_description": "Practising as a licensed clinical psychologist or therapist in hospitals and private practice.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Hospital Administrator",
+          "Public Health Analyst",
+          "Research Associate"
+        ],
+        "additional_skills_needed": "MA/MSc Clinical Psychology (RCI mandatory), RCI registration, supervised clinical hours, therapeutic modality training (CBT, DBT)",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Clinical practice in India legally requires RCI registration which mandates a postgraduate degree; a BA Psychology is a necessary first step but not sufficient to practise independently."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a mental wellness platform, corporate training firm, or psychological assessment consultancy.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Corporate Trainer",
+          "Employee Engagement Executive",
+          "Education Counsellor"
+        ],
+        "additional_skills_needed": "Business registration, wellness programme design, digital platform basics, client acquisition, insurance and liability awareness",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Mental wellness entrepreneurship is growing rapidly in India; however, credibility and client trust require postgraduate qualification and supervised experience before going independent."
+      }
+    ]
+  },
+  "BA Sociology": {
+    "degree": "BA Sociology",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Social Sector & Development Work",
+        "direction_description": "Working with NGOs, CSR teams, and development organisations on social impact programmes.",
+        "direction_type": "Primary",
+        "roles": [
+          "Programme Coordinator",
+          "Research Associate",
+          "Operations Executive",
+          "HR Executive"
+        ],
+        "why_primary": "Social theory, research methods, and community engagement from BA Sociology are directly applicable to development sector and CSR roles — among the most common first placements."
+      },
+      {
+        "direction_name": "HR & Organisational Development",
+        "direction_description": "Applying sociological understanding of groups and institutions to HR and OD functions.",
+        "direction_type": "Primary",
+        "roles": [
+          "HR Executive",
+          "Employee Engagement Executive",
+          "Organisation Development Associate",
+          "Training and Development Coordinator",
+          "Recruitment Specialist"
+        ],
+        "why_primary": "Sociology's focus on group dynamics, institutions, and human behaviour maps well to HR and organisational development roles."
+      },
+      {
+        "direction_name": "Research & Content",
+        "direction_description": "Conducting social research and creating content for academic, media, and policy organisations.",
+        "direction_type": "Primary",
+        "roles": [
+          "Research Associate",
+          "Content Strategist",
+          "Market Research Analyst",
+          "Copywriter",
+          "EdTech Content Developer"
+        ],
+        "why_primary": "Strong qualitative research and analytical writing skills from BA Sociology are valued in research, content, and media organisations."
+      },
+      {
+        "direction_name": "Public Health & Community Work",
+        "direction_description": "Supporting public health programmes and community outreach initiatives.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Public Health Analyst",
+          "Hospital Administrator",
+          "Programme Coordinator",
+          "Nutritionist/Dietician"
+        ],
+        "additional_skills_needed": "Public health frameworks, community mobilisation, health data basics, HMIS tools, NGO grant writing",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Digital Marketing & Social Media",
+        "direction_description": "Applying social insights and communication skills to digital marketing and community management.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Social Media Manager",
+          "Digital Marketing Executive",
+          "Content Strategist",
+          "Market Research Analyst"
+        ],
+        "additional_skills_needed": "Social media analytics, content creation tools, Google Analytics, community management frameworks",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Policy Research & Advocacy",
+        "direction_description": "Contributing to policy analysis, advocacy campaigns, and social justice research at think tanks and foundations.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Research Associate",
+          "Legal Researcher",
+          "Programme Coordinator",
+          "Compliance Officer"
+        ],
+        "additional_skills_needed": "Policy writing and analysis, UPSC/policy institute entrance preparation, quantitative research tools, Masters in Social Policy or Public Policy",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Policy and advocacy roles in credible think tanks typically require postgraduate qualifications; a BA Sociology is a strong foundation but further specialisation is necessary."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a social enterprise, community development consultancy, or impact-focused training firm.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Programme Coordinator",
+          "Corporate Trainer",
+          "Content Strategist"
+        ],
+        "additional_skills_needed": "Social enterprise registration (Section 8/NGO), impact measurement, CSR funding frameworks, grant writing, community mobilisation",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Social entrepreneurship has growing support through SEBI social stock exchange and government schemes; building on-ground credibility and demonstrated impact is essential before scaling."
+      }
+    ]
+  },
+  "BA Economics": {
+    "degree": "BA Economics",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Financial Analysis & Banking",
+        "direction_description": "Analysing financial data and working in banking, credit, and investment roles.",
+        "direction_type": "Primary",
+        "roles": [
+          "Financial Analyst",
+          "Credit Analyst",
+          "Banking Officer (PO)",
+          "Investment Analyst",
+          "Risk Analyst"
+        ],
+        "why_primary": "Microeconomics, macroeconomics, and quantitative methods from BA Economics are directly valued by BFSI employers and banking institutions in India."
+      },
+      {
+        "direction_name": "Research & Policy Analysis",
+        "direction_description": "Conducting economic research and policy analysis for think tanks, government, and corporates.",
+        "direction_type": "Primary",
+        "roles": [
+          "Research Associate",
+          "Strategy Analyst",
+          "Market Research Analyst",
+          "Business Analyst",
+          "Data Analyst"
+        ],
+        "why_primary": "Economics training in research methodology, econometrics, and policy analysis directly prepares graduates for research and strategy roles."
+      },
+      {
+        "direction_name": "Business & Management Roles",
+        "direction_description": "Applying economic reasoning to business operations, strategy, and management functions.",
+        "direction_type": "Primary",
+        "roles": [
+          "Management Trainee",
+          "Business Analyst",
+          "Operations Executive",
+          "Supply Chain Executive",
+          "Business Development Executive"
+        ],
+        "why_primary": "Economics graduates are widely recruited by consulting firms, FMCG companies, and corporates for their analytical and commercial reasoning abilities."
+      },
+      {
+        "direction_name": "Data Analytics & Econometrics",
+        "direction_description": "Using statistical and data tools to generate quantitative insights for business and policy decisions.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Data Analyst",
+          "Data Scientist (Junior)",
+          "Fintech Analyst",
+          "Budget Analyst"
+        ],
+        "additional_skills_needed": "Python or R, SQL, Stata/SPSS, data visualisation (Tableau/Power BI), machine learning basics",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Accounting & Finance Operations",
+        "direction_description": "Managing financial operations, budgeting, and accounting functions in organisations.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Accountant",
+          "Budget Analyst",
+          "Financial Controller (Junior)",
+          "Tax Consultant"
+        ],
+        "additional_skills_needed": "Tally ERP, accounting standards basics, CA Inter concepts, direct and indirect taxation",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Actuarial Science & Insurance",
+        "direction_description": "Applying mathematical and statistical skills to insurance, risk, and actuarial functions.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Actuarial Analyst",
+          "Risk Analyst",
+          "Insurance Underwriter",
+          "Financial Analyst"
+        ],
+        "additional_skills_needed": "Actuarial exam preparation (IAI CT series), probability and statistics, Excel modelling, life and non-life insurance concepts",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Actuarial science is a high-value but exam-intensive career; BA Economics provides the mathematical foundation but passing IAI papers requires 12-24 months of focused preparation."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a financial advisory, economic consultancy, or data analytics venture.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Financial Analyst",
+          "Research Associate",
+          "Business Development Executive"
+        ],
+        "additional_skills_needed": "Business plan development, SEBI RIA concepts, client acquisition, digital tools, GST and company registration",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Economics graduates have one of the strongest analytical foundations for entrepreneurship among arts degrees; consulting and research-based ventures are the most accessible starting points."
+      }
+    ]
+  },
+  "BA Philosophy": {
+    "degree": "BA Philosophy",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Education & Academic Research",
+        "direction_description": "Teaching philosophy and humanities in schools and colleges, or conducting academic research.",
+        "direction_type": "Primary",
+        "roles": [
+          "Teacher (School)",
+          "Lecturer (College Junior)",
+          "Research Associate",
+          "Curriculum Developer",
+          "Academic Coordinator"
+        ],
+        "why_primary": "Teaching and research are the most established career pathways for philosophy graduates in India, with consistent demand from educational institutions."
+      },
+      {
+        "direction_name": "Content, Writing & Editorial",
+        "direction_description": "Creating thought-leadership content, editorial writing, and analytical commentary for media and organisations.",
+        "direction_type": "Primary",
+        "roles": [
+          "Copywriter",
+          "Content Strategist",
+          "Technical Writer",
+          "EdTech Content Developer",
+          "Research Associate"
+        ],
+        "why_primary": "Philosophical training in argumentation, critical analysis, and structured writing translates directly into high-quality content and editorial roles."
+      },
+      {
+        "direction_name": "Civil Services & Public Policy",
+        "direction_description": "Preparing for UPSC and other competitive examinations where analytical reasoning and ethics are core.",
+        "direction_type": "Primary",
+        "roles": [
+          "Research Associate",
+          "Programme Coordinator",
+          "Management Trainee",
+          "Strategy Analyst"
+        ],
+        "why_primary": "Philosophy is a recognised UPSC optional and the discipline's emphasis on ethics and reasoning aligns strongly with civil services examination preparation."
+      },
+      {
+        "direction_name": "HR & Organisational Ethics",
+        "direction_description": "Supporting people management, ethics policy, and organisational culture functions in corporates.",
+        "direction_type": "Secondary",
+        "roles": [
+          "HR Executive",
+          "Employee Engagement Executive",
+          "Training and Development Coordinator",
+          "Compliance Officer"
+        ],
+        "additional_skills_needed": "HR management basics, HRMS tools, organisational behaviour frameworks, labour law fundamentals",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Legal Research & Compliance",
+        "direction_description": "Applying logical reasoning and analytical skills to legal research and regulatory compliance.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Legal Researcher",
+          "Compliance Officer",
+          "Contract Manager",
+          "Legal Associate"
+        ],
+        "additional_skills_needed": "Legal research tools, constitutional and contract law basics, LLB or PG Diploma in Law, legal drafting",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "AI Ethics & Tech Policy",
+        "direction_description": "Advising technology companies and policy bodies on ethical AI, data privacy, and digital rights.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Data Protection Officer (Junior)",
+          "Compliance Officer",
+          "Research Associate",
+          "Legal Researcher"
+        ],
+        "additional_skills_needed": "AI ethics frameworks, GDPR/DPDPA basics, tech policy research, data governance, Masters in Digital Policy or Law & Technology",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "AI ethics is a fast-emerging niche globally but nascent in India; philosophy graduates are uniquely positioned for this field but need to combine philosophical expertise with tech policy and legal knowledge."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting an educational content venture, ethics consulting practice, or philosophical coaching business.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Corporate Trainer",
+          "Content Strategist",
+          "Education Counsellor"
+        ],
+        "additional_skills_needed": "Personal brand building, digital content monetisation, coaching certification, client development, platform tools (Substack, YouTube)",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Philosophy entrepreneurship is niche but growing in the creator economy; building a distinctive voice through writing, podcasting, or workshops before going commercial is the most proven approach."
+      }
+    ]
+  },
+  "BA Geography": {
+    "degree": "BA Geography",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Urban Planning & Environment",
+        "direction_description": "Working on urban development, spatial planning, and environmental management projects.",
+        "direction_type": "Primary",
+        "roles": [
+          "Environmental Impact Assessor",
+          "Sustainability Analyst",
+          "Water Resource Engineer",
+          "Civil Site Engineer"
+        ],
+        "why_primary": "Human and physical geography, urban studies, and environmental management are core BA Geography subjects directly applicable to planning and environment roles."
+      },
+      {
+        "direction_name": "GIS, Remote Sensing & Surveying",
+        "direction_description": "Using geospatial technologies and mapping tools for land use, infrastructure, and resource management.",
+        "direction_type": "Primary",
+        "roles": [
+          "Environmental Impact Assessor",
+          "Agricultural Officer",
+          "Soil Scientist",
+          "Research Associate"
+        ],
+        "why_primary": "GIS and remote sensing are standard BA Geography curriculum components and are increasingly in demand across infrastructure, agriculture, and environment sectors."
+      },
+      {
+        "direction_name": "Education & Research",
+        "direction_description": "Teaching geography in schools and colleges or conducting spatial and environmental research.",
+        "direction_type": "Primary",
+        "roles": [
+          "Teacher (School)",
+          "Lecturer (College Junior)",
+          "Research Associate",
+          "Curriculum Developer",
+          "Academic Coordinator"
+        ],
+        "why_primary": "Teaching and research are the most consistently available career paths for geography graduates across India's education sector."
+      },
+      {
+        "direction_name": "Tourism & Hospitality",
+        "direction_description": "Applying geographical knowledge in travel, tourism, and destination management roles.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Travel Consultant",
+          "Tour Operations Executive",
+          "Event Manager",
+          "Hotel Operations Executive"
+        ],
+        "additional_skills_needed": "Tourism management basics, destination marketing, travel booking platforms, IATA basics, customer service skills",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Climate & Sustainability Consulting",
+        "direction_description": "Supporting organisations with climate risk assessment and sustainability reporting.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Sustainability Analyst",
+          "Environmental Impact Assessor",
+          "Research Associate",
+          "Business Analyst"
+        ],
+        "additional_skills_needed": "ESG reporting frameworks, carbon accounting, climate risk tools, ISO 14001, BRSR reporting",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Disaster Management & Risk Assessment",
+        "direction_description": "Working in disaster risk reduction, climate adaptation, and emergency planning roles with government and NGOs.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Environmental Impact Assessor",
+          "Research Associate",
+          "Programme Coordinator",
+          "Safety Officer"
+        ],
+        "additional_skills_needed": "NDMA frameworks, disaster risk reduction tools, GIS for hazard mapping, UNDP/UNDRR programme awareness, Masters in Disaster Management",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Disaster management roles in India are largely through government agencies and international NGOs; a postgraduate degree and field exposure are typically required for entry-level specialist roles."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a GIS consultancy, eco-tourism venture, or environmental impact assessment firm.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Environmental Impact Assessor",
+          "Sustainability Analyst",
+          "Tour Operations Executive"
+        ],
+        "additional_skills_needed": "EIA regulatory process, MoEF&CC clearance procedures, GIS software licensing, client acquisition, project costing",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "GIS and EIA consulting entrepreneurship is viable but requires demonstrated expertise and regulatory knowledge; most successful consultants work in the field for 3-5 years before going independent."
+      }
+    ]
+  },
+  "BA Hindi": {
+    "degree": "BA Hindi",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Education & Language Training",
+        "direction_description": "Teaching Hindi language and literature in schools, coaching centres, and language institutes.",
+        "direction_type": "Primary",
+        "roles": [
+          "Teacher (School)",
+          "Language Trainer",
+          "Lecturer (College Junior)",
+          "Curriculum Developer",
+          "Academic Coordinator"
+        ],
+        "why_primary": "Hindi teachers are consistently in demand across government and private schools in India; BA Hindi is the most direct qualification for these roles."
+      },
+      {
+        "direction_name": "Content Writing & Translation",
+        "direction_description": "Creating Hindi content, translations, and editorial material for digital platforms and media.",
+        "direction_type": "Primary",
+        "roles": [
+          "Copywriter",
+          "Content Strategist",
+          "EdTech Content Developer",
+          "Technical Writer",
+          "Medical Writer"
+        ],
+        "why_primary": "Advanced Hindi language proficiency and literary training are directly applicable to Hindi content, translation, and localisation roles in India's growing digital ecosystem."
+      },
+      {
+        "direction_name": "Media, Journalism & Broadcasting",
+        "direction_description": "Working in Hindi print media, digital news portals, radio, and television broadcasting.",
+        "direction_type": "Primary",
+        "roles": [
+          "PR Executive",
+          "Social Media Manager",
+          "Brand Executive",
+          "Copywriter",
+          "Content Strategist"
+        ],
+        "why_primary": "Hindi media is one of the largest media markets in India; BA Hindi graduates with strong language skills are actively recruited by news organisations and broadcasters."
+      },
+      {
+        "direction_name": "Government & Administrative Services",
+        "direction_description": "Pursuing government roles including UPSC, SSC, state PSC, and Hindi officer positions in central government.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Management Trainee",
+          "Operations Executive",
+          "Programme Coordinator",
+          "Research Associate"
+        ],
+        "additional_skills_needed": "UPSC/SSC exam preparation, Hindi Rajbhasha officer exam, government noting and drafting, general studies preparation",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Digital Marketing in Hindi",
+        "direction_description": "Managing Hindi-language digital marketing, social media, and regional content campaigns.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Digital Marketing Executive",
+          "Social Media Manager",
+          "SEO/SEM Specialist",
+          "Influencer Marketing Coordinator"
+        ],
+        "additional_skills_needed": "Hindi SEO tools, social media management platforms, regional content strategy, video scripting in Hindi, analytics basics",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Scriptwriting & OTT Content",
+        "direction_description": "Writing scripts, dialogues, and stories for Hindi OTT platforms, films, and web series.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Copywriter",
+          "Content Strategist",
+          "Technical Writer",
+          "Animator"
+        ],
+        "additional_skills_needed": "Screenwriting structure and format, script development workshops, OTT platform pitch process, story bible writing, Final Draft or Celtx software",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Scriptwriting is a highly competitive field; building a body of work through short films, YouTube scripts, or theatre before approaching OTT platforms is strongly recommended."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a Hindi content agency, translation service, language coaching institute, or regional media channel.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Language Trainer",
+          "Copywriter",
+          "Content Strategist"
+        ],
+        "additional_skills_needed": "Content business monetisation, YouTube/podcast channel building, translation agency setup, digital marketing basics, GST registration",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Hindi content entrepreneurship has strong market potential given India's 500M+ Hindi-speaking internet users; starting with a YouTube channel or freelance content agency while employed is the most practical approach."
+      }
+    ]
+  },
+  "BA Journalism/Mass Communication": {
+    "degree": "BA Journalism/Mass Communication",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Journalism & Digital Media",
+        "direction_description": "Reporting, writing, and producing news content for print, digital, and broadcast media.",
+        "direction_type": "Primary",
+        "roles": [
+          "Content Strategist",
+          "Copywriter",
+          "PR Executive",
+          "Social Media Manager",
+          "Technical Writer"
+        ],
+        "why_primary": "Reporting, news writing, and media production are the core of BA Journalism/Mass Communication, making digital and print media the most natural first career destination."
+      },
+      {
+        "direction_name": "Advertising & Brand Communication",
+        "direction_description": "Creating and managing advertising campaigns and brand communication across platforms.",
+        "direction_type": "Primary",
+        "roles": [
+          "Advertising Account Executive",
+          "Brand Executive",
+          "Copywriter",
+          "Media Planner",
+          "PR Executive"
+        ],
+        "why_primary": "Advertising fundamentals, brand communication, and media planning are core curriculum components of Mass Communication programmes."
+      },
+      {
+        "direction_name": "Digital Marketing & Social Media",
+        "direction_description": "Driving brand growth and audience engagement through digital channels and social platforms.",
+        "direction_type": "Primary",
+        "roles": [
+          "Digital Marketing Executive",
+          "Social Media Manager",
+          "SEO/SEM Specialist",
+          "Performance Marketing Analyst",
+          "Influencer Marketing Coordinator"
+        ],
+        "why_primary": "Digital media skills, audience analytics, and content strategy are taught as applied subjects in BJMC programmes, making graduates job-ready for digital marketing roles."
+      },
+      {
+        "direction_name": "Video, Film & OTT Production",
+        "direction_description": "Producing video content, documentaries, and digital series for OTT platforms and brands.",
+        "direction_type": "Primary",
+        "roles": [
+          "Video Editor",
+          "Motion Graphics Designer",
+          "Animator",
+          "Content Strategist",
+          "Copywriter"
+        ],
+        "why_primary": "Video production, editing, and visual storytelling are hands-on components of Mass Communication degrees directly applicable to the booming OTT and video content market."
+      },
+      {
+        "direction_name": "Event Management & PR",
+        "direction_description": "Planning and managing events, launches, and public relations campaigns for brands and organisations.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Event Manager",
+          "PR Executive",
+          "Brand Executive",
+          "Advertising Account Executive"
+        ],
+        "additional_skills_needed": "Event production logistics, vendor management, sponsorship pitching, crisis communication, influencer outreach",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Market Research & Insights",
+        "direction_description": "Applying audience and media research skills to consumer insights and market research roles.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Market Research Analyst",
+          "Business Analyst",
+          "Data Analyst",
+          "CRM Executive"
+        ],
+        "additional_skills_needed": "SPSS/Google Analytics, survey design, media audience measurement tools (BARC, comScore), quantitative research methods",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Documentary & Investigative Journalism",
+        "direction_description": "Producing long-form investigative journalism, documentary films, and data journalism.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Video Editor",
+          "Content Strategist",
+          "Research Associate",
+          "Copywriter"
+        ],
+        "additional_skills_needed": "Data journalism tools, RTI filing process, video documentary production, grant writing for journalism (IJF, Pulitzer Centre), investigative reporting frameworks",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Investigative and documentary journalism requires building a strong portfolio of published work; independent journalists typically need 2-3 years in mainstream media before going fully independent."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a digital media outlet, content agency, podcast network, or video production company.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Content Strategist",
+          "Digital Marketing Executive",
+          "Brand Executive"
+        ],
+        "additional_skills_needed": "Media business models, YouTube/podcast monetisation, content distribution, team building, GST registration, advertising sales",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Media entrepreneurship is one of the most accessible for BJMC graduates; starting with a niche content channel or freelance agency before scaling into a full media business is the most proven path."
+      }
+    ]
+  }
+}

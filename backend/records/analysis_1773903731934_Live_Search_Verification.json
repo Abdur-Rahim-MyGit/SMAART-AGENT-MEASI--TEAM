@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-03-19T07:02:11.934Z",
+  "status": "failed",
+  "input_user_data": {
+    "personalDetails": {
+      "name": "Live_Search_Verification",
+      "email": "live@test.com"
+    },
+    "preferences": {
+      "primary": {
+        "role": "AI Developer"
+      }
+    }
+  },
+  "output_generated_report": null,
+  "error": "Cannot read properties of undefined (reading 'role')"
+}

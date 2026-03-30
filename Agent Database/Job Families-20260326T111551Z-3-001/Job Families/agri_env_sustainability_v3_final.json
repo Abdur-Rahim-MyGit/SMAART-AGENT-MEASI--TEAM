@@ -1,0 +1,3050 @@
+[
+  {
+    "skill_name": "Soil Science and Soil Health",
+    "skill_category": "Domain",
+    "skill_description": "Analysing soil physical, chemical, and biological properties to diagnose fertility status and recommend soil management interventions.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Soil Sampling and Testing",
+    "skill_category": "Domain",
+    "skill_description": "Collecting representative soil samples and interpreting laboratory test results for fertiliser recommendations and crop planning.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Crop Production and Agronomy",
+    "skill_category": "Domain",
+    "skill_description": "Managing crop cultivation practices including variety selection, sowing, irrigation, and harvest for major Indian crops.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Kharif Crop Management",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing cultivation practices for kharif season crops including paddy, maize, cotton, soybean, and groundnut.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Rabi Crop Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing rabi season crops including wheat, mustard, chickpea, and potato with appropriate sowing time and input management.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Integrated Crop Management",
+    "skill_category": "Domain",
+    "skill_description": "Combining agronomic, biological, and chemical crop management practices to optimise yield while minimising environmental impact.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Seed Technology and Seed Quality",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating seed quality parameters, germination testing, and selecting certified seeds for improved crop establishment.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Fertiliser Management",
+    "skill_category": "Domain",
+    "skill_description": "Recommending and applying macro and micronutrient fertilisers based on soil test values and crop nutrient demand.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Irrigation Management",
+    "skill_category": "Domain",
+    "skill_description": "Planning and operating irrigation schedules using crop water requirement calculations for efficient water use in agriculture.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Drip Irrigation Design and Operation",
+    "skill_category": "Technical",
+    "skill_description": "Designing and managing drip irrigation systems for field crops, orchards, and vegetables for precision water delivery.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Sprinkler Irrigation Systems",
+    "skill_category": "Technical",
+    "skill_description": "Installing and operating sprinkler irrigation systems for uniform water distribution in field crops and vegetable farms.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Micro-irrigation under PMKSY",
+    "skill_category": "Domain",
+    "skill_description": "Implementing micro-irrigation projects under Pradhan Mantri Krishi Sinchayee Yojana for subsidised drip and sprinkler adoption.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Pest Identification and Management",
+    "skill_category": "Domain",
+    "skill_description": "Identifying insect pests, diseases, and weeds affecting crops and prescribing appropriate management strategies.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Integrated Pest Management (IPM)",
+    "skill_category": "Domain",
+    "skill_description": "Applying IPM principles combining biological, cultural, mechanical, and judicious chemical control to manage crop pests sustainably.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Pesticide Application and Safety",
+    "skill_category": "Domain",
+    "skill_description": "Calibrating and operating pesticide application equipment safely while complying with Central Insecticides Board and Registration Committee norms.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Weed Management",
+    "skill_category": "Domain",
+    "skill_description": "Identifying and controlling weeds in crops using cultural, mechanical, and herbicide-based methods to prevent yield losses.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Plant Disease Management",
+    "skill_category": "Domain",
+    "skill_description": "Diagnosing fungal, bacterial, and viral plant diseases and applying appropriate biological and chemical management strategies.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Horticulture and Vegetable Production",
+    "skill_category": "Domain",
+    "skill_description": "Managing production of vegetables, fruits, flowers, and spices using good agricultural practices for commercial horticulture.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Fruit Orchard Management",
+    "skill_category": "Domain",
+    "skill_description": "Establishing and managing commercial fruit orchards including mango, banana, apple, and citrus using recommended production practices.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Protected Cultivation and Polyhouse Farming",
+    "skill_category": "Technical",
+    "skill_description": "Operating polyhouse and net house structures for protected cultivation of high-value vegetables and flowers.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Organic Farming Practices",
+    "skill_category": "Domain",
+    "skill_description": "Implementing organic crop production methods including green manuring, composting, and biological pest control to meet organic certification standards.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "NPOP and PGS-India Organic Certification",
+    "skill_category": "Domain",
+    "skill_description": "Complying with National Programme for Organic Production and Participatory Guarantee System standards for organic certification in India.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Vermicomposting",
+    "skill_category": "Domain",
+    "skill_description": "Producing vermicompost using earthworm-based decomposition of organic waste for soil enrichment in farms and nurseries.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Composting Methods",
+    "skill_category": "Domain",
+    "skill_description": "Preparing Nadep, pit, and windrow compost from crop residues and farm waste for organic nutrient management.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Biofertiliser Application",
+    "skill_category": "Domain",
+    "skill_description": "Using Rhizobium, Azotobacter, PSB, and mycorrhizal biofertilisers to supplement nitrogen and phosphorus nutrition in crops.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Natural Farming (ZBNF)",
+    "skill_category": "Domain",
+    "skill_description": "Practising Zero Budget Natural Farming using Jeevamrutha, Bijamrutha, and Ghanajivamrutha inputs under Andhra Pradesh APCNF model.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Climate-Smart Agriculture",
+    "skill_category": "Domain",
+    "skill_description": "Adapting agricultural practices to climate variability through drought-tolerant varieties, water harvesting, and resilient cropping systems.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Crop Insurance and PM-Fasal Bima Yojana",
+    "skill_category": "Domain",
+    "skill_description": "Facilitating farmer enrolment in Pradhan Mantri Fasal Bima Yojana and RWBCIS crop insurance schemes for risk mitigation.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Agricultural Extension and Farmer Advisory",
+    "skill_category": "Domain",
+    "skill_description": "Providing technical guidance to farmers through field visits, demonstrations, and Kisan Melas to promote improved agricultural practices.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Krishi Vigyan Kendra Operations",
+    "skill_category": "Domain",
+    "skill_description": "Delivering front-line demonstrations, vocational training, and technology assessment activities through KVK district-level programmes.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Farm Management and Planning",
+    "skill_category": "Domain",
+    "skill_description": "Preparing farm production plans, budgets, and input schedules to optimise resource use and profitability on commercial farms.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Agricultural Economics",
+    "skill_category": "Domain",
+    "skill_description": "Analysing farm enterprise budgets, input-output ratios, and market economics to support farm business decision-making.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Minimum Support Price (MSP) Policy",
+    "skill_category": "Domain",
+    "skill_description": "Understanding MSP fixing methodology, notified crop MSPs, and procurement operations under FCI and state agencies.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Agricultural Marketing and Value Chains",
+    "skill_category": "Domain",
+    "skill_description": "Analysing agricultural commodity markets, price trends, and supply chain linkages from farm to consumer in India.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "e-NAM and Digital Agricultural Markets",
+    "skill_category": "Technical",
+    "skill_description": "Using the National Agriculture Market (e-NAM) platform to facilitate electronic trading of agricultural commodities across APMCs.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "APMC and Mandi Regulations",
+    "skill_category": "Domain",
+    "skill_description": "Navigating Agricultural Produce Market Committee regulations, mandi fee structures, and licensed trader requirements across Indian states.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Farmer Producer Organisation (FPO) Management",
+    "skill_category": "Domain",
+    "skill_description": "Establishing and managing FPOs under NABARD and SFAC guidelines for collective input procurement and produce marketing.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Commodity Futures and Derivatives",
+    "skill_category": "Domain",
+    "skill_description": "Understanding price discovery through MCX and NCDEX commodity futures markets and advising farmers on hedging mechanisms for agricultural commodity price risk.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Food Processing Technology",
+    "skill_category": "Domain",
+    "skill_description": "Applying food preservation, packaging, and value addition techniques to extend shelf life of agricultural produce.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Cold Chain Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing temperature-controlled storage and transportation for perishable agricultural commodities to reduce post-harvest losses.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Post-Harvest Technology",
+    "skill_category": "Domain",
+    "skill_description": "Applying grading, cleaning, sorting, and packaging techniques to improve the marketability and shelf life of harvested produce.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Warehouse and Storage Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing grain storage facilities, quality monitoring, and pest control in warehouses compliant with Warehousing Development Regulatory Authority norms.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "FSSAI Food Safety Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring food products comply with FSSAI standards, licensing requirements, and labelling regulations for domestic sale.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Agri-Input Dealership and Retail",
+    "skill_category": "Domain",
+    "skill_description": "Managing retail of seeds, fertilisers, and pesticides with valid dealer licences under Fertiliser Control Order and Insecticide Act.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Remote Sensing and Satellite Imagery",
+    "skill_category": "Technical",
+    "skill_description": "Interpreting satellite imagery from ISRO's Resourcesat, Sentinel, and Landsat for crop mapping and land use analysis.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Geographic Information System (GIS)",
+    "skill_category": "Technical",
+    "skill_description": "Using GIS software to create, analyse, and visualise spatial data for agricultural, environmental, and resource planning.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "ArcGIS",
+    "skill_category": "Technical",
+    "skill_description": "Using Esri ArcGIS for spatial data analysis, map creation, and environmental resource mapping in agriculture and environment sectors.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "QGIS",
+    "skill_category": "Technical",
+    "skill_description": "Using open-source QGIS software for land use mapping, watershed delineation, and spatial analysis in field projects.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Google Earth Engine",
+    "skill_category": "Technical",
+    "skill_description": "Using Google Earth Engine cloud platform for large-scale land cover analysis, NDVI time series, and environmental monitoring.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Drone and UAV Operations in Agriculture",
+    "skill_category": "Technical",
+    "skill_description": "Operating agricultural drones for crop scouting, aerial spraying, and field mapping within DGCA regulatory framework.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "DGCA Drone Regulations for Agriculture",
+    "skill_category": "Domain",
+    "skill_description": "Complying with DGCA drone registration, pilot licensing, and operational norms for agricultural drone applications in India.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Precision Agriculture",
+    "skill_category": "Domain",
+    "skill_description": "Applying variable rate technology, GPS-guided equipment, and sensor data to manage within-field crop variability efficiently.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Soil Nutrient Mapping",
+    "skill_category": "Technical",
+    "skill_description": "Creating geo-referenced soil fertility maps from grid sampling data to guide variable rate fertiliser application.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Crop Monitoring using NDVI",
+    "skill_category": "Technical",
+    "skill_description": "Calculating Normalised Difference Vegetation Index from satellite or drone imagery to assess crop health and biomass.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Weather Data Interpretation",
+    "skill_category": "Domain",
+    "skill_description": "Analysing IMD daily weather bulletins, district-level agromet advisories, and automated weather station data for crop sowing, irrigation, and input management decisions.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Agrometeorological Services",
+    "skill_category": "Domain",
+    "skill_description": "Using IMD's Gramin Krishi Mausam Sewa seasonal forecasts, block-level crop weather calendars, and agrometeorological field units to plan farm operations.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Environmental Impact Assessment (EIA)",
+    "skill_category": "Domain",
+    "skill_description": "Conducting and reviewing Environmental Impact Assessments as per MoEFCC EIA Notification 2006 for infrastructure and industrial projects.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Environmental Clearance Process",
+    "skill_category": "Domain",
+    "skill_description": "Managing the environmental clearance application process under MoEFCC for Category A and Category B projects in India.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Environmental Compliance Auditing",
+    "skill_category": "Domain",
+    "skill_description": "Conducting environmental audits to assess compliance with consent conditions, emission limits, and pollution control norms.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Pollution Control Board Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Obtaining and renewing Consent to Establish and Consent to Operate from State Pollution Control Boards for industrial units.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Air Pollution Monitoring",
+    "skill_category": "Technical",
+    "skill_description": "Collecting and analysing ambient air quality data using monitoring equipment to assess compliance with NAAQS standards.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Water Quality Monitoring",
+    "skill_category": "Technical",
+    "skill_description": "Sampling and testing surface water, groundwater, and wastewater parameters for compliance with IS 10500 and effluent standards.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Noise Pollution Monitoring",
+    "skill_category": "Technical",
+    "skill_description": "Measuring ambient noise levels using sound level meters and comparing with permissible limits under Noise Pollution Rules 2000.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Effluent Treatment Plant (ETP) Operation",
+    "skill_category": "Technical",
+    "skill_description": "Operating and maintaining effluent treatment plants to ensure treated effluent meets discharge standards set by SPCBs.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Sewage Treatment Plant (STP) Operation",
+    "skill_category": "Technical",
+    "skill_description": "Managing sewage treatment plant operations including biological treatment processes and sludge handling for urban wastewater.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Solid Waste Management",
+    "skill_category": "Domain",
+    "skill_description": "Implementing Solid Waste Management Rules 2016 for collection, segregation, processing, and disposal of municipal solid waste.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Hazardous Waste Management",
+    "skill_category": "Domain",
+    "skill_description": "Handling, storing, transporting, and disposing hazardous waste in compliance with Hazardous Waste Management Rules 2016.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Biomedical Waste Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing biomedical waste generation, segregation, treatment, and disposal as per Biomedical Waste Management Rules 2016.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "E-waste Management",
+    "skill_category": "Domain",
+    "skill_description": "Applying E-waste Management Rules 2022 for collection, channelisation, and recycling of electronic and electrical waste.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Carbon Footprint Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Calculating organisational or product greenhouse gas emissions using GHG Protocol methodology for reporting and reduction planning.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Carbon Credits and Offset Markets",
+    "skill_category": "Domain",
+    "skill_description": "Understanding voluntary carbon markets, offset project development, and India's Carbon Credit Trading Scheme under Energy Conservation Act.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Life Cycle Assessment (LCA)",
+    "skill_category": "Domain",
+    "skill_description": "Conducting ISO 14040/14044-compliant life cycle assessments to quantify environmental impacts of products or processes.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "ISO 14001 Environmental Management System",
+    "skill_category": "Domain",
+    "skill_description": "Implementing and maintaining ISO 14001 Environmental Management System in organisations for systematic environmental performance improvement.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Environmental Policy and Legislation",
+    "skill_category": "Domain",
+    "skill_description": "Applying the Environment Protection Act 1986, Water Act 1974, Air Act 1981, and Forest Conservation Act in professional practice.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Forest Rights and Conservation",
+    "skill_category": "Domain",
+    "skill_description": "Understanding Forest Rights Act 2006, Scheduled Tribe and Forest Dweller rights, and community forest resource management.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Wildlife Protection Act Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring field activities and projects comply with Wildlife Protection Act 1972 requirements for protected area and species management.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Biodiversity Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Conducting flora, fauna, and ecosystem surveys to document biodiversity status and prepare Biodiversity Management Plans.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Biological Diversity Act and BMCs",
+    "skill_category": "Domain",
+    "skill_description": "Implementing Biological Diversity Act 2002 provisions and supporting establishment of Biodiversity Management Committees at local level.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Ecosystem Services Valuation",
+    "skill_category": "Domain",
+    "skill_description": "Quantifying provisioning, regulating, cultural, and supporting ecosystem services for natural capital accounting and policy support.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Watershed Management",
+    "skill_category": "Domain",
+    "skill_description": "Planning and implementing integrated watershed development activities including soil conservation, water harvesting, and vegetation restoration.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Groundwater Management",
+    "skill_category": "Domain",
+    "skill_description": "Assessing groundwater levels, recharge potential, and quality for sustainable abstraction management under Central Ground Water Authority norms.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Rainwater Harvesting",
+    "skill_category": "Domain",
+    "skill_description": "Designing and implementing rooftop and surface rainwater harvesting structures for domestic, agricultural, and industrial water augmentation.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Wetland Conservation and Ramsar Sites",
+    "skill_category": "Domain",
+    "skill_description": "Managing wetland ecosystems and supporting conservation of India's Ramsar-designated wetlands under Wetlands Conservation Rules 2017.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Coastal Zone Management",
+    "skill_category": "Domain",
+    "skill_description": "Applying Coastal Regulation Zone Notification 2019 for permissible activities, development controls, and coastal ecosystem protection.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Environmental Social and Governance (ESG) Reporting",
+    "skill_category": "Domain",
+    "skill_description": "Preparing ESG disclosures for listed companies under SEBI's Business Responsibility and Sustainability Reporting framework.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "SEBI BRSR Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and filing Business Responsibility and Sustainability Report as mandated by SEBI for top-listed Indian companies.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Corporate Sustainability Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Developing and implementing corporate sustainability programmes covering resource efficiency, emissions, supply chain, and community impacts.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "GRI Standards Reporting",
+    "skill_category": "Domain",
+    "skill_description": "Applying Global Reporting Initiative standards to prepare company sustainability reports disclosing environmental, social, and governance performance.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Science-Based Targets (SBTi)",
+    "skill_category": "Domain",
+    "skill_description": "Developing corporate greenhouse gas reduction targets aligned with Science Based Targets initiative pathways for 1.5°C or 2°C scenarios.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Renewable Energy Technologies",
+    "skill_category": "Domain",
+    "skill_description": "Understanding solar, wind, biomass, small hydro, and biogas energy systems for project development and advisory roles.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Solar Energy Systems",
+    "skill_category": "Technical",
+    "skill_description": "Designing, installing, and commissioning rooftop and utility-scale solar PV systems under MNRE guidelines and DISCOM net metering norms.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "PM Kusum Solar Scheme",
+    "skill_category": "Domain",
+    "skill_description": "Facilitating farmer participation in PM-KUSUM Component A, B, and C for solar pump installation and solarisation of agricultural feeders.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Biogas and Bioenergy",
+    "skill_category": "Domain",
+    "skill_description": "Designing and operating biogas plants using crop residues, livestock manure, and organic waste for energy and digestate production.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Energy Audit",
+    "skill_category": "Domain",
+    "skill_description": "Conducting preliminary and detailed energy audits in industrial and commercial establishments as per Bureau of Energy Efficiency guidelines.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Bureau of Energy Efficiency (BEE) Standards",
+    "skill_category": "Domain",
+    "skill_description": "Applying BEE energy performance standards, PAT scheme targets, and labelling norms in energy management assignments.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Perform Achieve Trade (PAT) Scheme",
+    "skill_category": "Domain",
+    "skill_description": "Supporting designated consumers in meeting PAT scheme energy efficiency targets and trading energy saving certificates (ESCerts).",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Energy Conservation Building Code (ECBC)",
+    "skill_category": "Domain",
+    "skill_description": "Applying ECBC 2017 requirements for building envelope, lighting, HVAC, and renewable energy in commercial building projects.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Green Building Certification (GRIHA)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing documentation and coordinating design features for GRIHA green building certification in Indian construction projects.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "IGBC Green Building Certification",
+    "skill_category": "Domain",
+    "skill_description": "Meeting Indian Green Building Council LEED India and IGBC certification requirements for residential, commercial, and factory buildings.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Climate Change Mitigation and Adaptation",
+    "skill_category": "Domain",
+    "skill_description": "Developing strategies for greenhouse gas mitigation and climate adaptation in line with India's NDC commitments under Paris Agreement.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "National Action Plan on Climate Change (NAPCC)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing missions under NAPCC including National Solar Mission, Sustainable Habitat Mission, and Green India Mission.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "State Action Plan on Climate Change (SAPCC)",
+    "skill_category": "Domain",
+    "skill_description": "Supporting state government departments in developing and monitoring State Action Plans on Climate Change.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Disaster Risk Reduction",
+    "skill_category": "Domain",
+    "skill_description": "Applying Sendai Framework principles and NDMA guidelines for disaster risk assessment, early warning, and community preparedness.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Environmental Health and Safety (EHS)",
+    "skill_category": "Domain",
+    "skill_description": "Managing workplace environmental, health, and safety compliance for industrial facilities under Factories Act and CPCB standards.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Occupational Health and Industrial Hygiene",
+    "skill_category": "Domain",
+    "skill_description": "Assessing and controlling workplace chemical, physical, and biological hazards to protect worker health under Factories Act provisions.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Water Harvesting Structures Design",
+    "skill_category": "Technical",
+    "skill_description": "Designing check dams, farm ponds, and percolation tanks using standard hydrological calculations for watershed development projects.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Community-Based Natural Resource Management",
+    "skill_category": "Domain",
+    "skill_description": "Facilitating participatory natural resource planning with village communities for joint forest management, watershed, and water user groups.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Social Impact Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Conducting SIA as per RFCTLARRA 2013 to assess project impacts on land acquisition, livelihood, and community well-being.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Land Acquisition and Rehabilitation",
+    "skill_category": "Domain",
+    "skill_description": "Implementing Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act 2013 provisions.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Participatory Rural Appraisal (PRA)",
+    "skill_category": "Domain",
+    "skill_description": "Using PRA tools including village mapping, transect walks, seasonal calendars, and wealth ranking for rural community needs assessment.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Livelihood Development Programmes",
+    "skill_category": "Domain",
+    "skill_description": "Designing and implementing rural livelihood improvement activities under NRLM, MGNREGS, and state rural development programmes.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "MGNREGS Implementation",
+    "skill_category": "Domain",
+    "skill_description": "Planning and supervising Mahatma Gandhi National Rural Employment Guarantee Scheme works including asset creation and wage payments.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "National Rural Livelihood Mission (NRLM)",
+    "skill_category": "Domain",
+    "skill_description": "Supporting self-help group formation, capacity building, and financial linkages under DAY-NRLM for rural women empowerment.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Corporate Social Responsibility (CSR)",
+    "skill_category": "Domain",
+    "skill_description": "Planning and reporting CSR programmes under Companies Act 2013 Schedule VII provisions for natural resource and community development.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Project Management",
+    "skill_category": "Domain",
+    "skill_description": "Planning, executing, and monitoring agriculture and environment projects using logical framework approach and results-based management.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Monitoring and Evaluation (M&E)",
+    "skill_category": "Domain",
+    "skill_description": "Designing M&E frameworks, tracking indicators, collecting field data, and reporting on project progress and outcomes.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Grant Writing and Fund Mobilisation",
+    "skill_category": "Domain",
+    "skill_description": "Writing funding proposals for government schemes, bilateral donors, and CSR partners for agriculture and environment projects.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "NABARD Schemes and Financing",
+    "skill_category": "Domain",
+    "skill_description": "Navigating NABARD refinance schemes, Watershed Development Fund, RIDF, and other financing windows for rural and agricultural projects.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Agricultural Credit and Kisan Credit Card",
+    "skill_category": "Domain",
+    "skill_description": "Facilitating farmer access to institutional credit through KCC scheme, cooperative credit societies, and priority sector lending norms.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "RBI Priority Sector Lending Guidelines",
+    "skill_category": "Domain",
+    "skill_description": "Applying RBI priority sector lending norms for agriculture, MSME, and environment sectors in bank credit operations.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Microfinance for Agriculture",
+    "skill_category": "Domain",
+    "skill_description": "Delivering microfinance and SHG-bank linkage credit products for smallholder farmers and agri-enterprise development.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "GST Compliance for Agriculture and Environment",
+    "skill_category": "Domain",
+    "skill_description": "Applying GST exemptions and applicable rates for agricultural inputs, environment services, and renewable energy products.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "TDS Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Deducting and depositing Tax Deducted at Source on contractor payments, consultancy fees, and salaries in agriculture and environment organisations.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Tally ERP for NGOs and Agri Firms",
+    "skill_category": "Technical",
+    "skill_description": "Using Tally ERP or Tally Prime for accounting, GST filing, and financial reporting in agricultural enterprises and NGOs.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Microsoft Excel for Data Analysis",
+    "skill_category": "Technical",
+    "skill_description": "Using Excel for agricultural data analysis, environmental monitoring records, and project reporting using pivot tables and formulas.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Statistical Data Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Applying descriptive and inferential statistics to agricultural research data and environmental monitoring datasets.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "R Programming for Environmental Data",
+    "skill_category": "Technical",
+    "skill_description": "Using R statistical software for environmental data analysis, ecological modelling, and spatial statistics in research projects.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Python for Data Analysis",
+    "skill_category": "Technical",
+    "skill_description": "Using Python with pandas, numpy, and matplotlib for processing large agricultural datasets and environmental sensor data.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "SPSS for Agricultural Research",
+    "skill_category": "Technical",
+    "skill_description": "Using IBM SPSS for statistical analysis of agricultural field trial data including ANOVA, correlation, and regression.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Field Data Collection using ODK",
+    "skill_category": "Technical",
+    "skill_description": "Designing and deploying Open Data Kit forms on mobile devices for structured field data collection in agriculture and environment surveys.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "KoBoToolbox for Field Surveys",
+    "skill_category": "Technical",
+    "skill_description": "Using KoBoToolbox platform for mobile-based household surveys, crop assessments, and environmental monitoring data collection.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "GPS and Field Navigation",
+    "skill_category": "Technical",
+    "skill_description": "Using handheld GPS devices and smartphone GPS apps for geo-tagging field sites, plot boundary marking, and navigation.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Laboratory Techniques for Soil and Water Testing",
+    "skill_category": "Technical",
+    "skill_description": "Performing standard soil and water quality tests including pH, EC, NPK, BOD, and COD analysis in laboratory settings.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "NABL Accreditation Awareness",
+    "skill_category": "Domain",
+    "skill_description": "Understanding NABL accreditation requirements for environmental testing laboratories under ISO/IEC 17025 standards.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Report Writing and Technical Documentation",
+    "skill_category": "Foundational",
+    "skill_description": "Preparing technical reports, EIA documents, project proposals, and field investigation reports with accurate data and clear communication.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Scientific Writing and Publications",
+    "skill_category": "Foundational",
+    "skill_description": "Writing research papers, review articles, and policy briefs for peer-reviewed journals and technical publications.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Communication and Stakeholder Engagement",
+    "skill_category": "Foundational",
+    "skill_description": "Communicating technical agricultural and environmental information clearly to farmers, communities, government officials, and donors.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Training and Capacity Building",
+    "skill_category": "Foundational",
+    "skill_description": "Designing and delivering training programmes for farmers, field workers, and community members on agriculture and environment topics.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Team Leadership and Management",
+    "skill_category": "Foundational",
+    "skill_description": "Leading field teams, managing multi-disciplinary staff, and coordinating with government and partner organisations in project implementation.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Problem Solving and Analytical Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Diagnosing agricultural, environmental, and operational challenges using systematic thinking and evidence-based approaches.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Field Work and Rural Engagement",
+    "skill_category": "Foundational",
+    "skill_description": "Working effectively in rural areas including physical fieldwork, village-level engagement, and operating in diverse agro-climatic conditions.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Negotiation and Conflict Resolution",
+    "skill_category": "Foundational",
+    "skill_description": "Mediating land, resource, and community conflicts in rural development and environmental project contexts.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Time Management and Prioritisation",
+    "skill_category": "Foundational",
+    "skill_description": "Managing field schedules, reporting deadlines, and multiple project deliverables in dynamic agricultural and environmental workplaces.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Ethics and Professional Integrity",
+    "skill_category": "Foundational",
+    "skill_description": "Upholding scientific integrity, transparent reporting, and ethical conduct in agriculture research, environmental consulting, and development work.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "ChatGPT",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using ChatGPT to draft technical reports, environmental briefs, project proposals, and training content for agriculture and sustainability roles.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Claude",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Claude for research synthesis, policy analysis, stakeholder communication drafting, and literature review in environment and sustainability work.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Microsoft Copilot",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Microsoft Copilot in Excel and Word to automate data summarisation, report drafting, and analysis of agricultural and environmental datasets.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "GitHub Copilot",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using GitHub Copilot to assist in writing Python, R, and SQL scripts for environmental data processing and remote sensing analysis.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Agri-Input Supply Chain Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing procurement, logistics, and quality control of seeds, fertilisers, and agrochemicals across distribution channels.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Supply Chain Sustainability",
+    "skill_category": "Domain",
+    "skill_description": "Assessing and reducing environmental and social impacts across agricultural and industrial supply chains through responsible sourcing.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Circular Economy Principles",
+    "skill_category": "Domain",
+    "skill_description": "Applying circular economy concepts to reduce waste, recover resources, and extend material life cycles in agriculture and industry.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Waste-to-Energy Technologies",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and applying biomass gasification, anaerobic digestion, and refuse-derived fuel technologies for energy from waste.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Agroforestry Systems",
+    "skill_category": "Domain",
+    "skill_description": "Designing and managing integrated agroforestry systems combining trees, crops, and livestock for ecological and economic benefits.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Social Forestry and Tree Plantation",
+    "skill_category": "Domain",
+    "skill_description": "Implementing social forestry programmes for farm boundary planting, fuelwood production, and degraded land restoration.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Forest Working Plan",
+    "skill_category": "Domain",
+    "skill_description": "Contributing to forest working plan preparation for sustainable management of Reserved and Protected Forest areas.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Joint Forest Management (JFM)",
+    "skill_category": "Domain",
+    "skill_description": "Facilitating joint forest management committees for community-based protection and development of degraded forest lands.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "CAMPA Fund Projects",
+    "skill_category": "Domain",
+    "skill_description": "Implementing Compensatory Afforestation Fund Management and Planning Authority projects for forest restoration and wildlife conservation.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Wildlife Management and Conservation Biology",
+    "skill_category": "Domain",
+    "skill_description": "Applying population ecology, habitat management, and human-wildlife conflict mitigation strategies in protected area management.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Tiger Reserve and Protected Area Management",
+    "skill_category": "Domain",
+    "skill_description": "Supporting management planning and monitoring activities in Tiger Reserves under Project Tiger and National Tiger Conservation Authority.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Species Distribution Modelling",
+    "skill_category": "Technical",
+    "skill_description": "Using MaxEnt and similar tools to model species habitat suitability based on occurrence data and environmental variables.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Ecological Restoration",
+    "skill_category": "Domain",
+    "skill_description": "Planning and implementing restoration of degraded ecosystems including grasslands, wetlands, and forests using native species.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Marine and Coastal Ecosystem Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing coral reef, mangrove, and seagrass ecosystems for conservation, fisheries sustainability, and coastal protection.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Fisheries and Aquaculture Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing fish production systems, water quality, feed management, and disease control in inland and brackish water aquaculture.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Pradhan Mantri Matsya Sampada Yojana",
+    "skill_category": "Domain",
+    "skill_description": "Facilitating fishermen and entrepreneurs in accessing PMMSY scheme benefits for fisheries infrastructure, fish seed, and processing units.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Animal Husbandry and Livestock Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing cattle, buffalo, sheep, goat, and poultry enterprises including feeding, breeding, disease management, and productivity improvement.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Dairy Farming and Milk Quality",
+    "skill_category": "Domain",
+    "skill_description": "Managing dairy herd nutrition, milking operations, milk hygiene, and FSSAI-compliant quality standards in commercial dairy farms.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Veterinary First Aid and Animal Health",
+    "skill_category": "Domain",
+    "skill_description": "Recognising and providing first-line health interventions for common livestock diseases and coordinating with veterinary services.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "skill_category": "Domain",
+    "skill_description": "Facilitating farmer registration and benefit tracking under PM-KISAN direct income support scheme.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Agricultural Land Records and Digitisation",
+    "skill_category": "Domain",
+    "skill_description": "Working with digitised land records on Bhunaksha, Bhulekh, and DILRMP platforms for agricultural planning and credit operations.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Soil Health Card Scheme",
+    "skill_category": "Domain",
+    "skill_description": "Collecting soil samples, coordinating laboratory testing, and distributing Soil Health Cards to farmers under National Mission for Sustainable Agriculture (NMSA).",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Paramparagat Krishi Vikas Yojana (PKVY)",
+    "skill_category": "Domain",
+    "skill_description": "Supporting farmer cluster formation, organic input production, and market linkage under the PKVY organic farming promotion scheme.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Sub-Mission on Agricultural Mechanisation (SMAM)",
+    "skill_category": "Domain",
+    "skill_description": "Facilitating farmer access to subsidised farm machinery and custom hiring centres under SMAM for mechanisation of farm operations.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Farm Mechanisation and Agricultural Equipment",
+    "skill_category": "Domain",
+    "skill_description": "Operating and maintaining tractors, power tillers, combine harvesters, and other farm mechanisation equipment.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Crop Residue Management",
+    "skill_category": "Domain",
+    "skill_description": "Implementing alternatives to stubble burning including happy seeder, super SMS, and incorporation for residue management.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Paddy Straw Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing paddy straw through in-situ incorporation, composting, and biomass utilisation to prevent crop residue burning in Punjab and Haryana.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Agri-Tech and Digital Agriculture",
+    "skill_category": "Domain",
+    "skill_description": "Integrating IoT sensors, AI analytics, and digital platforms in farm management for improved productivity and traceability.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "AgriStack and Farmer Registry",
+    "skill_category": "Technical",
+    "skill_description": "Using India's AgriStack digital agriculture infrastructure including Farmer Registry, Crop Sown Registry, and DIGI Locker integration.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Crop Simulation Modelling",
+    "skill_category": "Technical",
+    "skill_description": "Using DSSAT, APSIM, or similar crop simulation models to predict crop growth responses under different management and climate scenarios.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Hydrological Modelling",
+    "skill_category": "Technical",
+    "skill_description": "Using SWAT, HEC-HMS, or similar hydrological models for watershed runoff estimation, flood forecasting, and water resource planning.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Air Quality Modelling",
+    "skill_category": "Technical",
+    "skill_description": "Using AERMOD, CALPUFF, or CALINE dispersion models for predicting pollutant concentration patterns for EIA and compliance.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Environmental Monitoring Programme Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing baseline and operational environmental monitoring programmes with appropriate parameters, frequency, and sampling locations.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Environmental Data Management",
+    "skill_category": "Technical",
+    "skill_description": "Maintaining environmental monitoring databases, QA/QC protocols, and data submission to CPCB and SPCB online portals.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "CPCB Online Portal Usage",
+    "skill_category": "Technical",
+    "skill_description": "Submitting environmental compliance reports, CTO applications, and monitoring data through Central Pollution Control Board online systems.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Green Procurement",
+    "skill_category": "Domain",
+    "skill_description": "Developing and implementing green procurement policies that prefer environmentally preferable products and services in organisations.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Sustainable Agriculture Certifications",
+    "skill_category": "Domain",
+    "skill_description": "Facilitating farm and product certification under Rainforest Alliance, GlobalGAP, and Fairtrade standards for export market access.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "GlobalGAP Certification",
+    "skill_category": "Domain",
+    "skill_description": "Implementing GlobalGAP good agricultural practice standards for fresh produce farms targeting European and international export markets.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Traceability and Farm-to-Fork Tracking",
+    "skill_category": "Domain",
+    "skill_description": "Implementing product traceability systems from farm to consumer using batch coding, blockchain, and digital tracking platforms.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Agri Export Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Meeting phytosanitary, MRL, and food safety requirements for agricultural exports under APEDA and importing country regulations.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "APEDA Registration and Export Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Registering agri products with Agricultural and Processed Food Products Export Development Authority and meeting export certification requirements.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Phytosanitary Certification",
+    "skill_category": "Domain",
+    "skill_description": "Obtaining NPPO-India phytosanitary certificates and complying with importing country plant health requirements for agricultural exports.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Natural Capital Accounting",
+    "skill_category": "Domain",
+    "skill_description": "Applying System of Environmental-Economic Accounting (SEEA) framework to quantify ecosystem assets and environmental flows.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Payments for Ecosystem Services (PES)",
+    "skill_category": "Domain",
+    "skill_description": "Designing and implementing PES mechanisms to compensate land users for maintaining or enhancing ecosystem services.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Land Degradation Neutrality",
+    "skill_category": "Domain",
+    "skill_description": "Applying UNCCD Land Degradation Neutrality framework and India's LDN targets for degraded land restoration and monitoring.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Desertification and Dryland Management",
+    "skill_category": "Domain",
+    "skill_description": "Implementing dryland management and desert ecosystem restoration practices in arid and semi-arid regions of Rajasthan and Gujarat.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Mountain Ecosystem Management",
+    "skill_category": "Domain",
+    "skill_description": "Understanding fragile Himalayan ecosystem management challenges for sustainable development in hill states and protected areas.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Urban Green Infrastructure",
+    "skill_category": "Domain",
+    "skill_description": "Designing and managing green roofs, urban forests, bioswales, and tree canopy cover for urban sustainability and climate resilience.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Urban Heat Island Mitigation",
+    "skill_category": "Domain",
+    "skill_description": "Applying cool roof, urban greening, and paved surface management strategies to reduce urban heat island effects in Indian cities.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Smart Cities Mission and Urban Environment",
+    "skill_category": "Domain",
+    "skill_description": "Contributing to Smart Cities Mission environmental components including waste, water, and green space management in Indian urban areas.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "AMRUT Scheme for Urban Water",
+    "skill_category": "Domain",
+    "skill_description": "Supporting water supply, sewerage, and drainage infrastructure development under AMRUT and AMRUT 2.0 schemes for Indian cities.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Swachh Bharat Mission Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Implementing Swachh Bharat Mission rural and urban guidelines for ODF status, solid waste management, and greywater treatment.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Jal Jeevan Mission",
+    "skill_category": "Domain",
+    "skill_description": "Supporting tap water connection implementation and water quality testing under Jal Jeevan Mission for rural households.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Jal Shakti Abhiyan",
+    "skill_category": "Domain",
+    "skill_description": "Implementing Jal Shakti Abhiyan water conservation activities including check dam construction, watershed management, and recharge structures.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "National Green Tribunal (NGT) Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Understanding NGT jurisdiction, orders on environmental protection, and compliance obligations for industries and government bodies.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Environmental Litigation and Advocacy",
+    "skill_category": "Domain",
+    "skill_description": "Preparing case documents, affidavits, and compliance reports for NGT proceedings and environmental advocacy campaigns.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Environmental Communication and Campaigns",
+    "skill_category": "Foundational",
+    "skill_description": "Designing public awareness campaigns on climate change, conservation, and sustainability for diverse audiences.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Science Journalism and Environment Communication",
+    "skill_category": "Foundational",
+    "skill_description": "Translating complex environmental and agricultural science findings into accessible content for media, policymakers, and public audiences.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Interpersonal and Cross-Cultural Communication",
+    "skill_category": "Foundational",
+    "skill_description": "Working effectively with farming communities, tribal groups, and diverse stakeholders across linguistic and cultural contexts in India.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Hindi and Regional Language Proficiency",
+    "skill_category": "Foundational",
+    "skill_description": "Communicating with farmers, field staff, and rural communities in Hindi or regional languages for effective programme delivery.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "English Language Proficiency",
+    "skill_category": "Foundational",
+    "skill_description": "Reading, writing, and communicating in English for report writing, donor communication, and international technical collaboration.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Digital Literacy",
+    "skill_category": "Foundational",
+    "skill_description": "Using digital tools, government portals, and online databases confidently for agricultural and environmental programme delivery.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Adaptability and Resilience",
+    "skill_category": "Foundational",
+    "skill_description": "Adjusting to field conditions, policy changes, and uncertain climatic and socio-economic environments in rural and environmental work.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Systems Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding complex interactions between ecological, social, and economic systems to design integrated solutions.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Critical Thinking and Evidence-Based Practice",
+    "skill_category": "Foundational",
+    "skill_description": "Evaluating agricultural and environmental evidence, identifying knowledge gaps, and applying research findings to practical problems.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Community Mobilisation",
+    "skill_category": "Foundational",
+    "skill_description": "Organising and motivating rural communities for collective action in natural resource management, sanitation, and livelihood programmes.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Gender Mainstreaming in Agriculture",
+    "skill_category": "Foundational",
+    "skill_description": "Integrating gender equity considerations in agricultural and rural development programmes to ensure women farmers' participation and benefit.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Safety and PPE Awareness in Field Work",
+    "skill_category": "Foundational",
+    "skill_description": "Following safety protocols and using personal protective equipment during field activities in farms, laboratories, and industrial sites.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Zoho Projects for NGO and Environment Work",
+    "skill_category": "Technical",
+    "skill_description": "Using Zoho Projects for task management, project tracking, and team coordination in agriculture and environment programme implementation.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Google Workspace for Field Teams",
+    "skill_category": "Technical",
+    "skill_description": "Using Google Docs, Sheets, Drive, and Forms for collaborative data management, reporting, and team communication in field projects.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Power BI for Agriculture Analytics",
+    "skill_category": "Technical",
+    "skill_description": "Creating dashboards to visualise agricultural productivity data, environmental monitoring results, and programme performance indicators.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Tableau for Environmental Reporting",
+    "skill_category": "Technical",
+    "skill_description": "Using Tableau to build interactive visualisations of environmental compliance data, biodiversity trends, and sustainability metrics.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Carbon Accounting Software",
+    "skill_category": "Technical",
+    "skill_description": "Using tools such as the GHG Protocol calculation tools, SimaPro, or national climate reporting portals for organisational GHG inventory preparation and submission.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Greenhouse Gas Inventory Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Compiling and reporting Scope 1, 2, and 3 greenhouse gas emissions inventories using IPCC guidelines and GHG Protocol standards.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "IPCC Guidelines Application",
+    "skill_category": "Domain",
+    "skill_description": "Applying IPCC emission factor guidelines for national and sectoral GHG inventory calculations in climate reporting assignments.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Net Zero Strategy Development",
+    "skill_category": "Domain",
+    "skill_description": "Developing organisational net zero roadmaps covering emission reduction, renewable energy transition, and residual offset strategies.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Environmental Due Diligence",
+    "skill_category": "Domain",
+    "skill_description": "Conducting environmental due diligence assessments for land acquisition, investment decisions, and project financing applications.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Green Finance and Sustainable Investment",
+    "skill_category": "Domain",
+    "skill_description": "Understanding green bonds, sustainability-linked loans, and climate finance instruments for environmental and clean energy projects.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "SEBI Green Bond Framework",
+    "skill_category": "Domain",
+    "skill_description": "Applying SEBI's Green Bond circular requirements for issuance, reporting, and verification of green bond proceeds in India.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Adaptation Finance and Climate Funds",
+    "skill_category": "Domain",
+    "skill_description": "Mobilising and managing climate adaptation finance from GCF, GEF, and bilateral climate funds for Indian climate projects.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "REDD+ and Forest Carbon Markets",
+    "skill_category": "Domain",
+    "skill_description": "Understanding REDD+ framework, forest carbon project development, and VCS/CCB standards for avoided deforestation credits.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Blue Carbon and Coastal Ecosystems",
+    "skill_category": "Domain",
+    "skill_description": "Quantifying carbon sequestration in mangroves, seagrasses, and tidal wetlands for blue carbon project development.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Sustainable Livelihoods Framework",
+    "skill_category": "Domain",
+    "skill_description": "Applying the DFID Sustainable Livelihoods Framework for analysing rural household livelihood assets and vulnerabilities.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Behaviour Change Communication (BCC)",
+    "skill_category": "Domain",
+    "skill_description": "Designing IEC materials and BCC strategies to promote sustainable farming, water conservation, and environmental behaviour.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Mobile Apps for Farmers",
+    "skill_category": "Technical",
+    "skill_description": "Using and recommending farmer-facing mobile apps such as IFFCO Kisan, Kisan Suvidha, Agriapp, and mKRISHI for agricultural advisory.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Kisan Suvidha App",
+    "skill_category": "Technical",
+    "skill_description": "Using the Ministry of Agriculture's Kisan Suvidha app for accessing weather forecasts, market prices, plant protection, and agro-dealer information.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Crop Insurance Portal (PMFBY)",
+    "skill_category": "Technical",
+    "skill_description": "Using the national crop insurance portal for PMFBY and RWBCIS enrolment, claim submission, and status tracking.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Soil Health Card Portal",
+    "skill_category": "Technical",
+    "skill_description": "Using the Soil Health Card web portal for entering soil test data, generating fertiliser recommendations, and printing cards.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "DigiLocker for Agri Documents",
+    "skill_category": "Technical",
+    "skill_description": "Using DigiLocker platform for digital access and sharing of land records, Kisan Credit Cards, and scheme documents.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Bhunaksha and Bhulekh Land Records",
+    "skill_category": "Technical",
+    "skill_description": "Accessing Bhunaksha cadastral maps and Bhulekh land records portals for parcel identification and agricultural land verification.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "PFMS Fund Management",
+    "skill_category": "Technical",
+    "skill_description": "Using Public Financial Management System for tracking and reporting government scheme fund flows and expenditure in agriculture programmes.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "DBT Portal and Subsidy Disbursement",
+    "skill_category": "Technical",
+    "skill_description": "Processing Direct Benefit Transfer subsidy payments for agriculture inputs, equipment, and irrigation through DBT portals.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "GIS-Based Land Use Planning",
+    "skill_category": "Technical",
+    "skill_description": "Using spatial data and GIS tools to prepare land use plans, agro-climatic zone maps, and resource maps for agricultural planning.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "LiDAR and 3D Terrain Analysis",
+    "skill_category": "Technical",
+    "skill_description": "Processing LiDAR point cloud data for terrain analysis, flood plain mapping, and topographic survey in environmental projects.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Environmental Impact Statement (EIS) Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Compiling baseline studies, impact matrices, and mitigation plans into comprehensive EIS documents for regulatory submissions.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Rapid Environmental Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Conducting rapid, desk-based and field environmental assessments for pre-feasibility project screening and due diligence.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Public Consultation Process",
+    "skill_category": "Domain",
+    "skill_description": "Organising and documenting public hearing processes for environmental clearances as required by EIA Notification 2006.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Cumulative Impact Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Assessing combined environmental impacts of multiple projects or activities in a region, particularly in river basins and ecologically sensitive areas.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Environmental Management Plan (EMP)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and implementing EMPs detailing mitigation, monitoring, and reporting measures for environmental clearance conditions.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Ecological Sensitivity Mapping",
+    "skill_category": "Technical",
+    "skill_description": "Mapping ecologically sensitive areas, biodiversity hotspots, and critical habitats using spatial data for conservation planning.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Community-Based Adaptation",
+    "skill_category": "Domain",
+    "skill_description": "Implementing locally-led climate adaptation measures in farming and coastal communities to build resilience to climate variability.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Traditional Ecological Knowledge",
+    "skill_category": "Domain",
+    "skill_description": "Documenting and integrating indigenous and traditional ecological knowledge in conservation and natural resource management plans.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Environmental Law and Advocacy",
+    "skill_category": "Domain",
+    "skill_description": "Understanding environmental jurisprudence, PIL mechanisms, and regulatory enforcement for environmental protection advocacy.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "EPFO and ESI Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Managing Employees Provident Fund and Employee State Insurance contributions for staff in agricultural enterprises and environment NGOs.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Indian Labour Laws for Agriculture",
+    "skill_category": "Domain",
+    "skill_description": "Applying Agricultural Workers Acts, Inter-State Migrant Workmen Act, and minimum wage notifications for agricultural labour compliance.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Data Visualisation and Dashboards",
+    "skill_category": "Technical",
+    "skill_description": "Creating charts, maps, and interactive dashboards to communicate agricultural and environmental programme results to stakeholders.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Presentation Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Delivering clear, evidence-based presentations to government officials, donors, and community stakeholders on agriculture and environment topics.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Creativity and Innovation",
+    "skill_category": "Foundational",
+    "skill_description": "Developing novel approaches to agricultural challenges, environmental problems, and sustainability solutions in the Indian context.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Networking and Professional Relationships",
+    "skill_category": "Foundational",
+    "skill_description": "Building working relationships with government departments, research institutions, NGOs, and private sector partners in agriculture and environment sectors.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Emotional Intelligence",
+    "skill_category": "Foundational",
+    "skill_description": "Managing interpersonal dynamics sensitively when working with marginalised farming communities, conflict-affected areas, and diverse teams.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Task Force on Climate-Related Financial Disclosures (TCFD)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing climate-related risk and opportunity disclosures under TCFD framework for Indian corporates and financial institutions.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "TNFD Nature-Related Disclosures",
+    "skill_category": "Domain",
+    "skill_description": "Applying Taskforce on Nature-related Financial Disclosures framework for corporate reporting on nature-related dependencies and impacts.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Water Stewardship",
+    "skill_category": "Domain",
+    "skill_description": "Implementing corporate water stewardship programmes aligned with Alliance for Water Stewardship standards for water-stressed catchments.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Plastic Waste Management Rules",
+    "skill_category": "Domain",
+    "skill_description": "Complying with Plastic Waste Management Rules 2016 and Extended Producer Responsibility obligations for plastic packaging.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Extended Producer Responsibility (EPR)",
+    "skill_category": "Domain",
+    "skill_description": "Registering, implementing, and reporting EPR obligations for plastic packaging, e-waste, and battery waste under respective rules.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Coastal Aquaculture Authority Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Meeting Coastal Aquaculture Authority Act requirements for shrimp and fish farm registration, siting, and effluent management.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "National Biodiversity Authority (NBA) Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Obtaining prior approval from NBA for access and benefit sharing of biological resources under the Biological Diversity Act.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Environmental Sampling Protocols",
+    "skill_category": "Technical",
+    "skill_description": "Following standardised sampling protocols for air, water, soil, and biological sampling for environmental monitoring and research.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Field Survey and Transect Methods",
+    "skill_category": "Technical",
+    "skill_description": "Conducting biodiversity field surveys using line transect, quadrat, point count, and rapid assessment methods.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Ecological Footprint Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Calculating and interpreting ecological footprint metrics to assess resource consumption and biocapacity in programmes and organisations.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Climate Vulnerability Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Assessing household, community, and sector vulnerability to climate change using exposure, sensitivity, and adaptive capacity indices.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Environmental Education and Awareness",
+    "skill_category": "Domain",
+    "skill_description": "Designing and delivering environmental education programmes for schools, communities, and corporate audiences on conservation and sustainability.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Agroecology",
+    "skill_category": "Domain",
+    "skill_description": "Applying ecological principles to design sustainable farming systems that maintain productivity while preserving biodiversity and soil health.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Permaculture Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing productive, self-sustaining farm systems based on natural ecosystem patterns and permaculture ethics.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Biodynamic Farming",
+    "skill_category": "Domain",
+    "skill_description": "Practising Demeter-certified biodynamic farming methods integrating lunar calendar, biodiversity, and homeopathic farm preparations.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Hydroponics and Soilless Cultivation",
+    "skill_category": "Technical",
+    "skill_description": "Operating nutrient film technique, deep water culture, and other soilless growing systems for high-density urban and commercial farming.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Vertical Farming",
+    "skill_category": "Technical",
+    "skill_description": "Managing controlled environment vertical farming systems with LED lighting, climate control, and automation for urban food production.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Food Systems Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Analysing food system components from production through distribution, consumption, and waste for sustainability assessment.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Sustainable Procurement and Green Supply Chains",
+    "skill_category": "Domain",
+    "skill_description": "Embedding environmental and social standards in supplier selection and procurement for agriculture-linked and industrial supply chains.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Integrated Watershed Development Programme (IWDP)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing IWDP and WDC-PMKSY watershed guidelines for community-based catchment management and degraded land restoration.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "National Watershed Development Project for Rainfed Areas (NWDPRA)",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing micro-watershed activities under NWDPRA for rainfed crop productivity and natural resource conservation.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Decentralised Renewable Energy",
+    "skill_category": "Domain",
+    "skill_description": "Designing and managing decentralised off-grid solar, biomass, and micro-hydro energy systems for rural energy access.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Energy Storage Systems",
+    "skill_category": "Domain",
+    "skill_description": "Understanding battery storage, pumped hydro, and thermal storage technologies for renewable energy integration in agriculture and industry.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Green Hydrogen",
+    "skill_category": "Domain",
+    "skill_description": "Understanding electrolysis-based green hydrogen production, storage, and application for decarbonisation of industrial and agricultural processes.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Electric Vehicles in Agriculture",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating and facilitating adoption of electric tractors, two-wheelers, and transport vehicles for low-emission agricultural operations.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Soil Carbon Sequestration",
+    "skill_category": "Domain",
+    "skill_description": "Implementing and measuring soil carbon enhancement practices including cover cropping, reduced tillage, and biochar application.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Biochar Production and Application",
+    "skill_category": "Domain",
+    "skill_description": "Producing biochar from crop residues and biomass through pyrolysis and applying it to improve soil health and sequester carbon.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Mangrove Restoration",
+    "skill_category": "Domain",
+    "skill_description": "Planning and implementing mangrove planting, protection, and monitoring programmes for coastal ecosystem restoration.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Mountain Agriculture and Tribal Farming",
+    "skill_category": "Domain",
+    "skill_description": "Supporting sustainable agriculture in mountain and tribal areas with traditional crop varieties, terrace farming, and indigenous knowledge systems.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Tribal Area Development Programmes",
+    "skill_category": "Domain",
+    "skill_description": "Implementing tribal sub-plan and PVTG development programmes for agriculture, livelihoods, and natural resource management in scheduled areas.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Millets Promotion and Shree Anna",
+    "skill_category": "Domain",
+    "skill_description": "Promoting production, processing, and consumption of millets under the Shree Anna initiative and Indian Millet Research Institute programmes.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Agricultural Biotechnology",
+    "skill_category": "Domain",
+    "skill_description": "Understanding GEAC-approved GM crop regulations, plant tissue culture, and biotechnology applications in Indian agriculture.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Plant Tissue Culture",
+    "skill_category": "Technical",
+    "skill_description": "Performing micropropagation, meristem culture, and hardening of tissue-culture plantlets for nursery production of banana, sugarcane, and potato.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Mushroom Cultivation",
+    "skill_category": "Domain",
+    "skill_description": "Producing oyster, button, and milky mushrooms using substrate preparation, spawn run, and cropping management under controlled conditions.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Sericulture",
+    "skill_category": "Domain",
+    "skill_description": "Managing mulberry cultivation, silkworm rearing, and cocoon production for silk yarn under Central Silk Board guidelines.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Apiculture and Bee Keeping",
+    "skill_category": "Domain",
+    "skill_description": "Managing honeybee colonies using modern Langstroth hives for honey production, pollination services, and hive product development.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Inland Fisheries Development",
+    "skill_category": "Domain",
+    "skill_description": "Managing reservoirs, tanks, rivers, and ponds for inland fisheries productivity enhancement under state fisheries department programmes.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Cage Culture Aquaculture",
+    "skill_category": "Domain",
+    "skill_description": "Operating fish cage culture systems in reservoirs and open water bodies for commercial fish production with PMMSY support.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Integrated Farming System",
+    "skill_category": "Domain",
+    "skill_description": "Designing integrated crop-livestock-fishery-horticulture farm models for resource optimisation, income diversification, and sustainability.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Crop Diversification",
+    "skill_category": "Domain",
+    "skill_description": "Advising farmers on replacing resource-intensive crops with diversified cropping systems to improve income, nutrition, and resilience.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "High Value Agriculture",
+    "skill_category": "Domain",
+    "skill_description": "Promoting production of flowers, herbs, spices, essential oil crops, and exotic vegetables for urban and export market access.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Essential Oils and Aromatic Crops",
+    "skill_category": "Domain",
+    "skill_description": "Managing cultivation and distillation of mentha, lemongrass, vetiver, and other aromatic crops for essential oil production.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Medicinal Plant Cultivation",
+    "skill_category": "Domain",
+    "skill_description": "Cultivating AYUSH medicinal plants such as ashwagandha, shatavari, and brahmi with good agricultural and collection practices.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "AYUSH and Medicinal Plant Policy",
+    "skill_category": "Domain",
+    "skill_description": "Applying National Medicinal Plants Board guidelines for cultivation, quality standards, and supply chain development of medicinal herbs.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Sugarcane and Sugar Industry",
+    "skill_category": "Domain",
+    "skill_description": "Managing sugarcane agronomy, ratoon crop management, and sugarcane pricing under the Fair and Remunerative Price policy.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Cotton Production and Textile Fibre",
+    "skill_category": "Domain",
+    "skill_description": "Managing Bt cotton and non-Bt cotton production with IPM and regulating pesticide use under Insecticide Act provisions.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Plantation Crops Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing tea, coffee, rubber, spices, and coconut plantation operations under respective commodity boards' guidelines.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Tea Board and Coffee Board Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Meeting Tea Board and Coffee Board of India licensing, quality certification, and export registration requirements for plantation crop businesses.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Spices Board Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Complying with Spices Board registration, quality grading, and export certification requirements for spice traders and exporters.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Rubber Board Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Meeting Rubber Board of India planting scheme, replanting subsidy, and quality grading requirements for rubber farmers and dealers.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "National Horticulture Mission",
+    "skill_category": "Domain",
+    "skill_description": "Accessing and implementing National Horticulture Mission and MIDH scheme components for horticulture infrastructure, nursery, and cold chain.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "PM Kisan Maan Dhan Yojana",
+    "skill_category": "Domain",
+    "skill_description": "Facilitating small and marginal farmer enrolment in PM Kisan Maan Dhan pension scheme through CSC registration.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "ATMA Scheme Implementation",
+    "skill_category": "Domain",
+    "skill_description": "Delivering extension services through Agricultural Technology Management Agency at district level for farmer training and technology transfer.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "ICAR Research System",
+    "skill_category": "Domain",
+    "skill_description": "Engaging with ICAR national and state agricultural universities research outputs for technology validation and field-level dissemination.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "SAU and Agricultural University Linkages",
+    "skill_category": "Domain",
+    "skill_description": "Collaborating with State Agricultural Universities for research-extension linkage, technology demonstration, and frontline demonstration activities.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "CGIAR Research Partnership",
+    "skill_category": "Domain",
+    "skill_description": "Engaging with CGIAR centres such as IRRI, CIMMYT, ICRISAT, and ICARDA for improved variety access and collaborative research.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Environmental Economics",
+    "skill_category": "Domain",
+    "skill_description": "Applying cost-benefit analysis, contingent valuation, and hedonic pricing methods to environmental and natural resource decisions.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Bioremediation",
+    "skill_category": "Domain",
+    "skill_description": "Using microorganisms, plants, or enzymes to decontaminate soil and water polluted with heavy metals, petroleum, and agrochemicals.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Phytoremediation",
+    "skill_category": "Domain",
+    "skill_description": "Selecting and establishing hyperaccumulating plants for remediation of heavy metal and organic pollutant-contaminated soils.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Environmental Sampling and Chain of Custody",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining proper chain of custody documentation and sample integrity from collection to laboratory for environmental investigations.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Indoor Air Quality Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Monitoring and evaluating indoor air pollutants including VOCs, particulates, CO2, and radon in buildings and workplaces.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Emission Inventory Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Compiling inventories of air pollutant emissions from industrial, transport, and domestic sources for regulatory reporting.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Stack Emission Monitoring",
+    "skill_category": "Technical",
+    "skill_description": "Conducting stack emission monitoring for SPM, SO2, NOx, and HCl from industrial chimneys as per CPCB methods.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Continuous Emission Monitoring System (CEMS)",
+    "skill_category": "Technical",
+    "skill_description": "Installing, calibrating, and operating CEMS for real-time air emission monitoring as mandated by CPCB for major industries.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Online Continuous Effluent Quality Monitoring (CEQMS)",
+    "skill_category": "Technical",
+    "skill_description": "Operating online effluent quality monitoring systems for real-time wastewater data transmission to CPCB and SPCB servers.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Effluent Characterisation",
+    "skill_category": "Technical",
+    "skill_description": "Collecting and analysing industrial effluent samples to characterise pollutant loads for treatment design and compliance reporting.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Zero Liquid Discharge Systems",
+    "skill_category": "Technical",
+    "skill_description": "Operating ZLD wastewater treatment systems mandated by CPCB for textile, pharmaceutical, and other water-intensive industries.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Sewage and Storm Water Network Management",
+    "skill_category": "Technical",
+    "skill_description": "Managing urban sewerage networks, pump stations, and storm water drainage to prevent environmental contamination.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Drinking Water Quality Management",
+    "skill_category": "Domain",
+    "skill_description": "Testing and maintaining drinking water quality parameters as per BIS IS 10500 standards in rural piped water schemes and urban supplies.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Environmental Audit Report Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing annual environment audit reports as required by MoEFCC for environmental clearance condition compliance.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Environmental Grievance Redressal Mechanism",
+    "skill_category": "Domain",
+    "skill_description": "Establishing and operating grievance mechanisms for project-affected communities to raise environmental and social concerns.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Climate Finance Readiness",
+    "skill_category": "Domain",
+    "skill_description": "Building institutional capacity to access, manage, and report on climate finance from national and international sources.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "National Clean Air Programme (NCAP)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing NCAP action plans for non-attainment cities to reduce PM2.5 and PM10 concentrations through sectoral interventions.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Stubble Burning Prevention",
+    "skill_category": "Domain",
+    "skill_description": "Implementing government programmes and incentive schemes to prevent crop residue burning and reduce seasonal air pollution episodes.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "India Cooling Action Plan",
+    "skill_category": "Domain",
+    "skill_description": "Supporting India Cooling Action Plan implementation by assessing cooling demand, promoting energy-efficient refrigerants, and facilitating transition from HCFCs in agriculture cold-chain and industry.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Urban Planning and Environmental Integration",
+    "skill_category": "Domain",
+    "skill_description": "Incorporating environmental considerations into urban master plans, area development plans, and building byelaw compliance.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Environmental Risk Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, quantifying, and communicating environmental risks from industrial facilities, chemicals, and natural hazards.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Noise Barrier and Mitigation Design",
+    "skill_category": "Domain",
+    "skill_description": "Recommending noise barriers, earthworks, and operational controls to comply with Noise Pollution Rules 2000 near sensitive receptors.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Radiation Safety Awareness",
+    "skill_category": "Domain",
+    "skill_description": "Understanding basic radiation safety protocols and AERB guidelines for sites involving radioactive materials in environment investigations.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Ozone Depleting Substances Management",
+    "skill_category": "Domain",
+    "skill_description": "Complying with Ozone Depleting Substances Rules 2000 for phase-out of HCFCs and CFCs under Montreal Protocol obligations.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Population and Household Survey Methods",
+    "skill_category": "Domain",
+    "skill_description": "Designing and conducting population-based household surveys for baseline data collection in agriculture and environment programmes.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Focus Group Discussion Facilitation",
+    "skill_category": "Domain",
+    "skill_description": "Facilitating structured focus group discussions with farmers, communities, and stakeholder groups for qualitative data collection.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Key Informant Interview Techniques",
+    "skill_category": "Domain",
+    "skill_description": "Conducting structured and semi-structured key informant interviews for programme evaluation and natural resource assessment.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Geo-tagging of Assets and Activities",
+    "skill_category": "Technical",
+    "skill_description": "Recording GPS coordinates of programme assets, farm plots, and project works for government scheme monitoring and DBT compliance.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Agricultural Policy Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Analysing Union Budget allocations, scheme guidelines, and state agricultural policies to assess impact on farmers and agri-enterprises.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Food Security and Nutrition Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Applying food security frameworks and nutrition assessment tools to identify hunger, malnutrition, and dietary diversity gaps.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "National Food Security Act Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and supporting implementation of NFSA 2013 provisions for targeted PDS, mid-day meals, and maternity benefit entitlements.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "POSHAN Abhiyan and Nutrition Programmes",
+    "skill_category": "Domain",
+    "skill_description": "Implementing POSHAN Abhiyan nutrition improvement activities through agriculture-nutrition linkages and ICDS programme support.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Nutrition-Sensitive Agriculture",
+    "skill_category": "Domain",
+    "skill_description": "Integrating dietary diversity, biofortification, and homestead food production into agricultural development programmes.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Biofortification of Crops",
+    "skill_category": "Domain",
+    "skill_description": "Promoting cultivation of biofortified crop varieties with enhanced iron, zinc, and vitamin A content for nutrition security.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Agri-Entrepreneurship and Start-ups",
+    "skill_category": "Domain",
+    "skill_description": "Developing and supporting agri-tech startups, agri-clinics, and agri-business ventures under ACABC and Startup India programmes.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Agri-Clinics and Agri-Business Centres",
+    "skill_category": "Domain",
+    "skill_description": "Establishing and operating NABARD-MANAGE supported agri-clinics for fee-based agricultural advisory and input supply services.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Agricultural Start-up Ecosystem",
+    "skill_category": "Domain",
+    "skill_description": "Navigating ICAR-NAIP, RKVY-RAFTAAR, and Startup India incubation support for agri-tech venture ideation, funding, and scaling.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Compliance with Fertiliser Control Order (FCO)",
+    "skill_category": "Domain",
+    "skill_description": "Meeting Fertiliser Control Order requirements for quality, labelling, and distribution of chemical and organic fertilisers.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Pesticide Registration and CIB&RC Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Understanding Central Insecticides Board and Registration Committee approval processes and label claim requirements for pesticide products.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Seeds Act and Varietal Protection",
+    "skill_category": "Domain",
+    "skill_description": "Applying Seeds Act 1966 provisions for seed quality standards and Protection of Plant Varieties and Farmers Rights Act 2001.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "GM Crop Biosafety Regulations (GEAC)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding the Rules for Manufacture, Use, Import, Export and Storage of Hazardous Microorganisms 1989 and GEAC regulatory process for approval of transgenic organisms in Indian agriculture.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Power BI for Environmental Reporting",
+    "skill_category": "Technical",
+    "skill_description": "Using Power BI to create environmental compliance dashboards, pollution trend reports, and sustainability performance visualisations.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Microsoft Teams for Remote Project Coordination",
+    "skill_category": "Technical",
+    "skill_description": "Using Microsoft Teams for virtual field team coordination, document sharing, and stakeholder meetings in agriculture and environment projects.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Canva AI",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Canva AI features to design infographics, awareness posters, and presentation materials for environmental and agriculture outreach.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Crop Scouting and Field Observation",
+    "skill_category": "Domain",
+    "skill_description": "Systematically walking crop fields at key growth stages to assess stand count, nutrient status, pest pressure, and yield potential.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Nursery Management",
+    "skill_category": "Domain",
+    "skill_description": "Raising seedlings and saplings in nurseries for transplanting to vegetable fields, orchards, and afforestation projects using standard nursery practices.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Seed Production and Certification",
+    "skill_category": "Domain",
+    "skill_description": "Producing breeder, foundation, and certified seed crops following National Seeds Corporation seed certification scheme and minimum seed certification standards.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Floriculture and Cut Flower Production",
+    "skill_category": "Domain",
+    "skill_description": "Cultivating commercial cut flowers including rose, gerbera, and chrysanthemum under polyhouse and open conditions for domestic and export markets.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Environmental Consent Conditions Tracking",
+    "skill_category": "Domain",
+    "skill_description": "Monitoring and reporting compliance with all conditions specified in Consent to Establish, Consent to Operate, and Environmental Clearance orders.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Hazardous Chemical Management (MSIHC Rules)",
+    "skill_category": "Domain",
+    "skill_description": "Complying with Manufacture, Storage and Import of Hazardous Chemical Rules 1989 for threshold quantity inventory, safety data sheets, and on-site emergency plans.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Chemical Emergency Response Planning",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and practising on-site and off-site emergency response plans for chemical accidents as required under MSIHC Rules and Factories Act.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Environmental Impact Mitigation Hierarchy",
+    "skill_category": "Domain",
+    "skill_description": "Applying the avoid-minimise-mitigate-restore-offset mitigation hierarchy in environmental project design and EIA mitigation measure planning.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Compensatory Afforestation Fund Act (CAFA) 2016",
+    "skill_category": "Domain",
+    "skill_description": "Understanding CAFA 2016 provisions for state CAMPA authority establishment, fund management, and utilisation of compensatory afforestation funds.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "ESG Materiality Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Conducting double materiality assessments to identify significant ESG topics for corporate sustainability strategy and stakeholder-aligned reporting.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Scope 3 Emissions Accounting",
+    "skill_category": "Domain",
+    "skill_description": "Quantifying value chain greenhouse gas emissions including purchased goods, capital goods, business travel, and product end-of-life as per GHG Protocol Scope 3 standard.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "ISO 45001 Occupational Health and Safety Management",
+    "skill_category": "Domain",
+    "skill_description": "Implementing ISO 45001 occupational health and safety management system to identify hazards, control risks, and prevent workplace injuries.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "ISO 50001 Energy Management System",
+    "skill_category": "Domain",
+    "skill_description": "Implementing ISO 50001 energy management system for systematic planning, monitoring, and improvement of energy performance in industrial operations.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "CropIn Agri Platform",
+    "skill_category": "Technical",
+    "skill_description": "Using CropIn's SmartFarm platform for farm digitisation, crop monitoring, yield estimation, and agri value chain traceability.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "SaTSure Remote Sensing Platform",
+    "skill_category": "Technical",
+    "skill_description": "Using SaTSure's satellite-based analytics for crop area estimation, crop health monitoring, and insurance loss assessment in India.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Geospatial Python (GeoPandas and Rasterio)",
+    "skill_category": "Technical",
+    "skill_description": "Using Python geospatial libraries GeoPandas and Rasterio for spatial data manipulation, raster analysis, and environmental mapping workflows.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Microsoft Power Apps for Field Data",
+    "skill_category": "Technical",
+    "skill_description": "Building low-code mobile apps using Microsoft Power Apps for field monitoring data collection and compliance tracking in agriculture and environment projects.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Research Design and Methodology",
+    "skill_category": "Foundational",
+    "skill_description": "Designing field experiments, surveys, and studies with appropriate sampling frames, controls, and data collection instruments for agriculture and environment research.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Budgeting and Financial Planning",
+    "skill_category": "Foundational",
+    "skill_description": "Preparing project budgets, cash flow plans, and fund utilisation reports for agriculture and environment programme financial management.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Active Listening",
+    "skill_category": "Foundational",
+    "skill_description": "Practising focused, non-judgmental listening with farmers, community members, and government officials to accurately understand needs and concerns.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "EPFO Compliance for Agriculture and Environment Organisations",
+    "skill_category": "Domain",
+    "skill_description": "Managing EPF registration, contribution computation, and online filing for employees in agricultural enterprises, plantations, and environment NGOs.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "ESI Compliance for Agriculture and Environment Firms",
+    "skill_category": "Domain",
+    "skill_description": "Administering ESI registration, monthly contribution payments, and claim assistance for eligible employees in agri-processing and environment consultancy firms.",
+    "job_families": [
+      12
+    ]
+  },
+  {
+    "skill_name": "Environment Protection Charge (EPC) Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Calculating and paying Environment Protection Charge levied on industries operating in ecologically sensitive zones under NGT orders.",
+    "job_families": [
+      12
+    ]
+  }
+]

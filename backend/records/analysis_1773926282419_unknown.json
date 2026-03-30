@@ -1,0 +1,110 @@
+{
+  "timestamp": "2026-03-19T13:18:02.419Z",
+  "status": "failed",
+  "input_user_data": {
+    "education": [
+      {
+        "degreeLevel": "Postgraduate (PG)",
+        "domain": "Computer Science & IT",
+        "degreeGroup": "Master of Computer Applications",
+        "specialization": "Cloud Computing",
+        "specialization2": "",
+        "currentlyPursuing": false,
+        "isOtherSpec": false,
+        "isOtherSpec2": false,
+        "isDualSpecialization": false
+      }
+    ],
+    "preferences": {
+      "primary": {
+        "role": "",
+        "roleSuggestions": [],
+        "sectors": [
+          "Information Technology & Software",
+          "Telecom & Technology Infrastructure",
+          "Healthcare & Life Sciences"
+        ],
+        "jobType": "Full-Time",
+        "salary": "3–5 LPA",
+        "locations": [
+          "Chennai",
+          "Bangalore",
+          "Thane"
+        ],
+        "orgTypes": [
+          "Startup (Early-stage / Growth-stage)",
+          "Multinational Corporation (MNC)",
+          "Consulting / Professional Services Firm"
+        ]
+      },
+      "secondary": {
+        "role": "",
+        "roleSuggestions": [],
+        "sectors": [],
+        "jobType": "",
+        "salary": "",
+        "locations": [
+          "",
+          "",
+          ""
+        ],
+        "orgTypes": []
+      },
+      "tertiary": {
+        "role": "",
+        "roleSuggestions": [],
+        "sectors": [],
+        "jobType": "",
+        "salary": "",
+        "locations": [
+          "",
+          "",
+          ""
+        ],
+        "orgTypes": []
+      }
+    },
+    "experience": [
+      {
+        "orgName": "xyzz",
+        "designation": "Cloud Architect",
+        "designationOther": false,
+        "sector": "Information Technology & Software",
+        "sectorOther": "",
+        "startDate": "2026-03-05",
+        "endDate": "",
+        "currentlyWorking": true
+      }
+    ],
+    "hasExperience": true,
+    "skills": [
+      "aws",
+      "docker",
+      "pipe line",
+      "hostinger",
+      "ec2",
+      "se3"
+    ],
+    "certifications": [
+      {
+        "name": "AWS ",
+        "issuer": "amazon",
+        "year": "2026",
+        "mode": "URL",
+        "url": "http:dsdss.com",
+        "fileUrl": "",
+        "skills": [
+          "aws",
+          "docker",
+          "pipe line",
+          "hostinger",
+          "ec2",
+          "se3"
+        ]
+      }
+    ],
+    "hasCertifications": true
+  },
+  "output_generated_report": null,
+  "error": "roleName is not defined"
+}

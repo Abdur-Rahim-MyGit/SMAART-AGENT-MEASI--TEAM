@@ -1,0 +1,4330 @@
+[
+  {
+    "skill_name": "Google Ads",
+    "skill_category": "Technical",
+    "skill_description": "Creating and managing search, display, shopping, and video advertising campaigns on Google Ads platform.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Meta Ads Manager",
+    "skill_category": "Technical",
+    "skill_description": "Planning, launching, and optimising paid campaigns on Facebook and Instagram using Meta Ads Manager.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Google Analytics 4 (GA4)",
+    "skill_category": "Technical",
+    "skill_description": "Tracking website and app user behaviour, conversions, and funnel performance using Google Analytics 4.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Google Search Console",
+    "skill_category": "Technical",
+    "skill_description": "Monitoring organic search performance, indexing issues, and keyword rankings using Google Search Console.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Google Tag Manager",
+    "skill_category": "Technical",
+    "skill_description": "Deploying and managing tracking tags, pixels, and scripts on websites without code changes using GTM.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "LinkedIn Campaign Manager",
+    "skill_category": "Technical",
+    "skill_description": "Running B2B lead generation and brand campaigns targeting professionals on LinkedIn.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "X (Twitter) Ads",
+    "skill_category": "Technical",
+    "skill_description": "Creating and managing promoted posts, trend takeovers, and audience targeting campaigns on X (formerly Twitter).",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Snapchat Ads Manager",
+    "skill_category": "Technical",
+    "skill_description": "Building Snap Ads, Story Ads, and AR campaigns targeting younger demographics on Snapchat.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "YouTube Ads",
+    "skill_category": "Technical",
+    "skill_description": "Running skippable, non-skippable, and bumper video ad campaigns on YouTube through Google Ads.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Amazon Advertising (India)",
+    "skill_category": "Technical",
+    "skill_description": "Managing sponsored products, sponsored brands, and display campaigns on Amazon India marketplace.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Flipkart Ads",
+    "skill_category": "Technical",
+    "skill_description": "Running sponsored product and display advertising campaigns on the Flipkart e-commerce platform.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "InMobi Ad Platform",
+    "skill_category": "Technical",
+    "skill_description": "Running mobile-first programmatic advertising campaigns using InMobi, a leading Indian ad-tech platform.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "DV360 (Display and Video 360)",
+    "skill_category": "Technical",
+    "skill_description": "Running programmatic display, video, and audio campaigns through Google's Display and Video 360 platform.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "The Trade Desk",
+    "skill_category": "Technical",
+    "skill_description": "Executing programmatic media buying across display, video, audio, and CTV using The Trade Desk DSP.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Semrush",
+    "skill_category": "Technical",
+    "skill_description": "Conducting keyword research, competitor analysis, backlink auditing, and site SEO audits using Semrush.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Ahrefs",
+    "skill_category": "Technical",
+    "skill_description": "Performing backlink analysis, keyword research, content gap analysis, and rank tracking using Ahrefs.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Moz Pro",
+    "skill_category": "Technical",
+    "skill_description": "Tracking domain authority, keyword rankings, and conducting on-page SEO analysis using Moz Pro.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Screaming Frog SEO Spider",
+    "skill_category": "Technical",
+    "skill_description": "Crawling websites to identify broken links, duplicate content, and on-page SEO issues using Screaming Frog.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Google Keyword Planner",
+    "skill_category": "Technical",
+    "skill_description": "Researching keyword search volumes, competition levels, and bid estimates for SEO and SEM strategies.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Ubersuggest",
+    "skill_category": "Technical",
+    "skill_description": "Generating keyword ideas, content suggestions, and competitor insights using Ubersuggest.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Hootsuite",
+    "skill_category": "Technical",
+    "skill_description": "Scheduling social media posts, monitoring brand mentions, and managing multi-platform presence using Hootsuite.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Buffer",
+    "skill_category": "Technical",
+    "skill_description": "Scheduling content, tracking social media analytics, and managing team collaboration using Buffer.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Sprout Social",
+    "skill_category": "Technical",
+    "skill_description": "Managing social media publishing, engagement, reporting, and team workflows using Sprout Social.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Later",
+    "skill_category": "Technical",
+    "skill_description": "Planning and scheduling visual content for Instagram, TikTok, and other social platforms using Later.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Zoho Social",
+    "skill_category": "Technical",
+    "skill_description": "Scheduling posts, monitoring keywords, and tracking social media performance using Zoho Social.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Mailchimp",
+    "skill_category": "Technical",
+    "skill_description": "Building email campaigns, automation workflows, and audience segmentation using Mailchimp.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "HubSpot Marketing Hub",
+    "skill_category": "Technical",
+    "skill_description": "Managing email marketing, landing pages, lead nurturing, and marketing automation using HubSpot.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Zoho Campaigns",
+    "skill_category": "Technical",
+    "skill_description": "Running email marketing campaigns, automations, and CRM-integrated outreach using Zoho Campaigns.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Sendinblue (Brevo)",
+    "skill_category": "Technical",
+    "skill_description": "Managing transactional and marketing email campaigns with SMS and WhatsApp automation using Brevo.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Mailerlite",
+    "skill_category": "Technical",
+    "skill_description": "Designing and sending email newsletters, pop-ups, and landing pages using Mailerlite.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Klaviyo",
+    "skill_category": "Technical",
+    "skill_description": "Building behaviour-triggered email and SMS automation flows for e-commerce brands using Klaviyo.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "MoEngage",
+    "skill_category": "Technical",
+    "skill_description": "Running cross-channel customer engagement campaigns including push, email, and in-app using MoEngage.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "WebEngage",
+    "skill_category": "Technical",
+    "skill_description": "Orchestrating personalised omnichannel marketing campaigns across email, push, SMS, and web using WebEngage.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "CleverTap",
+    "skill_category": "Technical",
+    "skill_description": "Executing mobile engagement, lifecycle marketing, and user retention campaigns using CleverTap.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Salesforce CRM",
+    "skill_category": "Technical",
+    "skill_description": "Managing leads, opportunities, contacts, and sales pipelines in Salesforce for B2B sales teams.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "HubSpot CRM",
+    "skill_category": "Technical",
+    "skill_description": "Tracking sales activities, managing contacts, and automating outreach using HubSpot CRM.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Zoho CRM",
+    "skill_category": "Technical",
+    "skill_description": "Managing customer relationships, lead scoring, and sales pipeline tracking using Zoho CRM.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Freshsales",
+    "skill_category": "Technical",
+    "skill_description": "Managing sales pipeline, lead engagement, and deal tracking using Freshworks' Freshsales CRM.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Pipedrive",
+    "skill_category": "Technical",
+    "skill_description": "Tracking deals, activities, and sales stages using Pipedrive's visual pipeline CRM.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "LinkedIn Sales Navigator",
+    "skill_category": "Technical",
+    "skill_description": "Prospecting high-value B2B leads and building targeted outreach lists using LinkedIn Sales Navigator.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Apollo.io",
+    "skill_category": "Technical",
+    "skill_description": "Building prospect lists, running cold outreach sequences, and finding contact data using Apollo.io.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Microsoft Power BI",
+    "skill_category": "Technical",
+    "skill_description": "Building marketing performance dashboards and KPI reports using Microsoft Power BI.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Tableau",
+    "skill_category": "Technical",
+    "skill_description": "Creating interactive data visualisations and campaign performance dashboards using Tableau.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Looker Studio (formerly Google Data Studio)",
+    "skill_category": "Technical",
+    "skill_description": "Building connected marketing dashboards from Google Ads, GA4, and Search Console using Looker Studio.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Mixpanel",
+    "skill_category": "Technical",
+    "skill_description": "Tracking user events, funnel conversion, and cohort retention for product and marketing analytics.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Amplitude Analytics",
+    "skill_category": "Technical",
+    "skill_description": "Analysing user behaviour, product engagement, and growth metrics using Amplitude.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Hotjar",
+    "skill_category": "Technical",
+    "skill_description": "Understanding user behaviour on websites through heatmaps, session recordings, and feedback polls.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Microsoft Excel (Advanced)",
+    "skill_category": "Technical",
+    "skill_description": "Using pivot tables, VLOOKUP, and advanced formulas for campaign data analysis and performance reporting.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Google Sheets",
+    "skill_category": "Technical",
+    "skill_description": "Collaborating on campaign trackers, media plans, and performance reports using Google Sheets.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "SQL",
+    "skill_category": "Technical",
+    "skill_description": "Querying marketing databases to extract campaign, customer, and e-commerce performance data.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Python (Marketing Analytics)",
+    "skill_category": "Technical",
+    "skill_description": "Using Python with pandas and matplotlib for marketing data analysis, automation, and reporting.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Canva",
+    "skill_category": "Technical",
+    "skill_description": "Designing social media graphics, presentations, marketing collaterals, and video thumbnails using Canva.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Adobe Photoshop",
+    "skill_category": "Technical",
+    "skill_description": "Editing images, creating digital artwork, and designing marketing visuals using Adobe Photoshop.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Adobe Illustrator",
+    "skill_category": "Technical",
+    "skill_description": "Creating vector graphics, brand assets, logos, and print-ready artwork using Adobe Illustrator.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Adobe Premiere Pro",
+    "skill_category": "Technical",
+    "skill_description": "Editing video content for ads, social media, and brand films using Adobe Premiere Pro.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Adobe After Effects",
+    "skill_category": "Technical",
+    "skill_description": "Creating motion graphics, animations, and visual effects for video and digital advertising.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Adobe InDesign",
+    "skill_category": "Technical",
+    "skill_description": "Designing print and digital publications including brochures, catalogues, and media kits using InDesign.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Figma",
+    "skill_category": "Technical",
+    "skill_description": "Designing UI mockups, landing page layouts, and brand assets collaboratively using Figma.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "DaVinci Resolve",
+    "skill_category": "Technical",
+    "skill_description": "Editing and colour grading video content for advertising and brand productions using DaVinci Resolve.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "CapCut",
+    "skill_category": "Technical",
+    "skill_description": "Editing short-form video content for Reels, Shorts, and social media campaigns using CapCut.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Spyne (AI Product Photography)",
+    "skill_category": "Technical",
+    "skill_description": "Using Spyne's AI platform for automated product photography and e-commerce image editing.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "WordPress",
+    "skill_category": "Technical",
+    "skill_description": "Building, managing, and publishing content on WordPress CMS for brand websites and blogs.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Webflow",
+    "skill_category": "Technical",
+    "skill_description": "Designing and launching responsive websites and landing pages without code using Webflow.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Wix",
+    "skill_category": "Technical",
+    "skill_description": "Creating and publishing websites and landing pages for small businesses using Wix.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Shopify",
+    "skill_category": "Technical",
+    "skill_description": "Building and managing e-commerce stores, product listings, and promotions on Shopify.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "WooCommerce",
+    "skill_category": "Technical",
+    "skill_description": "Setting up and managing WordPress-based e-commerce stores using WooCommerce.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Yoast SEO",
+    "skill_category": "Technical",
+    "skill_description": "Optimising WordPress content for search engines using Yoast SEO plugin for on-page optimisation.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Meltwater",
+    "skill_category": "Technical",
+    "skill_description": "Monitoring media coverage, brand mentions, and journalist databases for PR and communications.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Cision",
+    "skill_category": "Technical",
+    "skill_description": "Distributing press releases, managing media contacts, and measuring PR impact using Cision.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Agility PR Solutions",
+    "skill_category": "Technical",
+    "skill_description": "Managing press release distribution and media outreach using Agility PR Solutions.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Brandwatch",
+    "skill_category": "Technical",
+    "skill_description": "Monitoring social media conversations, brand sentiment, and competitor mentions using Brandwatch.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Talkwalker",
+    "skill_category": "Technical",
+    "skill_description": "Tracking brand mentions, campaign reach, and consumer sentiment across social media using Talkwalker.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Plixxo (POPxo Influencer Platform)",
+    "skill_category": "Technical",
+    "skill_description": "Discovering and managing influencer collaborations for Indian D2C and consumer brands using Plixxo.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Influencer.in",
+    "skill_category": "Technical",
+    "skill_description": "Finding, connecting, and tracking influencer campaigns for Indian brand marketing using Influencer.in.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Winkl",
+    "skill_category": "Technical",
+    "skill_description": "Managing influencer marketing campaigns and content approvals using Winkl's Indian creator marketplace.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Qoruz",
+    "skill_category": "Technical",
+    "skill_description": "Discovering influencers, analysing audience data, and tracking campaign ROI using Qoruz platform.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Impact.com",
+    "skill_category": "Technical",
+    "skill_description": "Managing affiliate, influencer, and partnership programmes using the Impact.com platform.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "WhatsApp Business API",
+    "skill_category": "Technical",
+    "skill_description": "Sending templated messages, customer notifications, and marketing broadcasts via WhatsApp Business API.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Interakt (WhatsApp CRM)",
+    "skill_category": "Technical",
+    "skill_description": "Managing WhatsApp marketing, customer support, and commerce flows using Interakt's platform.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "WATI (WhatsApp Team Inbox)",
+    "skill_category": "Technical",
+    "skill_description": "Automating WhatsApp marketing campaigns and managing customer conversations using WATI.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Gupshup",
+    "skill_category": "Technical",
+    "skill_description": "Building conversational messaging campaigns across WhatsApp, SMS, and RCS using Gupshup.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "SurveyMonkey",
+    "skill_category": "Technical",
+    "skill_description": "Designing and distributing consumer surveys for market research and customer feedback.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Typeform",
+    "skill_category": "Technical",
+    "skill_description": "Creating conversational forms and surveys for lead capture and consumer research.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Qualtrics",
+    "skill_category": "Technical",
+    "skill_description": "Conducting advanced market research, customer experience surveys, and brand tracking studies.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Google Forms",
+    "skill_category": "Technical",
+    "skill_description": "Collecting consumer feedback and research data using Google Forms.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "YouTube Studio",
+    "skill_category": "Technical",
+    "skill_description": "Managing YouTube channel content, analytics, monetisation, and audience engagement using YouTube Studio.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Buzzsprout",
+    "skill_category": "Technical",
+    "skill_description": "Hosting, distributing, and tracking podcast episodes and listener analytics using Buzzsprout.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Spotify for Podcasters",
+    "skill_category": "Technical",
+    "skill_description": "Recording, publishing, and monetising podcasts for Indian audiences using Spotify for Podcasters.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "ShareChat Ads",
+    "skill_category": "Technical",
+    "skill_description": "Running vernacular language content and advertising campaigns on ShareChat for Tier 2 and 3 Indian markets.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Moj Ads",
+    "skill_category": "Technical",
+    "skill_description": "Creating and distributing short video advertising content on Moj for Hindi-speaking Indian audiences.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Josh Ads",
+    "skill_category": "Technical",
+    "skill_description": "Running short video ad campaigns on Josh, a popular Indian short video platform.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Dailyhunt Ads",
+    "skill_category": "Technical",
+    "skill_description": "Placing news and content advertising on Dailyhunt for regional Indian language audiences.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "JioMart Seller Platform",
+    "skill_category": "Technical",
+    "skill_description": "Managing product listings, promotions, and advertising on the JioMart e-commerce platform.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Nykaa Seller and Ads Platform",
+    "skill_category": "Technical",
+    "skill_description": "Managing brand store, product listings, and sponsored ads on Nykaa beauty e-commerce platform.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Meesho Supplier Panel",
+    "skill_category": "Technical",
+    "skill_description": "Managing product catalogues and promotions on Meesho's social commerce platform.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Myntra Advertising",
+    "skill_category": "Technical",
+    "skill_description": "Running brand-sponsored campaigns and product promotions on Myntra fashion marketplace.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Indiamart Advertising",
+    "skill_category": "Technical",
+    "skill_description": "Managing B2B product listings and paid promotions on IndiaMART business marketplace.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Justdial Advertising",
+    "skill_category": "Technical",
+    "skill_description": "Managing business listings and local advertising campaigns on Justdial for local Indian markets.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Google My Business (Business Profile)",
+    "skill_category": "Technical",
+    "skill_description": "Optimising and managing Google Business Profile for local search visibility and customer engagement.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Tata Neu Merchant Platform",
+    "skill_category": "Technical",
+    "skill_description": "Managing brand and product promotions on the Tata Neu super-app for Indian consumer brands.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Asana",
+    "skill_category": "Technical",
+    "skill_description": "Managing marketing projects, campaign timelines, and team task assignments using Asana.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Trello",
+    "skill_category": "Technical",
+    "skill_description": "Organising content calendars, campaign workflows, and creative requests using Trello Kanban boards.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Monday.com",
+    "skill_category": "Technical",
+    "skill_description": "Coordinating marketing campaigns, media plans, and agency deliverables using Monday.com.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Notion",
+    "skill_category": "Technical",
+    "skill_description": "Managing content planning, brand guidelines, campaign briefs, and team wikis using Notion.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Airtable",
+    "skill_category": "Technical",
+    "skill_description": "Building content calendars, campaign trackers, and marketing databases using Airtable.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Slack",
+    "skill_category": "Technical",
+    "skill_description": "Coordinating marketing team communications, campaign updates, and client approvals using Slack.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Microsoft Teams",
+    "skill_category": "Technical",
+    "skill_description": "Managing marketing team collaboration, virtual presentations, and file sharing using Microsoft Teams.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Print Production Specifications",
+    "skill_category": "Domain",
+    "skill_description": "Preparing print-ready artwork specifications including bleed, resolution, colour profiles, and file formats.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "ChatGPT",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using ChatGPT for copywriting, ad creative ideation, social media content generation, and marketing briefs.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Claude (Anthropic)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Claude for long-form content creation, campaign strategy documents, and brand communications.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Canva AI",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Canva's AI features including Magic Write, text-to-image, and background remover for marketing visuals.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Midjourney",
+    "skill_category": "AI-Tool",
+    "skill_description": "Generating AI images for advertising concepts, mood boards, and creative campaign inspiration.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "DALL-E",
+    "skill_category": "AI-Tool",
+    "skill_description": "Generating product visuals, ad artwork, and marketing imagery using OpenAI's DALL-E image model.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Gemini (Google)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Google Gemini for content drafting, campaign research, and AI-assisted Google Workspace tasks.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Perplexity AI",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Perplexity AI for real-time market research, competitor analysis, and trend monitoring.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Runway",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Runway's AI tools for video generation, editing, and visual effects in content production.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Stable Diffusion",
+    "skill_category": "AI-Tool",
+    "skill_description": "Generating and editing AI images for creative campaigns using Stable Diffusion open-source models.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Jasper AI",
+    "skill_category": "AI-Tool",
+    "skill_description": "Generating marketing copy, blog content, email campaigns, and ad creative using Jasper AI.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Copy.ai",
+    "skill_category": "AI-Tool",
+    "skill_description": "Writing ad copy, product descriptions, email subject lines, and social captions using Copy.ai.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Grammarly",
+    "skill_category": "AI-Tool",
+    "skill_description": "Proofreading and improving marketing copy, emails, and brand communications using Grammarly.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Salesforce Einstein",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Salesforce Einstein for AI-powered lead scoring, sales forecasting, and CRM personalisation.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Power BI Copilot",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using AI in Power BI to generate marketing reports and answer data queries in natural language.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Notion AI",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Notion AI to draft campaign briefs, summarise research, and generate content plans.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Otter.ai",
+    "skill_category": "AI-Tool",
+    "skill_description": "Transcribing client meetings, focus groups, and campaign briefings using Otter.ai.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Lumen5",
+    "skill_category": "AI-Tool",
+    "skill_description": "Converting blog posts and text content into social media videos using Lumen5's AI video creator.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Synthesia",
+    "skill_category": "AI-Tool",
+    "skill_description": "Creating AI avatar-based explainer and marketing videos without filming using Synthesia.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "ElevenLabs",
+    "skill_category": "AI-Tool",
+    "skill_description": "Generating realistic AI voiceovers for video ads, podcasts, and audio content using ElevenLabs.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Murf AI",
+    "skill_category": "AI-Tool",
+    "skill_description": "Creating professional AI voiceovers and text-to-speech audio for marketing videos and presentations.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Search Engine Optimisation (SEO)",
+    "skill_category": "Domain",
+    "skill_description": "Optimising website content, technical structure, and backlinks to improve organic search rankings.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "On-Page SEO",
+    "skill_category": "Domain",
+    "skill_description": "Optimising meta titles, descriptions, headings, content, and internal links for better search rankings.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Off-Page SEO and Link Building",
+    "skill_category": "Domain",
+    "skill_description": "Building high-quality backlinks through outreach, guest posting, and digital PR to improve domain authority.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Technical SEO",
+    "skill_category": "Domain",
+    "skill_description": "Auditing and fixing crawlability, site speed, Core Web Vitals, schema markup, and indexing issues.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Local SEO (India)",
+    "skill_category": "Domain",
+    "skill_description": "Optimising Google Business Profile and local citations for businesses targeting specific Indian cities.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "E-commerce SEO",
+    "skill_category": "Domain",
+    "skill_description": "Optimising product pages, category pages, and marketplace listings for organic search visibility.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Search Engine Marketing (SEM)",
+    "skill_category": "Domain",
+    "skill_description": "Managing paid search campaigns on Google and Bing with focus on keyword bidding, quality score, and ROAS.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Performance Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Managing paid digital campaigns with focus on measurable outcomes — CAC, ROAS, CPL, and conversion rate.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Programmatic Advertising",
+    "skill_category": "Domain",
+    "skill_description": "Buying and optimising digital ad inventory automatically using DSPs and real-time bidding.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Retargeting and Remarketing",
+    "skill_category": "Domain",
+    "skill_description": "Re-engaging website visitors and lapsed customers with targeted ads across Google, Meta, and display networks.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Affiliate Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Designing and managing affiliate programmes where publishers earn commissions for driving conversions.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Conversion Rate Optimisation (CRO)",
+    "skill_category": "Domain",
+    "skill_description": "Testing and optimising landing pages, forms, and checkout flows to improve conversion rates.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "A/B Testing and Multivariate Testing",
+    "skill_category": "Domain",
+    "skill_description": "Running controlled experiments on ad creatives, landing pages, and emails to identify winning variants.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Marketing Funnel Management",
+    "skill_category": "Domain",
+    "skill_description": "Designing and optimising awareness, consideration, and conversion stages of the customer marketing funnel.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Lead Generation",
+    "skill_category": "Domain",
+    "skill_description": "Creating and optimising campaigns to attract and capture qualified leads for sales follow-up.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Demand Generation",
+    "skill_category": "Domain",
+    "skill_description": "Building awareness and interest through integrated campaigns that create demand for products or services.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Marketing Automation",
+    "skill_category": "Domain",
+    "skill_description": "Designing automated workflows for lead nurturing, onboarding, re-engagement, and lifecycle campaigns.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Customer Acquisition Cost (CAC) Optimisation",
+    "skill_category": "Domain",
+    "skill_description": "Measuring and reducing the cost to acquire a new customer across all marketing channels.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Return on Ad Spend (ROAS)",
+    "skill_category": "Domain",
+    "skill_description": "Calculating and optimising revenue generated per rupee spent on advertising campaigns.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Cost Per Lead (CPL) Optimisation",
+    "skill_category": "Domain",
+    "skill_description": "Tracking and reducing cost per acquired lead by testing channels, creatives, and audience targeting.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Content Marketing Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing content programmes that attract, engage, and convert target audiences.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Content Calendar Planning",
+    "skill_category": "Domain",
+    "skill_description": "Creating structured content calendars aligning topics, formats, channels, and publishing schedules.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Blog Writing and Long-Form Content",
+    "skill_category": "Domain",
+    "skill_description": "Writing SEO-optimised long-form articles, guides, and whitepapers that drive organic traffic.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Copywriting",
+    "skill_category": "Domain",
+    "skill_description": "Writing persuasive ad copy, headlines, CTAs, and landing page content that drives action.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Brand Storytelling",
+    "skill_category": "Domain",
+    "skill_description": "Crafting compelling brand narratives that emotionally connect with Indian audiences and build affinity.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Video Content Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Planning video content for YouTube, Reels, Shorts, and OTT platforms to engage target audiences.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Short-Form Video Creation (Reels, Shorts)",
+    "skill_category": "Domain",
+    "skill_description": "Creating and optimising short-form video content for Instagram Reels, YouTube Shorts, and Moj.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Podcast Production and Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Planning, producing, and distributing podcast content to build brand authority and audience engagement.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Email Copywriting",
+    "skill_category": "Domain",
+    "skill_description": "Writing subject lines, preheaders, and email body copy that drive open rates and click-throughs.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Vernacular Content Creation (India)",
+    "skill_category": "Domain",
+    "skill_description": "Creating content in Hindi, Tamil, Telugu, Bengali, and other regional languages for Bharat audiences.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "User-Generated Content (UGC) Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Designing campaigns that encourage customers to create and share brand-related content.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Content Repurposing",
+    "skill_category": "Domain",
+    "skill_description": "Adapting long-form content into social posts, infographics, short videos, and email snippets.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Thought Leadership Content",
+    "skill_category": "Domain",
+    "skill_description": "Creating expert content — articles, webinars, and reports — to position brands as industry authorities.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Social Media Marketing Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Developing platform-specific social media strategies to build brand presence and community engagement.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Instagram Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Managing Instagram presence through organic content, Stories, Reels, and paid campaigns.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Facebook Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Running brand pages, organic content, groups, and paid campaigns on Facebook.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "LinkedIn Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Building B2B brand presence, thought leadership content, and lead generation on LinkedIn.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "YouTube Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Growing YouTube channels through SEO-optimised video content, community building, and advertising.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "X (Twitter) Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Engaging audiences, managing brand conversations, and running organic and paid campaigns on X (formerly Twitter).",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "WhatsApp Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Building WhatsApp-based customer communication, broadcast marketing, and commerce flows.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Community Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing brand online communities by responding to comments, resolving issues, and fostering engagement.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Social Listening",
+    "skill_category": "Domain",
+    "skill_description": "Monitoring brand mentions, competitor conversations, and consumer sentiment across social platforms.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Hashtag Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Researching and applying hashtag strategies to improve content discoverability on social platforms.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Social Media Analytics",
+    "skill_category": "Domain",
+    "skill_description": "Measuring reach, engagement, follower growth, and conversion metrics across social media channels.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Influencer Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, briefing, and collaborating with influencers and creators to amplify brand messaging.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Micro and Nano Influencer Strategy (India)",
+    "skill_category": "Domain",
+    "skill_description": "Leveraging smaller, high-trust Indian influencers for cost-effective and authentic brand promotion.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Creator Economy and UGC",
+    "skill_category": "Domain",
+    "skill_description": "Partnering with digital creators and leveraging user-generated content to build authentic brand equity.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Brand Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Defining brand purpose, positioning, personality, and long-term direction for sustainable growth.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Brand Identity Development",
+    "skill_category": "Domain",
+    "skill_description": "Designing brand systems including logos, typography, colour palettes, and visual language guidelines.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Brand Positioning",
+    "skill_category": "Domain",
+    "skill_description": "Defining how a brand is uniquely perceived relative to competitors in the minds of target consumers.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Brand Guidelines and Style Guides",
+    "skill_category": "Domain",
+    "skill_description": "Creating comprehensive brand guidelines covering visual identity, tone of voice, and usage standards.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Brand Architecture",
+    "skill_category": "Domain",
+    "skill_description": "Structuring the relationship between master brand, sub-brands, and product lines in a portfolio.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Brand Tracking and Equity Research",
+    "skill_category": "Domain",
+    "skill_description": "Measuring brand awareness, consideration, preference, and equity through quantitative research.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Rebranding Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing brand refresh or full rebrand including stakeholder management and rollout.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Employer Branding",
+    "skill_category": "Domain",
+    "skill_description": "Building the company's reputation as an employer of choice through EVP and talent-focused communications.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Market Research",
+    "skill_category": "Domain",
+    "skill_description": "Conducting primary and secondary research to understand market size, consumer behaviour, and competitor dynamics.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Consumer Behaviour Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Analysing how and why Indian consumers make purchase decisions to inform marketing strategy.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Focus Group Moderation",
+    "skill_category": "Domain",
+    "skill_description": "Facilitating and moderating consumer focus groups to gather qualitative brand and product insights.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Quantitative Market Research",
+    "skill_category": "Domain",
+    "skill_description": "Designing and analysing large-scale quantitative surveys to draw statistically valid consumer insights.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Ethnographic Research",
+    "skill_category": "Domain",
+    "skill_description": "Observing consumers in natural settings to uncover latent needs and behaviour patterns.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Customer Segmentation",
+    "skill_category": "Domain",
+    "skill_description": "Dividing the consumer base into distinct groups based on demographics, behaviour, and psychographics.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Persona Development",
+    "skill_category": "Domain",
+    "skill_description": "Creating detailed buyer personas representing target audience segments to guide content and campaign strategy.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Net Promoter Score (NPS)",
+    "skill_category": "Domain",
+    "skill_description": "Measuring customer loyalty and satisfaction and acting on promoter versus detractor insights.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Voice of Customer (VOC) Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Systematically capturing customer feedback across touchpoints to improve experience and messaging.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Competitive Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Benchmarking competitors on positioning, messaging, channels, pricing, and creative strategy.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Industry and Category Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Analysing industry trends, growth drivers, and category dynamics to inform marketing strategy.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Rural Market Research (India)",
+    "skill_category": "Domain",
+    "skill_description": "Conducting research in Tier 2, Tier 3, and rural Indian markets accounting for language and access constraints.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "B2B Sales Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Developing account-based selling approaches, navigating complex buying cycles, and closing enterprise deals.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "B2C Sales Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Designing high-volume direct consumer sales processes across digital, retail, and telesales channels.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Sales Pipeline Management",
+    "skill_category": "Domain",
+    "skill_description": "Tracking, prioritising, and forecasting deals across all pipeline stages using CRM tools.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Consultative Selling",
+    "skill_category": "Domain",
+    "skill_description": "Understanding customer needs deeply and positioning solutions that genuinely solve their business problems.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Solution Selling",
+    "skill_category": "Domain",
+    "skill_description": "Selling integrated solutions by matching product and service combinations to customer-specific challenges.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "SPIN Selling",
+    "skill_category": "Domain",
+    "skill_description": "Using Situation, Problem, Implication, Need-Payoff questioning framework to uncover buyer need and value.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Sales Prospecting",
+    "skill_category": "Domain",
+    "skill_description": "Identifying and qualifying new sales leads through cold outreach, referrals, and digital channels.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Cold Calling",
+    "skill_category": "Domain",
+    "skill_description": "Initiating outbound telephone conversations with prospects to qualify leads and book sales meetings.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Sales Negotiation",
+    "skill_category": "Domain",
+    "skill_description": "Negotiating terms, pricing, and contract conditions to close deals while maintaining client relationships.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Key Account Management",
+    "skill_category": "Domain",
+    "skill_description": "Building long-term relationships and driving revenue growth within strategic high-value accounts.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Channel Sales Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing dealer, distributor, and reseller networks to drive indirect sales.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Retail Sales Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing in-store sales operations, merchandising, and retail team performance.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Inside Sales",
+    "skill_category": "Domain",
+    "skill_description": "Conducting the full sales cycle remotely through phone, email, and video to close deals without field visits.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Field Sales",
+    "skill_category": "Domain",
+    "skill_description": "Conducting in-person client meetings, product demonstrations, and relationship building in territory sales.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Sales Forecasting",
+    "skill_category": "Domain",
+    "skill_description": "Predicting future revenue using pipeline data, historical trends, and market conditions.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Sales Enablement",
+    "skill_category": "Domain",
+    "skill_description": "Equipping sales teams with the content, tools, training, and data needed to win deals effectively.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Revenue Operations (RevOps)",
+    "skill_category": "Domain",
+    "skill_description": "Aligning sales, marketing, and customer success processes and data to maximise revenue growth.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Account-Based Marketing (ABM)",
+    "skill_category": "Domain",
+    "skill_description": "Targeting and engaging specific high-value accounts with personalised and coordinated sales and marketing.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Integrated Marketing Communications (IMC)",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating messaging and channels — TV, digital, OOH, print, radio — for consistent brand communication.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Media Planning",
+    "skill_category": "Domain",
+    "skill_description": "Selecting optimal media channels, formats, and placements to reach the target audience efficiently.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Media Buying",
+    "skill_category": "Domain",
+    "skill_description": "Negotiating and purchasing advertising space across TV, digital, print, radio, and OOH channels.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "ATL (Above-the-Line) Advertising",
+    "skill_category": "Domain",
+    "skill_description": "Managing mass-reach brand advertising through television, radio, and print media.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "BTL (Below-the-Line) Advertising",
+    "skill_category": "Domain",
+    "skill_description": "Executing targeted activities including events, promotions, point-of-sale, and direct marketing.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "TTL (Through-the-Line) Advertising",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating a seamless mix of ATL and BTL advertising for holistic brand campaign delivery.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Television Advertising Planning",
+    "skill_category": "Domain",
+    "skill_description": "Planning TV campaigns using GRP targets, daypart selection, and BARC ratings for Indian broadcast.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Radio Advertising",
+    "skill_category": "Domain",
+    "skill_description": "Planning and buying radio spots on FM stations for local and national brand campaigns in India.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Print Advertising",
+    "skill_category": "Domain",
+    "skill_description": "Planning and placing advertising in national and regional newspapers and magazines for Indian brands.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Out-of-Home (OOH) Advertising",
+    "skill_category": "Domain",
+    "skill_description": "Planning and buying billboard, transit, and ambient outdoor media for impactful brand presence.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Digital Out-of-Home (DOOH) Advertising",
+    "skill_category": "Domain",
+    "skill_description": "Planning, buying, and trafficking programmatic and direct DOOH campaigns on digital screens in malls, airports, and metro stations.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "OTT Advertising (India)",
+    "skill_category": "Domain",
+    "skill_description": "Planning video advertising campaigns on Indian OTT platforms including Hotstar, JioCinema, and SonyLIV.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "BARC Ratings and TV Planning (India)",
+    "skill_category": "Domain",
+    "skill_description": "Using BARC India viewership data to plan and evaluate television campaigns across Indian markets.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "TAM Data and Media Research (India)",
+    "skill_category": "Domain",
+    "skill_description": "Using TAM AdEx and media research data for competitive advertising intelligence and media planning.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Media Mix Modelling (MMM)",
+    "skill_category": "Domain",
+    "skill_description": "Using statistical modelling to measure the contribution of each media channel to sales and ROI.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Attribution Modelling",
+    "skill_category": "Domain",
+    "skill_description": "Assigning credit across marketing touchpoints using first-touch, last-touch, linear, and data-driven models.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Campaign Brief Writing",
+    "skill_category": "Domain",
+    "skill_description": "Writing comprehensive creative briefs that align agency and internal teams on campaign objectives and strategy.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Creative Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Developing the creative idea, messaging hierarchy, and visual direction for advertising campaigns.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Advertising Copywriting",
+    "skill_category": "Domain",
+    "skill_description": "Writing compelling headlines, taglines, body copy, and scripts for print, digital, and broadcast ads.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Script Writing for Video and Audio Ads",
+    "skill_category": "Domain",
+    "skill_description": "Writing scripts for TV commercials, radio spots, and digital video ads with clear messaging and storytelling.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Art Direction",
+    "skill_category": "Domain",
+    "skill_description": "Directing the visual concept, layout, and aesthetic of advertising campaigns across all media formats.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Campaign Measurement and Reporting",
+    "skill_category": "Domain",
+    "skill_description": "Measuring campaign effectiveness across reach, frequency, engagement, and conversion metrics.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Public Relations (PR) Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing PR programmes to build and protect brand reputation with media and public.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Media Relations",
+    "skill_category": "Domain",
+    "skill_description": "Building and managing relationships with journalists and editors to secure earned media coverage.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Press Release Writing",
+    "skill_category": "Domain",
+    "skill_description": "Writing news-worthy press releases that communicate brand announcements clearly for media pickup.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Crisis Communication",
+    "skill_category": "Domain",
+    "skill_description": "Managing brand communication during controversies or crises to protect reputation and maintain trust.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Spokesperson Training",
+    "skill_category": "Domain",
+    "skill_description": "Preparing executives and brand representatives for media interviews, press conferences, and public speaking.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Corporate Communications",
+    "skill_category": "Domain",
+    "skill_description": "Managing internal and external communications that convey the company's narrative to all stakeholders.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Investor Relations Communications",
+    "skill_category": "Domain",
+    "skill_description": "Preparing financial communications and investor presentations — relevant for Corporate Communications and PR specialists in listed companies.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Government and Public Affairs",
+    "skill_category": "Domain",
+    "skill_description": "Engaging with government bodies and regulatory stakeholders to influence policy and manage relationships.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Internal Communications",
+    "skill_category": "Domain",
+    "skill_description": "Designing and executing employee communication campaigns aligned with brand values and culture.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Awards and Rankings Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Identifying relevant industry awards and preparing submissions to build brand credibility and visibility.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Thought Leadership PR",
+    "skill_category": "Domain",
+    "skill_description": "Positioning brand leaders as industry experts through speaking engagements, bylines, and expert media interviews.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "E-commerce Marketing Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Planning integrated marketing to drive traffic, conversion, and repeat purchase for online stores.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Marketplace Marketing (Amazon, Flipkart)",
+    "skill_category": "Domain",
+    "skill_description": "Optimising product listings, winning buy box, and running sponsored ads on Indian e-commerce marketplaces.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "D2C (Direct-to-Consumer) Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Building brand-owned channels to sell directly to consumers, bypassing intermediaries.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Product Listing Optimisation",
+    "skill_category": "Domain",
+    "skill_description": "Writing and optimising product titles, bullet points, descriptions, and images for marketplace SEO.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "E-commerce Analytics",
+    "skill_category": "Domain",
+    "skill_description": "Analysing traffic sources, conversion funnels, cart abandonment, and revenue metrics for online stores.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Social Commerce (Instagram, WhatsApp)",
+    "skill_category": "Domain",
+    "skill_description": "Selling products directly through Instagram Shopping, WhatsApp Business, and social native checkout.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Quick Commerce Strategy (India)",
+    "skill_category": "Domain",
+    "skill_description": "Developing brand strategy for ultra-fast delivery platforms like Blinkit, Swiggy Instamart, and Zepto.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Customer Loyalty and Retention Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Designing loyalty programmes, win-back campaigns, and subscription models to maximise customer lifetime value.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Customer Lifetime Value (CLV) Optimisation",
+    "skill_category": "Domain",
+    "skill_description": "Measuring and improving the total revenue a customer generates over their full relationship with the brand.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Pricing Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Designing pricing models — cost-plus, value-based, competitive — to maximise revenue and market share.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Product Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Positioning products, crafting messaging, and developing go-to-market plans for new launches.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Go-to-Market (GTM) Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Planning product launch strategy including target segments, positioning, channel selection, and marketing mix.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Product Launch Management",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating cross-functional teams to execute successful product launches on time and on budget.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Trade Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Executing retailer-facing promotions, in-store activations, and channel partner marketing programmes.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Shopper Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Influencing purchase decisions at the point of sale through displays, sampling, and in-store activations.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Category Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing a product category strategically through assortment, shelf placement, and promotional decisions.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Event Management",
+    "skill_category": "Domain",
+    "skill_description": "Planning, coordinating, and executing brand events, product launches, conferences, and trade shows.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Experiential Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Creating immersive brand experiences that engage consumers through live events and activations.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Virtual Event Production",
+    "skill_category": "Domain",
+    "skill_description": "Producing and managing webinars, virtual conferences, and hybrid events for brand engagement.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Sponsorship Management",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating, negotiating, and activating brand sponsorships of events, sports, and entertainment properties.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "IPL and Cricket Sponsorship (India)",
+    "skill_category": "Domain",
+    "skill_description": "Leveraging India's cricket ecosystem including IPL for brand marketing and consumer engagement.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Bharat Marketing (Tier 2 and 3 India)",
+    "skill_category": "Domain",
+    "skill_description": "Developing marketing strategies for non-metro Indian consumers in regional languages and culturally resonant formats.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Festive Season Marketing (India)",
+    "skill_category": "Domain",
+    "skill_description": "Planning Diwali, Holi, Eid, Onam, and other Indian festive campaigns for peak sales periods.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Rural Marketing (India)",
+    "skill_category": "Domain",
+    "skill_description": "Designing distribution, activation, and media strategies to reach rural Indian consumers effectively.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Kirana and General Trade Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Activating brand presence in traditional kirana stores through trade promotions and retailer incentive programmes.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "FMCG Marketing (India)",
+    "skill_category": "Domain",
+    "skill_description": "Managing fast-moving consumer goods marketing including distribution, promotions, and brand building in India.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Pharma Marketing (India)",
+    "skill_category": "Domain",
+    "skill_description": "Marketing pharmaceutical products to doctors, chemists, and patients within CDSCO and NMC (National Medical Commission) guidelines.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "SEBI Advertising Guidelines",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring financial product advertising complies with SEBI regulations on truthfulness and risk disclosure.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "ASCI (Advertising Standards Council of India) Guidelines",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring advertising content meets ASCI standards for honest, decent, and non-harmful communication.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Press Council of India (PCI) Norms",
+    "skill_category": "Domain",
+    "skill_description": "Understanding Press Council of India norms applicable to print journalists and editors governing editorial standards and journalistic conduct.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Doordarshan and AIR Advertising",
+    "skill_category": "Domain",
+    "skill_description": "Placing government and public-sector advertising on Doordarshan television and All India Radio.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Journalism and News Writing",
+    "skill_category": "Domain",
+    "skill_description": "Writing accurate, objective, and timely news stories following journalistic principles and style guides.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Feature Writing",
+    "skill_category": "Domain",
+    "skill_description": "Writing in-depth feature articles, profiles, and long reads for magazines, newspapers, and digital media.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Investigative Journalism",
+    "skill_category": "Domain",
+    "skill_description": "Conducting deep investigations into public interest stories using records, interviews, and data journalism.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Data Journalism",
+    "skill_category": "Domain",
+    "skill_description": "Using data analysis and visualisation to support and enhance news reporting.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Sub-editing and Copy Editing",
+    "skill_category": "Domain",
+    "skill_description": "Editing, fact-checking, headline writing, and layout preparation for print and digital news publications.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Broadcast Journalism",
+    "skill_category": "Domain",
+    "skill_description": "Presenting, scripting, and producing news content for television and radio broadcast.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Digital Journalism and Online Publishing",
+    "skill_category": "Domain",
+    "skill_description": "Writing and publishing web-native news stories optimised for digital audiences and SEO.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Editorial Planning",
+    "skill_category": "Domain",
+    "skill_description": "Planning editorial calendars, story angles, and content mix for publications or media organisations.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Photojournalism",
+    "skill_category": "Domain",
+    "skill_description": "Capturing newsworthy images that tell compelling stories for newspapers, magazines, and digital media.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Marketing Analytics",
+    "skill_category": "Domain",
+    "skill_description": "Measuring and interpreting campaign performance data to optimise spend and improve marketing effectiveness.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "KPI Setting and Tracking",
+    "skill_category": "Domain",
+    "skill_description": "Defining and monitoring key performance indicators for campaigns, channels, and marketing teams.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Marketing Dashboard Design",
+    "skill_category": "Domain",
+    "skill_description": "Building dashboards that surface actionable marketing metrics for daily, weekly, and monthly reporting.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Audience Analytics",
+    "skill_category": "Domain",
+    "skill_description": "Analysing audience demographics, interests, and behaviour to refine targeting and content strategy.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "First-Party Data Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Building and leveraging owned customer data assets to reduce reliance on third-party cookies.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Customer Data Platform (CDP) Management",
+    "skill_category": "Domain",
+    "skill_description": "Unifying customer data from multiple touchpoints in a CDP for personalised marketing at scale.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Marketing ROI Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Calculating return on marketing investment across channels and campaigns to guide budget allocation.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Cohort Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Tracking behaviour of specific user groups over time to understand retention, engagement, and value.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Consumer Protection Act 2019 (India)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding consumer rights, unfair trade practices, and advertiser obligations under the Consumer Protection Act.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "DPDP Act 2023 (Data Privacy for Marketing)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring marketing data collection, consent, and communication comply with India's Digital Personal Data Protection Act.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "TRAI DND and Telemarketing Regulations",
+    "skill_category": "Domain",
+    "skill_description": "Complying with TRAI's Do Not Disturb registry and commercial communication regulations for SMS and calls.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "IT Act 2000 and Digital Advertising",
+    "skill_category": "Domain",
+    "skill_description": "Understanding IT Act 2000 provisions applicable to online advertising, data, and digital commerce.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "GST on Advertising Services",
+    "skill_category": "Domain",
+    "skill_description": "Understanding 18% GST applicability on advertising services and reverse charge on foreign digital ad spend.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Food and Beverage Advertising Regulations (FSSAI)",
+    "skill_category": "Domain",
+    "skill_description": "Complying with FSSAI guidelines on claims, health messaging, and labelling in food brand advertising.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Pharmaceutical Advertising Regulations (CDSCO)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring pharmaceutical marketing complies with CDSCO, NMC, and Drug and Cosmetics Act provisions for ethical promotion.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Children's Advertising Guidelines (India)",
+    "skill_category": "Domain",
+    "skill_description": "Complying with ASCI and MIB guidelines on advertising directed at children in India.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Intellectual Property Rights in Advertising",
+    "skill_category": "Domain",
+    "skill_description": "Managing copyright, trademark, and image rights in advertising content and brand assets.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Creativity and Ideation",
+    "skill_category": "Foundational",
+    "skill_description": "Generating original concepts, campaign ideas, and creative solutions for marketing and advertising challenges.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Written Communication",
+    "skill_category": "Foundational",
+    "skill_description": "Writing clear, persuasive, and professional content across emails, briefs, reports, and marketing materials.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Verbal Communication and Presentation",
+    "skill_category": "Foundational",
+    "skill_description": "Presenting campaign ideas, data insights, and strategies confidently to clients and internal stakeholders.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Storytelling",
+    "skill_category": "Foundational",
+    "skill_description": "Crafting compelling narratives that emotionally connect brands with their target audiences.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Critical Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Evaluating ideas, data, and strategies objectively to make sound marketing and business decisions.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Analytical Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Interpreting marketing data and campaign metrics to draw actionable insights and recommendations.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Attention to Detail",
+    "skill_category": "Foundational",
+    "skill_description": "Ensuring accuracy in ad copy, targeting parameters, campaign specs, and reporting data.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Time Management and Deadline Adherence",
+    "skill_category": "Foundational",
+    "skill_description": "Managing multiple campaigns and deliverables simultaneously within tight agency and media deadlines.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Teamwork and Collaboration",
+    "skill_category": "Foundational",
+    "skill_description": "Working effectively with creative, strategy, media, sales, and technology teams to deliver campaigns.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Client Servicing",
+    "skill_category": "Foundational",
+    "skill_description": "Building and maintaining strong client relationships through responsive communication, trust, and delivery.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Curiosity and Consumer Empathy",
+    "skill_category": "Foundational",
+    "skill_description": "Developing a deep understanding of consumer motivations, needs, and behaviour to create resonant marketing.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Adaptability",
+    "skill_category": "Foundational",
+    "skill_description": "Responding quickly to changing briefs, market conditions, and platform algorithm updates.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Cultural Awareness (India)",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding India's diverse cultural, regional, and religious contexts to create inclusive and relevant campaigns.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Negotiation Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Negotiating media rates, agency fees, influencer contracts, and vendor agreements.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Project Management",
+    "skill_category": "Foundational",
+    "skill_description": "Planning, scheduling, and managing marketing projects from brief to campaign live across teams.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Business Acumen",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding how marketing decisions impact revenue, margin, and overall business performance.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Data Literacy",
+    "skill_category": "Foundational",
+    "skill_description": "Reading, interpreting, and acting on marketing data, metrics, and performance reports.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Commercial Awareness",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding client and agency commercial models, pricing structures, and revenue drivers.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Ethics in Advertising",
+    "skill_category": "Foundational",
+    "skill_description": "Applying ethical standards to advertising claims, targeting, and consumer communication practices.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Resilience and Stress Management",
+    "skill_category": "Foundational",
+    "skill_description": "Maintaining performance under pressure during campaign launches, pitches, and high-demand periods.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Continuous Learning",
+    "skill_category": "Foundational",
+    "skill_description": "Staying updated on evolving digital platforms, algorithm changes, and marketing best practices.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Networking and Relationship Building",
+    "skill_category": "Foundational",
+    "skill_description": "Building professional relationships with clients, media partners, vendors, and industry peers.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Cross-Cultural Communication",
+    "skill_category": "Foundational",
+    "skill_description": "Communicating effectively with global clients and multicultural teams in international campaigns.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "English Proficiency (Professional)",
+    "skill_category": "Foundational",
+    "skill_description": "Reading, writing, and speaking professional English for client communication, reports, and international campaigns.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Hindi and Regional Language Proficiency",
+    "skill_category": "Foundational",
+    "skill_description": "Communicating in Hindi and regional languages for vernacular content, client engagement, and pan-India campaigns.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Decision Making Under Pressure",
+    "skill_category": "Foundational",
+    "skill_description": "Making sound campaign and creative decisions quickly in fast-paced media and advertising environments.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Feedback Giving and Receiving",
+    "skill_category": "Foundational",
+    "skill_description": "Providing and incorporating constructive creative and performance feedback within agency and brand teams.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Mentoring and Knowledge Sharing",
+    "skill_category": "Foundational",
+    "skill_description": "Guiding junior team members on campaign execution, platform best practices, and creative craft.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Leadership and Team Management",
+    "skill_category": "Foundational",
+    "skill_description": "Leading campaign teams, managing workloads, and motivating creative and media professionals.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Strategic Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Looking beyond individual campaigns to align marketing activity with long-term brand and business strategy.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Growth Hacking",
+    "skill_category": "Domain",
+    "skill_description": "Identifying unconventional, low-cost tactics to rapidly acquire and retain users or customers.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Product-Led Growth (PLG)",
+    "skill_category": "Domain",
+    "skill_description": "Using the product itself as the primary vehicle for customer acquisition, retention, and expansion.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Referral Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Designing referral programmes that incentivise existing customers to bring new customers.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Viral Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Creating content or campaigns designed to spread organically through sharing and word-of-mouth.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Guerrilla Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Executing unconventional, low-budget, high-impact marketing activations that generate surprise and buzz.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Cause Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Partnering with social causes to build brand affinity and drive consumer purchase with purpose.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Sustainability and Green Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Communicating brand environmental and sustainability credentials to eco-conscious Indian consumers.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Purpose-Led Brand Communication",
+    "skill_category": "Domain",
+    "skill_description": "Building brand communication around a social or environmental purpose beyond the product or service.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Marketing Budget Planning and Allocation",
+    "skill_category": "Domain",
+    "skill_description": "Allocating marketing budgets across channels and campaigns to maximise return on investment.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Media Audit",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating agency media buying efficiency, rates, and contract compliance through independent review.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Agency Management",
+    "skill_category": "Domain",
+    "skill_description": "Briefing, managing, and evaluating creative, media, digital, and PR agency partners.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Pitch and New Business Development (Agency)",
+    "skill_category": "Domain",
+    "skill_description": "Leading new business pitches and developing agency credentials to win client accounts.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Brand Activation",
+    "skill_category": "Domain",
+    "skill_description": "Executing tactical in-market activities that bring a brand promise to life through consumer interaction.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Consumer Promotions",
+    "skill_category": "Domain",
+    "skill_description": "Designing price promotions, contests, gift-with-purchase, and cashback offers to drive trial and purchase.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Loyalty Programme Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Designing and managing loyalty point programmes, tiered memberships, and rewards schemes.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "B2B Lead Scoring",
+    "skill_category": "Domain",
+    "skill_description": "Assigning scores to B2B leads based on firmographic and behavioural data to prioritise sales follow-up.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Customer Journey Mapping",
+    "skill_category": "Domain",
+    "skill_description": "Visualising the end-to-end customer experience across all touchpoints to identify gaps and opportunities.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Omnichannel Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Delivering a consistent brand experience across online, offline, mobile, and in-store touchpoints.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Cross-Sell and Upsell Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Designing marketing programmes that increase average order value and wallet share among existing customers.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Churn Reduction and Win-Back Campaigns",
+    "skill_category": "Domain",
+    "skill_description": "Identifying at-risk customers and designing targeted campaigns to prevent churn and reactivate lapsed users.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Search Engine Optimisation for Voice",
+    "skill_category": "Domain",
+    "skill_description": "Optimising content for voice search queries on Google Assistant and Alexa popular in Indian households.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "App Store Optimisation (ASO)",
+    "skill_category": "Domain",
+    "skill_description": "Optimising mobile app titles, descriptions, keywords, and ratings to increase app store visibility and downloads.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Push Notification Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Designing and sending mobile push notifications to drive app engagement, retention, and conversions.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "SMS Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Running opt-in SMS campaigns for promotions, alerts, and transactional communication with Indian consumers.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Moment Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Creating real-time, culturally relevant content capitalising on trending news, events, and pop culture moments.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Meme Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Creating and deploying culturally resonant memes for organic brand engagement on social media in India.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Podcast Advertising",
+    "skill_category": "Domain",
+    "skill_description": "Planning and buying host-read and programmatic podcast advertising spots for brand reach and recall.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Webinar and Virtual Event Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Promoting and marketing webinars and virtual events to drive registrations and attendee engagement.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Brand Partnerships and Co-Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Developing co-branded campaigns and joint marketing initiatives with complementary brands.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Franchise and Retail Partner Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Supporting franchise partners and retail channels with co-op advertising and localised marketing materials.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Sports Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Leveraging cricket, kabaddi, football, and other sports properties for brand marketing in India.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Entertainment Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Using Bollywood, OTT content, and music platforms for product placement and entertainment-led brand marketing.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Neuromarketing Basics",
+    "skill_category": "Domain",
+    "skill_description": "Applying psychological and neuroscience principles to understand consumer decision-making and improve marketing.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Sensory Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Engaging consumers through multi-sensory experiences — visual, auditory, tactile, olfactory — in marketing.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Distributor Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing wholesale distributor networks including appointment, margins, stock management, and sell-through.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Secondary Sales Management",
+    "skill_category": "Domain",
+    "skill_description": "Tracking sell-through from distributor to retailer and implementing programmes to improve secondary sales velocity.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Trade Promotions Management",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing retailer and distributor schemes, discounts, and co-operative advertising programmes.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Sales Territory Management",
+    "skill_category": "Domain",
+    "skill_description": "Dividing and managing geographic sales territories for optimal coverage, efficiency, and revenue accountability.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Sales Training and Coaching",
+    "skill_category": "Domain",
+    "skill_description": "Developing and delivering training programmes to build product knowledge and selling skills in sales teams.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Sales Incentive Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing commission structures, contests, and incentive programmes to motivate and retain sales teams.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Contract and Proposal Writing (Sales)",
+    "skill_category": "Domain",
+    "skill_description": "Writing client proposals, quotations, and service agreements that clearly articulate value and terms.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Objection Handling",
+    "skill_category": "Domain",
+    "skill_description": "Addressing and overcoming common customer objections on price, competition, timing, and need.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Customer Success Management",
+    "skill_category": "Domain",
+    "skill_description": "Proactively managing post-sale relationships to drive adoption, expansion, and renewal.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "SaaS Sales",
+    "skill_category": "Domain",
+    "skill_description": "Selling software-as-a-service products including free-to-paid conversion, trials, and subscription renewals.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Media Sales",
+    "skill_category": "Domain",
+    "skill_description": "Selling advertising inventory — digital, print, broadcast, and OOH — to brand and agency clients.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Newspaper and Magazine Publishing",
+    "skill_category": "Domain",
+    "skill_description": "Managing publication operations including editorial workflow, printing, distribution, and advertising revenue.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Digital Publishing Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Planning digital content distribution across owned platforms, apps, and social media for media businesses.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Audience Development",
+    "skill_category": "Domain",
+    "skill_description": "Growing readership, listenership, or viewership through SEO, social media, newsletters, and partnerships.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Newsletter Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Building and monetising email newsletter audiences through curated content and strategic advertising.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Media Monetisation",
+    "skill_category": "Domain",
+    "skill_description": "Developing revenue streams for media platforms through advertising, subscriptions, events, and branded content.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Native Advertising and Branded Content",
+    "skill_category": "Domain",
+    "skill_description": "Creating and placing sponsored content that matches the editorial format and audience of a media platform.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Podcast Monetisation",
+    "skill_category": "Domain",
+    "skill_description": "Generating revenue from podcasts through sponsorships, listener support, premium content, and advertising.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Video Production Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing end-to-end video production from pre-production planning through shooting, editing, and delivery.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Storyboarding",
+    "skill_category": "Domain",
+    "skill_description": "Creating visual storyboards for TV commercials, digital videos, and social media content production.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Radio Production",
+    "skill_category": "Domain",
+    "skill_description": "Producing radio programmes, jingles, and audio ads for FM broadcast and digital audio platforms.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Live Streaming Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing live streaming on YouTube, Instagram, and LinkedIn for events and product launches.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Semrush Social",
+    "skill_category": "Technical",
+    "skill_description": "Scheduling social posts and analysing social media performance using Semrush's social media management tool.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "BuzzSumo",
+    "skill_category": "Technical",
+    "skill_description": "Discovering trending content, top-performing topics, and influencer outreach opportunities using BuzzSumo.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Leadpages",
+    "skill_category": "Technical",
+    "skill_description": "Building high-converting landing pages, pop-ups, and lead capture forms using Leadpages.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Unbounce",
+    "skill_category": "Technical",
+    "skill_description": "Creating and A/B testing landing pages without code to improve campaign conversion rates using Unbounce.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Instapage",
+    "skill_category": "Technical",
+    "skill_description": "Building personalised post-click landing pages for ad campaigns using Instapage.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "ActiveCampaign",
+    "skill_category": "Technical",
+    "skill_description": "Running advanced email automation, CRM, and lead scoring workflows using ActiveCampaign.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Mailmodo",
+    "skill_category": "Technical",
+    "skill_description": "Creating AMP-powered interactive email campaigns for higher engagement using Mailmodo.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Marketo",
+    "skill_category": "Technical",
+    "skill_description": "Running enterprise marketing automation, lead management, and revenue attribution using Adobe Marketo.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Pardot (Marketing Cloud Account Engagement)",
+    "skill_category": "Technical",
+    "skill_description": "Running B2B marketing automation and lead nurturing integrated with Salesforce using Pardot.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Segment (CDP)",
+    "skill_category": "Technical",
+    "skill_description": "Collecting, unifying, and routing customer data to marketing and analytics tools using Segment CDP.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "VWO (Visual Website Optimizer)",
+    "skill_category": "Technical",
+    "skill_description": "Running website A/B tests, heatmaps, and conversion optimisation experiments using VWO.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Freshmarketer",
+    "skill_category": "Technical",
+    "skill_description": "Running website personalisation, A/B tests, and customer journey campaigns using Freshworks' Freshmarketer.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Zoho Marketing Plus",
+    "skill_category": "Technical",
+    "skill_description": "Managing multi-channel marketing campaigns across email, social, and ads using Zoho Marketing Plus.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "SimilarWeb",
+    "skill_category": "Technical",
+    "skill_description": "Analysing competitor website traffic, audience sources, and digital market share using SimilarWeb.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "SpyFu",
+    "skill_category": "Technical",
+    "skill_description": "Researching competitor paid search keywords, ad history, and SEO strategies using SpyFu.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Feedly",
+    "skill_category": "Technical",
+    "skill_description": "Monitoring industry news, content trends, and competitor updates using Feedly news aggregator.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Visme",
+    "skill_category": "Technical",
+    "skill_description": "Creating infographics, presentations, and visual content for marketing using Visme.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Descript",
+    "skill_category": "Technical",
+    "skill_description": "Editing video and podcast content using text-based editing and AI-powered features in Descript.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Adobe Express",
+    "skill_category": "Technical",
+    "skill_description": "Creating quick marketing graphics, social media posts, and short videos using Adobe Express.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Piktochart",
+    "skill_category": "Technical",
+    "skill_description": "Creating infographics, reports, and data visualisations for marketing content using Piktochart.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Streamyard",
+    "skill_category": "Technical",
+    "skill_description": "Producing and streaming live branded shows, webinars, and podcasts using Streamyard.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Restream",
+    "skill_category": "Technical",
+    "skill_description": "Simultaneously streaming live content to multiple platforms including YouTube, Facebook, and LinkedIn.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Razorpay Payment Links (Marketing)",
+    "skill_category": "Technical",
+    "skill_description": "Using Razorpay payment links in WhatsApp and email marketing campaigns to drive direct purchases.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Visual Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Communicating ideas through sketches, mood boards, and visual frameworks in creative and strategy work.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Trend Spotting",
+    "skill_category": "Foundational",
+    "skill_description": "Identifying and acting on emerging consumer, cultural, and technology trends before they go mainstream.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Problem Solving",
+    "skill_category": "Foundational",
+    "skill_description": "Identifying the root cause of marketing and campaign challenges and developing practical solutions.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Emotional Intelligence (EQ)",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding consumer and client emotions to create more resonant campaigns and stronger relationships.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Curiosity and Research Mindset",
+    "skill_category": "Foundational",
+    "skill_description": "Proactively seeking consumer insights, market data, and platform knowledge to improve marketing output.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Self-Management",
+    "skill_category": "Foundational",
+    "skill_description": "Taking ownership of deliverables, managing personal productivity, and meeting commitments without supervision.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Growth Mindset",
+    "skill_category": "Foundational",
+    "skill_description": "Embracing experimentation, learning from failed campaigns, and continuously improving marketing practice.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Interpersonal Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Building productive working relationships with clients, agency partners, media vendors, and cross-functional teams.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Sales Operations",
+    "skill_category": "Domain",
+    "skill_description": "Managing CRM hygiene, sales reporting, quota setting, and process optimisation to support sales team efficiency.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Cold Email Outreach",
+    "skill_category": "Domain",
+    "skill_description": "Writing and sequencing personalised cold emails to generate sales meetings and B2B leads.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Social Selling",
+    "skill_category": "Domain",
+    "skill_description": "Using LinkedIn and social media to build relationships, share content, and generate B2B sales leads.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Upselling and Cross-Selling Techniques",
+    "skill_category": "Domain",
+    "skill_description": "Using consultative techniques to increase deal value through relevant product or service recommendations.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Pricing Psychology",
+    "skill_category": "Domain",
+    "skill_description": "Applying behavioural economics principles — anchoring, charm pricing, bundling — to influence purchase decisions.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Marketing Technology (MarTech) Stack Management",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating, integrating, and managing the collection of marketing technology tools used by a brand.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Zero-Party and First-Party Data Collection",
+    "skill_category": "Domain",
+    "skill_description": "Designing interactive content and forms to collect data directly from consumers with explicit consent.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Cookieless Marketing Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Adapting marketing strategy for a privacy-first world without third-party cookies using contextual and first-party data.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Location-Based Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Targeting consumers with geo-fenced mobile ads and notifications based on their physical location.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Geo-Targeting in Digital Campaigns",
+    "skill_category": "Domain",
+    "skill_description": "Setting city, pin code, and radius-based audience targeting for location-specific digital campaigns in India.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Seasonal Marketing Planning",
+    "skill_category": "Domain",
+    "skill_description": "Planning marketing activities around Indian festive calendars, cricket seasons, and consumer shopping cycles.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Sports Sponsorship Evaluation",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating brand fit, reach, and ROI of sports sponsorship properties including cricket and kabaddi.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Franchise Marketing Support",
+    "skill_category": "Domain",
+    "skill_description": "Providing franchise partners with localised marketing materials, digital assets, and co-operative support.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Hotel and Travel Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Marketing hotels, airlines, and travel products through OTAs, loyalty programmes, and destination campaigns.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "EdTech Marketing (India)",
+    "skill_category": "Domain",
+    "skill_description": "Marketing online education products using performance marketing, social media, and content in India.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "HealthTech and Insurance Marketing (India)",
+    "skill_category": "Domain",
+    "skill_description": "Marketing health and insurance products within regulatory guidelines using digital and traditional channels.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Financial Services Marketing (India)",
+    "skill_category": "Domain",
+    "skill_description": "Marketing banking, NBFC, and investment products within SEBI, RBI, and IRDAI regulatory frameworks.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Automotive Marketing (India)",
+    "skill_category": "Domain",
+    "skill_description": "Planning marketing for two-wheelers, passenger vehicles, and EVs through showroom, digital, and test drive activations.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Real Estate Marketing (India)",
+    "skill_category": "Domain",
+    "skill_description": "Marketing residential and commercial real estate projects through digital, OOH, and property portals within RERA guidelines.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Political Campaign Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Planning voter outreach, party communication, and constituency activation campaigns for Indian elections.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Non-Profit and Social Sector Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Developing cause communication, fundraising campaigns, and advocacy marketing for NGOs and social enterprises.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "International Marketing (from India)",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing marketing for Indian brands entering global markets including NRI and diaspora segments.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Luxury Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Marketing premium and luxury brands to affluent Indian consumers using exclusivity and experiential strategies.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "FMCG Distribution Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Designing distribution networks for FMCG brands across general trade, modern trade, and e-commerce in India.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Export Marketing and EXIM",
+    "skill_category": "Domain",
+    "skill_description": "Marketing Indian products in international markets and managing export documentation and compliance.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Direct Mail Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Designing targeted physical mail campaigns for customer acquisition, retention, and high-value promotions.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Telemarketing and Telesales",
+    "skill_category": "Domain",
+    "skill_description": "Running outbound call campaigns for product promotion, lead qualification, and direct sales.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Market Entry Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Developing strategies for entering new geographic, demographic, or product markets in India or globally.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Pricing Research (Van Westendorp, Gabor-Granger)",
+    "skill_category": "Domain",
+    "skill_description": "Applying pricing research techniques to determine acceptable price ranges and willingness to pay.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Brand Audit",
+    "skill_category": "Domain",
+    "skill_description": "Systematically evaluating brand health, consistency, and market perception through internal and consumer research.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Share of Voice Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Measuring a brand's advertising and media presence relative to competitors in a category.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Advertising Effectiveness Research",
+    "skill_category": "Domain",
+    "skill_description": "Measuring pre-and post-campaign recall, persuasion, and purchase intent using research methodologies.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Copy Testing and Creative Testing",
+    "skill_category": "Domain",
+    "skill_description": "Testing advertising copy and creative concepts with target audiences before full campaign launch.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Tracking Study Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing continuous brand tracker studies to monitor awareness, consideration, and equity over time.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Conjoint Analysis for Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Using conjoint analysis to understand how consumers trade off product attributes and price in their choices.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Share of Shelf and Planogram",
+    "skill_category": "Domain",
+    "skill_description": "Optimising product visibility and placement on retail shelves through planogram management.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "In-Store Visual Merchandising",
+    "skill_category": "Domain",
+    "skill_description": "Designing and managing point-of-sale displays and in-store materials to drive purchase at shelf.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Retail Media Networks",
+    "skill_category": "Domain",
+    "skill_description": "Using retailer-owned advertising platforms — Flipkart Ads, Amazon DSP — to reach shoppers at point of purchase.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Connected TV (CTV) Advertising",
+    "skill_category": "Domain",
+    "skill_description": "Running targeted video ads on smart TVs and streaming devices through programmatic and direct deals.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Audio Advertising (Spotify, Gaana, JioSaavn)",
+    "skill_category": "Domain",
+    "skill_description": "Planning and buying audio ad placements on streaming music platforms popular with Indian consumers.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Gaming Advertising",
+    "skill_category": "Domain",
+    "skill_description": "Placing in-game ads and brand integrations within mobile and PC games for youth and gaming audiences.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Zoho Marketing Automation",
+    "skill_category": "Technical",
+    "skill_description": "Building automated lead nurturing and customer engagement workflows using Zoho's marketing automation tools.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Google Campaign Manager 360",
+    "skill_category": "Technical",
+    "skill_description": "Trafficking, tracking, and measuring digital ad campaigns across channels using Google Campaign Manager 360.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Meta Pixel Implementation",
+    "skill_category": "Technical",
+    "skill_description": "Installing and configuring Meta Pixel to track website events and optimise Facebook and Instagram ad campaigns.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Google Ads Conversion Tracking",
+    "skill_category": "Technical",
+    "skill_description": "Setting up conversion tracking in Google Ads to measure actions driven by search and display campaigns.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "UTM Parameter Management",
+    "skill_category": "Technical",
+    "skill_description": "Building and managing UTM tracking parameters to attribute website traffic and conversions to specific campaigns.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Clarity (Microsoft)",
+    "skill_category": "Technical",
+    "skill_description": "Analysing user behaviour through session recordings and heatmaps using Microsoft Clarity.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Adobe Analytics",
+    "skill_category": "Technical",
+    "skill_description": "Tracking digital customer behaviour and campaign performance using Adobe Analytics enterprise platform.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Salesforce Marketing Cloud",
+    "skill_category": "Technical",
+    "skill_description": "Running enterprise email marketing, journey builder, and customer data management using Salesforce Marketing Cloud.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Zoho Desk (Customer Support)",
+    "skill_category": "Technical",
+    "skill_description": "Managing customer support ticketing integrated with marketing automation using Zoho Desk — relevant for brands with marketing-support alignment workflows.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Intercom",
+    "skill_category": "Technical",
+    "skill_description": "Managing in-app customer messaging, chat support, and product tours using Intercom.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Crisp Chat",
+    "skill_category": "Technical",
+    "skill_description": "Managing live chat, chatbot, and customer messaging for marketing and support using Crisp.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Tidio",
+    "skill_category": "Technical",
+    "skill_description": "Using Tidio chatbot and live chat for lead capture and customer engagement on brand websites.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Google Merchant Center",
+    "skill_category": "Technical",
+    "skill_description": "Managing product feeds, listings, and shopping ads for e-commerce brands using Google Merchant Center.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Facebook Commerce Manager",
+    "skill_category": "Technical",
+    "skill_description": "Managing product catalogues and shopping experiences on Facebook and Instagram using Commerce Manager.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "WhatsApp Business App",
+    "skill_category": "Technical",
+    "skill_description": "Managing customer communication, product catalogues, and promotions using the WhatsApp Business App.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Microsoft Advertising (Bing Ads)",
+    "skill_category": "Technical",
+    "skill_description": "Running search advertising campaigns on Microsoft Bing to reach audiences not covered by Google.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Adobe Lightroom",
+    "skill_category": "Technical",
+    "skill_description": "Editing and processing product and lifestyle photography for marketing and e-commerce use.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Procreate",
+    "skill_category": "Technical",
+    "skill_description": "Creating digital illustrations and hand-drawn brand artwork using Procreate on iPad.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Blender (3D Design)",
+    "skill_category": "Technical",
+    "skill_description": "Creating 3D product renders and motion graphics for digital advertising using Blender.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "OBS Studio",
+    "skill_category": "Technical",
+    "skill_description": "Recording and live streaming brand video content and events using OBS Studio.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Hubspot Sales Hub",
+    "skill_category": "Technical",
+    "skill_description": "Managing sales contacts, sequences, and deal pipelines integrated with marketing using HubSpot Sales Hub.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Commercial Acumen",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding how marketing investments translate to revenue, profit, and business growth for clients and brands.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Presentation Design Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Designing visually compelling pitch decks, campaign presentations, and strategy documents.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Agility and Speed to Market",
+    "skill_category": "Foundational",
+    "skill_description": "Moving quickly from idea to execution to capitalise on trending moments and competitive opportunities.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Account Management Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Managing client accounts by balancing creative integrity, client expectations, and business results.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Media Literacy",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding how different media channels work, their audiences, and their role in the marketing mix.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Conversion Funnel Optimisation",
+    "skill_category": "Domain",
+    "skill_description": "Analysing and improving each stage of the purchase funnel from awareness through conversion to retention.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Landing Page Optimisation",
+    "skill_category": "Domain",
+    "skill_description": "Testing and improving landing page elements — headline, CTA, form, layout — to maximise conversion rates.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Email Deliverability Management",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining sender reputation, managing bounce rates, and ensuring marketing emails reach inbox folders.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Marketing Compliance and Legal Review",
+    "skill_category": "Domain",
+    "skill_description": "Reviewing marketing claims, offers, and disclosures for legal compliance before campaign publication.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Cross-Channel Campaign Coordination",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring consistent messaging, timing, and frequency across digital, print, OOH, and broadcast channels.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Hyperlocal Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Targeting consumers at street, locality, or pin-code level using geo-targeting and local platform placements.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Subscription Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Marketing subscription products through free trials, upgrade nudges, and annual plan conversion campaigns.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "B2B Content Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Creating whitepapers, case studies, webinars, and thought leadership content to generate B2B leads and trust.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Account-Based Content Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Developing hyper-personalised content experiences for target accounts in account-based marketing programmes.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Sales and Marketing Alignment",
+    "skill_category": "Domain",
+    "skill_description": "Establishing shared definitions, SLAs, and feedback loops between sales and marketing to improve revenue outcomes.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Marketing Communications Planning",
+    "skill_category": "Domain",
+    "skill_description": "Developing integrated communications plans that align messaging, channels, and creative across campaigns.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Annual Marketing Plan Development",
+    "skill_category": "Domain",
+    "skill_description": "Building a comprehensive annual marketing plan with objectives, strategy, budget, and channel mix.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Tone of Voice Development",
+    "skill_category": "Domain",
+    "skill_description": "Defining and documenting a brand's distinctive writing style, vocabulary, and personality for consistent communication.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Content Distribution Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Planning how to distribute content across owned, earned, and paid channels for maximum reach and impact.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Organic Social Media Growth",
+    "skill_category": "Domain",
+    "skill_description": "Growing social media followers and engagement through consistent, high-quality content without paid amplification.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "LinkedIn Thought Leadership",
+    "skill_category": "Domain",
+    "skill_description": "Building professional brand and executive presence on LinkedIn through consistent expert content and networking.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Engagement Rate Optimisation",
+    "skill_category": "Domain",
+    "skill_description": "Improving likes, comments, shares, and saves through better content formats, timing, and audience understanding.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Reach and Frequency Planning",
+    "skill_category": "Domain",
+    "skill_description": "Setting optimal reach and frequency targets for advertising campaigns to achieve awareness and recall objectives.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Creative Production Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing the end-to-end production of advertising creative including timelines, vendors, and quality control.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Celebrity and Brand Ambassador Management",
+    "skill_category": "Domain",
+    "skill_description": "Selecting, contracting, and activating celebrity brand ambassadors for endorsement campaigns.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "PR Crisis Preparedness",
+    "skill_category": "Domain",
+    "skill_description": "Developing crisis communication playbooks and readiness protocols before brand reputation incidents occur.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Media Monitoring and Sentiment Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Continuously tracking media coverage and sentiment to respond rapidly to brand narrative shifts.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Social Media Policy and Governance",
+    "skill_category": "Domain",
+    "skill_description": "Developing and enforcing brand guidelines for employee social media behaviour and official channel management.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Spokesperson and Brand Voice Training",
+    "skill_category": "Domain",
+    "skill_description": "Coaching brand spokespeople and employees to communicate consistently with brand tone and key messages.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Print Production and Vendor Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing print vendors for brochures, packaging, point-of-sale, and OOH material production and quality.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Photography Briefing and Art Direction",
+    "skill_category": "Domain",
+    "skill_description": "Briefing photographers and directing shoots to produce on-brand visual content for marketing use.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Google Looker Studio (Connector Setup)",
+    "skill_category": "Technical",
+    "skill_description": "Connecting multiple data sources to Looker Studio for automated marketing performance dashboards.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Google Ads Smart Bidding",
+    "skill_category": "Technical",
+    "skill_description": "Configuring Google Ads automated bidding strategies including Target CPA, ROAS, and Maximise Conversions.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Meta Advantage+ Campaigns",
+    "skill_category": "Technical",
+    "skill_description": "Using Meta's Advantage+ automated campaign features for optimised reach and conversion on Facebook and Instagram.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "LinkedIn Matched Audiences",
+    "skill_category": "Technical",
+    "skill_description": "Using LinkedIn Matched Audiences to retarget website visitors and upload customer contact lists for B2B campaigns.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Klaviyo Flows",
+    "skill_category": "Technical",
+    "skill_description": "Building automated email and SMS Flows in Klaviyo for e-commerce lifecycle marketing.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "HubSpot Workflows",
+    "skill_category": "Technical",
+    "skill_description": "Building automated marketing workflows for lead nurturing, scoring, and CRM updates in HubSpot.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Google Merchant Center Feed Management",
+    "skill_category": "Technical",
+    "skill_description": "Maintaining and optimising product data feeds in Google Merchant Center for Shopping campaigns.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Google Performance Max Campaigns",
+    "skill_category": "Technical",
+    "skill_description": "Running Google's automated Performance Max campaigns that serve ads across Search, Display, YouTube, and Maps from one campaign.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Google Demand Gen Campaigns",
+    "skill_category": "Technical",
+    "skill_description": "Running Google Demand Gen campaigns targeting audiences on YouTube, Gmail, and Discover to build demand before purchase intent.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Quora Ads",
+    "skill_category": "Technical",
+    "skill_description": "Running text and image ads on Quora targeting users by topic, question, and interest for B2B and thought leadership campaigns.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "GA4 Event and Conversion Setup",
+    "skill_category": "Technical",
+    "skill_description": "Configuring custom events, conversion goals, and enhanced measurement in Google Analytics 4 for accurate campaign tracking.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Looker Studio Data Blending",
+    "skill_category": "Technical",
+    "skill_description": "Blending multiple data sources in Looker Studio to create unified cross-channel marketing dashboards.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Zapier (Marketing Automation)",
+    "skill_category": "Technical",
+    "skill_description": "Automating repetitive marketing workflows and connecting apps without code using Zapier.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Zomato and Swiggy Advertising",
+    "skill_category": "Technical",
+    "skill_description": "Running sponsored brand and product ads on Zomato and Swiggy food delivery platforms for FMCG and restaurant brands.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "ONDC Buyer App Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Building brand presence and executing promotions on Open Network for Digital Commerce buyer applications.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "LinkedIn Newsletter Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Building and growing a LinkedIn Newsletter audience to establish B2B thought leadership and direct subscriber relationships.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "AI Prompt Engineering for Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Designing effective prompts for AI tools like ChatGPT and Claude to generate marketing copy, briefs, and creative concepts efficiently.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Partner and Reseller Enablement",
+    "skill_category": "Domain",
+    "skill_description": "Equipping channel partners and resellers with sales tools, product training, and co-marketing resources to drive indirect revenue.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Online Community PR Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing brand reputation and engagement in online communities including Reddit, Discord, and Facebook Groups.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Financial Literacy for Marketers",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding P&L statements, margins, customer acquisition economics, and budget management from a marketing perspective.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Remote and Hybrid Work Practices",
+    "skill_category": "Foundational",
+    "skill_description": "Working effectively in distributed marketing teams through async communication, digital collaboration tools, and structured check-ins.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Click-Through Rate (CTR) Optimisation",
+    "skill_category": "Domain",
+    "skill_description": "Improving the percentage of users who click on ads, emails, or organic listings through better copy, visuals, and targeting.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Cost Per Mille (CPM) and Cost Per Click (CPC) Management",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and optimising CPM (impression-based) and CPC (click-based) buying models to maximise campaign value.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Instagram Threads Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Building brand presence and engaging audiences on Instagram Threads for conversational and community-based marketing.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Optimizely",
+    "skill_category": "Technical",
+    "skill_description": "Running website experimentation, feature flagging, and personalisation using Optimizely for CRO and digital experience testing.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Infographic Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing visual infographics that communicate data, processes, and insights in an engaging and shareable format.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Amazon DSP (Demand-Side Platform)",
+    "skill_category": "Technical",
+    "skill_description": "Running programmatic display and video campaigns using Amazon's Demand-Side Platform to reach audiences on and off Amazon.",
+    "job_families": [
+      4
+    ]
+  },
+  {
+    "skill_name": "Product Photography (Studio and Lifestyle)",
+    "skill_category": "Domain",
+    "skill_description": "Directing and producing studio and lifestyle product photography for e-commerce listings, advertising, and brand assets.",
+    "job_families": [
+      4
+    ]
+  }
+]

@@ -1,0 +1,2278 @@
+[
+  {
+    "role_name": "Financial Analyst",
+    "job_family": "Finance, Accounting and Banking",
+    "domain_skills": [
+      {
+        "skill_name": "Financial Statement Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Financial Modelling",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Budgeting and Forecasting",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ratio Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "DCF Valuation (Discounted Cash Flow)",
+        "importance": "Medium"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Power BI",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Bloomberg Terminal",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Oracle Financials",
+        "importance": "Low"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Power BI Copilot",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Data-Driven Decision Making",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "Medium"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "AI tools like Microsoft Copilot in Excel automate data aggregation, variance analysis and routine report generation. Power BI Copilot assists with dashboard creation and trend identification. ChatGPT and Claude support first-draft commentary writing and research synthesis.",
+    "human_value_tasks": "Financial analysts provide strategic interpretation of numbers within business context, engaging with stakeholders to align financial insights with organisational goals. They exercise judgement in assumption-setting for models, factor in qualitative industry dynamics, and build trust-based relationships with management and clients that AI cannot replicate.",
+    "salary_range_low": 350000,
+    "salary_range_high": 800000,
+    "salary_progression": {
+      "year_0_1": "3.5-5 lakh",
+      "year_2_3": "6-9 lakh",
+      "year_4_5": "9-14 lakh",
+      "year_6_plus": "14-22 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Credit Analyst",
+    "job_family": "Finance, Accounting and Banking",
+    "domain_skills": [
+      {
+        "skill_name": "Credit Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Credit Risk Assessment",
+        "importance": "High"
+      },
+      {
+        "skill_name": "CIBIL and Credit Bureau Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Financial Statement Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Working Capital Management",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Credit Appraisal Report Writing",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Core Banking System (CBS)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Oracle Financials",
+        "importance": "Low"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Decision Making Under Uncertainty",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ethical Conduct and Integrity",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 45,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "AI tools assist in automating financial spreading and preliminary credit scoring using Copilot in Excel. ChatGPT supports first-draft credit commentary and industry background research. AI-driven credit scoring engines used by banks are proprietary and supplement analyst workflows.",
+    "human_value_tasks": "Credit analysts exercise independent judgement on borrower intent, management quality, and sector-specific risks that automated scoring models miss. They conduct site visits and management interviews to validate financial data. Final credit recommendations require human accountability in regulated banking environments.",
+    "salary_range_low": 300000,
+    "salary_range_high": 750000,
+    "salary_progression": {
+      "year_0_1": "3-4.5 lakh",
+      "year_2_3": "5.5-8 lakh",
+      "year_4_5": "8-13 lakh",
+      "year_6_plus": "13-20 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Investment Analyst",
+    "job_family": "Finance, Accounting and Banking",
+    "domain_skills": [
+      {
+        "skill_name": "Equity Valuation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Financial Modelling",
+        "importance": "High"
+      },
+      {
+        "skill_name": "DCF Valuation (Discounted Cash Flow)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Derivatives (Futures and Options)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Venture Capital and Private Equity Concepts",
+        "importance": "Medium"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Bloomberg Terminal",
+        "importance": "High"
+      },
+      {
+        "skill_name": "LSEG Workspace (formerly Reuters Eikon)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Power BI",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Curiosity and Research Mindset",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Data-Driven Decision Making",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Presentation Skills",
+        "importance": "Medium"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "Perplexity AI and ChatGPT accelerate primary research, news synthesis, and sector overview preparation. Copilot in Excel automates financial spreading from annual reports and updates model inputs rapidly. AI tools increasingly screen and rank investment opportunities based on quantitative criteria.",
+    "human_value_tasks": "Investment analysts form conviction on qualitative factors such as management credibility, competitive moats, and geopolitical risks that AI cannot fully assess. They engage with management teams, attend AGMs, and develop proprietary investment theses. Portfolio construction involves nuanced risk-return judgements aligned to fund mandates.",
+    "salary_range_low": 400000,
+    "salary_range_high": 1000000,
+    "salary_progression": {
+      "year_0_1": "4-6 lakh",
+      "year_2_3": "7-12 lakh",
+      "year_4_5": "12-20 lakh",
+      "year_6_plus": "20-40 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "PG,MBA"
+  },
+  {
+    "role_name": "Equity Research Associate",
+    "job_family": "Finance, Accounting and Banking",
+    "domain_skills": [
+      {
+        "skill_name": "Equity Research",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Equity Valuation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Financial Statement Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Financial Modelling",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Brand Tracking and Equity Research",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Initiating Coverage Report Writing",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Bloomberg Terminal",
+        "importance": "High"
+      },
+      {
+        "skill_name": "LSEG Workspace (formerly Reuters Eikon)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft PowerPoint",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Report Writing and Documentation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 60,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "AI tools like Perplexity AI and ChatGPT reduce time spent on earnings call transcription, sector news aggregation, and first-draft report writing. Copilot in Excel automates model updates post quarterly results. Natural language processing tools assist with screening large volumes of company disclosures.",
+    "human_value_tasks": "Equity research associates develop differentiated investment views through proprietary channel checks, management access, and in-depth sector knowledge built over time. Their credibility with institutional investors depends on original analysis and clearly articulated investment theses. Regulatory responsibilities around research independence and SEBI guidelines require human accountability.",
+    "salary_range_low": 500000,
+    "salary_range_high": 1200000,
+    "salary_progression": {
+      "year_0_1": "5-7 lakh",
+      "year_2_3": "8-14 lakh",
+      "year_4_5": "14-22 lakh",
+      "year_6_plus": "22-45 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "PG,MBA"
+  },
+  {
+    "role_name": "Accountant",
+    "job_family": "Finance, Accounting and Banking",
+    "domain_skills": [
+      {
+        "skill_name": "Journal Entry and Ledger Posting",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Bank Reconciliation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Trial Balance Preparation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Final Account Preparation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Accruals and Prepayments Accounting",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Busy Accounting Software",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Oracle Financials",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "GST Portal (Compliance Filing)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Low"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Numerical Aptitude",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ethical Conduct and Integrity",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Time Management and Deadline Adherence",
+        "importance": "Medium"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 50,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "Copilot in Excel automates reconciliation tasks, data validation, and routine journal entry categorisation. AI-powered accounting software increasingly handles invoice matching and expense classification. ChatGPT assists in drafting MIS notes and routine correspondence.",
+    "human_value_tasks": "Accountants exercise professional judgement on accounting policy choices under Ind AS and Companies Act requirements, areas where AI lacks contextual authority. Month-end close decisions involving estimates, provisions, and management overrides require human responsibility. Relationships with auditors and tax authorities demand professional accountability.",
+    "salary_range_low": 250000,
+    "salary_range_high": 600000,
+    "salary_progression": {
+      "year_0_1": "2.5-3.5 lakh",
+      "year_2_3": "4-7 lakh",
+      "year_4_5": "6-10 lakh",
+      "year_6_plus": "10-18 lakh"
+    },
+    "english_requirement": "Functional",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Auditor (Internal)",
+    "job_family": "Finance, Accounting and Banking",
+    "domain_skills": [
+      {
+        "skill_name": "Audit of Specific Areas (Inventory, Debtors, Fixed Assets)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Audit Working Papers Preparation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Audit Readiness and Inspection Preparation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Compliance Audit",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Audit Report Writing (CARO)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Risk-Based Internal Audit Methodology",
+        "importance": "High"
+      },
+      {
+        "skill_name": "CARO 2020 (Companies Auditor Report Order)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Internal Financial Controls (IFC)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Audit Sampling Techniques",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Oracle ERP",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Microsoft Power BI",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ethics and Professional Integrity",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Report Writing and Documentation",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 45,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "AI tools assist internal auditors in analysing 100% of transactions rather than sample-based testing, using Copilot in Excel for anomaly detection and pattern recognition. ChatGPT supports drafting audit observations and recommendations. Data analytics platforms integrated with AI are increasingly standard in large internal audit functions.",
+    "human_value_tasks": "Internal auditors apply professional scepticism and interpersonal skills during interviews with process owners to uncover root causes of control failures. Their independent judgement on risk significance and the materiality of findings requires contextual experience. Reporting to audit committees and board-level stakeholders demands credibility and communication skills beyond AI capability.",
+    "salary_range_low": 300000,
+    "salary_range_high": 750000,
+    "salary_progression": {
+      "year_0_1": "3-4.5 lakh",
+      "year_2_3": "5.5-9 lakh",
+      "year_4_5": "9-15 lakh",
+      "year_6_plus": "15-25 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Tax Consultant",
+    "job_family": "Finance, Accounting and Banking",
+    "domain_skills": [
+      {
+        "skill_name": "TDS and TCS Provisions (Income Tax)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Advance Tax Computation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Capital Gains Tax Computation (LTCG and STCG)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Tax Treaties and BEPS Compliance",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Annual Information Statement (AIS) Reconciliation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Income Tax Act 1961 — Interpretation and Application",
+        "importance": "High"
+      },
+      {
+        "skill_name": "International Taxation and DTAA Application",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Transfer Pricing Documentation",
+        "importance": "Medium"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "ClearTax",
+        "importance": "High"
+      },
+      {
+        "skill_name": "CompuTax",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Income Tax e-Filing Portal",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ethics and Professional Integrity",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Client Relationship Management",
+        "importance": "Medium"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 40,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "AI tools like ChatGPT assist in researching tax positions, summarising CBDT circulars, and drafting initial representation letters. Copilot in Word helps format tax opinions and client reports. Automated tax computation software handles routine return preparation, reducing manual effort.",
+    "human_value_tasks": "Tax consultants provide strategic tax planning advice that accounts for client-specific business structures, risk tolerance, and future plans — judgements AI cannot make responsibly. They represent clients before tax authorities, negotiate assessments, and build relationships with tax officers. Interpreting ambiguous provisions and advising on novel transactions requires professional expertise and accountability.",
+    "salary_range_low": 300000,
+    "salary_range_high": 800000,
+    "salary_progression": {
+      "year_0_1": "3-4.5 lakh",
+      "year_2_3": "5-9 lakh",
+      "year_4_5": "9-16 lakh",
+      "year_6_plus": "16-30 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "GST Compliance Executive",
+    "job_family": "Finance, Accounting and Banking",
+    "domain_skills": [
+      {
+        "skill_name": "GST Registration and Compliance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Input Tax Credit (ITC) Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "GST GSTR-2A vs GSTR-2B Reconciliation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "GST Refund Claims",
+        "importance": "High"
+      },
+      {
+        "skill_name": "GST Annual Return (GSTR-9C Reconciliation Statement)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "GST Portal (Compliance Filing)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "GSTN Portal",
+        "importance": "High"
+      },
+      {
+        "skill_name": "GST E-Invoicing (IRP Portal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ClearTax",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Compliance and Quality Mindset",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Time Management and Deadline Adherence",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Numerical Aptitude",
+        "importance": "Medium"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 50,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "Copilot in Excel and specialised GST reconciliation tools automate GSTR-2A/2B matching and flag ITC mismatches at scale. ChatGPT supports research on GST notifications and circulars. AI-integrated compliance platforms like ClearTax increasingly automate data ingestion and return preparation workflows.",
+    "human_value_tasks": "GST compliance executives interpret complex multi-leg transactions, e-commerce supplies, and sector-specific exemption applicability that require contextual judgement. They liaise with the GST department for notices, adjudications, and refund follow-ups, which requires professional credibility. Managing cross-functional coordination with purchase, sales, and finance teams to ensure data accuracy demands human relationship skills.",
+    "salary_range_low": 250000,
+    "salary_range_high": 600000,
+    "salary_progression": {
+      "year_0_1": "2.5-3.5 lakh",
+      "year_2_3": "4-7 lakh",
+      "year_4_5": "7-11 lakh",
+      "year_6_plus": "11-18 lakh"
+    },
+    "english_requirement": "Functional",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Treasury Analyst",
+    "job_family": "Finance, Accounting and Banking",
+    "domain_skills": [
+      {
+        "skill_name": "Treasury Operations",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Cash Flow Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Forex Hedging (Forward Contracts and Options)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Money Market Instruments (Commercial Paper, Certificate of Deposit)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Liquidity Coverage Ratio (LCR) Management",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Short-Term Cash Flow Forecasting",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Kyriba (Treasury Management System)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Bloomberg Terminal",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Power BI Copilot",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Decision Making Under Uncertainty",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ethical Conduct and Integrity",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 45,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "AI-powered treasury management systems like Kyriba use predictive analytics for cash flow forecasting and liquidity optimisation. Copilot in Excel automates bank position reporting and daily cash reconciliations. Power BI Copilot assists in building treasury dashboards for CFO reporting.",
+    "human_value_tasks": "Treasury analysts make real-time hedging decisions in volatile forex and interest rate environments where speed and judgement are critical. They negotiate banking facilities, credit lines, and investment mandates with counterparties, requiring relationship management skills. Risk appetite decisions and deviation from policy during market stress require human accountability.",
+    "salary_range_low": 350000,
+    "salary_range_high": 800000,
+    "salary_progression": {
+      "year_0_1": "3.5-5 lakh",
+      "year_2_3": "6-10 lakh",
+      "year_4_5": "10-16 lakh",
+      "year_6_plus": "16-28 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "PG,MBA"
+  },
+  {
+    "role_name": "Insurance Underwriter",
+    "job_family": "Finance, Accounting and Banking",
+    "domain_skills": [
+      {
+        "skill_name": "Operational Risk Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Financial Statement Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Regulatory Compliance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Actuarial Valuation Basics",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Mediclaim and Hospitalisation Claim Processing",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Insurance Underwriting Guidelines and Rate Manual Application",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "IRDAI Portal (Insurance Regulation)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Power BI",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Low"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Decision Making Under Uncertainty",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ethical Conduct and Integrity",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 40,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "AI tools assist in automating initial risk scoring, document verification, and pre-screening of standard insurance applications. Copilot in Excel supports portfolio analytics and loss ratio reporting. Predictive models flag high-risk applications for senior underwriter review, improving straight-through processing.",
+    "human_value_tasks": "Insurance underwriters exercise judgement on complex, non-standard risks such as large commercial lines, specialty insurance, and novel risk categories where rule-based systems are inadequate. They negotiate terms and conditions with brokers and reinsurers, requiring relationship management skills. Final underwriting sign-off on large accounts remains a human responsibility under IRDAI regulations.",
+    "salary_range_low": 300000,
+    "salary_range_high": 700000,
+    "salary_progression": {
+      "year_0_1": "3-4.5 lakh",
+      "year_2_3": "5-8 lakh",
+      "year_4_5": "8-13 lakh",
+      "year_6_plus": "13-22 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Banking Officer (PO)",
+    "job_family": "Finance, Accounting and Banking",
+    "domain_skills": [
+      {
+        "skill_name": "Banking Regulation Act 1949",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Account Opening and KYC Onboarding",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Priority Sector Lending Certificates (PSLC) Trading",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "RBI Regulations and Guidelines",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Anti-Money Laundering (AML) Compliance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "JAIIB and CAIIB Examination Knowledge",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Basel III Norms (Capital Adequacy Framework)",
+        "importance": "Medium"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Core Banking System (CBS)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "GSTN Portal",
+        "importance": "Low"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Low"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "Low"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ethical Conduct and Integrity",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Client Relationship Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Decision Making Under Pressure",
+        "importance": "Medium"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 30,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "AI-powered chatbots and core banking integrations automate routine customer queries and transaction processing. ChatGPT assists in drafting credit proposals and customer communication drafts. Fraud detection AI systems flag suspicious transactions, reducing manual review workload.",
+    "human_value_tasks": "Banking officers manage complex customer relationships, resolve escalated grievances, and make discretionary decisions on loan approvals and branch operations requiring human empathy and accountability. They represent the bank in local community engagement, government scheme implementations, and branch audits. Crisis management during system failures or fraud incidents requires on-ground human leadership.",
+    "salary_range_low": 350000,
+    "salary_range_high": 700000,
+    "salary_progression": {
+      "year_0_1": "3.5-5 lakh (PSB scale)",
+      "year_2_3": "5.5-8 lakh",
+      "year_4_5": "8-13 lakh",
+      "year_6_plus": "13-20 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Mutual Fund Analyst",
+    "job_family": "Finance, Accounting and Banking",
+    "domain_skills": [
+      {
+        "skill_name": "Mutual Fund Concepts and Regulations",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Mutual Fund Distribution and AMFI Compliance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "SEBI (Mutual Funds) Regulations",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Systematic Investment Plan (SIP) Operations",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Equity Valuation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Portfolio Attribution Analysis",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Bloomberg Terminal",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Power BI",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Power BI Copilot",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Data-Driven Decision Making",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Curiosity and Research Mindset",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "Medium"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "AI tools assist mutual fund analysts in screening universe of stocks, automating portfolio analytics, and generating fund commentary drafts. Power BI Copilot and Copilot in Excel accelerate performance attribution and peer comparison reports. Quantitative screening models integrated with AI reduce time spent on initial investment universe filtering.",
+    "human_value_tasks": "Mutual fund analysts develop forward-looking views on fund manager quality, investment philosophy consistency, and sector allocation decisions that require deep qualitative assessment. They engage with fund managers during due diligence processes and build relationships with distribution teams. Explaining complex fund strategies to investors and distributors requires human communication and trust-building.",
+    "salary_range_low": 350000,
+    "salary_range_high": 850000,
+    "salary_progression": {
+      "year_0_1": "3.5-5 lakh",
+      "year_2_3": "6-10 lakh",
+      "year_4_5": "10-16 lakh",
+      "year_6_plus": "16-30 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "PG,MBA"
+  },
+  {
+    "role_name": "Risk Analyst",
+    "job_family": "Finance, Accounting and Banking",
+    "domain_skills": [
+      {
+        "skill_name": "Operational Risk Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Credit Risk Assessment",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Compliance Risk Assessment and Mapping",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Financial Statement Analysis",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Value at Risk (VaR) Modelling",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Basel III Norms (Capital Adequacy Framework)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ALM (Asset Liability Management)",
+        "importance": "Medium"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Power BI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Bloomberg Terminal",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Oracle ERP",
+        "importance": "Low"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Power BI Copilot",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Quantitative Reasoning",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Data-Driven Decision Making",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Report Writing and Documentation",
+        "importance": "Medium"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "AI and machine learning models increasingly power credit risk scorecards, fraud detection systems, and market risk stress testing in Indian banks and NBFCs. Power BI Copilot automates risk dashboard preparation and exception reporting. ChatGPT and Copilot in Excel support drafting risk committee reports and scenario analysis summaries.",
+    "human_value_tasks": "Risk analysts interpret model outputs in the context of macroeconomic events, regulatory changes, and institution-specific factors that require contextual judgement. They communicate risk appetite to senior leadership and drive risk culture through training and governance forums. Escalation decisions during emerging risk events require human judgement and accountability.",
+    "salary_range_low": 350000,
+    "salary_range_high": 850000,
+    "salary_progression": {
+      "year_0_1": "3.5-5 lakh",
+      "year_2_3": "6-10 lakh",
+      "year_4_5": "10-16 lakh",
+      "year_6_plus": "16-28 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "PG,MBA"
+  },
+  {
+    "role_name": "Accounts Payable/Receivable Executive",
+    "job_family": "Finance, Accounting and Banking",
+    "domain_skills": [
+      {
+        "skill_name": "Accounts Payable Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Accounts Receivable Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Accounts Payable and Receivable",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Purchase Order and Invoice Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Bank Reconciliation",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Oracle Financials",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Busy Accounting Software",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "GST E-Invoicing (IRP Portal)",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Low"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Numerical Aptitude",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Time Management and Deadline Adherence",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Team Collaboration",
+        "importance": "Medium"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "AI-powered invoice processing tools and ERP integrations automate 3-way matching, duplicate detection, and payment scheduling. Copilot in Excel reduces manual effort in ageing analysis and vendor reconciliations. Intelligent document processing (IDP) tools extract invoice data automatically, significantly reducing data entry workload.",
+    "human_value_tasks": "AP/AR executives manage exception handling, vendor disputes, and complex credit control negotiations that automated systems cannot resolve. They build vendor and customer relationships that support business operations and early dispute resolution. Escalations, payment approvals above limits, and audit queries require human accountability.",
+    "salary_range_low": 250000,
+    "salary_range_high": 550000,
+    "salary_progression": {
+      "year_0_1": "2.5-3.5 lakh",
+      "year_2_3": "3.5-6 lakh",
+      "year_4_5": "6-9 lakh",
+      "year_6_plus": "9-14 lakh"
+    },
+    "english_requirement": "Functional",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Financial Controller (Junior)",
+    "job_family": "Finance, Accounting and Banking",
+    "domain_skills": [
+      {
+        "skill_name": "Consolidated Financial Statements",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ind AS 1 (Presentation of Financial Statements)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ind AS 7 (Statement of Cash Flows)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Financial Statement Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Budgeting and Forecasting",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Month-End and Year-End Close Process Management",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Oracle Financials",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Power BI",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "ERP Implementation and Finance Module Configuration",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Power BI Copilot",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Low"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Leadership and Team Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Stakeholder Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ethics and Professional Integrity",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 50,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "AI tools in ERP systems like Oracle Financials automate accruals, recurring journal entries, and inter-company reconciliations. Copilot in Excel and Power BI Copilot accelerate MIS preparation and board pack assembly. AI-driven variance analysis flags unusual movements for controller review, reducing time on routine investigations.",
+    "human_value_tasks": "Junior financial controllers are accountable for the completeness and accuracy of financial statements, a responsibility requiring professional judgement on accounting estimates, policy choices, and disclosure decisions under Ind AS. They manage auditor relationships during year-end close and address technical accounting queries. Building a culture of financial discipline across business units requires leadership and influence.",
+    "salary_range_low": 500000,
+    "salary_range_high": 1200000,
+    "salary_progression": {
+      "year_0_1": "5-7 lakh",
+      "year_2_3": "8-14 lakh",
+      "year_4_5": "14-22 lakh",
+      "year_6_plus": "22-40 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "PG,MBA"
+  },
+  {
+    "role_name": "Cost Accountant",
+    "job_family": "Finance, Accounting and Banking",
+    "domain_skills": [
+      {
+        "skill_name": "Activity-Based Costing (ABC)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Budgeting and Forecasting",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Standard Costing and Variance Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Depreciation (Companies Act and Income Tax)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Financial Statement Analysis",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Cost Audit Report Preparation (CRA-3)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Marginal Costing and Contribution Analysis",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Oracle ERP",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Busy Accounting Software",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Microsoft Power BI",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Power BI Copilot",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Numerical Aptitude",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Business Acumen",
+        "importance": "Medium"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 45,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "AI-integrated ERP modules automate standard costing updates, overhead absorption calculations, and variance reporting. Copilot in Excel and Power BI Copilot reduce manual effort in product profitability and cost centre analysis. Predictive costing models using AI are being adopted in manufacturing companies to optimise production decisions.",
+    "human_value_tasks": "Cost accountants interpret cost trends in the context of operational realities, engineering changes, and procurement strategies that AI cannot fully contextualise. They advise management on make-or-buy decisions, pricing strategies, and capex justifications using professional judgement. Cost audit responsibilities under the Companies Act require independent professional accountability.",
+    "salary_range_low": 300000,
+    "salary_range_high": 700000,
+    "salary_progression": {
+      "year_0_1": "3-4.5 lakh",
+      "year_2_3": "5-8 lakh",
+      "year_4_5": "8-13 lakh",
+      "year_6_plus": "13-22 lakh"
+    },
+    "english_requirement": "Functional",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Budget Analyst",
+    "job_family": "Finance, Accounting and Banking",
+    "domain_skills": [
+      {
+        "skill_name": "Budgeting and Forecasting",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Cash Budget Preparation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Capital Budgeting",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Variance Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Business Partnering (Finance to Business)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Anaplan (Financial Planning and Analysis)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Power BI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Oracle Financials",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Power BI Copilot",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Stakeholder Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication and Stakeholder Engagement",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Data-Driven Decision Making",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "AI-enabled FP&A tools like Anaplan incorporate predictive analytics for rolling forecasts and driver-based modelling. Copilot in Excel and Power BI Copilot automate variance commentary generation and budget tracking dashboards. ChatGPT supports preparing budget review presentations and management commentary.",
+    "human_value_tasks": "Budget analysts facilitate the budget negotiation process across business units, requiring interpersonal skills to align divergent stakeholder interests. They translate financial constraints into actionable guidance for non-finance teams, requiring communication and business partnering capabilities. Strategic reallocation decisions during mid-year budget reviews require human judgement on organisational priorities.",
+    "salary_range_low": 350000,
+    "salary_range_high": 800000,
+    "salary_progression": {
+      "year_0_1": "3.5-5 lakh",
+      "year_2_3": "6-9 lakh",
+      "year_4_5": "9-15 lakh",
+      "year_6_plus": "15-26 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "PG,MBA"
+  },
+  {
+    "role_name": "Forensic Accountant",
+    "job_family": "Finance, Accounting and Banking",
+    "domain_skills": [
+      {
+        "skill_name": "Financial Due Diligence",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Compliance Audit",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Anti-Money Laundering (AML) Compliance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Audit Working Papers Preparation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "PMLA Compliance (Anti-Money Laundering)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Digital Forensics and E-Discovery",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Fraud Risk Assessment and Investigation Planning",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Benford's Law Analysis for Fraud Detection",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Power BI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Oracle ERP",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Power BI Copilot",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ethics and Professional Integrity",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Report Writing and Documentation",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 50,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "AI-powered data analytics tools help forensic accountants analyse millions of transactions to detect anomalies, outliers, and suspicious patterns at a scale impossible manually. Power BI Copilot and Copilot in Excel automate Benford's Law analysis, duplicate payment detection, and network analysis of related-party flows. ChatGPT supports structuring forensic investigation reports and summarising voluminous financial records.",
+    "human_value_tasks": "Forensic accountants conduct witness interviews, apply legal and procedural knowledge during investigations, and exercise professional scepticism to distinguish deliberate fraud from error. They present findings as expert witnesses in legal proceedings, requiring credibility and communication skills that AI cannot provide. Judgement on materiality of findings, scope of investigation, and client confidentiality requires human professional accountability.",
+    "salary_range_low": 400000,
+    "salary_range_high": 1000000,
+    "salary_progression": {
+      "year_0_1": "4-6 lakh",
+      "year_2_3": "7-12 lakh",
+      "year_4_5": "12-20 lakh",
+      "year_6_plus": "20-40 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": true,
+    "programme_levels": "PG,MBA"
+  },
+  {
+    "role_name": "Actuarial Analyst",
+    "job_family": "Finance, Accounting and Banking",
+    "domain_skills": [
+      {
+        "skill_name": "Actuarial Valuation Basics",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Financial Modelling",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Operational Risk Management",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Regulatory Compliance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Bond Valuation and Duration",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Actuarial Science — Mortality and Morbidity Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Stochastic Actuarial Modelling",
+        "importance": "High"
+      },
+      {
+        "skill_name": "IRDAI Solvency Margin and Reserving Computation",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Power BI",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Oracle ERP",
+        "importance": "Low"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Power BI Copilot",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Low"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Quantitative Reasoning",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Continuous Professional Development (CPD)",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 45,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "AI and machine learning models are increasingly used for predictive mortality modelling, claims frequency prediction, and telematics-based pricing in Indian insurance companies. Copilot in Excel and Power BI Copilot assist in automating routine reserving calculations and experience studies. AI accelerates data processing in large experience datasets, supporting faster actuarial analysis cycles.",
+    "human_value_tasks": "Actuarial analysts exercise professional judgement in selecting assumptions for valuations and pricing models, where wrong choices have significant regulatory and financial consequences. They provide expert opinions on solvency, pricing adequacy, and product design to IRDAI and company boards, requiring professional accountability. Communication of complex probabilistic concepts to non-technical stakeholders demands human expertise.",
+    "salary_range_low": 400000,
+    "salary_range_high": 1000000,
+    "salary_progression": {
+      "year_0_1": "4-6 lakh",
+      "year_2_3": "7-13 lakh",
+      "year_4_5": "13-22 lakh",
+      "year_6_plus": "22-45 lakh (VERIFY)"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "PG"
+  },
+  {
+    "role_name": "Wealth Manager (Junior)",
+    "job_family": "Finance, Accounting and Banking",
+    "domain_skills": [
+      {
+        "skill_name": "Mutual Fund Concepts and Regulations",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Alternative Investment Funds (AIF) – SEBI Regulations",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "SEBI (Portfolio Managers) Regulations",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Equity Valuation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Sovereign Gold Bonds (SGB)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Life-Stage Based Financial Goal Planning",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Bloomberg Terminal",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Microsoft Power BI",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Client Relationship Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ethical Conduct and Integrity",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Empathy and Client Sensitivity",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 40,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "AI-powered robo-advisory tools assist in goal-based asset allocation recommendations and portfolio rebalancing. ChatGPT and Perplexity AI support research on investment products and market updates for client communication. CRM tools with AI features help track client interactions and flag relationship management opportunities.",
+    "human_value_tasks": "Wealth managers build deep personal trust relationships with HNI clients over years, understanding family dynamics, succession plans, and emotional drivers of financial decisions — all beyond AI capability. They navigate complex tax planning, estate planning, and cross-asset allocation decisions requiring holistic client understanding. Client retention in wealth management depends on human relationships and empathy during market volatility.",
+    "salary_range_low": 350000,
+    "salary_range_high": 900000,
+    "salary_progression": {
+      "year_0_1": "3.5-5 lakh (+ incentives)",
+      "year_2_3": "6-12 lakh (+ commissions)",
+      "year_4_5": "12-22 lakh",
+      "year_6_plus": "22-50 lakh (VERIFY, AUM-dependent)"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Loan Officer",
+    "job_family": "Finance, Accounting and Banking",
+    "domain_skills": [
+      {
+        "skill_name": "Credit Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "CIBIL and Credit Bureau Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Mortgage and Property Financing Legal",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Working Capital Financing (CC, OD, Bills Discounting)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "CERSAI Registration and Charge Management",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Loan Documentation and Security Creation",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Core Banking System (CBS)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "GSTN Analytics Portal",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Low"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Client Relationship Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Negotiation and Influencing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ethical Conduct and Integrity",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Decision Making Under Uncertainty",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 35,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "AI-driven credit scoring models integrated with bureau data, GST returns, and bank statement analytics automate initial loan eligibility assessments. Copilot in Excel supports financial spreading and ratio computation from uploaded borrower statements. Digital lending platforms use AI for fraud detection and document verification during loan processing.",
+    "human_value_tasks": "Loan officers conduct borrower site visits, assess collateral quality, and evaluate management credibility, tasks requiring physical presence and human judgement. They structure loan terms to balance borrower needs with bank risk policies, requiring negotiation skills and contextual flexibility. Relationship management with existing borrowers for repeat business and cross-selling requires sustained human engagement.",
+    "salary_range_low": 280000,
+    "salary_range_high": 650000,
+    "salary_progression": {
+      "year_0_1": "2.8-4 lakh",
+      "year_2_3": "4.5-7 lakh",
+      "year_4_5": "7-12 lakh",
+      "year_6_plus": "12-20 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "KYC Analyst",
+    "job_family": "Finance, Accounting and Banking",
+    "domain_skills": [
+      {
+        "skill_name": "KYC (Know Your Customer) Compliance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "KYC and Customer Due Diligence",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Anti-Money Laundering (AML) Compliance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "FATF Compliance (AML and CFT)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Aadhaar and eKYC Legal Compliance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Adverse Media Screening and PEP Checks",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Enhanced Customer Due Diligence (EDD)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Sanctions Screening and Export Controls",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Aadhaar API and eKYC Integration",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Core Banking System (CBS)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Low"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Compliance and Quality Mindset",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ethical Conduct and Integrity",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Data Privacy Awareness",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "AI-powered KYC platforms automate document verification, liveness checks, and sanctions/PEP screening using OCR and NLP, substantially reducing manual review time. Watchlist screening tools use AI to match customer names against global and domestic sanctions databases. Behavioural analytics AI flags unusual transaction patterns for enhanced due diligence review.",
+    "human_value_tasks": "KYC analysts exercise risk-based judgement on complex customer structures, politically exposed persons (PEPs), and cases requiring enhanced due diligence where automated systems cannot make final decisions. They interpret ambiguous documentary evidence and assess whether customer explanations are credible. Regulatory accountability for AML violations rests with human compliance officers, not AI systems.",
+    "salary_range_low": 280000,
+    "salary_range_high": 650000,
+    "salary_progression": {
+      "year_0_1": "2.8-4 lakh",
+      "year_2_3": "4.5-7 lakh",
+      "year_4_5": "7-11 lakh",
+      "year_6_plus": "11-18 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Trade Finance Executive",
+    "job_family": "Finance, Accounting and Banking",
+    "domain_skills": [
+      {
+        "skill_name": "Letter of Credit Operations (LC)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Bank Guarantee Issuance and Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Foreign Exchange (Forex) Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Customs Duty and Import-Export Compliance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Foreign Trade Policy (DGFT Compliance)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "SWIFT Messaging Standards for Trade Finance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "UCP 600 and Trade Finance Rules",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Incoterms 2020 Application",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Core Banking System (CBS)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Bloomberg Terminal",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Cross-Cultural Communication",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Negotiation and Influencing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Time Management and Deadline Adherence",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 40,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "AI tools assist in document checking for LCs by comparing presented documents against LC terms automatically, reducing manual discrepancy checking time. ChatGPT supports drafting SWIFT messages, bank guarantees, and trade finance correspondence. Blockchain-based trade finance platforms (piloted by some Indian banks) use AI for document verification and fraud prevention.",
+    "human_value_tasks": "Trade finance executives manage complex multi-party transactions involving buyers, sellers, banks, and shipping companies across jurisdictions, requiring coordination skills AI cannot replicate. They exercise judgement on LC discrepancies, waiver requests, and dispute resolution with counterparty banks. Relationship management with importers, exporters, and correspondent banks requires sustained human engagement.",
+    "salary_range_low": 300000,
+    "salary_range_high": 700000,
+    "salary_progression": {
+      "year_0_1": "3-4.5 lakh",
+      "year_2_3": "5-8 lakh",
+      "year_4_5": "8-13 lakh",
+      "year_6_plus": "13-22 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Fintech Analyst",
+    "job_family": "Finance, Accounting and Banking",
+    "domain_skills": [
+      {
+        "skill_name": "Fintech Regulatory Compliance (RBI Sandbox)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "BNPL and Lending App Compliance (RBI)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "UPI and Digital Payments Compliance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Blockchain Concepts in Finance",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Digital Lending Guidelines (RBI)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Product Analytics for Fintech (Funnel and Cohort Analysis)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Microsoft Power BI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Account Aggregator (AA) Framework Integration",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Cloud-Based Accounting and ERP (AWS and Azure)",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Notion AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Curiosity and Research Mindset",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Agile Mindset for Business Professionals",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Data-Driven Decision Making",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 65,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "Fintech analysts use ChatGPT and Perplexity AI extensively for competitive landscape research, regulatory update tracking, and market sizing. AI tools assist in product benchmarking, user behaviour analysis from transaction data, and drafting product requirement documents. Notion AI supports organising research, building knowledge bases, and preparing investor or internal reports.",
+    "human_value_tasks": "Fintech analysts must interpret evolving RBI and government policy signals and assess their strategic implications for product roadmaps — a task requiring Indian regulatory context and industry relationships. They engage with regulators, investors, and ecosystem partners to shape product and business strategy. Creative problem-solving to design financial products for underserved segments requires human empathy and innovation.",
+    "salary_range_low": 400000,
+    "salary_range_high": 1000000,
+    "salary_progression": {
+      "year_0_1": "4-6 lakh",
+      "year_2_3": "7-12 lakh",
+      "year_4_5": "12-20 lakh",
+      "year_6_plus": "20-40 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": true,
+    "programme_levels": "UG,PG,MBA"
+  }
+]

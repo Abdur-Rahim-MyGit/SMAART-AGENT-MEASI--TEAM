@@ -1,0 +1,485 @@
+{
+  "timestamp": "2026-03-27T09:05:25.690Z",
+  "status": "completed",
+  "input_user_data": {
+    "personalDetails": {
+      "name": "Arjun Das",
+      "email": "arjun@gmail.com",
+      "phone": "9875028250",
+      "location": "Bangalore, India"
+    },
+    "education": [
+      {
+        "level": "Undergraduate (UG)",
+        "domain": "Computer Science & IT",
+        "degreeGroup": "Bachelor of Computer Applications",
+        "specialisation": [
+          "Cloud Computing",
+          "AI & ML"
+        ],
+        "university": "nit",
+        "graduationYear": "2010",
+        "currentlyPursuing": true
+      }
+    ],
+    "skills": [
+      {
+        "name": "java",
+        "status": "Verified",
+        "cert": {
+          "issuer": "google ",
+          "year": "2015",
+          "url": "https://google.com"
+        }
+      },
+      {
+        "name": "python",
+        "status": "Verified",
+        "cert": {
+          "issuer": "zoho",
+          "year": "2012",
+          "url": "https://gis/com"
+        }
+      }
+    ],
+    "experience": [
+      {
+        "orgName": "google ",
+        "designation": "sofware enginner",
+        "sector": "Human Resources",
+        "type": "Full-Time",
+        "startDate": "2026-03-18",
+        "endDate": "",
+        "currentlyWorking": true,
+        "isCustomSector": false
+      }
+    ],
+    "preferences": {
+      "primary": {
+        "sectors": [
+          "Information Technology",
+          "Engineering & Manufacturing",
+          "Telecom & Networking"
+        ],
+        "sector": "Information Technology",
+        "family": "",
+        "role": "Software Developer",
+        "type": "Full-Time",
+        "salary": "3–5 LPA",
+        "locations": [
+          "Chennai",
+          "Bangalore",
+          "Amritsar"
+        ],
+        "location": "Chennai",
+        "orgTypes": [
+          "Startup (Early-stage / Growth-stage)",
+          "Scale-up / High-growth company",
+          "Small or Medium Enterprise (SME)"
+        ]
+      },
+      "secondary": {
+        "sectors": [
+          "Information Technology",
+          "Engineering & Manufacturing",
+          "Healthcare & Pharma"
+        ],
+        "sector": "Information Technology",
+        "family": "",
+        "role": "Java Developer",
+        "type": "Internship (Full-Time)",
+        "salary": "5–8 LPA",
+        "locations": [
+          "Chandigarh",
+          "Chennai",
+          "Bangalore"
+        ],
+        "location": "Chandigarh",
+        "orgTypes": [
+          "Startup (Early-stage / Growth-stage)",
+          "Large Indian Corporate / Conglomerate",
+          "Government / Public Sector Organization"
+        ]
+      },
+      "tertiary": {
+        "sectors": [
+          "Information Technology",
+          "Healthcare & Pharma",
+          "Engineering & Manufacturing"
+        ],
+        "sector": "Information Technology",
+        "family": "",
+        "role": "AI Trainer / Data Labeller",
+        "type": "Internship (Full-Time)",
+        "salary": "5–8 LPA",
+        "locations": [
+          "Faridabad",
+          "Chandigarh",
+          "Cuttack"
+        ],
+        "location": "Faridabad",
+        "orgTypes": [
+          "Startup (Early-stage / Growth-stage)",
+          "Scale-up / High-growth company",
+          "Small or Medium Enterprise (SME)"
+        ]
+      }
+    }
+  },
+  "output_generated_report": {
+    "status": "success_ml_assisted",
+    "generated_at": "2026-03-27T09:05:25.718Z",
+    "preVerified": {
+      "dataFilesReady": true,
+      "primaryZone": {
+        "employer_zone": "Amber",
+        "skill_coverage_pct": 45
+      },
+      "secondaryZone": {
+        "employer_zone": "Amber",
+        "skill_coverage_pct": 40
+      },
+      "tertiaryZone": {
+        "employer_zone": "Amber",
+        "skill_coverage_pct": 35
+      },
+      "primaryMarket": {
+        "demand_level": "High",
+        "salary_min_lpa": 4,
+        "salary_max_lpa": 15,
+        "ai_automation_risk": "Medium",
+        "emerging_roles": [
+          "AI/ML Developer",
+          "Full Stack Developer",
+          "Mobile App Developer"
+        ]
+      },
+      "primarySkillGap": {
+        "missing": [
+          "Git",
+          "REST API Development",
+          "SQL"
+        ],
+        "matched": [
+          "Python",
+          "Java"
+        ],
+        "coveragePct": 40,
+        "dataReady": true,
+        "source": "local"
+      }
+    },
+    "primary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 18%. You have 2 matching skills.",
+      "tab1": {
+        "role_name": "Software Developer",
+        "role_description": "A junior Software Developer at an Indian tech company or product startup spends their week writing and reviewing code in Python, Java, or JavaScript, fixing bugs raised on Jira, and attending daily standups in an Agile sprint. Daily tasks include building REST APIs, writing unit tests, peer reviewing pull requests on GitHub, and deploying code through Jenkins or GitHub Actions CI/CD pipelines. They work within version control workflows, follow coding standards, and coordinate with QA engineers before releases. In Indian service companies, they may work on client-facing modules requiring VAPT compliance; in product startups, they work directly on the core product codebase with faster iteration cycles.",
+        "typical_employers_india": "MNCs, Startups, IT Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "High Growth",
+        "salary_range": "₹3.5L - ₹9L",
+        "ai_impact": "With 55% AI exposure, this role is actively AI-Evolving. GitHub Copilot and Tabnine assist with code completion, boilerplate generation, and unit test scaffolding, covering a significant portion of routine coding tasks. ChatGPT and Claude are used for debugging assistance, code explanation, and generating first-draft implementations. AI accelerates repetitive development tasks but requires human review for correctness, security, and architectural fit. However, software developers make architectural decisions, define abstractions, and design systems that meet complex, evolving business requirements. They debug intricate production issues involving concurrency, distributed systems, or data corruption where AI lacks sufficient context. Code review, mentoring junior developers, and aligning technical solutions to product goals demand human communication and accountability. The tools currently reshaping this role include GitHub Copilot, ChatGPT, and Tabnine — each accelerating routine work while leaving the most complex, context-dependent decisions firmly in human hands.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Software Developer",
+            "description": "Uses AI tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [
+          {
+            "skill": "Python",
+            "priority": "High",
+            "description": "Essential core skill."
+          },
+          {
+            "skill": "Java",
+            "priority": "High",
+            "description": "Essential core skill."
+          },
+          {
+            "skill": "Git",
+            "priority": "High",
+            "description": "Essential core skill."
+          },
+          {
+            "skill": "REST API Development",
+            "priority": "High",
+            "description": "Essential core skill."
+          }
+        ],
+        "nice_to_have": [
+          "SQL"
+        ]
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "GitHub Copilot",
+            "category": "AI-Powered",
+            "usage": "Task Acceleration",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "ChatGPT",
+            "category": "AI-Powered",
+            "usage": "Task Acceleration",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Tabnine",
+            "category": "AI-Powered",
+            "usage": "Task Acceleration",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "55%",
+          "level": "High",
+          "tasks_assisted": "GitHub Copilot and Tabnine assist with code completion, boilerplate generation, and unit test scaffolding, covering a significant portion of routine coding tasks. ChatGPT and Claude are used for debugging assistance, code explanation, and generating first-draft implementations. AI accelerates repetitive development tasks but requires human review for correctness, security, and architectural fit.",
+          "human_value": "Software developers make architectural decisions, define abstractions, and design systems that meet complex, evolving business requirements — tasks requiring contextual judgement and experience. They debug intricate production issues involving concurrency, distributed systems, or data corruption where AI lacks sufficient context. Code review, mentoring junior developers, and aligning technical solutions to product goals demand human communication and accountability."
+        },
+        "human_skills": [
+          "Problem Solving",
+          "Analytical Thinking",
+          "Communication Skills (Technical)",
+          "Continuous Learning and Technical Development"
+        ]
+      },
+      "tab5": {
+        "future_scope": "B.Tech, B.Sc (CS), MCA, or M.Tech graduates are the core fit. Those with strong problem-solving instincts, comfort with reading documentation, and the ability to break complex requirements into working code will thrive. Starting salaries of Rs.3.5-6 lakh grow to Rs.7-12 lakh at 2-3 years, Rs.12-20 lakh at senior developer level, and Rs.20-40 lakh for tech leads and architects. DSA (Data Structures and Algorithms) proficiency is the most critical hiring filter. Open source contributions and strong GitHub profiles accelerate progression. Eligible programme levels: UG, PG.",
+        "target_audience": "Enterprise and Tech-forward companies.",
+        "growth_trajectory": "Expected to branch into more specialized architectural roles."
+      }
+    },
+    "secondary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 6%. You have 2 matching skills.",
+      "tab1": {
+        "role_name": "Java Developer",
+        "role_description": "Responsible for core operations within the Java Developer domain.",
+        "typical_employers_india": "MNCs, Startups, IT Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "High Growth",
+        "salary_range": "3-8 LPA",
+        "ai_impact": "AI systems are augmenting Java Developer roles significantly.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Java Developer",
+            "description": "Uses AI tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "GitHub Copilot (free for students via GitHub Education)",
+            "category": "AI-Powered",
+            "usage": "AI code completion for Spring Boot / Java",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "SonarQube Community (free)",
+            "category": "AI-Powered",
+            "usage": "Static code analysis for Java",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Tabnine (free tier)",
+            "category": "AI-Powered",
+            "usage": "AI code completion alternative to Copilot",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "ChatGPT (free tier)",
+            "category": "AI-Powered",
+            "usage": "Debugging complex JVM issues and design pattern guidance",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "40%",
+          "level": "Moderate",
+          "tasks_assisted": "Repetitive drafting/coding",
+          "human_value": "Strategy & Review"
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Communication",
+          "Problem Solving"
+        ]
+      },
+      "tab5": {
+        "future_scope": "Java Developer is evolving rapidly with AI integration.",
+        "target_audience": "Enterprise and Tech-forward companies.",
+        "growth_trajectory": "Expected to branch into more specialized architectural roles."
+      }
+    },
+    "tertiary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 15%. You have 0 matching skills.",
+      "tab1": {
+        "role_name": "AI Trainer / Data Labeller",
+        "role_description": "Responsible for core operations within the AI Trainer / Data Labeller domain.",
+        "typical_employers_india": "MNCs, Startups, IT Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "High Growth",
+        "salary_range": "3-8 LPA",
+        "ai_impact": "AI systems are augmenting AI Trainer / Data Labeller roles significantly.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced AI Trainer / Data Labeller",
+            "description": "Uses AI tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "CVAT (free open-source annotation tool)",
+            "category": "AI-Powered",
+            "usage": "Image, video, and text annotation",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Label Studio (free open-source)",
+            "category": "AI-Powered",
+            "usage": "Multi-modal data labeling",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Argilla (free open-source)",
+            "category": "AI-Powered",
+            "usage": "Open-source data annotation for LLM fine-tuning",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "40%",
+          "level": "Moderate",
+          "tasks_assisted": "Repetitive drafting/coding",
+          "human_value": "Strategy & Review"
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Communication",
+          "Problem Solving"
+        ]
+      },
+      "tab5": {
+        "future_scope": "AI Trainer / Data Labeller is evolving rapidly with AI integration.",
+        "target_audience": "Enterprise and Tech-forward companies.",
+        "growth_trajectory": "Expected to branch into more specialized architectural roles."
+      }
+    },
+    "ml_success_probability": null,
+    "ml_semantic_skills": [
+      {
+        "name": "java",
+        "status": "Verified",
+        "cert": {
+          "issuer": "google ",
+          "year": "2015",
+          "url": "https://google.com"
+        }
+      },
+      {
+        "name": "python",
+        "status": "Verified",
+        "cert": {
+          "issuer": "zoho",
+          "year": "2012",
+          "url": "https://gis/com"
+        }
+      }
+    ],
+    "combined_tab4": {
+      "combined_pathway_summary": "Your immediate focus must be learning the missing fundamentals for Software Developer. Role success probability: Calculating",
+      "skill_gap": {
+        "current_skills": [
+          {
+            "name": "java",
+            "status": "Verified",
+            "cert": {
+              "issuer": "google ",
+              "year": "2015",
+              "url": "https://google.com"
+            }
+          },
+          {
+            "name": "python",
+            "status": "Verified",
+            "cert": {
+              "issuer": "zoho",
+              "year": "2012",
+              "url": "https://gis/com"
+            }
+          }
+        ],
+        "missing_skills": [
+          "Git",
+          "REST API Development",
+          "SQL"
+        ]
+      },
+      "learning_roadmap": [
+        {
+          "step": "Step 1 - Foundation Skills",
+          "description": "Master prerequisites and theoretical fundamentals."
+        },
+        {
+          "step": "Step 2 - Core Technical Skills",
+          "description": "Learn Git."
+        },
+        {
+          "step": "Step 3 - Advanced Applications",
+          "description": "Apply skills in complex scenarios."
+        },
+        {
+          "step": "Step 4 - Projects & Portfolio",
+          "description": "Deploy market-ready portfolios demonstrating these skills."
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Certified Software Developer Professional",
+          "issuer": "Industry Standard Provider",
+          "difficulty": "Intermediate",
+          "duration": "3 months"
+        }
+      ],
+      "free_courses": [
+        {
+          "course_name": "Software Developer Crash Course",
+          "platform": "YouTube / Coursera",
+          "link_status": "Free"
+        }
+      ],
+      "projects": [
+        {
+          "project_name": "Software Developer Capstone",
+          "description": "A complete end-to-end implementation.",
+          "skills_demonstrated": "Git, REST API Development, SQL"
+        }
+      ]
+    }
+  },
+  "profile_hash": "048856a7f61dccd850131a33fffed7363cf88083c5e88e6cd0623f97b0e55634",
+  "created_at": "2026-03-27T09:05:26.164Z"
+}

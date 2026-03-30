@@ -1,0 +1,1290 @@
+{
+  "B.Com General": {
+    "degree": "B.Com General",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Core Accounting & Finance",
+        "direction_description": "Building a career in accounting, financial reporting, and compliance roles that form the backbone of every business.",
+        "direction_type": "Primary",
+        "roles": [
+          "Accountant",
+          "Accounts Payable/Receivable Executive",
+          "Tax Consultant",
+          "Auditor (Internal)",
+          "Cost Accountant",
+          "Financial Controller (Junior)"
+        ],
+        "why_primary": "B.Com General provides strong grounding in accounting principles, taxation, and financial reporting directly aligned with these roles."
+      },
+      {
+        "direction_name": "Banking & Financial Services",
+        "direction_description": "Entering the banking sector as a probationary officer or analyst in financial institutions.",
+        "direction_type": "Primary",
+        "roles": [
+          "Banking Officer (PO)",
+          "KYC Analyst",
+          "Loan Officer",
+          "Credit Analyst",
+          "Financial Analyst"
+        ],
+        "why_primary": "Commerce graduates are among the top recruiters for banking PO exams and entry-level BFSI roles in India."
+      },
+      {
+        "direction_name": "Business Operations & Analysis",
+        "direction_description": "Supporting business functions through data analysis, process coordination, and operational roles.",
+        "direction_type": "Primary",
+        "roles": [
+          "Business Analyst",
+          "Operations Executive",
+          "Management Trainee",
+          "Quality Analyst",
+          "Process Improvement Analyst"
+        ],
+        "why_primary": "B.Com graduates possess analytical and commercial awareness skills that map directly to business operations roles."
+      },
+      {
+        "direction_name": "Sales & Client Management",
+        "direction_description": "Driving revenue growth through B2B/B2C sales and client relationship management roles.",
+        "direction_type": "Primary",
+        "roles": [
+          "Sales Executive (B2B)",
+          "Sales Executive (B2C)",
+          "Business Development Executive",
+          "CRM Executive"
+        ],
+        "why_primary": "Commercial understanding and communication skills from B.Com make graduates well-suited for sales roles across industries."
+      },
+      {
+        "direction_name": "HR & People Operations",
+        "direction_description": "Managing human resources functions including payroll, compliance, and employee engagement.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Payroll Executive (Indian labour laws)",
+          "HR Executive",
+          "Compliance Executive (HR)",
+          "Recruitment Specialist"
+        ],
+        "additional_skills_needed": "Labour law fundamentals, HRMS tools (SAP/Darwinbox), basic HR analytics",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Digital Marketing & E-Commerce",
+        "direction_description": "Leveraging digital platforms for marketing, brand building, and online sales.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Digital Marketing Executive",
+          "E-Commerce Executive",
+          "SEO/SEM Specialist",
+          "CRM Executive"
+        ],
+        "additional_skills_needed": "Google Analytics, Meta Ads, SEO tools, basic content creation",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Fintech & Data Analysis",
+        "direction_description": "Combining finance knowledge with technology skills to work in fintech and data-driven roles.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Fintech Analyst",
+          "Data Analyst",
+          "Trade Finance Executive"
+        ],
+        "additional_skills_needed": "SQL, Python basics, Power BI/Tableau, understanding of fintech products",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Requires dedicated upskilling in data tools; competitive with engineering graduates but commerce background gives a finance edge."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Launching a small business, trading firm, or financial services venture leveraging commerce knowledge.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Tax Consultant",
+          "Accountant",
+          "Business Development Executive"
+        ],
+        "additional_skills_needed": "Business plan development, GST and MSME registration, client acquisition, basic financial modelling, marketing fundamentals",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "B.Com General provides a solid commercial foundation but entrepreneurship demands domain focus, risk appetite, and operational experience — most successful founders work 2-3 years first."
+      }
+    ]
+  },
+  "B.Com Finance": {
+    "degree": "B.Com Finance",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Financial Analysis & Research",
+        "direction_description": "Analyzing financial data to support investment, credit, and business decisions.",
+        "direction_type": "Primary",
+        "roles": [
+          "Financial Analyst",
+          "Credit Analyst",
+          "Investment Analyst",
+          "Equity Research Associate",
+          "Risk Analyst",
+          "Budget Analyst"
+        ],
+        "why_primary": "B.Com Finance provides deep knowledge in financial analysis, valuation, and capital markets directly applicable to these roles."
+      },
+      {
+        "direction_name": "Banking & Treasury",
+        "direction_description": "Managing liquidity, credit, and banking operations in financial institutions.",
+        "direction_type": "Primary",
+        "roles": [
+          "Banking Officer (PO)",
+          "Treasury Analyst",
+          "Loan Officer",
+          "Trade Finance Executive",
+          "KYC Analyst"
+        ],
+        "why_primary": "Strong finance curriculum makes B.Com Finance graduates highly competitive for bank POs and treasury analyst positions."
+      },
+      {
+        "direction_name": "Investment & Wealth Management",
+        "direction_description": "Helping clients manage wealth through mutual funds, insurance, and financial planning.",
+        "direction_type": "Primary",
+        "roles": [
+          "Mutual Fund Analyst",
+          "Wealth Manager (Junior)",
+          "Insurance Underwriter",
+          "Actuarial Analyst"
+        ],
+        "why_primary": "Understanding of financial products and markets prepares graduates for wealth and investment management careers."
+      },
+      {
+        "direction_name": "Accounting & Audit",
+        "direction_description": "Ensuring financial accuracy and compliance through auditing and accounting functions.",
+        "direction_type": "Primary",
+        "roles": [
+          "Auditor (Internal)",
+          "Accountant",
+          "Financial Controller (Junior)",
+          "Forensic Accountant",
+          "Cost Accountant"
+        ],
+        "why_primary": "Finance specialisation complements accounting fundamentals, making graduates well-rounded for audit and control roles."
+      },
+      {
+        "direction_name": "Corporate Finance & Strategy",
+        "direction_description": "Supporting strategic and financial planning in corporates and consulting firms.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Strategy Analyst",
+          "Management Trainee",
+          "Business Analyst",
+          "ERP Implementation Consultant"
+        ],
+        "additional_skills_needed": "Advanced Excel, PowerPoint storytelling, business strategy frameworks",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Fintech & Data Finance",
+        "direction_description": "Applying finance knowledge in technology-driven financial services and analytics.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Fintech Analyst",
+          "Data Analyst",
+          "Risk Analyst"
+        ],
+        "additional_skills_needed": "Python/R basics, SQL, financial modelling tools, API concepts",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Legal & Compliance Tech",
+        "direction_description": "Moving into regulatory compliance and legal advisory roles leveraging deep finance and tax law knowledge.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Compliance Officer",
+          "Regulatory Affairs Analyst",
+          "Legal Researcher",
+          "Data Protection Officer (Junior)"
+        ],
+        "additional_skills_needed": "Contract law basics, SEBI/RBI/FEMA regulatory frameworks, compliance management tools, legal drafting fundamentals",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Finance graduates have a strong regulatory foundation but need structured legal upskilling; a PG Diploma in Business Law significantly improves prospects."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a finance-adjacent venture such as a financial advisory, CA firm support, or fintech startup.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Wealth Manager (Junior)",
+          "Financial Analyst",
+          "Fintech Analyst"
+        ],
+        "additional_skills_needed": "Business plan development, client acquisition, regulatory compliance knowledge, SEBI/RBI frameworks",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Finance background is a strong foundation but entrepreneurship demands market validation, risk appetite, and operational skills built over time."
+      }
+    ]
+  },
+  "B.Com Accounting": {
+    "degree": "B.Com Accounting",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Accounting & Bookkeeping",
+        "direction_description": "Core accounting functions including bookkeeping, financial statements, and reconciliation.",
+        "direction_type": "Primary",
+        "roles": [
+          "Accountant",
+          "Accounts Payable/Receivable Executive",
+          "Cost Accountant",
+          "Financial Controller (Junior)",
+          "Budget Analyst"
+        ],
+        "why_primary": "B.Com Accounting is specifically designed to produce job-ready accountants with practical ledger and reporting skills."
+      },
+      {
+        "direction_name": "Audit & Assurance",
+        "direction_description": "Verifying financial records and ensuring compliance with accounting standards.",
+        "direction_type": "Primary",
+        "roles": [
+          "Auditor (Internal)",
+          "Forensic Accountant",
+          "Compliance Officer",
+          "Risk Analyst"
+        ],
+        "why_primary": "Audit methodology and standards form a core component of B.Com Accounting curriculum."
+      },
+      {
+        "direction_name": "Taxation & GST Compliance",
+        "direction_description": "Managing direct and indirect tax obligations for businesses and clients.",
+        "direction_type": "Primary",
+        "roles": [
+          "Tax Consultant",
+          "GST Compliance Executive",
+          "Accounts Payable/Receivable Executive",
+          "Payroll Executive (Indian labour laws)"
+        ],
+        "why_primary": "Dedicated tax modules in the curriculum make graduates ready for India's GST and income tax compliance landscape."
+      },
+      {
+        "direction_name": "Banking & Financial Services",
+        "direction_description": "Applying accounting knowledge in banking operations and financial institutions.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Banking Officer (PO)",
+          "KYC Analyst",
+          "Loan Officer",
+          "Credit Analyst"
+        ],
+        "additional_skills_needed": "Banking regulations, IBPS/SBI PO exam preparation, basics of credit appraisal",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "ERP & Finance Technology",
+        "direction_description": "Implementing and operating ERP systems for financial functions in organisations.",
+        "direction_type": "Secondary",
+        "roles": [
+          "ERP Implementation Consultant",
+          "Business Analyst",
+          "HRIS Analyst"
+        ],
+        "additional_skills_needed": "SAP FICO or Tally ERP certification, basic SQL, process documentation",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Data & Business Analytics",
+        "direction_description": "Pivoting from accounting into data-driven business analysis and financial analytics roles.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Data Analyst",
+          "Business Analyst",
+          "Fintech Analyst"
+        ],
+        "additional_skills_needed": "Python or R, SQL, Power BI/Tableau, statistical thinking, data storytelling",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Accounting graduates have strong structured thinking but need to invest seriously in data tooling; online certifications alone are insufficient without project experience."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Launching an accounting, bookkeeping, or tax consultancy for SMEs.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Tax Consultant",
+          "Accountant",
+          "GST Compliance Executive"
+        ],
+        "additional_skills_needed": "Client management, practice management software, professional certifications (CA Inter preferred), marketing basics",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Accounting entrepreneurs typically need 1-2 years of employment experience first to build a client base and credibility."
+      }
+    ]
+  },
+  "B.Com Taxation": {
+    "degree": "B.Com Taxation",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Tax Compliance & Advisory",
+        "direction_description": "Providing direct and indirect tax compliance services to businesses and individuals.",
+        "direction_type": "Primary",
+        "roles": [
+          "Tax Consultant",
+          "GST Compliance Executive",
+          "Auditor (Internal)",
+          "Compliance Officer",
+          "Forensic Accountant"
+        ],
+        "why_primary": "B.Com Taxation is purpose-built to produce specialists in India's complex tax environment including GST, income tax, and customs."
+      },
+      {
+        "direction_name": "Accounting & Financial Reporting",
+        "direction_description": "Maintaining financial records and producing compliant financial statements.",
+        "direction_type": "Primary",
+        "roles": [
+          "Accountant",
+          "Cost Accountant",
+          "Accounts Payable/Receivable Executive",
+          "Financial Controller (Junior)",
+          "Budget Analyst"
+        ],
+        "why_primary": "Core accounting skills are embedded in taxation degrees, enabling graduates to transition into accounting roles easily."
+      },
+      {
+        "direction_name": "Legal & Regulatory Affairs",
+        "direction_description": "Supporting legal and compliance functions with tax law and regulatory expertise.",
+        "direction_type": "Primary",
+        "roles": [
+          "Regulatory Affairs Analyst",
+          "Compliance Officer",
+          "Legal Researcher",
+          "Contract Manager"
+        ],
+        "why_primary": "Deep knowledge of tax law gives graduates a strong foundation for broader legal and regulatory compliance roles."
+      },
+      {
+        "direction_name": "Banking & Credit",
+        "direction_description": "Applying financial and tax understanding in banking and lending institutions.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Banking Officer (PO)",
+          "KYC Analyst",
+          "Credit Analyst",
+          "Loan Officer"
+        ],
+        "additional_skills_needed": "Banking sector knowledge, credit appraisal basics, IBPS exam preparation",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Fintech & Data Analytics",
+        "direction_description": "Working in tax technology platforms and compliance automation firms.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Fintech Analyst",
+          "Data Analyst",
+          "ERP Implementation Consultant"
+        ],
+        "additional_skills_needed": "Python basics, SQL, tax software platforms (ClearTax/GSTN), data visualisation",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Legal Research & Compliance Advisory",
+        "direction_description": "Transitioning into corporate legal and regulatory roles using deep tax law expertise.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Legal Researcher",
+          "Compliance Officer",
+          "Regulatory Affairs Analyst",
+          "Contract Manager"
+        ],
+        "additional_skills_needed": "Contract law, corporate law basics, legal drafting, LLB or PG Diploma in Business Law",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Tax law knowledge is a genuine asset in legal roles but formal legal qualification or a structured bridge programme is strongly recommended before making this shift."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a tax consultancy or GST filing business serving MSMEs.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Tax Consultant",
+          "GST Compliance Executive",
+          "Compliance Officer"
+        ],
+        "additional_skills_needed": "MSME client management, CA firm tie-ups, software tools (Tally, ClearTax), business development",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Tax consultancy entrepreneurship has a clear market in India but requires professional certification (CA Inter or CMA) and domain credibility."
+      }
+    ]
+  },
+  "B.Com Banking": {
+    "degree": "B.Com Banking",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Banking Operations & Credit",
+        "direction_description": "Core banking roles managing accounts, credit appraisals, and loan processing.",
+        "direction_type": "Primary",
+        "roles": [
+          "Banking Officer (PO)",
+          "Loan Officer",
+          "KYC Analyst",
+          "Credit Analyst",
+          "Trade Finance Executive"
+        ],
+        "why_primary": "B.Com Banking is specifically structured to prepare graduates for the IBPS/SBI PO exams and banking sector entry roles."
+      },
+      {
+        "direction_name": "Treasury & Risk Management",
+        "direction_description": "Managing liquidity, risk, and investment functions within financial institutions.",
+        "direction_type": "Primary",
+        "roles": [
+          "Treasury Analyst",
+          "Risk Analyst",
+          "Insurance Underwriter",
+          "Actuarial Analyst"
+        ],
+        "why_primary": "Treasury and risk management concepts are core to banking specialisations, enabling direct entry into these roles."
+      },
+      {
+        "direction_name": "Financial Analysis & Investment",
+        "direction_description": "Analysing financial data for investment, equity, and mutual fund management.",
+        "direction_type": "Primary",
+        "roles": [
+          "Financial Analyst",
+          "Mutual Fund Analyst",
+          "Investment Analyst",
+          "Wealth Manager (Junior)"
+        ],
+        "why_primary": "Banking graduates have strong financial instrument knowledge applicable to investment and wealth roles."
+      },
+      {
+        "direction_name": "Accounting & Compliance",
+        "direction_description": "Supporting financial control and compliance functions across banking and corporate sectors.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Accountant",
+          "Auditor (Internal)",
+          "GST Compliance Executive",
+          "Compliance Officer"
+        ],
+        "additional_skills_needed": "Tally ERP, accounting standards (Ind AS), FEMA/RBI compliance framework",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Fintech & Digital Finance",
+        "direction_description": "Joining the growing digital banking and fintech ecosystem in India.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Fintech Analyst",
+          "Data Analyst",
+          "Business Analyst"
+        ],
+        "additional_skills_needed": "SQL, Python basics, UPI/API banking concepts, digital lending frameworks",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Fintech & Digital Lending Analytics",
+        "direction_description": "Joining the digital banking and fintech ecosystem in product, risk, or analytics roles.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Fintech Analyst",
+          "Data Analyst",
+          "Risk Analyst"
+        ],
+        "additional_skills_needed": "SQL, Python basics, credit scoring models, UPI/API banking concepts, digital lending regulations",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Banking graduates are well-positioned for fintech transitions due to domain knowledge, but must invest in data and product skills to compete with tech graduates."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Establishing a financial services business such as a microfinance or loan facilitation firm.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Loan Officer",
+          "Wealth Manager (Junior)",
+          "Fintech Analyst"
+        ],
+        "additional_skills_needed": "RBI NBFC regulations, credit underwriting, business registration and compliance, client acquisition",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Starting a lending or financial services business in India is heavily regulated and requires deep compliance knowledge and adequate capital."
+      }
+    ]
+  },
+  "B.Com International Business": {
+    "degree": "B.Com International Business",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "International Trade & Logistics",
+        "direction_description": "Managing cross-border trade operations, documentation, and logistics coordination.",
+        "direction_type": "Primary",
+        "roles": [
+          "Trade Finance Executive",
+          "Logistics Coordinator",
+          "Supply Chain Executive",
+          "Procurement Executive",
+          "Operations Executive"
+        ],
+        "why_primary": "International Business curriculum directly covers EXIM procedures, incoterms, and trade finance essential for these roles."
+      },
+      {
+        "direction_name": "Global Business & Strategy",
+        "direction_description": "Supporting business development, strategy, and market entry in international contexts.",
+        "direction_type": "Primary",
+        "roles": [
+          "Business Development Executive",
+          "Strategy Analyst",
+          "Business Analyst",
+          "Management Trainee",
+          "Market Research Analyst"
+        ],
+        "why_primary": "Exposure to global markets and cross-cultural business dynamics makes graduates valuable for multinational strategy roles."
+      },
+      {
+        "direction_name": "Banking & Foreign Exchange",
+        "direction_description": "Handling international banking, forex, and cross-border financial transactions.",
+        "direction_type": "Primary",
+        "roles": [
+          "Banking Officer (PO)",
+          "Treasury Analyst",
+          "KYC Analyst",
+          "Trade Finance Executive",
+          "Credit Analyst"
+        ],
+        "why_primary": "International business graduates understand forex, SWIFT, and trade finance instruments needed in global banking operations."
+      },
+      {
+        "direction_name": "Sales & Export Marketing",
+        "direction_description": "Developing export markets and managing international client relationships.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Sales Executive (B2B)",
+          "Brand Executive",
+          "E-Commerce Executive",
+          "Digital Marketing Executive"
+        ],
+        "additional_skills_needed": "Export marketing certifications, CRM tools, international e-commerce platforms (Amazon Global, Alibaba)",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Legal & Regulatory Compliance",
+        "direction_description": "Supporting international trade compliance and corporate legal functions.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Compliance Officer",
+          "Regulatory Affairs Analyst",
+          "Contract Manager",
+          "Legal Researcher"
+        ],
+        "additional_skills_needed": "International trade law, FEMA, WTO frameworks, contract drafting basics",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Legal & Regulatory Compliance",
+        "direction_description": "Moving into international trade law, contract management, and cross-border regulatory roles.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Legal Researcher",
+          "Compliance Officer",
+          "Contract Manager",
+          "Regulatory Affairs Analyst"
+        ],
+        "additional_skills_needed": "FEMA, WTO frameworks, international contract law, LLB or PG Diploma in International Trade Law",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "International business graduates have relevant regulatory exposure but formal legal training is necessary to be taken seriously in compliance and legal roles."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Launching an export-import business or cross-border e-commerce venture.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Trade Finance Executive",
+          "Business Development Executive",
+          "E-Commerce Executive"
+        ],
+        "additional_skills_needed": "DGFT registration, IEC code procedures, sourcing and buyer relationships, international payment gateways",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "EXIM entrepreneurship has real opportunity in India but demands hands-on exposure to shipping, customs, and working capital management before going independent."
+      }
+    ]
+  },
+  "BBA Marketing": {
+    "degree": "BBA Marketing",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Digital Marketing & Growth",
+        "direction_description": "Driving brand visibility and customer acquisition through digital channels.",
+        "direction_type": "Primary",
+        "roles": [
+          "Digital Marketing Executive",
+          "SEO/SEM Specialist",
+          "Performance Marketing Analyst",
+          "Social Media Manager",
+          "Email Marketing Specialist"
+        ],
+        "why_primary": "BBA Marketing graduates have core marketing theory combined with digital tool exposure highly valued by startups and agencies."
+      },
+      {
+        "direction_name": "Brand & Content Strategy",
+        "direction_description": "Building brand identity and developing compelling content across platforms.",
+        "direction_type": "Primary",
+        "roles": [
+          "Brand Executive",
+          "Content Strategist",
+          "Copywriter",
+          "Market Research Analyst",
+          "Influencer Marketing Coordinator"
+        ],
+        "why_primary": "Consumer behaviour, brand management, and communication modules directly enable these creative-analytical roles."
+      },
+      {
+        "direction_name": "Sales & Business Development",
+        "direction_description": "Acquiring and growing clients through B2B and B2C sales strategies.",
+        "direction_type": "Primary",
+        "roles": [
+          "Sales Executive (B2B)",
+          "Sales Executive (B2C)",
+          "Business Development Executive",
+          "CRM Executive"
+        ],
+        "why_primary": "Marketing graduates understand buyer psychology and sales processes, making them strong candidates for revenue roles."
+      },
+      {
+        "direction_name": "Advertising & Media",
+        "direction_description": "Planning and executing media campaigns across print, digital, and broadcast.",
+        "direction_type": "Primary",
+        "roles": [
+          "Advertising Account Executive",
+          "Media Planner",
+          "PR Executive",
+          "E-Commerce Executive"
+        ],
+        "why_primary": "Integrated marketing communications is a core BBA Marketing subject, directly applicable to advertising and media planning."
+      },
+      {
+        "direction_name": "Market Research & Analytics",
+        "direction_description": "Gathering and interpreting consumer data to support business decisions.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Market Research Analyst",
+          "Business Analyst",
+          "Data Analyst",
+          "Strategy Analyst"
+        ],
+        "additional_skills_needed": "SPSS or Google Analytics, survey design, basic SQL, data visualisation (Power BI)",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Product & Project Management",
+        "direction_description": "Managing product lifecycles and cross-functional project delivery.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Product Manager (Associate)",
+          "Project Coordinator",
+          "Operations Executive"
+        ],
+        "additional_skills_needed": "Agile/Scrum basics, JIRA, product roadmap tools, stakeholder management",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "UX Research & Product Design",
+        "direction_description": "Transitioning into user experience research and product roles using consumer behaviour expertise.",
+        "direction_type": "Alternate",
+        "roles": [
+          "UI/UX Designer",
+          "Product Manager (Associate)",
+          "Market Research Analyst"
+        ],
+        "additional_skills_needed": "Figma, user research methods, wireframing, basic HTML/CSS understanding, UX certification",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Consumer behaviour and research skills from marketing translate well to UX, but a strong portfolio of design projects is non-negotiable before applying."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a marketing agency, D2C brand, or influencer marketing business.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Digital Marketing Executive",
+          "Brand Executive",
+          "E-Commerce Executive"
+        ],
+        "additional_skills_needed": "Financial basics, client pitching, agency operations, GSTIN registration, freelance portfolio building",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Marketing entrepreneurship is highly viable for BBA graduates with a strong portfolio; starting as a freelancer before scaling is a proven path."
+      }
+    ]
+  },
+  "BBA Finance": {
+    "degree": "BBA Finance",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Financial Analysis & Planning",
+        "direction_description": "Conducting financial analysis, budgeting, and planning for organisations.",
+        "direction_type": "Primary",
+        "roles": [
+          "Financial Analyst",
+          "Budget Analyst",
+          "Credit Analyst",
+          "Risk Analyst",
+          "Treasury Analyst"
+        ],
+        "why_primary": "BBA Finance provides both management perspective and financial theory, making graduates strong analysts for corporate finance teams."
+      },
+      {
+        "direction_name": "Banking & Financial Services",
+        "direction_description": "Building a career in banking operations, lending, and financial product management.",
+        "direction_type": "Primary",
+        "roles": [
+          "Banking Officer (PO)",
+          "Loan Officer",
+          "KYC Analyst",
+          "Investment Analyst",
+          "Wealth Manager (Junior)"
+        ],
+        "why_primary": "Banking and BFSI remain the primary hiring ground for BBA Finance graduates in India."
+      },
+      {
+        "direction_name": "Investment & Capital Markets",
+        "direction_description": "Participating in capital markets through equity research, mutual funds, and portfolio management.",
+        "direction_type": "Primary",
+        "roles": [
+          "Equity Research Associate",
+          "Mutual Fund Analyst",
+          "Investment Analyst",
+          "Actuarial Analyst"
+        ],
+        "why_primary": "Exposure to capital markets, derivatives, and portfolio theory prepares BBA Finance graduates for investment roles."
+      },
+      {
+        "direction_name": "Accounting & Taxation",
+        "direction_description": "Supporting accounting, tax filing, and regulatory compliance for businesses.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Accountant",
+          "Tax Consultant",
+          "GST Compliance Executive",
+          "Auditor (Internal)"
+        ],
+        "additional_skills_needed": "Tally/SAP, CA Inter concepts, direct and indirect tax filing procedures",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Business Strategy & Consulting",
+        "direction_description": "Providing strategic and financial advisory support to businesses.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Strategy Analyst",
+          "Management Trainee",
+          "Management Consultant (Junior)",
+          "Business Analyst"
+        ],
+        "additional_skills_needed": "Case study frameworks, Excel modelling, PowerPoint, consulting firm interview preparation",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Actuarial & Risk Analytics",
+        "direction_description": "Moving into quantitative risk and actuarial roles requiring strong mathematical and financial modelling skills.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Actuarial Analyst",
+          "Risk Analyst",
+          "Insurance Underwriter"
+        ],
+        "additional_skills_needed": "Actuarial exams (IAI CT series), probability and statistics, Excel modelling, R or Python",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Actuarial roles are highly competitive and exam-driven; BBA Finance provides a good base but passing even 2-3 IAI papers requires dedicated preparation over 12-18 months."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Launching a financial advisory, wealth management, or MSME consulting venture.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Wealth Manager (Junior)",
+          "Financial Analyst",
+          "Fintech Analyst"
+        ],
+        "additional_skills_needed": "SEBI RIA certification, client advisory skills, business development, compliance understanding",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Finance entrepreneurship requires regulatory approvals and trust-building; most successful founders start with 2-3 years of employment experience."
+      }
+    ]
+  },
+  "BBA HR": {
+    "degree": "BBA HR",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Recruitment & Talent Acquisition",
+        "direction_description": "Sourcing, screening, and hiring talent across industries and functions.",
+        "direction_type": "Primary",
+        "roles": [
+          "Recruitment Specialist",
+          "Talent Acquisition Associate",
+          "HR Executive",
+          "HR Business Partner (Junior)"
+        ],
+        "why_primary": "BBA HR graduates have direct classroom and internship exposure to recruitment processes, making this the most common first job."
+      },
+      {
+        "direction_name": "HR Operations & Compliance",
+        "direction_description": "Managing HR processes including payroll, labour law compliance, and employee records.",
+        "direction_type": "Primary",
+        "roles": [
+          "Payroll Executive (Indian labour laws)",
+          "HR Executive",
+          "Compliance Executive (HR)",
+          "HRIS Analyst"
+        ],
+        "why_primary": "Indian labour law and payroll are taught as part of BBA HR curriculum, enabling graduates to step into compliance roles directly."
+      },
+      {
+        "direction_name": "Learning, Development & Engagement",
+        "direction_description": "Designing training programmes and fostering employee engagement and culture.",
+        "direction_type": "Primary",
+        "roles": [
+          "Training and Development Coordinator",
+          "Employee Engagement Executive",
+          "Corporate Trainer",
+          "Organisation Development Associate"
+        ],
+        "why_primary": "OD and L&D modules in BBA HR provide frameworks for training design and organisational behaviour applicable to these roles."
+      },
+      {
+        "direction_name": "Compensation & HR Analytics",
+        "direction_description": "Designing compensation structures and using data to improve HR outcomes.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Compensation and Benefits Analyst",
+          "HRIS Analyst",
+          "Data Analyst"
+        ],
+        "additional_skills_needed": "Excel for HR analytics, Power BI, benchmarking frameworks, basic statistics",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Business Operations & Management",
+        "direction_description": "Applying management skills in operations and general business roles.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Management Trainee",
+          "Operations Executive",
+          "Business Analyst",
+          "Project Coordinator"
+        ],
+        "additional_skills_needed": "Lean/Six Sigma basics, ERP tools, business communication, project management fundamentals",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Organisational Psychology & Consulting",
+        "direction_description": "Applying behavioural science and OD frameworks to consulting and people analytics roles.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Organisation Development Associate",
+          "Management Consultant (Junior)",
+          "Change Management Analyst"
+        ],
+        "additional_skills_needed": "Industrial-organisational psychology basics, people analytics tools, consulting frameworks, psychometric assessment tools",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "OD and consulting roles typically require a PG degree in HR, OB, or I-O Psychology; BBA HR provides the foundation but not sufficient depth on its own."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Establishing an HR consulting, staffing agency, or corporate training firm.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Recruitment Specialist",
+          "Training and Development Coordinator",
+          "Corporate Trainer"
+        ],
+        "additional_skills_needed": "Client acquisition, ATS tools, staffing firm registration, commercial acumen, networking",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "HR entrepreneurship via staffing or training is accessible but requires a strong client network; 2 years of agency experience is strongly advised before going independent."
+      }
+    ]
+  },
+  "BBA Operations": {
+    "degree": "BBA Operations",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Supply Chain & Logistics",
+        "direction_description": "Managing the flow of goods and materials across procurement, warehousing, and distribution.",
+        "direction_type": "Primary",
+        "roles": [
+          "Supply Chain Executive",
+          "Logistics Coordinator",
+          "Procurement Executive",
+          "Operations Executive"
+        ],
+        "why_primary": "BBA Operations directly covers supply chain management, logistics, and procurement as core subjects."
+      },
+      {
+        "direction_name": "Process & Quality Management",
+        "direction_description": "Improving operational efficiency and quality across manufacturing and service industries.",
+        "direction_type": "Primary",
+        "roles": [
+          "Process Improvement Analyst",
+          "Quality Analyst",
+          "Operations Executive",
+          "Project Coordinator"
+        ],
+        "why_primary": "Operations management and quality frameworks like Lean and Six Sigma are standard BBA Operations content."
+      },
+      {
+        "direction_name": "Business Analysis & ERP",
+        "direction_description": "Analysing business processes and implementing ERP systems for operational efficiency.",
+        "direction_type": "Primary",
+        "roles": [
+          "Business Analyst",
+          "ERP Implementation Consultant",
+          "Management Trainee",
+          "Strategy Analyst"
+        ],
+        "why_primary": "Operations graduates understand end-to-end business processes, making them strong business analysts and ERP consultants."
+      },
+      {
+        "direction_name": "Project & Programme Management",
+        "direction_description": "Coordinating cross-functional projects and managing delivery timelines.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Project Coordinator",
+          "Programme Coordinator",
+          "Change Management Analyst",
+          "Management Consultant (Junior)"
+        ],
+        "additional_skills_needed": "PMP basics, JIRA, MS Project, stakeholder communication, Agile methodology",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Data-Driven Operations",
+        "direction_description": "Using data analytics to optimise operational processes and decision-making.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Data Analyst",
+          "Business Analyst",
+          "Performance Marketing Analyst"
+        ],
+        "additional_skills_needed": "SQL, Excel advanced, Power BI/Tableau, Python basics for automation",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Technology & Automation",
+        "direction_description": "Pivoting into technology roles focused on operations automation, RPA, and process digitisation.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Automation Test Engineer",
+          "ERP Implementation Consultant",
+          "Data Engineer"
+        ],
+        "additional_skills_needed": "RPA tools (UiPath/Automation Anywhere), SQL, basic Python, ERP configuration, process mining tools",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Operations graduates understand processes well but competing in pure tech roles requires substantial upskilling; RPA and ERP paths are the most accessible entry points."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Launching a logistics, sourcing, or operations consultancy business.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Supply Chain Executive",
+          "Logistics Coordinator",
+          "Procurement Executive"
+        ],
+        "additional_skills_needed": "GST and MSME registration, vendor management, 3PL partnerships, financial planning basics, tech tools (Zoho, SAP Lite)",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Operations entrepreneurship in logistics or sourcing is capital-intensive; most successful founders work in the industry for 2-4 years before starting up."
+      }
+    ]
+  },
+  "BBA International Business": {
+    "degree": "BBA International Business",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Global Trade & Supply Chain",
+        "direction_description": "Coordinating international procurement, logistics, and cross-border trade operations.",
+        "direction_type": "Primary",
+        "roles": [
+          "Trade Finance Executive",
+          "Supply Chain Executive",
+          "Logistics Coordinator",
+          "Procurement Executive",
+          "Operations Executive"
+        ],
+        "why_primary": "International business curriculum provides EXIM, trade finance, and global supply chain knowledge directly applicable to these roles."
+      },
+      {
+        "direction_name": "International Sales & Business Development",
+        "direction_description": "Expanding businesses into global markets through strategic sales and partnerships.",
+        "direction_type": "Primary",
+        "roles": [
+          "Sales Executive (B2B)",
+          "Business Development Executive",
+          "Market Research Analyst",
+          "Brand Executive"
+        ],
+        "why_primary": "Cross-cultural negotiation and global market entry frameworks taught in IB programmes directly enable business development roles."
+      },
+      {
+        "direction_name": "Banking & Foreign Exchange Operations",
+        "direction_description": "Managing international financial transactions and cross-border banking services.",
+        "direction_type": "Primary",
+        "roles": [
+          "Banking Officer (PO)",
+          "KYC Analyst",
+          "Treasury Analyst",
+          "Trade Finance Executive"
+        ],
+        "why_primary": "Understanding forex markets, SWIFT, and international banking is a core component of BBA International Business."
+      },
+      {
+        "direction_name": "E-Commerce & Digital Export",
+        "direction_description": "Leveraging digital platforms for cross-border sales and international marketing.",
+        "direction_type": "Secondary",
+        "roles": [
+          "E-Commerce Executive",
+          "Digital Marketing Executive",
+          "Performance Marketing Analyst",
+          "CRM Executive"
+        ],
+        "additional_skills_needed": "Amazon Global, Shopify, international SEO, export documentation for e-commerce, PayPal/Stripe",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Legal & Compliance in International Trade",
+        "direction_description": "Ensuring regulatory compliance in global trade and cross-border contracts.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Compliance Officer",
+          "Regulatory Affairs Analyst",
+          "Contract Manager",
+          "Legal Researcher"
+        ],
+        "additional_skills_needed": "FEMA, WTO norms, bilateral trade agreement basics, international contract law",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Public Policy & International Relations",
+        "direction_description": "Transitioning into public sector, trade policy, or international development organisations.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Regulatory Affairs Analyst",
+          "Compliance Officer",
+          "Research Associate"
+        ],
+        "additional_skills_needed": "Public policy frameworks, international relations theory, UPSC/state PSC preparation or Masters in IR/Public Policy, report writing",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "This is a significant pivot requiring either a relevant PG degree or clearing competitive exams; the international business background helps with trade policy roles specifically."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting an EXIM business, cross-border sourcing firm, or global e-commerce venture.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Trade Finance Executive",
+          "Business Development Executive",
+          "E-Commerce Executive"
+        ],
+        "additional_skills_needed": "IEC code, DGFT procedures, global buyer/supplier outreach, payment reconciliation, logistics partnerships",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "International trade entrepreneurship is highly viable for IB graduates but requires strong industry contacts and hands-on EXIM experience before going independent."
+      }
+    ]
+  },
+  "BBA Digital Marketing": {
+    "degree": "BBA Digital Marketing",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Performance & Growth Marketing",
+        "direction_description": "Running paid campaigns and optimising marketing funnels to drive measurable growth.",
+        "direction_type": "Primary",
+        "roles": [
+          "Performance Marketing Analyst",
+          "SEO/SEM Specialist",
+          "Digital Marketing Executive",
+          "Email Marketing Specialist"
+        ],
+        "why_primary": "BBA Digital Marketing graduates are among the most job-ready for performance roles, trained directly on tools like Google Ads and Meta."
+      },
+      {
+        "direction_name": "Social Media & Content Strategy",
+        "direction_description": "Creating and managing content strategies across social platforms for brand growth.",
+        "direction_type": "Primary",
+        "roles": [
+          "Social Media Manager",
+          "Content Strategist",
+          "Influencer Marketing Coordinator",
+          "Copywriter",
+          "Brand Executive"
+        ],
+        "why_primary": "Platform-specific content strategy and community management are core BBA Digital Marketing competencies."
+      },
+      {
+        "direction_name": "E-Commerce & CRM",
+        "direction_description": "Managing online retail operations and customer relationship journeys.",
+        "direction_type": "Primary",
+        "roles": [
+          "E-Commerce Executive",
+          "CRM Executive",
+          "Advertising Account Executive",
+          "Media Planner"
+        ],
+        "why_primary": "Digital commerce and customer lifecycle management are taught as applied subjects in this specialisation."
+      },
+      {
+        "direction_name": "Brand & PR Management",
+        "direction_description": "Building and protecting brand reputation through integrated communications.",
+        "direction_type": "Primary",
+        "roles": [
+          "Brand Executive",
+          "PR Executive",
+          "Market Research Analyst",
+          "Advertising Account Executive"
+        ],
+        "why_primary": "Integrated brand communication and consumer insight are foundational components of BBA Digital Marketing."
+      },
+      {
+        "direction_name": "Marketing Analytics & Data",
+        "direction_description": "Using data to measure marketing effectiveness and drive decisions.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Data Analyst",
+          "Market Research Analyst",
+          "Business Analyst",
+          "Strategy Analyst"
+        ],
+        "additional_skills_needed": "Google Analytics 4, SQL, Power BI, advanced attribution modelling",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Product Management",
+        "direction_description": "Bridging marketing insights with product development in digital product companies.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Product Manager (Associate)",
+          "Business Analyst",
+          "Project Coordinator"
+        ],
+        "additional_skills_needed": "Agile/Scrum, JIRA, user journey mapping, basic technical literacy (APIs, wireframes)",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Data Science & Marketing Analytics",
+        "direction_description": "Transitioning into data science and advanced analytics roles using marketing data expertise.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Data Analyst",
+          "Data Scientist (Junior)",
+          "Business Analyst"
+        ],
+        "additional_skills_needed": "Python, SQL, machine learning basics, statistics, feature engineering, Kaggle projects for portfolio",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Digital marketers have a natural advantage in understanding data context, but competing with engineering graduates in data science requires serious technical investment over 12-18 months."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Founding a digital marketing agency, D2C brand, or creator economy business.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Digital Marketing Executive",
+          "Brand Executive",
+          "E-Commerce Executive"
+        ],
+        "additional_skills_needed": "Agency pitching and pricing, financial management, team hiring, freelance platform presence, GST registration",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Digital marketing entrepreneurship is among the most accessible for fresh graduates; a portfolio of 3-5 managed accounts significantly improves success rates."
+      }
+    ]
+  },
+  "BMS General": {
+    "degree": "BMS General",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Business Analysis & Strategy",
+        "direction_description": "Analysing business problems and developing strategic solutions for organisations.",
+        "direction_type": "Primary",
+        "roles": [
+          "Business Analyst",
+          "Strategy Analyst",
+          "Management Trainee",
+          "Management Consultant (Junior)",
+          "Project Coordinator"
+        ],
+        "why_primary": "BMS is a management-focused degree with broad exposure to business functions, making graduates well-suited for analyst and strategy roles."
+      },
+      {
+        "direction_name": "Operations & Process Management",
+        "direction_description": "Streamlining business processes and managing operational efficiency.",
+        "direction_type": "Primary",
+        "roles": [
+          "Operations Executive",
+          "Process Improvement Analyst",
+          "Quality Analyst",
+          "Supply Chain Executive",
+          "ERP Implementation Consultant"
+        ],
+        "why_primary": "Operations and process management modules are central to BMS, and employers value BMS graduates in operational roles."
+      },
+      {
+        "direction_name": "Sales & Business Development",
+        "direction_description": "Generating business growth through strategic sales and client development.",
+        "direction_type": "Primary",
+        "roles": [
+          "Sales Executive (B2B)",
+          "Sales Executive (B2C)",
+          "Business Development Executive",
+          "CRM Executive"
+        ],
+        "why_primary": "BMS graduates have a generalist management foundation that translates well into sales roles across BFSI, tech, and FMCG sectors."
+      },
+      {
+        "direction_name": "HR & People Management",
+        "direction_description": "Managing human resources functions across recruitment, operations, and engagement.",
+        "direction_type": "Secondary",
+        "roles": [
+          "HR Executive",
+          "Recruitment Specialist",
+          "Training and Development Coordinator",
+          "Employee Engagement Executive"
+        ],
+        "additional_skills_needed": "HRMS tools (Darwinbox/GreytHR), Indian labour law basics, interview frameworks",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Digital Marketing & E-Commerce",
+        "direction_description": "Using digital channels to drive brand awareness and customer acquisition.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Digital Marketing Executive",
+          "Social Media Manager",
+          "E-Commerce Executive",
+          "Brand Executive"
+        ],
+        "additional_skills_needed": "Google Ads, Meta Business Suite, SEO fundamentals, content creation tools",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Technology & Product Management",
+        "direction_description": "Transitioning into tech product roles by combining management skills with product and agile knowledge.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Product Manager (Associate)",
+          "Business Analyst",
+          "Project Coordinator"
+        ],
+        "additional_skills_needed": "Agile/Scrum certification, JIRA, basic SQL, product thinking frameworks, user story writing, wireframing basics",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "BMS graduates have the management and stakeholder skills for product roles but must demonstrate technical literacy and product intuition through internships or side projects."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Launching a venture across any sector leveraging broad management skills.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Business Development Executive",
+          "Operations Executive",
+          "Management Trainee"
+        ],
+        "additional_skills_needed": "Business plan development, startup funding basics, GST and compliance registration, financial modelling, customer discovery",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "BMS provides the broadest entrepreneurship foundation of all commerce UG degrees; success depends on choosing a focused niche and building domain expertise early."
+      }
+    ]
+  }
+}

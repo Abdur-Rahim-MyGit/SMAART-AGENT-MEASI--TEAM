@@ -1,0 +1,15 @@
+{
+  "executionEnvironments": [
+    {
+      "root": "ml-service",
+      "venvPath": "ml-service",
+      "venv": ".venv"
+    }
+  ],
+  "exclude": [
+    "**/node_modules",
+    "**/__pycache__",
+    "ml-service/.venv"
+  ],
+  "reportMissingImports": true
+}

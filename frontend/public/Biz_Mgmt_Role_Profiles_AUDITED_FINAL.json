@@ -1,0 +1,1517 @@
+[
+  {
+    "role_name": "Business Analyst",
+    "job_family": "Business, Management and Consulting",
+    "domain_skills": [
+      {
+        "skill_name": "Gap Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "User Acceptance Testing (UAT)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Stakeholder Analysis and Mapping",
+        "importance": "High"
+      },
+      {
+        "skill_name": "As-Is and To-Be Process Mapping",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Use Case and User Story Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Business Requirements Gathering",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Business Requirements Document (BRD)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Microsoft Visio",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Jira",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Confluence",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Notion AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Stakeholder Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 50,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Copilot in Word assist in drafting BRDs, user stories, and requirements documents from meeting notes and workshop outputs. Notion AI helps structure knowledge bases, process documentation, and sprint backlogs. AI tools accelerate gap analysis by synthesising large volumes of process data and interview transcripts.",
+    "human_value_tasks": "Business analysts facilitate requirements workshops, build trust with business stakeholders, and translate ambiguous organisational needs into precise documented requirements — tasks requiring interpersonal skills and contextual business understanding AI cannot replicate. They navigate conflicting stakeholder priorities and broker consensus on scope decisions that impact delivery timelines. Sign-off on requirements has legal and contractual implications that require human accountability.",
+    "salary_range_low": 350000,
+    "salary_range_high": 900000,
+    "salary_progression": {
+      "year_0_1": "3.5-6 lakh",
+      "year_2_3": "7-12 lakh",
+      "year_4_5": "12-20 lakh",
+      "year_6_plus": "20-38 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Management Trainee",
+    "job_family": "Business, Management and Consulting",
+    "domain_skills": [
+      {
+        "skill_name": "Agile and Scrum Methodology",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Business Case Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Market Research",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Operations Strategy",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Balanced Scorecard",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Gap Analysis",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Cross-Functional Rotation and Exposure",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Executive Presentation and Boardroom Communication",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft PowerPoint",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Power BI",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Business Acumen",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Adaptability and Learning Agility",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Critical Thinking",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "ChatGPT and Perplexity AI are extensively used by management trainees for rapid market research, competitive benchmarking, and synthesising industry reports for leadership presentations. Copilot in Word accelerates report writing and summarisation of large documents during rotational assignments. AI tools help trainees produce professional-grade deliverables faster across unfamiliar functional areas.",
+    "human_value_tasks": "Management trainees build cross-functional relationships and develop contextual understanding of how different departments interact — insights gained only through direct observation and participation, not AI-assisted research. They apply critical thinking to real organisational problems with incomplete information, learning to balance data with judgement under the guidance of senior mentors. Leadership development and behavioural assessment are inherently human-driven processes.",
+    "salary_range_low": 400000,
+    "salary_range_high": 900000,
+    "salary_progression": {
+      "year_0_1": "4-7 lakh (stipend + CTC varies by company)",
+      "year_2_3": "8-14 lakh",
+      "year_4_5": "14-22 lakh",
+      "year_6_plus": "22-40 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "MBA,PG"
+  },
+  {
+    "role_name": "Operations Executive",
+    "job_family": "Business, Management and Consulting",
+    "domain_skills": [
+      {
+        "skill_name": "Standard Operating Procedure (SOP) Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Operations Strategy",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Capacity Planning",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Resource Planning and Allocation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Root Cause Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Kaizen and Continuous Improvement",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Daily Operations Management and Shift Coordination",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Operational KPI Tracking and Reporting",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Power BI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Smartsheet",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Power BI Copilot",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Time Management and Deadline Adherence",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Cross-Functional Collaboration",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 45,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "Copilot in Excel and Power BI Copilot automate routine MIS reporting, variance analysis, and operational dashboards, reducing manual data collation time. ChatGPT assists in drafting SOPs, operational circulars, and escalation reports. AI-powered operations platforms increasingly automate queue management and scheduling optimisation in large operations centres.",
+    "human_value_tasks": "Operations executives manage real-time exceptions — system failures, staffing gaps, customer escalations — that require immediate judgement and on-ground authority AI cannot provide. They build team discipline, resolve interpersonal conflicts, and maintain morale in high-pressure operational environments. Identifying systemic operational inefficiencies requires contextual observation and cross-team coordination beyond what data analysis alone reveals.",
+    "salary_range_low": 280000,
+    "salary_range_high": 700000,
+    "salary_progression": {
+      "year_0_1": "2.8-4.5 lakh",
+      "year_2_3": "5-9 lakh",
+      "year_4_5": "9-15 lakh",
+      "year_6_plus": "15-28 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Project Coordinator",
+    "job_family": "Business, Management and Consulting",
+    "domain_skills": [
+      {
+        "skill_name": "Resource Planning and Allocation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Risk Management (Project)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Project Scheduling and Gantt Chart Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Meeting Facilitation and Action Item Tracking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Project Risk Register Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Agile Project Management",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Microsoft Project",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Jira",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Smartsheet",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Confluence",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Notion AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Stakeholder Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Time Management and Deadline Adherence",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 50,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Notion AI assist project coordinators in drafting status reports, generating meeting agendas, summarising action items, and producing stakeholder updates. Copilot in Word helps create project charters and risk registers from conversation notes. AI tools are increasingly used to identify schedule risks and generate escalation summaries from project data.",
+    "human_value_tasks": "Project coordinators manage the interpersonal dynamics of project teams — resolving conflicts, building commitment, and influencing without authority across functions. They make real-time scope and priority adjustments when resource constraints, stakeholder changes, or technical issues arise, requiring contextual judgement. Relationship management with vendors, clients, and senior sponsors is built on trust and communication skills that AI cannot replicate.",
+    "salary_range_low": 300000,
+    "salary_range_high": 750000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh",
+      "year_2_3": "6-10 lakh",
+      "year_4_5": "10-17 lakh",
+      "year_6_plus": "17-30 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Strategy Analyst",
+    "job_family": "Business, Management and Consulting",
+    "domain_skills": [
+      {
+        "skill_name": "Competitive Intelligence",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Business Case Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Scenario Planning",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Value Chain Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Strategy Formulation and Corporate Strategy Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Porter Five Forces Industry Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Hypothesis-Driven Problem Solving and Issue Tree Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "SWOT Analysis",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft PowerPoint",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Power BI",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Critical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Logical Thinking and Problem Decomposition",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 60,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "Perplexity AI and ChatGPT dramatically accelerate primary research, industry landscape mapping, and competitive benchmarking that previously required days of manual research. AI tools assist in synthesising analyst reports, earnings call transcripts, and news into structured strategy briefs. Copilot in Excel automates financial modelling for scenario analysis and business case construction.",
+    "human_value_tasks": "Strategy analysts develop original insights by connecting disparate information sources and applying lateral thinking to identify non-obvious strategic opportunities — a uniquely human creative capability. They engage with senior leadership to understand strategic intent, organisational constraints, and political dynamics that shape which strategies are actually feasible. Recommendations require human accountability since wrong strategic choices have organisation-wide financial consequences.",
+    "salary_range_low": 450000,
+    "salary_range_high": 1200000,
+    "salary_progression": {
+      "year_0_1": "4.5-8 lakh",
+      "year_2_3": "9-16 lakh",
+      "year_4_5": "16-26 lakh",
+      "year_6_plus": "26-55 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "PG,MBA"
+  },
+  {
+    "role_name": "Process Improvement Analyst",
+    "job_family": "Business, Management and Consulting",
+    "domain_skills": [
+      {
+        "skill_name": "Kaizen and Continuous Improvement",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Root Cause Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Business Process Re-engineering (BPR)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Statistical Process Control (SPC)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Value Stream Mapping (VSM)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Six Sigma DMAIC Methodology",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Fishbone Diagram and Pareto Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Lean Management",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Microsoft Visio",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Miro",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Power BI Copilot",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Stakeholder Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 50,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "Copilot in Excel and Power BI Copilot automate process performance data analysis, control chart generation, and variance identification. ChatGPT assists in drafting process improvement charters, SIPOC documents, and workshop facilitation guides. AI process mining tools are emerging to automatically discover as-is process flows from system event logs.",
+    "human_value_tasks": "Process improvement analysts facilitate kaizen events and workshop sessions where change adoption depends on building trust and buy-in from front-line workers and supervisors — requiring facilitation skills and human empathy. They diagnose the behavioural and cultural root causes of process failures that go beyond what data analysis reveals. Implementation of improvement recommendations requires sustained change management and stakeholder engagement that AI cannot drive.",
+    "salary_range_low": 350000,
+    "salary_range_high": 900000,
+    "salary_progression": {
+      "year_0_1": "3.5-5.5 lakh",
+      "year_2_3": "6-11 lakh",
+      "year_4_5": "11-18 lakh",
+      "year_6_plus": "18-32 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Supply Chain Executive",
+    "job_family": "Business, Management and Consulting",
+    "domain_skills": [
+      {
+        "skill_name": "Supply Chain Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Demand Forecasting",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Inventory Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Vendor Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Warehouse Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Purchase Order and Invoice Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "S&OP (Sales and Operations Planning)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Supply Chain Risk and Resilience Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Landed Cost and Total Cost of Ownership Analysis",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "SAP ERP",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Power BI Copilot",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Negotiation and Persuasion",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Cross-Functional Collaboration",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 50,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "Copilot in Excel and Power BI Copilot automate inventory ageing analysis, reorder point calculations, and supplier performance dashboards. ChatGPT assists in drafting supplier communication, purchase requisitions, and supply chain reports. AI-powered demand forecasting tools integrated with ERP systems increasingly improve forecast accuracy and reduce stockouts.",
+    "human_value_tasks": "Supply chain executives negotiate with suppliers on pricing, lead times, and payment terms — requiring relationship management and commercial judgement that AI cannot perform. They manage supply disruptions, source alternate vendors, and make make-or-buy decisions under time pressure where speed and human judgment are critical. Coordinating across procurement, warehousing, logistics, and production teams to resolve bottlenecks requires interpersonal influence skills.",
+    "salary_range_low": 300000,
+    "salary_range_high": 800000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh",
+      "year_2_3": "5.5-10 lakh",
+      "year_4_5": "10-16 lakh",
+      "year_6_plus": "16-30 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Logistics Coordinator",
+    "job_family": "Business, Management and Consulting",
+    "domain_skills": [
+      {
+        "skill_name": "Warehouse Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Inventory Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Incoterms 2020 Application",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Customs Duty and Import-Export Compliance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Vendor Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Freight Forwarding and Carrier Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Last Mile Delivery Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "3PL and 4PL Coordination",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "SAP ERP",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Power BI",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Power BI Copilot",
+        "importance": "Low"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Time Management and Deadline Adherence",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 40,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "Copilot in Excel automates shipment tracking reports, carrier performance analysis, and freight cost reconciliation. ChatGPT assists in drafting customs documentation, shipping instructions, and 3PL communication. AI-powered logistics platforms are increasingly used in Indian e-commerce and manufacturing for real-time shipment visibility and automated exception alerts.",
+    "human_value_tasks": "Logistics coordinators manage real-time shipment exceptions — delays, customs holds, damage claims, and carrier failures — requiring rapid problem-solving and vendor negotiation under time pressure. They build working relationships with customs authorities, clearing agents, and carriers that improve turnaround times and dispute resolution. Route and mode selection decisions involve cost-service trade-offs and ground knowledge of Indian logistics infrastructure that AI cannot fully assess.",
+    "salary_range_low": 280000,
+    "salary_range_high": 650000,
+    "salary_progression": {
+      "year_0_1": "2.8-4.5 lakh",
+      "year_2_3": "5-8 lakh",
+      "year_4_5": "8-13 lakh",
+      "year_6_plus": "13-24 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Procurement Executive",
+    "job_family": "Business, Management and Consulting",
+    "domain_skills": [
+      {
+        "skill_name": "Vendor Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Contract Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Project Procurement Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Purchase Order and Invoice Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Incoterms 2020 Application",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Strategic Sourcing and Supplier Selection",
+        "importance": "High"
+      },
+      {
+        "skill_name": "RFP and RFQ Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Spend Analysis and Category Management",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "SAP Ariba (Procurement and AP)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "SAP ERP",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Negotiation and Persuasion",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ethical Conduct and Integrity",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 45,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "Copilot in Excel and Word automate purchase order creation, supplier comparison templates, and contract summary drafting. ChatGPT assists in writing RFQ documents, supplier evaluation scorecards, and procurement reports. AI-powered spend analytics tools are increasingly integrated with SAP Ariba and Oracle to identify maverick spend and savings opportunities.",
+    "human_value_tasks": "Procurement executives negotiate commercial terms, payment schedules, and service levels with suppliers, requiring interpersonal skills and commercial intuition that AI cannot replicate. They manage supplier relationships through performance issues, quality disputes, and price renegotiations that require sustained human engagement. Ethical procurement decisions — managing conflicts of interest, gift policies, and fair competition — require human accountability and integrity.",
+    "salary_range_low": 300000,
+    "salary_range_high": 800000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh",
+      "year_2_3": "5.5-10 lakh",
+      "year_4_5": "10-17 lakh",
+      "year_6_plus": "17-32 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Quality Analyst",
+    "job_family": "Business, Management and Consulting",
+    "domain_skills": [
+      {
+        "skill_name": "Statistical Process Control (SPC)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Root Cause Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Deviation and Non-Conformance Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Kaizen and Continuous Improvement",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Corrective and Preventive Action (CAPA) Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Six Sigma DMAIC Methodology",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Quality Management System (QMS) Implementation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ISO 9001 Quality Management",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Minitab",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Power BI",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Power BI Copilot",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ethical Conduct and Integrity",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 45,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "Copilot in Excel and Power BI Copilot automate control chart generation, defect trend analysis, and quality metric dashboards. ChatGPT assists in drafting non-conformance reports, CAPA documents, and quality audit summaries. AI-powered quality inspection tools using computer vision are being adopted in Indian manufacturing to automate visual defect detection.",
+    "human_value_tasks": "Quality analysts conduct physical audits, observe processes on the shop floor, and interview operators to identify quality failures that data systems do not capture. They make professional judgements on non-conformance severity, risk classification, and disposition of defective products that require experience and accountability. Building a quality culture through training and engagement with front-line workers requires human communication and persuasion skills.",
+    "salary_range_low": 300000,
+    "salary_range_high": 750000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh",
+      "year_2_3": "5.5-9 lakh",
+      "year_4_5": "9-15 lakh",
+      "year_6_plus": "15-28 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Business Development Executive",
+    "job_family": "Business, Management and Consulting",
+    "domain_skills": [
+      {
+        "skill_name": "Pitch Deck Preparation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Go-to-Market Strategy",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Market Research",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Contract and Proposal Writing (Sales)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Account Planning and Pipeline Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Value Proposition Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Business Development",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Salesforce CRM",
+        "importance": "High"
+      },
+      {
+        "skill_name": "HubSpot CRM",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft PowerPoint",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Negotiation and Persuasion",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Client Relationship Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Executive Communication",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "ChatGPT and Perplexity AI accelerate prospect research, generating company profiles, competitor landscape summaries, and personalised outreach messaging. Copilot in Word speeds up proposal and pitch deck drafting. AI tools are integrated into CRM platforms like Salesforce to score leads, suggest next best actions, and automate follow-up sequences.",
+    "human_value_tasks": "Business development executives build genuine relationships with prospects and clients through face-to-face meetings, industry events, and sustained engagement — trust-building that AI-generated outreach cannot replicate. They read non-verbal cues during negotiations, adapt pitches in real time, and close deals through interpersonal persuasion. Navigating complex B2B buying committees with multiple stakeholders requires emotional intelligence and political awareness.",
+    "salary_range_low": 300000,
+    "salary_range_high": 800000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh (+ incentives)",
+      "year_2_3": "6-11 lakh (+ commissions)",
+      "year_4_5": "10-18 lakh",
+      "year_6_plus": "18-35 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Management Consultant (Junior)",
+    "job_family": "Business, Management and Consulting",
+    "domain_skills": [
+      {
+        "skill_name": "Management Consulting Methodology",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Business Case Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Competitive Intelligence",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Consulting Proposal Writing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Market Research",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Scenario Planning",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Hypothesis-Driven Problem Solving and Issue Tree Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Porter Five Forces Industry Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Consulting Slide and Storyboard Development",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Microsoft PowerPoint",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "High"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Logical Thinking and Problem Decomposition",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Executive Communication",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 60,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "ChatGPT and Perplexity AI are transforming junior consultant productivity by accelerating secondary research, industry benchmarking, and first-draft document creation. Copilot in Word assists in structuring reports, synthesising interview notes, and generating executive summaries. AI tools help junior consultants produce initial data cuts and analysis frameworks that would previously have required significant manual effort.",
+    "human_value_tasks": "Junior management consultants build client relationships, facilitate workshops with senior executives, and communicate complex analysis persuasively in high-stakes boardroom presentations — skills requiring emotional intelligence and professional credibility. They develop original business insights by combining quantitative analysis with qualitative client context, competitor dynamics, and industry knowledge that AI research tools cannot fully synthesise. Client-specific recommendation development requires human judgement on implementation feasibility and organisational readiness.",
+    "salary_range_low": 600000,
+    "salary_range_high": 1600000,
+    "salary_progression": {
+      "year_0_1": "6-12 lakh (Big 4 / boutique varies)",
+      "year_2_3": "12-22 lakh",
+      "year_4_5": "22-35 lakh",
+      "year_6_plus": "35-70 lakh (VERIFY)"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "MBA,PG"
+  },
+  {
+    "role_name": "Change Management Analyst",
+    "job_family": "Business, Management and Consulting",
+    "domain_skills": [
+      {
+        "skill_name": "Stakeholder Management (Tech)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Business Process Mapping",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Gap Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ADKAR Change Management Model",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Organisational Readiness Assessment",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Change Communication Plan Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Change Management",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Microsoft PowerPoint",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Miro",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Confluence",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Notion AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Stakeholder Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Adaptability",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Empathy and Client Sensitivity",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 50,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Copilot in Word assist in drafting change impact assessments, stakeholder communication plans, and training materials at scale. Notion AI helps maintain change management knowledge bases and project trackers. AI tools accelerate sentiment analysis of employee feedback collected during change programmes.",
+    "human_value_tasks": "Change management analysts work directly with employees, teams, and leaders to address resistance, build understanding, and drive behavioural change — work that fundamentally requires human empathy, listening, and persuasion. They facilitate difficult conversations about role changes, redundancies, and process disruptions that require sensitivity and professional maturity. Sustained change adoption requires ongoing human coaching and reinforcement that AI cannot provide.",
+    "salary_range_low": 400000,
+    "salary_range_high": 1000000,
+    "salary_progression": {
+      "year_0_1": "4-7 lakh",
+      "year_2_3": "8-14 lakh",
+      "year_4_5": "14-22 lakh",
+      "year_6_plus": "22-40 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "PG,MBA"
+  },
+  {
+    "role_name": "ERP Implementation Consultant",
+    "job_family": "Business, Management and Consulting",
+    "domain_skills": [
+      {
+        "skill_name": "User Acceptance Testing (UAT)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Gap Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Training Needs Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ERP Data Migration Planning and Execution",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ERP Go-Live and Cutover Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ERP Configuration and Customisation Documentation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ERP Implementation and Change Management",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "SAP S/4HANA",
+        "importance": "High"
+      },
+      {
+        "skill_name": "SAP ERP",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Oracle ERP",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Dynamics 365",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Stakeholder Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 45,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Copilot in Word accelerate documentation of business process blueprints, functional design documents, and user training materials. AI tools assist in generating test scripts for UAT and mapping legacy data fields to new ERP structures. AI is increasingly used to analyse ERP implementation risks and suggest mitigation approaches based on historical project patterns.",
+    "human_value_tasks": "ERP implementation consultants navigate the political and cultural dynamics of organisational change, managing resistance from business users and reconciling conflicting departmental requirements. They make configuration decisions that balance standard ERP functionality with specific business needs, requiring deep functional expertise and judgement. Post-go-live hyper-care support — stabilising operations and resolving business-critical issues — requires on-site presence and rapid human problem-solving.",
+    "salary_range_low": 500000,
+    "salary_range_high": 1400000,
+    "salary_progression": {
+      "year_0_1": "5-9 lakh",
+      "year_2_3": "10-18 lakh",
+      "year_4_5": "18-30 lakh",
+      "year_6_plus": "30-60 lakh (VERIFY)"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Programme Coordinator",
+    "job_family": "Business, Management and Consulting",
+    "domain_skills": [
+      {
+        "skill_name": "Resource Planning and Allocation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Risk Management (Project)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Business Case Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Programme Governance and Benefits Realisation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Dependency and Constraint Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "PMO Setup and Operating Model Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "PRINCE2 Methodology",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Microsoft Project",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Smartsheet",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Jira",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Confluence",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Notion AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "High"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Stakeholder Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Leadership",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Decision Making",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 50,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Notion AI assist programme coordinators in generating programme status reports, risk dashboards, and steering committee presentations from project data. Copilot in Word accelerates drafting of programme charters, governance frameworks, and escalation documents. AI tools are used to analyse resource utilisation patterns and flag at-risk workstreams.",
+    "human_value_tasks": "Programme coordinators manage the political complexity of multi-project environments where competing priorities, shared resources, and conflicting stakeholder interests require continuous human negotiation and influence. They build cross-project team cohesion and manage dependency risks that require regular human coordination across workstream leads. Steering committee reporting and programme-level escalation decisions require leadership authority and professional credibility that AI cannot provide.",
+    "salary_range_low": 450000,
+    "salary_range_high": 1200000,
+    "salary_progression": {
+      "year_0_1": "4.5-8 lakh",
+      "year_2_3": "9-16 lakh",
+      "year_4_5": "16-26 lakh",
+      "year_6_plus": "26-50 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "PG,MBA"
+  }
+]

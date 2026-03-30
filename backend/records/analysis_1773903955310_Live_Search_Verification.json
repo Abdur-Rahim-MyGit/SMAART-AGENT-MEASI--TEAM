@@ -1,0 +1,286 @@
+{
+  "timestamp": "2026-03-19T07:05:55.310Z",
+  "status": "completed",
+  "input_user_data": {
+    "personalDetails": {
+      "name": "Live_Search_Verification",
+      "email": "live@test.com"
+    },
+    "education": [
+      {
+        "degreeGroup": "B.Tech",
+        "specialization": "Computer Science"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "Node.js"
+    ],
+    "preferences": {
+      "primary": {
+        "role": "Software Developer"
+      },
+      "secondary": {
+        "role": "Web Developer"
+      },
+      "tertiary": {
+        "role": "Backend Engineer"
+      }
+    }
+  },
+  "output_generated_report": {
+    "status": "success_deterministic",
+    "generated_at": "2026-03-19T07:05:55.317Z",
+    "primary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 27%. You have 1 matching skills.",
+      "tab1": {
+        "role_name": "Software Developer",
+        "role_description": "Responsible for core operations within the Software Developer domain.",
+        "typical_employers_india": "MNCs, Startups, IT Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "High Growth",
+        "salary_range": "3-8 LPA",
+        "ai_impact": "AI systems are augmenting Software Developer roles significantly.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Software Developer",
+            "description": "Uses AI tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "GitHub Copilot (free for students via GitHub Education)",
+            "category": "AI-Powered",
+            "usage": "AI code completion and generation across languages",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "SonarQube Community (free)",
+            "category": "AI-Powered",
+            "usage": "Static code analysis and code quality gates",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "ChatGPT (free tier)",
+            "category": "AI-Powered",
+            "usage": "Debugging, code explanation, algorithm guidance, and documentation drafting",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Aider (free open-source)",
+            "category": "AI-Powered",
+            "usage": "AI terminal pair programmer with full codebase context",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "40%",
+          "level": "Moderate",
+          "tasks_assisted": "Repetitive drafting/coding",
+          "human_value": "Strategy & Review"
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Communication",
+          "Problem Solving"
+        ]
+      },
+      "tab5": {
+        "future_scope": "Software Developer is evolving rapidly with AI integration.",
+        "target_audience": "Enterprise and Tech-forward companies.",
+        "growth_trajectory": "Expected to branch into more specialized architectural roles."
+      }
+    },
+    "secondary": {
+      "zone": "Amber",
+      "zone_message": "Moderate alignment. You need to bridge specific skill gaps.",
+      "preparation_time": "3-5 months",
+      "match_explanation": "Your alignment score is 33%. You have 2 matching skills.",
+      "tab1": {
+        "role_name": "Web Developer",
+        "role_description": "Responsible for core operations within the Web Developer domain.",
+        "typical_employers_india": "MNCs, Startups, IT Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "High Growth",
+        "salary_range": "3-8 LPA",
+        "ai_impact": "AI systems are augmenting Web Developer roles significantly.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Web Developer",
+            "description": "Uses AI tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "GitHub Copilot (free for students via GitHub Education)",
+            "category": "AI-Powered",
+            "usage": "AI code completion for HTML/CSS/JS and full stack development",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "SonarQube Community (free)",
+            "category": "AI-Powered",
+            "usage": "Static code quality and security analysis",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "v0 by Vercel (free tier)",
+            "category": "AI-Powered",
+            "usage": "AI-generated web UI components from text prompts",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "ChatGPT (free tier)",
+            "category": "AI-Powered",
+            "usage": "Full stack debugging, framework selection guidance, and performance optimisation",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "40%",
+          "level": "Moderate",
+          "tasks_assisted": "Repetitive drafting/coding",
+          "human_value": "Strategy & Review"
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Communication",
+          "Problem Solving"
+        ]
+      },
+      "tab5": {
+        "future_scope": "Web Developer is evolving rapidly with AI integration.",
+        "target_audience": "Enterprise and Tech-forward companies.",
+        "growth_trajectory": "Expected to branch into more specialized architectural roles."
+      }
+    },
+    "tertiary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 20%. You have 0 matching skills.",
+      "tab1": {
+        "role_name": "Backend Engineer",
+        "role_description": "Responsible for core operations within the Backend Engineer domain.",
+        "typical_employers_india": "MNCs, Startups, IT Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "High Growth",
+        "salary_range": "3-8 LPA",
+        "ai_impact": "AI systems are augmenting Backend Engineer roles significantly.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Backend Engineer",
+            "description": "Uses AI tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [
+          {
+            "skill": "Domain Knowledge",
+            "priority": "High",
+            "description": "Essential core skill."
+          }
+        ],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "ChatGPT",
+            "category": "AI-Powered",
+            "usage": "General Assistance",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "40%",
+          "level": "Moderate",
+          "tasks_assisted": "Repetitive drafting/coding",
+          "human_value": "Strategy & Review"
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Communication",
+          "Problem Solving"
+        ]
+      },
+      "tab5": {
+        "future_scope": "Backend Engineer is evolving rapidly with AI integration.",
+        "target_audience": "Enterprise and Tech-forward companies.",
+        "growth_trajectory": "Expected to branch into more specialized architectural roles."
+      }
+    },
+    "combined_tab4": {
+      "combined_pathway_summary": "Your immediate focus must be learning the missing fundamentals for Software Developer.",
+      "skill_gap": {
+        "current_skills": [
+          "JavaScript",
+          "Node.js"
+        ],
+        "missing_skills": [
+          "Data Structures and Algorithms",
+          "Version Control (Git)",
+          "Testing and Debugging",
+          "Agile Development Practices",
+          "AI-assisted development (GitHub Copilot — free for students)"
+        ]
+      },
+      "learning_roadmap": [
+        {
+          "step": "Step 1 - Foundation Skills",
+          "description": "Master prerequisites and theoretical fundamentals."
+        },
+        {
+          "step": "Step 2 - Core Technical Skills",
+          "description": "Learn Data Structures and Algorithms."
+        },
+        {
+          "step": "Step 3 - Advanced Applications",
+          "description": "Apply skills in complex scenarios."
+        },
+        {
+          "step": "Step 4 - Projects & Portfolio",
+          "description": "Deploy market-ready portfolios demonstrating these skills."
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Certified Software Developer Professional",
+          "issuer": "Industry Standard Provider",
+          "difficulty": "Intermediate",
+          "duration": "3 months"
+        }
+      ],
+      "free_courses": [
+        {
+          "course_name": "Software Developer Crash Course",
+          "platform": "YouTube / Coursera",
+          "link_status": "Free"
+        }
+      ],
+      "projects": [
+        {
+          "project_name": "Software Developer Capstone",
+          "description": "A complete end-to-end implementation.",
+          "skills_demonstrated": "Data Structures and Algorithms, Version Control (Git), Testing and Debugging"
+        }
+      ]
+    }
+  }
+}

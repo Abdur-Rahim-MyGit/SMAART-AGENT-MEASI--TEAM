@@ -1,0 +1,351 @@
+{
+  "timestamp": "2026-03-27T10:41:13.728Z",
+  "status": "completed",
+  "input_user_data": {
+    "studentId": "test_123",
+    "studentName": "Test",
+    "studentEmail": "test@test.com",
+    "preferences": {
+      "primary": {
+        "role": "Financial Analyst"
+      },
+      "secondary": {
+        "role": "Credit Analyst"
+      },
+      "tertiary": {
+        "role": "Investment Analyst"
+      }
+    },
+    "skills": [
+      "Excel",
+      "SAP"
+    ]
+  },
+  "output_generated_report": {
+    "status": "success_ml_assisted",
+    "generated_at": "2026-03-27T10:41:13.985Z",
+    "preVerified": {
+      "dataFilesReady": true,
+      "primaryZone": {
+        "employer_zone": "Red",
+        "skill_coverage_pct": 25
+      },
+      "secondaryZone": {
+        "employer_zone": "Red"
+      },
+      "tertiaryZone": {
+        "employer_zone": "Red"
+      },
+      "primaryMarket": null,
+      "primarySkillGap": {
+        "missing": [
+          "Microsoft Power BI",
+          "Bloomberg Terminal",
+          "Oracle Financials"
+        ],
+        "matched": [
+          "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)"
+        ],
+        "coveragePct": 25,
+        "dataReady": true,
+        "source": "local"
+      }
+    },
+    "primary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 11%. You have 1 matching skills.",
+      "tab1": {
+        "role_name": "Financial Analyst",
+        "role_description": "A junior Financial Analyst at an Indian company typically spends their week building and updating financial models in Excel, preparing management reports using Ind AS-compliant financials, and conducting variance analysis against budgets. Daily tasks include pulling data from SAP ERP, reconciling cost centre reports, and creating Power BI dashboards for business units. Tally is used for SME clients or in smaller firms. Working closely with the CFO team, they draft commentary on monthly P&L movements and support senior analysts in preparing board presentations and investor decks.",
+        "narrative_para1": "A junior Financial Analyst at an Indian company typically spends their week building and updating financial models in Excel, preparing management reports using Ind AS-compliant financials, and conducting variance analysis against budgets. Daily tasks include pulling data from SAP ERP, reconciling cost centre reports, and creating Power BI dashboards for business units. Tally is used for SME clients or in smaller firms. Working closely with the CFO team, they draft commentary on monthly P&L movements and support senior analysts in preparing board presentations and investor decks.",
+        "narrative_para2": "With 55% AI exposure, this role is actively AI-Evolving. Copilot in Excel automates variance analysis, formula generation, and summary reports. Power BI Copilot generates DAX measures and narrative insights from dashboards. ChatGPT assists in drafting commentary and structuring presentations. However, contextual judgment to interpret anomalies in financial data, advise stakeholders on strategic implications, and translate numbers into actionable business decisions remain uniquely human. The tools currently reshaping this role include Copilot in Excel (Microsoft 365 Copilot), Power BI Copilot, and ChatGPT — each handling repetitive analytical tasks while freeing professionals to focus on judgment, relationships, and strategic insight.",
+        "narrative_para3": "B.Com, BBA, MBA (Finance), or CA inter graduates are well-suited. Those who enjoy working with numbers, building structured models, and translating data into business narratives will thrive. The career path runs from junior analyst (Rs.3.5-5 lakh) to senior analyst (Rs.6-10 lakh) to FP&A manager (Rs.10-16 lakh), with senior leadership roles exceeding Rs.16-28 lakh. CFA and CMA qualifications accelerate progression in listed companies and MNC environments. Eligible programme levels: UG, PG, MBA.",
+        "typical_employers_india": "MNCs, Startups, IT Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "High Growth",
+        "salary_range": "₹3.5L - ₹8L",
+        "ai_impact": "With 55% AI exposure, this role is actively AI-Evolving. Copilot in Excel automates variance analysis, formula generation, and summary reports. Power BI Copilot generates DAX measures and narrative insights from dashboards. ChatGPT assists in drafting commentary and structuring presentations. However, contextual judgment to interpret anomalies in financial data, advise stakeholders on strategic implications, and translate numbers into actionable business decisions remain uniquely human. The tools currently reshaping this role include Copilot in Excel (Microsoft 365 Copilot), Power BI Copilot, and ChatGPT — each handling repetitive analytical tasks while freeing professionals to focus on judgment, relationships, and strategic insight.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Financial Analyst",
+            "description": "Uses AI tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [
+          {
+            "skill": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+            "priority": "High",
+            "description": "Essential core skill."
+          }
+        ],
+        "nice_to_have": [
+          "Microsoft Power BI",
+          "Bloomberg Terminal",
+          "Oracle Financials"
+        ]
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "Copilot in Excel (Microsoft 365 Copilot)",
+            "category": "AI-Powered",
+            "usage": "Task Acceleration",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Power BI Copilot",
+            "category": "AI-Powered",
+            "usage": "Task Acceleration",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "ChatGPT",
+            "category": "AI-Powered",
+            "usage": "Task Acceleration",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "55%",
+          "level": "High",
+          "tasks_assisted": "AI tools like Microsoft Copilot in Excel automate data aggregation, variance analysis and routine report generation. Power BI Copilot assists with dashboard creation and trend identification. ChatGPT and Claude support first-draft commentary writing and research synthesis.",
+          "human_value": "Financial analysts provide strategic interpretation of numbers within business context, engaging with stakeholders to align financial insights with organisational goals. They exercise judgement in assumption-setting for models, factor in qualitative industry dynamics, and build trust-based relationships with management and clients that AI cannot replicate."
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Attention to Detail",
+          "Data-Driven Decision Making",
+          "Communication Skills (Written and Verbal)"
+        ]
+      },
+      "tab5": {
+        "future_scope": "B.Com, BBA, MBA (Finance), or CA inter graduates are well-suited. Those who enjoy working with numbers, building structured models, and translating data into business narratives will thrive. The career path runs from junior analyst (Rs.3.5-5 lakh) to senior analyst (Rs.6-10 lakh) to FP&A manager (Rs.10-16 lakh), with senior leadership roles exceeding Rs.16-28 lakh. CFA and CMA qualifications accelerate progression in listed companies and MNC environments. Eligible programme levels: UG, PG, MBA.",
+        "target_audience": "Enterprise and Tech-forward companies.",
+        "growth_trajectory": "Expected to branch into more specialized architectural roles."
+      }
+    },
+    "secondary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 15%. You have 1 matching skills.",
+      "tab1": {
+        "role_name": "Credit Analyst",
+        "role_description": "A junior Credit Analyst at an Indian bank or NBFC spends their week analysing financial statements under Ind AS, computing key credit ratios such as DSCR, leverage, and current ratio, and preparing credit appraisal notes for loan proposals. Daily work involves spreading borrower financials in Excel, cross-checking data with SAP ERP or Oracle systems, and reviewing CMA data as per RBI guidelines. They draft sanction letter inputs, assess GST returns and ITR filings to verify income, and coordinate with relationship managers to gather due diligence documents on new and existing borrowers.",
+        "narrative_para1": "A junior Credit Analyst at an Indian bank or NBFC spends their week analysing financial statements under Ind AS, computing key credit ratios such as DSCR, leverage, and current ratio, and preparing credit appraisal notes for loan proposals. Daily work involves spreading borrower financials in Excel, cross-checking data with SAP ERP or Oracle systems, and reviewing CMA data as per RBI guidelines. They draft sanction letter inputs, assess GST returns and ITR filings to verify income, and coordinate with relationship managers to gather due diligence documents on new and existing borrowers.",
+        "narrative_para2": "With 45% AI exposure, this role is actively AI-Evolving. Copilot in Excel automates spreadsheet preparation and ratio computation. ChatGPT helps draft credit notes and summarise industry reports. However, qualitative judgment on promoter background, industry risks, and management quality that AI cannot reliably assess. Relationship-based lending decisions and final credit approval require human accountability. The tools currently reshaping this role include Copilot in Excel (Microsoft 365 Copilot) and ChatGPT — each handling repetitive analytical tasks while freeing professionals to focus on judgment, relationships, and strategic insight.",
+        "narrative_para3": "B.Com, MBA (Finance), or CA-qualified candidates are strong fits. Analytical curiosity, comfort with financial ratios, and the ability to assess business risk beyond the numbers are important traits. The path moves from junior analyst (Rs.3-5 lakh) to senior analyst (Rs.5.5-9 lakh) to credit manager (Rs.9-14 lakh), with senior credit officer roles reaching Rs.14-22 lakh. CFA, FRM, and CA qualifications significantly accelerate growth. Eligible programme levels: UG, PG, MBA.",
+        "typical_employers_india": "MNCs, Startups, IT Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "High Growth",
+        "salary_range": "₹3L - ₹7.5L",
+        "ai_impact": "With 45% AI exposure, this role is actively AI-Evolving. Copilot in Excel automates spreadsheet preparation and ratio computation. ChatGPT helps draft credit notes and summarise industry reports. However, qualitative judgment on promoter background, industry risks, and management quality that AI cannot reliably assess. Relationship-based lending decisions and final credit approval require human accountability. The tools currently reshaping this role include Copilot in Excel (Microsoft 365 Copilot) and ChatGPT — each handling repetitive analytical tasks while freeing professionals to focus on judgment, relationships, and strategic insight.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Credit Analyst",
+            "description": "Uses AI tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [
+          {
+            "skill": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+            "priority": "High",
+            "description": "Essential core skill."
+          },
+          {
+            "skill": "Core Banking System (CBS)",
+            "priority": "High",
+            "description": "Essential core skill."
+          }
+        ],
+        "nice_to_have": [
+          "Oracle Financials"
+        ]
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "Copilot in Excel (Microsoft 365 Copilot)",
+            "category": "AI-Powered",
+            "usage": "Task Acceleration",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "ChatGPT",
+            "category": "AI-Powered",
+            "usage": "Task Acceleration",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "45%",
+          "level": "Moderate",
+          "tasks_assisted": "AI tools assist in automating financial spreading and preliminary credit scoring using Copilot in Excel. ChatGPT supports first-draft credit commentary and industry background research. AI-driven credit scoring engines used by banks are proprietary and supplement analyst workflows.",
+          "human_value": "Credit analysts exercise independent judgement on borrower intent, management quality, and sector-specific risks that automated scoring models miss. They conduct site visits and management interviews to validate financial data. Final credit recommendations require human accountability in regulated banking environments."
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Attention to Detail",
+          "Decision Making Under Uncertainty",
+          "Ethical Conduct and Integrity"
+        ]
+      },
+      "tab5": {
+        "future_scope": "B.Com, MBA (Finance), or CA-qualified candidates are strong fits. Analytical curiosity, comfort with financial ratios, and the ability to assess business risk beyond the numbers are important traits. The path moves from junior analyst (Rs.3-5 lakh) to senior analyst (Rs.5.5-9 lakh) to credit manager (Rs.9-14 lakh), with senior credit officer roles reaching Rs.14-22 lakh. CFA, FRM, and CA qualifications significantly accelerate growth. Eligible programme levels: UG, PG, MBA.",
+        "target_audience": "Enterprise and Tech-forward companies.",
+        "growth_trajectory": "Expected to branch into more specialized architectural roles."
+      }
+    },
+    "tertiary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 11%. You have 1 matching skills.",
+      "tab1": {
+        "role_name": "Investment Analyst",
+        "role_description": "A junior Investment Analyst at an Indian asset management firm or investment bank spends their week building DCF and comparable company models in Excel, tracking portfolio performance against benchmark indices such as Nifty 50, and researching listed companies using Bloomberg Terminal and Capital IQ. Daily tasks include analysing quarterly earnings under Ind AS, tracking SEBI filings and regulatory disclosures, and updating sector trackers. They attend company earnings calls, draft investment summaries, and prepare slide decks for portfolio review meetings, working closely with senior fund managers and sector heads.",
+        "narrative_para1": "A junior Investment Analyst at an Indian asset management firm or investment bank spends their week building DCF and comparable company models in Excel, tracking portfolio performance against benchmark indices such as Nifty 50, and researching listed companies using Bloomberg Terminal and Capital IQ. Daily tasks include analysing quarterly earnings under Ind AS, tracking SEBI filings and regulatory disclosures, and updating sector trackers. They attend company earnings calls, draft investment summaries, and prepare slide decks for portfolio review meetings, working closely with senior fund managers and sector heads.",
+        "narrative_para2": "With 52% AI exposure, this role is actively AI-Evolving. Perplexity AI accelerates secondary research and competitor analysis. Copilot in Excel automates model updates, scenario toggles, and chart generation. ChatGPT assists in drafting investment memos and summarising earnings call transcripts. However, original thesis development by synthesising insights from management meetings, industry visits, and expert calls that AI cannot replicate. Conviction-based decision making and portfolio manager communication require human expertise. The tools currently reshaping this role include Perplexity AI, ChatGPT, and Copilot in Excel (Microsoft 365 Copilot) — each handling repetitive analytical tasks while freeing professionals to focus on judgment, relationships, and strategic insight.",
+        "narrative_para3": "MBA (Finance), CFA Level 1 or 2 holders, and CA graduates are well positioned. Intellectual curiosity about businesses, markets, and macroeconomics is essential. Starting salaries of Rs.4-6 lakh grow to Rs.8-12 lakh at 2-3 years, Rs.12-20 lakh at mid-level, and Rs.20-40 lakh for senior roles in top AMCs or PE funds. CFA charterholder status is highly valued. Eligible programme levels: UG, PG, MBA.",
+        "typical_employers_india": "MNCs, Startups, IT Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "High Growth",
+        "salary_range": "₹4L - ₹10L",
+        "ai_impact": "With 52% AI exposure, this role is actively AI-Evolving. Perplexity AI accelerates secondary research and competitor analysis. Copilot in Excel automates model updates, scenario toggles, and chart generation. ChatGPT assists in drafting investment memos and summarising earnings call transcripts. However, original thesis development by synthesising insights from management meetings, industry visits, and expert calls that AI cannot replicate. Conviction-based decision making and portfolio manager communication require human expertise. The tools currently reshaping this role include Perplexity AI, ChatGPT, and Copilot in Excel (Microsoft 365 Copilot) — each handling repetitive analytical tasks while freeing professionals to focus on judgment, relationships, and strategic insight.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Investment Analyst",
+            "description": "Uses AI tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [
+          {
+            "skill": "Bloomberg Terminal",
+            "priority": "High",
+            "description": "Essential core skill."
+          },
+          {
+            "skill": "LSEG Workspace (formerly Reuters Eikon)",
+            "priority": "High",
+            "description": "Essential core skill."
+          },
+          {
+            "skill": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+            "priority": "High",
+            "description": "Essential core skill."
+          }
+        ],
+        "nice_to_have": [
+          "Microsoft Power BI"
+        ]
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "Copilot in Excel (Microsoft 365 Copilot)",
+            "category": "AI-Powered",
+            "usage": "Task Acceleration",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Perplexity AI",
+            "category": "AI-Powered",
+            "usage": "Task Acceleration",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "ChatGPT",
+            "category": "AI-Powered",
+            "usage": "Task Acceleration",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "55%",
+          "level": "High",
+          "tasks_assisted": "Perplexity AI and ChatGPT accelerate primary research, news synthesis, and sector overview preparation. Copilot in Excel automates financial spreading from annual reports and updates model inputs rapidly. AI tools increasingly screen and rank investment opportunities based on quantitative criteria.",
+          "human_value": "Investment analysts form conviction on qualitative factors such as management credibility, competitive moats, and geopolitical risks that AI cannot fully assess. They engage with management teams, attend AGMs, and develop proprietary investment theses. Portfolio construction involves nuanced risk-return judgements aligned to fund mandates."
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Curiosity and Research Mindset",
+          "Data-Driven Decision Making",
+          "Presentation Skills"
+        ]
+      },
+      "tab5": {
+        "future_scope": "MBA (Finance), CFA Level 1 or 2 holders, and CA graduates are well positioned. Intellectual curiosity about businesses, markets, and macroeconomics is essential. Starting salaries of Rs.4-6 lakh grow to Rs.8-12 lakh at 2-3 years, Rs.12-20 lakh at mid-level, and Rs.20-40 lakh for senior roles in top AMCs or PE funds. CFA charterholder status is highly valued. Eligible programme levels: UG, PG, MBA.",
+        "target_audience": "Enterprise and Tech-forward companies.",
+        "growth_trajectory": "Expected to branch into more specialized architectural roles."
+      }
+    },
+    "ml_success_probability": 0.34,
+    "ml_semantic_skills": [
+      "Data Analysis"
+    ],
+    "combined_tab4": {
+      "combined_pathway_summary": "Your immediate focus must be learning the missing fundamentals for Financial Analyst. Role success probability: 34%",
+      "skill_gap": {
+        "current_skills": [
+          "Excel",
+          "SAP"
+        ],
+        "missing_skills": [
+          "Microsoft Power BI",
+          "Bloomberg Terminal",
+          "Oracle Financials"
+        ]
+      },
+      "learning_roadmap": [
+        {
+          "step": "Step 1 - Foundation Skills",
+          "description": "Master prerequisites and theoretical fundamentals."
+        },
+        {
+          "step": "Step 2 - Core Technical Skills",
+          "description": "Learn Microsoft Power BI."
+        },
+        {
+          "step": "Step 3 - Advanced Applications",
+          "description": "Apply skills in complex scenarios."
+        },
+        {
+          "step": "Step 4 - Projects & Portfolio",
+          "description": "Deploy market-ready portfolios demonstrating these skills."
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Certified Financial Analyst Professional",
+          "issuer": "Industry Standard Provider",
+          "difficulty": "Intermediate",
+          "duration": "3 months"
+        }
+      ],
+      "free_courses": [
+        {
+          "course_name": "Financial Analyst Crash Course",
+          "platform": "YouTube / Coursera",
+          "link_status": "Free"
+        }
+      ],
+      "projects": [
+        {
+          "project_name": "Financial Analyst Capstone",
+          "description": "A complete end-to-end implementation.",
+          "skills_demonstrated": "Microsoft Power BI, Bloomberg Terminal, Oracle Financials"
+        }
+      ]
+    }
+  },
+  "profile_hash": "dfd8593082e8e3a6d6b88846760006cf2c6514209af1f06c27f64614c130b0b9",
+  "created_at": "2026-03-27T10:41:15.104Z"
+}

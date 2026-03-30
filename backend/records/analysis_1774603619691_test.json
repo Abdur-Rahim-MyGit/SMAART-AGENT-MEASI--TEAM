@@ -1,0 +1,321 @@
+{
+  "timestamp": "2026-03-27T09:26:59.691Z",
+  "status": "completed",
+  "input_user_data": {
+    "personalDetails": {
+      "name": "test",
+      "email": "test@test.com"
+    },
+    "skills": [
+      "python"
+    ],
+    "preferences": {
+      "primary": {
+        "role": "Software Developer"
+      }
+    }
+  },
+  "output_generated_report": {
+    "status": "success_ml_assisted",
+    "generated_at": "2026-03-27T09:26:59.731Z",
+    "preVerified": {
+      "dataFilesReady": true,
+      "primaryZone": {
+        "employer_zone": "Red",
+        "skill_coverage_pct": 20
+      },
+      "secondaryZone": {
+        "employer_zone": "Red"
+      },
+      "tertiaryZone": {
+        "employer_zone": "Red"
+      },
+      "primaryMarket": {
+        "demand_level": "High",
+        "salary_min_lpa": 4,
+        "salary_max_lpa": 15,
+        "ai_automation_risk": "Medium",
+        "emerging_roles": [
+          "AI/ML Developer",
+          "Full Stack Developer",
+          "Mobile App Developer"
+        ]
+      },
+      "primarySkillGap": {
+        "missing": [
+          "Java",
+          "Git",
+          "REST API Development",
+          "SQL"
+        ],
+        "matched": [
+          "Python"
+        ],
+        "coveragePct": 20,
+        "dataReady": true,
+        "source": "local"
+      }
+    },
+    "primary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 9%. You have 1 matching skills.",
+      "tab1": {
+        "role_name": "Software Developer",
+        "role_description": "A junior Software Developer at an Indian tech company or product startup spends their week writing and reviewing code in Python, Java, or JavaScript, fixing bugs raised on Jira, and attending daily standups in an Agile sprint. Daily tasks include building REST APIs, writing unit tests, peer reviewing pull requests on GitHub, and deploying code through Jenkins or GitHub Actions CI/CD pipelines. They work within version control workflows, follow coding standards, and coordinate with QA engineers before releases. In Indian service companies, they may work on client-facing modules requiring VAPT compliance; in product startups, they work directly on the core product codebase with faster iteration cycles.",
+        "typical_employers_india": "MNCs, Startups, IT Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "High Growth",
+        "salary_range": "₹3.5L - ₹9L",
+        "ai_impact": "With 55% AI exposure, this role is actively AI-Evolving. GitHub Copilot and Tabnine assist with code completion, boilerplate generation, and unit test scaffolding, covering a significant portion of routine coding tasks. ChatGPT and Claude are used for debugging assistance, code explanation, and generating first-draft implementations. AI accelerates repetitive development tasks but requires human review for correctness, security, and architectural fit. However, software developers make architectural decisions, define abstractions, and design systems that meet complex, evolving business requirements. They debug intricate production issues involving concurrency, distributed systems, or data corruption where AI lacks sufficient context. Code review, mentoring junior developers, and aligning technical solutions to product goals demand human communication and accountability. The tools currently reshaping this role include GitHub Copilot, ChatGPT, and Tabnine — each accelerating routine work while leaving the most complex, context-dependent decisions firmly in human hands.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Software Developer",
+            "description": "Uses AI tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [
+          {
+            "skill": "Python",
+            "priority": "High",
+            "description": "Essential core skill."
+          },
+          {
+            "skill": "Java",
+            "priority": "High",
+            "description": "Essential core skill."
+          },
+          {
+            "skill": "Git",
+            "priority": "High",
+            "description": "Essential core skill."
+          },
+          {
+            "skill": "REST API Development",
+            "priority": "High",
+            "description": "Essential core skill."
+          }
+        ],
+        "nice_to_have": [
+          "SQL"
+        ]
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "GitHub Copilot",
+            "category": "AI-Powered",
+            "usage": "Task Acceleration",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "ChatGPT",
+            "category": "AI-Powered",
+            "usage": "Task Acceleration",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Tabnine",
+            "category": "AI-Powered",
+            "usage": "Task Acceleration",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "55%",
+          "level": "High",
+          "tasks_assisted": "GitHub Copilot and Tabnine assist with code completion, boilerplate generation, and unit test scaffolding, covering a significant portion of routine coding tasks. ChatGPT and Claude are used for debugging assistance, code explanation, and generating first-draft implementations. AI accelerates repetitive development tasks but requires human review for correctness, security, and architectural fit.",
+          "human_value": "Software developers make architectural decisions, define abstractions, and design systems that meet complex, evolving business requirements — tasks requiring contextual judgement and experience. They debug intricate production issues involving concurrency, distributed systems, or data corruption where AI lacks sufficient context. Code review, mentoring junior developers, and aligning technical solutions to product goals demand human communication and accountability."
+        },
+        "human_skills": [
+          "Problem Solving",
+          "Analytical Thinking",
+          "Communication Skills (Technical)",
+          "Continuous Learning and Technical Development"
+        ]
+      },
+      "tab5": {
+        "future_scope": "B.Tech, B.Sc (CS), MCA, or M.Tech graduates are the core fit. Those with strong problem-solving instincts, comfort with reading documentation, and the ability to break complex requirements into working code will thrive. Starting salaries of Rs.3.5-6 lakh grow to Rs.7-12 lakh at 2-3 years, Rs.12-20 lakh at senior developer level, and Rs.20-40 lakh for tech leads and architects. DSA (Data Structures and Algorithms) proficiency is the most critical hiring filter. Open source contributions and strong GitHub profiles accelerate progression. Eligible programme levels: UG, PG.",
+        "target_audience": "Enterprise and Tech-forward companies.",
+        "growth_trajectory": "Expected to branch into more specialized architectural roles."
+      }
+    },
+    "secondary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 0%. You have 0 matching skills.",
+      "tab1": {
+        "role_name": "Secondary Role",
+        "role_description": "Responsible for core operations within the Secondary Role domain.",
+        "typical_employers_india": "MNCs, Startups, IT Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "High Growth",
+        "salary_range": "3-8 LPA",
+        "ai_impact": "AI systems are augmenting Secondary Role roles significantly.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Secondary Role",
+            "description": "Uses AI tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [
+          {
+            "skill": "Domain Knowledge",
+            "priority": "High",
+            "description": "Essential core skill."
+          }
+        ],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "ChatGPT",
+            "category": "AI-Powered",
+            "usage": "General Assistance",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "40%",
+          "level": "Moderate",
+          "tasks_assisted": "Repetitive drafting/coding",
+          "human_value": "Strategy & Review"
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Communication",
+          "Problem Solving"
+        ]
+      },
+      "tab5": {
+        "future_scope": "Secondary Role is evolving rapidly with AI integration.",
+        "target_audience": "Enterprise and Tech-forward companies.",
+        "growth_trajectory": "Expected to branch into more specialized architectural roles."
+      }
+    },
+    "tertiary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 0%. You have 0 matching skills.",
+      "tab1": {
+        "role_name": "Tertiary Role",
+        "role_description": "Responsible for core operations within the Tertiary Role domain.",
+        "typical_employers_india": "MNCs, Startups, IT Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "High Growth",
+        "salary_range": "3-8 LPA",
+        "ai_impact": "AI systems are augmenting Tertiary Role roles significantly.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Tertiary Role",
+            "description": "Uses AI tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [
+          {
+            "skill": "Domain Knowledge",
+            "priority": "High",
+            "description": "Essential core skill."
+          }
+        ],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "ChatGPT",
+            "category": "AI-Powered",
+            "usage": "General Assistance",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "40%",
+          "level": "Moderate",
+          "tasks_assisted": "Repetitive drafting/coding",
+          "human_value": "Strategy & Review"
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Communication",
+          "Problem Solving"
+        ]
+      },
+      "tab5": {
+        "future_scope": "Tertiary Role is evolving rapidly with AI integration.",
+        "target_audience": "Enterprise and Tech-forward companies.",
+        "growth_trajectory": "Expected to branch into more specialized architectural roles."
+      }
+    },
+    "ml_success_probability": 0.38,
+    "ml_semantic_skills": [
+      "Python"
+    ],
+    "combined_tab4": {
+      "combined_pathway_summary": "Your immediate focus must be learning the missing fundamentals for Software Developer. Role success probability: 38%",
+      "skill_gap": {
+        "current_skills": [
+          "python"
+        ],
+        "missing_skills": [
+          "Java",
+          "Git",
+          "REST API Development",
+          "SQL"
+        ]
+      },
+      "learning_roadmap": [
+        {
+          "step": "Step 1 - Foundation Skills",
+          "description": "Master prerequisites and theoretical fundamentals."
+        },
+        {
+          "step": "Step 2 - Core Technical Skills",
+          "description": "Learn Java."
+        },
+        {
+          "step": "Step 3 - Advanced Applications",
+          "description": "Apply skills in complex scenarios."
+        },
+        {
+          "step": "Step 4 - Projects & Portfolio",
+          "description": "Deploy market-ready portfolios demonstrating these skills."
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Certified Software Developer Professional",
+          "issuer": "Industry Standard Provider",
+          "difficulty": "Intermediate",
+          "duration": "3 months"
+        }
+      ],
+      "free_courses": [
+        {
+          "course_name": "Software Developer Crash Course",
+          "platform": "YouTube / Coursera",
+          "link_status": "Free"
+        }
+      ],
+      "projects": [
+        {
+          "project_name": "Software Developer Capstone",
+          "description": "A complete end-to-end implementation.",
+          "skills_demonstrated": "Java, Git, REST API Development"
+        }
+      ]
+    }
+  },
+  "profile_hash": "b97027177c77fd49dd3876a18aee3345f53b169a42f407ee1e670962c48ed9d9",
+  "created_at": "2026-03-27T09:27:00.108Z"
+}

@@ -1,0 +1,469 @@
+{
+  "timestamp": "2026-03-27T12:13:50.692Z",
+  "status": "completed",
+  "input_user_data": {
+    "personalDetails": {
+      "name": "Vikram Patel",
+      "email": "vikram.patel3444@example.com",
+      "phone": "9877502028",
+      "location": "Hyderabad, India"
+    },
+    "education": [
+      {
+        "level": "Undergraduate (UG)",
+        "domain": "Arts & Humanities",
+        "degreeGroup": "Bachelor of Arts",
+        "specialisation": [
+          "Quantum Computing"
+        ],
+        "university": "",
+        "graduationYear": "",
+        "currentlyPursuing": false
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "status": "Verified",
+        "cert": {
+          "issuer": "Google",
+          "year": "2023",
+          "url": ""
+        }
+      },
+      {
+        "name": "Full Stack Web Development with React, Node.js, and Cloud Infrastructure Deployment Management",
+        "status": "Verified",
+        "cert": {
+          "issuer": "",
+          "year": "",
+          "url": ""
+        }
+      }
+    ],
+    "experience": [],
+    "preferences": {
+      "primary": {
+        "sectors": [
+          "Information Technology"
+        ],
+        "sector": "Information Technology",
+        "family": "Software Development",
+        "role": "Data Scientist",
+        "type": "Full-Time",
+        "salary": "12–18 LPA",
+        "locations": [
+          "Bangalore"
+        ],
+        "location": "Bangalore",
+        "orgTypes": [
+          "Multinational Corporation (MNC)"
+        ]
+      },
+      "secondary": {
+        "sectors": [],
+        "sector": "",
+        "family": "",
+        "role": "Data Product Manager",
+        "type": "Full-Time",
+        "salary": "",
+        "locations": [],
+        "location": "",
+        "orgTypes": []
+      },
+      "tertiary": {
+        "sectors": [],
+        "sector": "",
+        "family": "",
+        "role": "UX Designer",
+        "type": "Full-Time",
+        "salary": "8–12 LPA",
+        "locations": [],
+        "location": "",
+        "orgTypes": []
+      }
+    }
+  },
+  "output_generated_report": {
+    "status": "success_ml_assisted",
+    "generated_at": "2026-03-27T12:13:51.118Z",
+    "preVerified": {
+      "dataFilesReady": true,
+      "primaryZone": {
+        "employer_zone": "Red",
+        "skill_coverage_pct": 5
+      },
+      "secondaryZone": {
+        "employer_zone": "Red",
+        "skill_coverage_pct": 5
+      },
+      "tertiaryZone": {
+        "employer_zone": "Green",
+        "skill_coverage_pct": 68
+      },
+      "primaryMarket": {
+        "demand_level": "High",
+        "salary_min_lpa": 7,
+        "salary_max_lpa": 25,
+        "ai_automation_risk": "High",
+        "emerging_roles": [
+          "AI Engineer",
+          "Machine Learning Specialist",
+          "Business Intelligence Developer"
+        ]
+      },
+      "primarySkillGap": {
+        "missing": [
+          "Machine Learning Algorithms",
+          "SQL",
+          "Statistical Analysis and A/B Testing",
+          "Data Visualization (Matplotlib, Seaborn — free tools)",
+          "Deep Learning (PyTorch / TensorFlow)",
+          "LLM Integration for Data Science Workflows"
+        ],
+        "matched": [
+          "Python (Scikit-learn, Pandas, NumPy)"
+        ],
+        "coveragePct": 14,
+        "dataReady": true,
+        "source": "local"
+      }
+    },
+    "primary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 6%. You have 1 matching skills.",
+      "tab1": {
+        "role_name": "Data Scientist",
+        "job_family": "",
+        "role_description": "Responsible for core operations within the Data Scientist domain.",
+        "narrative_para1": "Responsible for core operations within the Data Scientist domain.",
+        "narrative_para2": "AI systems are augmenting Data Scientist roles significantly.",
+        "narrative_para3": "Data Scientist professionals are entering a high-growth phase. Those with AI tool proficiency and cross-functional skills will thrive. Eligible programme levels: UG, PG.",
+        "typical_employers_india": "MNCs, Startups, Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "Stable with AI Augmentation",
+        "salary_range": "3-8 LPA",
+        "salary_progression": null,
+        "english_requirement": "Important",
+        "remote_friendly": "Office-Based",
+        "emerging_role_flag": false,
+        "programme_levels": "",
+        "ai_exposure_pct": 40,
+        "ai_impact": "AI tools are reshaping Data Scientist roles. 40% of routine tasks are now AI-assisted.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Data Scientist",
+            "description": "Uses AI productivity tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "Google Colab (free)",
+            "category": "AI-Powered",
+            "usage": "Interactive data analysis and model prototyping",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Kaggle Notebooks (free)",
+            "category": "AI-Powered",
+            "usage": "Data science competitions and public notebooks",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "MLflow (free open-source)",
+            "category": "AI-Powered",
+            "usage": "ML experiment tracking and model management",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "GitHub Copilot (free for students) for data science notebooks",
+            "category": "AI-Powered",
+            "usage": "AI-assisted Python and notebook coding",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "40%",
+          "level": "Medium",
+          "tasks_assisted": "Repetitive and structured tasks",
+          "human_value": "Strategic judgment, stakeholder communication, creative problem-solving"
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Communication",
+          "Problem Solving",
+          "Continuous Learning"
+        ]
+      },
+      "tab5": {
+        "future_scope": "Data Scientist is evolving with AI integration across the industry.",
+        "target_audience": "UG/PG graduates with interest in Data Scientist.",
+        "growth_trajectory": "Steady upward growth trajectory with specialisation."
+      }
+    },
+    "secondary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 0%. You have 0 matching skills.",
+      "tab1": {
+        "role_name": "Data Product Manager",
+        "job_family": "",
+        "role_description": "Responsible for core operations within the Data Product Manager domain.",
+        "narrative_para1": "Responsible for core operations within the Data Product Manager domain.",
+        "narrative_para2": "AI systems are augmenting Data Product Manager roles significantly.",
+        "narrative_para3": "Data Product Manager professionals are entering a high-growth phase. Those with AI tool proficiency and cross-functional skills will thrive. Eligible programme levels: UG, PG.",
+        "typical_employers_india": "MNCs, Startups, Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "Stable with AI Augmentation",
+        "salary_range": "3-8 LPA",
+        "salary_progression": null,
+        "english_requirement": "Important",
+        "remote_friendly": "Office-Based",
+        "emerging_role_flag": false,
+        "programme_levels": "",
+        "ai_exposure_pct": 40,
+        "ai_impact": "AI tools are reshaping Data Product Manager roles. 40% of routine tasks are now AI-assisted.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced Data Product Manager",
+            "description": "Uses AI productivity tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "PostHog (free open-source product analytics)",
+            "category": "AI-Powered",
+            "usage": "Product analytics and data exploration",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Metabase (free open-source BI)",
+            "category": "AI-Powered",
+            "usage": "Self-service data exploration for product teams",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Atlan (free trial) / OpenMetadata (free open-source)",
+            "category": "AI-Powered",
+            "usage": "AI-assisted data product and catalog management",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "40%",
+          "level": "Medium",
+          "tasks_assisted": "Repetitive and structured tasks",
+          "human_value": "Strategic judgment, stakeholder communication, creative problem-solving"
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Communication",
+          "Problem Solving",
+          "Continuous Learning"
+        ]
+      },
+      "tab5": {
+        "future_scope": "Data Product Manager is evolving with AI integration across the industry.",
+        "target_audience": "UG/PG graduates with interest in Data Product Manager.",
+        "growth_trajectory": "Steady upward growth trajectory with specialisation."
+      }
+    },
+    "tertiary": {
+      "zone": "Red",
+      "zone_message": "This role usually requires a different background. Extra preparation required.",
+      "preparation_time": "6+ months",
+      "match_explanation": "Your alignment score is 0%. You have 0 matching skills.",
+      "tab1": {
+        "role_name": "UX Designer",
+        "job_family": "",
+        "role_description": "Responsible for core operations within the UX Designer domain.",
+        "narrative_para1": "Responsible for core operations within the UX Designer domain.",
+        "narrative_para2": "AI systems are augmenting UX Designer roles significantly.",
+        "narrative_para3": "UX Designer professionals are entering a high-growth phase. Those with AI tool proficiency and cross-functional skills will thrive. Eligible programme levels: UG, PG.",
+        "typical_employers_india": "MNCs, Startups, Consultancies",
+        "common_entry_paths": "Campus Placements, Internships",
+        "job_demand": "Stable with AI Augmentation",
+        "salary_range": "3-8 LPA",
+        "salary_progression": null,
+        "english_requirement": "Important",
+        "remote_friendly": "Office-Based",
+        "emerging_role_flag": false,
+        "programme_levels": "",
+        "ai_exposure_pct": 40,
+        "ai_impact": "AI tools are reshaping UX Designer roles. 40% of routine tasks are now AI-assisted.",
+        "emerging_roles": [
+          {
+            "name": "AI-Enhanced UX Designer",
+            "description": "Uses AI productivity tools daily."
+          }
+        ]
+      },
+      "tab2": {
+        "must_have": [],
+        "nice_to_have": []
+      },
+      "tab3": {
+        "ai_tools": [
+          {
+            "name": "Figma (free student tier)",
+            "category": "AI-Powered",
+            "usage": "UX wireframing, user flow design, and prototyping",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Maze (free tier)",
+            "category": "AI-Powered",
+            "usage": "Usability testing and prototype validation",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Figma AI (free tier)",
+            "category": "AI-Powered",
+            "usage": "AI-assisted wireframe generation and design suggestions",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "ChatGPT (free tier)",
+            "category": "AI-Powered",
+            "usage": "User research synthesis, persona creation, user journey mapping assistance",
+            "adoption_level": "Growing"
+          },
+          {
+            "name": "Dovetail (free trial)",
+            "category": "AI-Powered",
+            "usage": "AI-assisted user research tagging and insight synthesis",
+            "adoption_level": "Growing"
+          }
+        ],
+        "ai_exposure": {
+          "percentage": "40%",
+          "level": "Medium",
+          "tasks_assisted": "Repetitive and structured tasks",
+          "human_value": "Strategic judgment, stakeholder communication, creative problem-solving"
+        },
+        "human_skills": [
+          "Analytical Thinking",
+          "Communication",
+          "Problem Solving",
+          "Continuous Learning"
+        ]
+      },
+      "tab5": {
+        "future_scope": "UX Designer is evolving with AI integration across the industry.",
+        "target_audience": "UG/PG graduates with interest in UX Designer.",
+        "growth_trajectory": "Steady upward growth trajectory with specialisation."
+      }
+    },
+    "ml_success_probability": null,
+    "ml_semantic_skills": [
+      {
+        "name": "Python",
+        "status": "Verified",
+        "cert": {
+          "issuer": "Google",
+          "year": "2023",
+          "url": ""
+        }
+      },
+      {
+        "name": "Full Stack Web Development with React, Node.js, and Cloud Infrastructure Deployment Management",
+        "status": "Verified",
+        "cert": {
+          "issuer": "",
+          "year": "",
+          "url": ""
+        }
+      }
+    ],
+    "combined_tab4": {
+      "combined_pathway_summary": "Your immediate focus must be learning the missing fundamentals for Data Scientist. Role success probability: Calculating",
+      "skill_gap": {
+        "current_skills": [
+          {
+            "name": "Python",
+            "status": "Verified",
+            "cert": {
+              "issuer": "Google",
+              "year": "2023",
+              "url": ""
+            }
+          },
+          {
+            "name": "Full Stack Web Development with React, Node.js, and Cloud Infrastructure Deployment Management",
+            "status": "Verified",
+            "cert": {
+              "issuer": "",
+              "year": "",
+              "url": ""
+            }
+          }
+        ],
+        "missing_skills": [
+          "Machine Learning Algorithms",
+          "SQL",
+          "Statistical Analysis and A/B Testing",
+          "Data Visualization (Matplotlib, Seaborn — free tools)",
+          "Deep Learning (PyTorch / TensorFlow)",
+          "LLM Integration for Data Science Workflows"
+        ]
+      },
+      "learning_roadmap": [
+        {
+          "step": "Step 1 - Foundation Skills",
+          "description": "Master prerequisites and theoretical fundamentals."
+        },
+        {
+          "step": "Step 2 - Core Technical Skills",
+          "description": "Learn Machine Learning Algorithms."
+        },
+        {
+          "step": "Step 3 - Advanced Applications",
+          "description": "Apply skills in complex scenarios."
+        },
+        {
+          "step": "Step 4 - Projects & Portfolio",
+          "description": "Deploy market-ready portfolios demonstrating these skills."
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Certified Data Scientist Professional",
+          "issuer": "Industry Standard Provider",
+          "difficulty": "Intermediate",
+          "duration": "3 months"
+        }
+      ],
+      "free_courses": [
+        {
+          "course_name": "Data Scientist Crash Course",
+          "platform": "YouTube / Coursera",
+          "link_status": "Free"
+        }
+      ],
+      "projects": [
+        {
+          "project_name": "Data Scientist Capstone",
+          "description": "A complete end-to-end implementation.",
+          "skills_demonstrated": "Machine Learning Algorithms, SQL, Statistical Analysis and A/B Testing"
+        }
+      ]
+    }
+  },
+  "profile_hash": "55a3970b464725b3c31702d5402929f19084fe9b47d3748fd78f31ae341ed271",
+  "created_at": "2026-03-27T12:13:52.337Z"
+}

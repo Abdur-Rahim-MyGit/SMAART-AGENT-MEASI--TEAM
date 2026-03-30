@@ -1,0 +1,1719 @@
+[
+  {
+    "role_name": "Digital Marketing Executive",
+    "job_family": "Sales, Marketing, Media and Advertising",
+    "domain_skills": [
+      {
+        "skill_name": "Digital Marketing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Search Engine Optimisation (SEO)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Performance Marketing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Social Media Marketing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Marketing Analytics",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Conversion Rate Optimisation (CRO)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Digital Marketing Strategy",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Integrated Digital Campaign Management",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Google Analytics 4 (GA4)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Google Ads",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Meta Ads Manager",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Jasper AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Data-Driven Decision Making",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Creativity and Innovation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 65,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "ChatGPT and Jasper AI automate first-draft content creation, ad copy variations, email subject line testing, and campaign brief writing. Perplexity AI accelerates competitor research, trend spotting, and audience insight gathering. AI-powered tools within Google Ads and Meta Ads Manager automate bidding, audience targeting, and ad creative optimisation.",
+    "human_value_tasks": "Digital marketing executives develop brand voice, judge creative quality, and ensure campaign messaging resonates authentically with Indian audiences — aesthetic and cultural judgements AI cannot make reliably. They build relationships with platform account managers, negotiate media deals, and adapt strategies in real time to competitive shifts and algorithm changes. Accountability for campaign ROI and brand reputation decisions requires human ownership.",
+    "salary_range_low": 300000,
+    "salary_range_high": 750000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh",
+      "year_2_3": "6-10 lakh",
+      "year_4_5": "10-17 lakh",
+      "year_6_plus": "17-32 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Social Media Manager",
+    "job_family": "Sales, Marketing, Media and Advertising",
+    "domain_skills": [
+      {
+        "skill_name": "Community Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Social Media Analytics",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Instagram Marketing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Video Marketing (YouTube, Reels, Shorts)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Social Media Strategy and Platform Roadmap",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Social Media Crisis Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Social Media Marketing",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Hootsuite",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Sprout Social",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Canva",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Meta Ads Manager",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Canva AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Lumen5",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Creativity and Innovation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Adaptability and Learning Agility",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 65,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "ChatGPT and Canva AI automate caption writing, hashtag research, content ideation, and graphic generation for routine posts, covering a large share of daily output. Lumen5 converts blog posts and articles into social video content automatically. AI scheduling tools within Hootsuite and Sprout Social optimise posting times and suggest content formats based on engagement data.",
+    "human_value_tasks": "Social media managers develop brand personality and authentic community relationships that require human empathy, cultural awareness, and real-time contextual judgement — especially critical in India's diverse linguistic and cultural landscape. They navigate sensitive topics, brand crises, and trending conversations that require immediate human decision-making. Building genuine audience communities and managing influencer relationships demands interpersonal skills AI cannot replicate.",
+    "salary_range_low": 300000,
+    "salary_range_high": 750000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh",
+      "year_2_3": "5.5-9 lakh",
+      "year_4_5": "9-16 lakh",
+      "year_6_plus": "16-30 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Content Strategist",
+    "job_family": "Sales, Marketing, Media and Advertising",
+    "domain_skills": [
+      {
+        "skill_name": "Marketing Analytics",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Audience Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Content Strategy and Architecture",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Content Audit and Gap Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Brand Voice and Tone Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Content Marketing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Editorial Planning",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Google Analytics 4 (GA4)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Semrush",
+        "importance": "High"
+      },
+      {
+        "skill_name": "BuzzSumo",
+        "importance": "High"
+      },
+      {
+        "skill_name": "WordPress",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Jasper AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "High"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Creativity and Innovation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Storytelling with Data",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 70,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "ChatGPT and Jasper AI generate first-draft blog posts, social content, email sequences, and landing page copy at high speed, transforming content production volume. Perplexity AI accelerates research, competitive content analysis, and keyword opportunity identification. AI tools within Semrush assist with content gap analysis and pillar-cluster topic mapping.",
+    "human_value_tasks": "Content strategists develop the brand narrative, editorial philosophy, and content differentiation that makes a brand's voice distinctive and trustworthy — creative direction AI cannot independently provide. They commission and quality-edit expert contributors, ensuring factual accuracy, cultural relevance, and editorial standards that build audience trust over time. Strategic content decisions linking content investment to pipeline and revenue require business judgement beyond AI capability.",
+    "salary_range_low": 350000,
+    "salary_range_high": 900000,
+    "salary_progression": {
+      "year_0_1": "3.5-6 lakh",
+      "year_2_3": "7-12 lakh",
+      "year_4_5": "12-20 lakh",
+      "year_6_plus": "20-38 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Commonly Remote",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "SEO/SEM Specialist",
+    "job_family": "Sales, Marketing, Media and Advertising",
+    "domain_skills": [
+      {
+        "skill_name": "Off-Page SEO and Link Building",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Conversion Rate Optimisation (CRO)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Keyword Research and Search Intent Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "PPC Campaign Optimisation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Search Engine Optimisation (SEO)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Search Engine Marketing (SEM)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Google Ads",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Google Search Console",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Semrush",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ahrefs",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Screaming Frog SEO Spider",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Data-Driven Decision Making",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Curiosity and Research Mindset",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 60,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "ChatGPT and Perplexity AI accelerate keyword research, meta description writing, content brief creation, and competitor backlink analysis. AI features within Semrush and Ahrefs provide automated site audit recommendations and content gap insights. Google's AI-powered Smart Bidding and Performance Max campaigns automate significant portions of SEM execution.",
+    "human_value_tasks": "SEO/SEM specialists develop link-building relationships with publishers and industry websites that require human outreach, credibility, and networking. They interpret algorithmic signals, diagnose ranking drops, and develop holistic SEO strategies that consider domain authority, competitive dynamics, and Indian search behaviour patterns. Paid search strategy decisions involving budget allocation, campaign architecture, and bid strategy require contextual business judgement.",
+    "salary_range_low": 300000,
+    "salary_range_high": 800000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh",
+      "year_2_3": "6-11 lakh",
+      "year_4_5": "11-18 lakh",
+      "year_6_plus": "18-35 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Commonly Remote",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Brand Executive",
+    "job_family": "Sales, Marketing, Media and Advertising",
+    "domain_skills": [
+      {
+        "skill_name": "Brand Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Brand Identity Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Brand Strategy",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Brand Guidelines and Style Guides",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Brand Tracking and Equity Research",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Integrated Marketing Communications (IMC)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Brand Positioning and Messaging Framework",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Brand Equity Measurement and Tracking",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Canva",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Adobe Creative Cloud Collaboration",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Hootsuite",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Midjourney",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Canva AI",
+        "importance": "High"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Creativity and Innovation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Presentation Skills",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "Midjourney and Canva AI generate brand visual concepts, moodboards, and campaign asset variants at scale. ChatGPT drafts brand messaging frameworks, tagline options, and brand story narratives. AI tools are increasingly used in brand health tracking to analyse social sentiment and competitive positioning at scale.",
+    "human_value_tasks": "Brand executives develop the emotional and cultural positioning that makes a brand meaningful to Indian consumers — creative and cultural insight that requires human empathy, taste, and market immersion. They manage agency relationships, provide creative direction, and ensure brand consistency across diverse touchpoints and regional markets. Brand crisis decisions affecting long-term reputation require human accountability and judgement.",
+    "salary_range_low": 300000,
+    "salary_range_high": 750000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh",
+      "year_2_3": "6-10 lakh",
+      "year_4_5": "10-17 lakh",
+      "year_6_plus": "17-32 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Market Research Analyst",
+    "job_family": "Sales, Marketing, Media and Advertising",
+    "domain_skills": [
+      {
+        "skill_name": "Market Research",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Qualitative Research Methods",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Quantitative Research Methods",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Consumer Behaviour Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Survey Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Competitive Intelligence",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Consumer Insight Generation and Synthesis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Market Segmentation and Persona Development",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Google Analytics 4 (GA4)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "SimilarWeb",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Critical Thinking",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "ChatGPT and Perplexity AI dramatically accelerate secondary research, literature synthesis, and competitive benchmarking. Copilot in Excel automates survey data cleaning, cross-tabulation, and preliminary statistical analysis. AI sentiment analysis tools process large volumes of social listening and online review data to identify consumer trends rapidly.",
+    "human_value_tasks": "Market research analysts design research instruments with nuanced understanding of Indian consumer behaviour, language preferences, and socioeconomic contexts that AI cannot fully appreciate. They conduct in-depth interviews and focus group moderation, building rapport with respondents to uncover honest, unfiltered insights. Translating research findings into strategic business recommendations requires contextual business judgement and stakeholder communication skills.",
+    "salary_range_low": 350000,
+    "salary_range_high": 850000,
+    "salary_progression": {
+      "year_0_1": "3.5-5.5 lakh",
+      "year_2_3": "6-11 lakh",
+      "year_4_5": "11-18 lakh",
+      "year_6_plus": "18-35 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Sales Executive (B2B)",
+    "job_family": "Sales, Marketing, Media and Advertising",
+    "domain_skills": [
+      {
+        "skill_name": "B2B Sales Strategy",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Key Account Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Sales Pipeline Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Lead Generation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Solution Selling",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Sales Enablement",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Outbound Sales and Cold Outreach",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Sales Quota and Target Management",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Salesforce CRM",
+        "importance": "High"
+      },
+      {
+        "skill_name": "HubSpot CRM",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft PowerPoint",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Salesforce Einstein",
+        "importance": "High"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Negotiation and Persuasion",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Client Relationship Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Executive Communication",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 45,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "Salesforce Einstein provides AI-powered lead scoring, next-best-action recommendations, and pipeline forecasting. ChatGPT and Perplexity AI accelerate account research, personalised outreach drafting, and proposal preparation. AI tools generate talking points, objection-handling scripts, and competitive battlecards that reduce pre-call preparation time.",
+    "human_value_tasks": "B2B sales executives build multi-level relationships within complex enterprise accounts, developing trust with C-suite, procurement, and end-user stakeholders — human relationship capital AI cannot create. They navigate complex sales cycles involving procurement processes, competitive bids, and legal negotiation that require adaptive communication and emotional intelligence. Closing large deals requires human presence, authority, and the ability to read the room and adjust in real time.",
+    "salary_range_low": 350000,
+    "salary_range_high": 900000,
+    "salary_progression": {
+      "year_0_1": "3.5-6 lakh (+ incentives)",
+      "year_2_3": "7-13 lakh (+ commissions)",
+      "year_4_5": "13-22 lakh",
+      "year_6_plus": "22-45 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Sales Executive (B2C)",
+    "job_family": "Sales, Marketing, Media and Advertising",
+    "domain_skills": [
+      {
+        "skill_name": "B2C Sales Strategy",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Customer Acquisition and Retention",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Retail Sales Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Channel Sales Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Upselling and Cross-Selling Techniques",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Outbound Sales and Cold Outreach",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Sales Territory and Beat Planning",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Salesforce CRM",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Zoho CRM",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "WhatsApp Business API",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Salesforce Einstein",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Zoho Zia",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Negotiation and Persuasion",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Client Relationship Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Adaptability and Learning Agility",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 40,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT assists B2C sales executives in generating personalised customer communication, follow-up messages, and WhatsApp broadcast content. Salesforce Einstein and Zoho Zia provide AI-powered lead scoring and churn prediction. AI tools integrated with WhatsApp Business automate initial customer queries and product recommendations.",
+    "human_value_tasks": "B2C sales executives build personal rapport with customers, respond empathetically to objections, and create emotional connections that drive purchase decisions — interpersonal skills AI cannot replicate in high-value B2C contexts. They develop local market knowledge, dealer relationships, and community trust that take years to build. Real-time negotiation, territory management, and managing distributor relationships require physical presence and human judgement.",
+    "salary_range_low": 280000,
+    "salary_range_high": 700000,
+    "salary_progression": {
+      "year_0_1": "2.8-5 lakh (+ incentives)",
+      "year_2_3": "5.5-10 lakh",
+      "year_4_5": "10-17 lakh",
+      "year_6_plus": "17-32 lakh"
+    },
+    "english_requirement": "Functional",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "PR Executive",
+    "job_family": "Sales, Marketing, Media and Advertising",
+    "domain_skills": [
+      {
+        "skill_name": "Public Relations (PR) Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Media Relations",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Press Release Writing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Crisis Communication",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Online Reputation Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Corporate Communications",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Media List Building and Journalist Relationship Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "PR Campaign Measurement and AVE Reporting",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Hootsuite",
+        "importance": "High"
+      },
+      {
+        "skill_name": "BuzzSumo",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft PowerPoint",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Networking and Professional Relationships",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Adaptability and Learning Agility",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "ChatGPT and Copilot in Word accelerate press release drafting, media pitch writing, spokesperson Q&A preparation, and media monitoring summary generation. Perplexity AI helps research journalist beats, media outlet positioning, and competitor PR activity. AI-powered sentiment analysis tools monitor brand mentions across print, digital, and social media in real time.",
+    "human_value_tasks": "PR executives build and nurture personal relationships with journalists, editors, and media influencers over years — the credibility and access required for media placements that AI-generated pitches cannot achieve. They manage sensitive stakeholder situations, craft authentic brand narratives, and exercise judgement on disclosure timing and crisis communication tone. Real-time crisis management requires rapid human decision-making, cross-functional coordination, and spokesperson coaching.",
+    "salary_range_low": 280000,
+    "salary_range_high": 700000,
+    "salary_progression": {
+      "year_0_1": "2.8-4.5 lakh",
+      "year_2_3": "5-9 lakh",
+      "year_4_5": "9-15 lakh",
+      "year_6_plus": "15-28 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Advertising Account Executive",
+    "job_family": "Sales, Marketing, Media and Advertising",
+    "domain_skills": [
+      {
+        "skill_name": "Advertising Campaign Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Integrated Marketing Communications (IMC)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Media Buying",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Brand Strategy",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Annual Marketing Plan Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Brand Positioning",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Advertising Account Planning and Creative Brief Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Campaign Budget Management and Reconciliation",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Microsoft PowerPoint",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Meta Ads Manager",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Google Ads",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Midjourney",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Copilot (PowerPoint)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Client Relationship Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Presentation Skills",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Client Servicing",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "ChatGPT accelerates campaign brief writing, client status reports, and competitive analysis summaries. Midjourney generates visual concepts and moodboards for client presentations before final creative development. Microsoft Copilot for PowerPoint assists in building client pitch decks and campaign performance presentations.",
+    "human_value_tasks": "Advertising account executives develop deep client relationships, understand brand history and sensitivities, and translate client briefs into inspiring creative directions — trust-based relationships AI cannot build. They manage multi-agency campaign coordination, balancing creative, media, digital, and PR inputs to deliver cohesive campaigns. New business pitching requires original strategic thinking, chemistry with prospective clients, and persuasive live presentation skills.",
+    "salary_range_low": 300000,
+    "salary_range_high": 750000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh",
+      "year_2_3": "5.5-9 lakh",
+      "year_4_5": "9-16 lakh",
+      "year_6_plus": "16-30 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Media Planner",
+    "job_family": "Sales, Marketing, Media and Advertising",
+    "domain_skills": [
+      {
+        "skill_name": "BARC Ratings and TV Planning (India)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Programmatic Advertising",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Media Mix Modelling (MMM)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attribution Modelling",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Media Scheduling and Reach-Frequency Planning",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Media Vendor Negotiation and Rate Optimisation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Media Planning",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Google Ads",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Meta Ads Manager",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Google Analytics 4 (GA4)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Looker Studio (formerly Google Data Studio)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Power BI Copilot",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Negotiation and Persuasion",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Data-Driven Decision Making",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "AI-powered smart bidding and audience automation within Google Ads and Meta automate a significant portion of day-to-day media optimisation. Copilot in Excel and Power BI Copilot accelerate media plan modelling, budget scenario analysis, and campaign performance reporting. ChatGPT assists in drafting media briefs, generating channel mix rationale, and synthesising media post-buy analyses.",
+    "human_value_tasks": "Media planners negotiate preferred rates, sponsorship packages, and exclusive inventory with broadcasters, publishers, and digital platforms through human relationships built over time. They develop channel mix strategies accounting for Indian media consumption patterns — the role of TV, regional language media, and OTT in different demographic segments — insights requiring deep local market expertise. Integrating first-party data, brand safety requirements, and competitive media spend intelligence into holistic strategies requires experienced human judgement.",
+    "salary_range_low": 350000,
+    "salary_range_high": 900000,
+    "salary_progression": {
+      "year_0_1": "3.5-5.5 lakh",
+      "year_2_3": "6-11 lakh",
+      "year_4_5": "11-18 lakh",
+      "year_6_plus": "18-35 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Email Marketing Specialist",
+    "job_family": "Sales, Marketing, Media and Advertising",
+    "domain_skills": [
+      {
+        "skill_name": "A/B Testing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Customer Journey Mapping",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Customer Segmentation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Conversion Rate Optimisation (CRO)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Email Campaign Strategy and List Segmentation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Email Automation Workflow Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Marketing Automation",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Mailchimp",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Klaviyo",
+        "importance": "High"
+      },
+      {
+        "skill_name": "HubSpot Marketing Hub",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ActiveCampaign",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Jasper AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copy.ai",
+        "importance": "High"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Creativity and Innovation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 70,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "ChatGPT, Jasper AI, and Copy.ai generate subject lines, email body copy, CTAs, and personalisation variants at scale, transforming email production speed and A/B test breadth. AI-powered features within Klaviyo and HubSpot optimise send times, predict churn, and generate personalised product recommendations automatically. AI tools dramatically reduce time to build and test email sequences.",
+    "human_value_tasks": "Email marketing specialists develop the strategic subscriber journey, brand voice, and personalisation logic that builds long-term customer relationships — creative and strategic decisions beyond AI automation. They diagnose deliverability issues caused by sender reputation, list hygiene, and ISP-specific behaviour, requiring deep technical troubleshooting expertise. Segmentation strategy decisions that balance personalisation with privacy regulations (DPDPA in India) require human compliance judgement.",
+    "salary_range_low": 300000,
+    "salary_range_high": 750000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh",
+      "year_2_3": "5.5-9 lakh",
+      "year_4_5": "9-15 lakh",
+      "year_6_plus": "15-28 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Commonly Remote",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Performance Marketing Analyst",
+    "job_family": "Sales, Marketing, Media and Advertising",
+    "domain_skills": [
+      {
+        "skill_name": "Customer Acquisition Cost (CAC) Optimisation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Conversion Rate Optimisation (CRO)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Paid Social Campaign Optimisation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Marketing ROI and Campaign Performance Reporting",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Performance Marketing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Return on Ad Spend (ROAS)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Google Ads",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Meta Ads Manager",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Google Analytics 4 (GA4)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Google Tag Manager",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Looker Studio (formerly Google Data Studio)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Power BI Copilot",
+        "importance": "High"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Data-Driven Decision Making",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Storytelling with Data",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 65,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "AI-powered smart bidding in Google Ads and Meta Advantage+ automate campaign optimisation, audience expansion, and budget pacing, covering significant daily execution tasks. ChatGPT and Copilot in Excel generate campaign performance analyses, ad copy variations, and reporting commentary. Power BI Copilot automates dashboard creation and insight generation from campaign data.",
+    "human_value_tasks": "Performance marketing analysts develop holistic funnel strategies that connect top-of-funnel awareness to bottom-of-funnel conversions, requiring strategic business thinking beyond automated optimisation. They diagnose attribution discrepancies between platforms, build custom measurement frameworks, and advise on incrementality testing — advanced analytical work requiring deep expertise. Communicating performance trade-offs and strategic recommendations to non-technical marketing leadership requires human communication skills.",
+    "salary_range_low": 350000,
+    "salary_range_high": 1000000,
+    "salary_progression": {
+      "year_0_1": "3.5-6 lakh",
+      "year_2_3": "7-13 lakh",
+      "year_4_5": "13-20 lakh",
+      "year_6_plus": "20-40 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Commonly Remote",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Copywriter",
+    "job_family": "Sales, Marketing, Media and Advertising",
+    "domain_skills": [
+      {
+        "skill_name": "Copywriting",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Content Marketing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Script Writing for Video and Audio Ads",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Brand Guidelines and Style Guides",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Long-Form and Short-Form Copywriting Techniques",
+        "importance": "High"
+      },
+      {
+        "skill_name": "UX Writing and Microcopy",
+        "importance": "High"
+      },
+      {
+        "skill_name": "SEO Copywriting and Keyword Integration",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "WordPress",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Canva",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Google Docs",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Notion",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Jasper AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Grammarly",
+        "importance": "High"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Creativity and Innovation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Adaptability and Learning Agility",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 70,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "ChatGPT, Jasper AI, and Copy.ai generate first-draft ad copy, email subject lines, product descriptions, and landing page content at scale, fundamentally changing copywriting workflows. Grammarly automates grammar, clarity, and tone consistency checking. AI tools generate hundreds of headline and CTA variations for testing, replacing hours of manual brainstorming.",
+    "human_value_tasks": "Copywriters develop original creative concepts, unexpected angles, and emotionally resonant narratives that differentiate brands — authentic human creativity that AI-generated copy consistently lacks in originality and cultural nuance. They understand Indian linguistic sensibilities, regional idioms, and code-switching patterns that make copy genuinely resonate with diverse Indian audiences. Award-winning creative work requires human creative courage, risk-taking, and aesthetic judgement.",
+    "salary_range_low": 280000,
+    "salary_range_high": 700000,
+    "salary_progression": {
+      "year_0_1": "2.8-4.5 lakh",
+      "year_2_3": "5-9 lakh",
+      "year_4_5": "9-15 lakh",
+      "year_6_plus": "15-30 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Commonly Remote",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Influencer Marketing Coordinator",
+    "job_family": "Sales, Marketing, Media and Advertising",
+    "domain_skills": [
+      {
+        "skill_name": "Influencer Marketing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Creator Economy and UGC",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Social Media Marketing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Content Calendar Planning",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Brand Guidelines and Style Guides",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Instagram Marketing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Influencer Identification, Vetting and Outreach",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Influencer Campaign Briefing and Performance Tracking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ASCI and Influencer Disclosure Compliance",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Canva",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Notion",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Canva AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Negotiation and Persuasion",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Networking and Professional Relationships",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 50,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Perplexity AI accelerate influencer research, creator brief writing, and campaign performance report generation. AI-powered influencer discovery platforms analyse audience authenticity, overlap, and demographic fit for faster shortlisting. Canva AI generates brief assets and creative reference materials shared with influencers.",
+    "human_value_tasks": "Influencer marketing coordinators build authentic relationships with creators, understand their personal brand values, and negotiate mutually beneficial partnerships — human relationship-building AI cannot replicate. They manage sensitive content approval processes, balancing brand guidelines with creator authenticity, which requires diplomatic communication and creative sensitivity. Real-time campaign management during live influencer campaigns — managing posting delays, content issues, and audience reactions — requires immediate human oversight.",
+    "salary_range_low": 300000,
+    "salary_range_high": 700000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh",
+      "year_2_3": "5.5-9 lakh",
+      "year_4_5": "9-15 lakh",
+      "year_6_plus": "15-28 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": true,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "E-Commerce Executive",
+    "job_family": "Sales, Marketing, Media and Advertising",
+    "domain_skills": [
+      {
+        "skill_name": "E-commerce Analytics",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Customer Journey Mapping",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Performance Marketing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "E-Commerce Catalogue and Inventory Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "D2C Brand and Growth Strategy",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Cart Abandonment and Checkout Optimisation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "E-commerce Marketing Strategy",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Shopify",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Google Analytics 4 (GA4)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Meta Ads Manager",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Google Ads",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Canva AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Data-Driven Decision Making",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "Medium"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 60,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "ChatGPT generates product descriptions, meta titles, and marketplace listing copy at scale, dramatically reducing catalogue content production time. Copilot in Excel automates marketplace performance analysis, inventory reconciliation, and pricing reports. AI-powered recommendation engines on Shopify and marketplace platforms automate personalised product suggestions and promotional pricing.",
+    "human_value_tasks": "E-commerce executives develop promotional and merchandising strategies aligned to Indian shopping seasons (Big Billion Days, Great Indian Festival, festive calendar) that require deep market intuition. They manage marketplace account health, navigate platform policy changes, and negotiate preferred placement with marketplace account managers. Customer experience decisions balancing speed, returns policy, and satisfaction require human empathy and business judgement.",
+    "salary_range_low": 300000,
+    "salary_range_high": 800000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh",
+      "year_2_3": "6-11 lakh",
+      "year_4_5": "11-18 lakh",
+      "year_6_plus": "18-35 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "CRM Executive",
+    "job_family": "Sales, Marketing, Media and Advertising",
+    "domain_skills": [
+      {
+        "skill_name": "Marketing Automation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Loyalty Programme Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Customer Lifetime Value (CLV)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Customer Data Platform (CDP) Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "CRM Strategy and Customer Retention Planning",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Churn Prediction and RFM Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Customer Journey Mapping",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Salesforce CRM",
+        "importance": "High"
+      },
+      {
+        "skill_name": "HubSpot CRM",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Zoho CRM",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Salesforce Marketing Cloud",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Salesforce Einstein",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Zoho Zia",
+        "importance": "High"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Data-Driven Decision Making",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 60,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "Salesforce Einstein and Zoho Zia provide AI-powered lead scoring, churn prediction, next best action recommendations, and personalised campaign content generation within the CRM. ChatGPT assists in drafting personalised customer communication sequences, loyalty programme messaging, and CRM campaign briefs. AI-driven segmentation automates dynamic audience creation based on real-time behavioural data.",
+    "human_value_tasks": "CRM executives develop the strategic retention framework — understanding which customer segments drive lifetime value, designing loyalty mechanics that resonate emotionally, and building win-back programmes that re-engage lapsed customers. They interpret CRM data in the context of business changes, seasonal patterns, and customer service feedback to diagnose churn drivers AI cannot contextualise. Negotiating customer recovery in high-value B2C contexts and designing surprise-and-delight moments require human creativity and empathy.",
+    "salary_range_low": 300000,
+    "salary_range_high": 800000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh",
+      "year_2_3": "6-11 lakh",
+      "year_4_5": "11-18 lakh",
+      "year_6_plus": "18-35 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  }
+]

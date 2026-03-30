@@ -1,0 +1,4138 @@
+[
+  {
+    "skill_name": "GreytHR",
+    "skill_category": "Technical",
+    "skill_description": "Processing payroll, managing leave, attendance, and statutory compliance using GreytHR HRMS for Indian organisations.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Keka HR",
+    "skill_category": "Technical",
+    "skill_description": "Managing the full HR lifecycle including payroll, appraisals, attendance, and compliance using Keka's Indian HRMS.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Darwinbox",
+    "skill_category": "Technical",
+    "skill_description": "Using Darwinbox for end-to-end HR operations including payroll, talent management, and workforce analytics.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Zoho People",
+    "skill_category": "Technical",
+    "skill_description": "Managing HR functions including attendance, leave, onboarding, and appraisals using Zoho People.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Zoho Payroll",
+    "skill_category": "Technical",
+    "skill_description": "Processing monthly payroll with statutory deductions (PF, ESI, PT, TDS) and filings using Zoho Payroll.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Spine HR Suite",
+    "skill_category": "Technical",
+    "skill_description": "Managing payroll, attendance, leave, and statutory compliance using Spine HR, a widely-used Indian HRMS.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "sumHR",
+    "skill_category": "Technical",
+    "skill_description": "Managing HR operations, payroll, attendance, and employee self-service using sumHR for Indian SMEs.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Kredily",
+    "skill_category": "Technical",
+    "skill_description": "Processing payroll and managing HR operations using Kredily, a free Indian HRMS platform.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HRMantra",
+    "skill_category": "Technical",
+    "skill_description": "Managing payroll, attendance, recruitment, and HR compliance using HRMantra HRMS for Indian businesses.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "PeopleStrong",
+    "skill_category": "Technical",
+    "skill_description": "Using PeopleStrong's AI-powered HR platform for talent acquisition, workforce management, and analytics.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "SAP SuccessFactors",
+    "skill_category": "Technical",
+    "skill_description": "Managing talent acquisition, performance, learning, and workforce planning using SAP SuccessFactors.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Workday HCM",
+    "skill_category": "Technical",
+    "skill_description": "Using Workday for HR, payroll, talent management, and workforce planning in large enterprises.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Oracle HCM Cloud",
+    "skill_category": "Technical",
+    "skill_description": "Managing HR, talent, payroll, and workforce management using Oracle HCM Cloud.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "SAP HR (SAP HCM)",
+    "skill_category": "Technical",
+    "skill_description": "Navigating SAP HR modules for payroll, personnel administration, and organisational management.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "BambooHR",
+    "skill_category": "Technical",
+    "skill_description": "Managing employee records, onboarding, time-off, and performance reviews using BambooHR.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Naukri RMS (Recruitment Management System)",
+    "skill_category": "Technical",
+    "skill_description": "Managing job postings, candidate pipeline, and hiring workflows using Naukri's recruitment management system.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Taleo (Oracle Recruiting)",
+    "skill_category": "Technical",
+    "skill_description": "Managing enterprise recruitment workflows, candidate tracking, and onboarding using Oracle Taleo.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "iCIMS",
+    "skill_category": "Technical",
+    "skill_description": "Managing applicant tracking, offer management, and recruitment analytics using iCIMS ATS.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Greenhouse ATS",
+    "skill_category": "Technical",
+    "skill_description": "Managing structured hiring workflows, interview scheduling, and recruiter collaboration using Greenhouse.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Lever ATS",
+    "skill_category": "Technical",
+    "skill_description": "Managing candidate pipeline, recruiter collaboration, and hiring analytics using Lever ATS.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Zoho Recruit",
+    "skill_category": "Technical",
+    "skill_description": "Managing end-to-end recruitment including sourcing, screening, and offer management using Zoho Recruit.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Freshteam (Freshworks)",
+    "skill_category": "Technical",
+    "skill_description": "Managing recruitment, employee onboarding, and HR workflows using Freshworks' Freshteam platform.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Naukri.com",
+    "skill_category": "Technical",
+    "skill_description": "Posting jobs, sourcing resumes, and managing candidate databases on India's largest job portal.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "LinkedIn Recruiter",
+    "skill_category": "Technical",
+    "skill_description": "Sourcing passive candidates, managing InMail outreach, and building talent pipelines using LinkedIn Recruiter.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Indeed India",
+    "skill_category": "Technical",
+    "skill_description": "Posting jobs and sourcing candidates using Indeed India for volume hiring and SME recruitment.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Monster India",
+    "skill_category": "Technical",
+    "skill_description": "Sourcing candidates and posting job openings on Monster India job portal.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Shine.com",
+    "skill_category": "Technical",
+    "skill_description": "Posting jobs and accessing candidate profiles on Shine.com, a major Indian job portal.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Instahyre",
+    "skill_category": "Technical",
+    "skill_description": "Sourcing and engaging tech talent using Instahyre's AI-powered hiring platform for Indian tech companies.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Cutshort",
+    "skill_category": "Technical",
+    "skill_description": "Hiring tech and startup professionals using Cutshort's AI-powered job matching platform in India.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Hirect",
+    "skill_category": "Technical",
+    "skill_description": "Directly connecting startups with candidates using Hirect's chat-based hiring app for Indian startups.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Apna (Apna Jobs)",
+    "skill_category": "Technical",
+    "skill_description": "Recruiting blue-collar and entry-level workers using Apna's platform for blue and grey collar hiring in India.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "WorkIndia",
+    "skill_category": "Technical",
+    "skill_description": "Hiring field sales, delivery, and blue-collar workers using WorkIndia platform for non-tech roles.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "EPF Unified Member Portal",
+    "skill_category": "Technical",
+    "skill_description": "Filing monthly ECR contributions, managing PF transfers, and employee account operations on EPFO portal.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "ESIC Portal",
+    "skill_category": "Technical",
+    "skill_description": "Filing ESI contributions, managing employee insurance registrations, and claims on the ESIC portal.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Shram Suvidha Portal",
+    "skill_category": "Technical",
+    "skill_description": "Filing labour law compliance returns under CLRA, Contract Labour Act, and other labour regulations.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "TRACES Portal (TDS)",
+    "skill_category": "Technical",
+    "skill_description": "Filing TDS returns, downloading Form 16, and reconciling TDS deductions using the TRACES portal.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Income Tax e-Filing Portal (HR)",
+    "skill_category": "Technical",
+    "skill_description": "Filing Form 24Q (TDS on salary returns) and managing employer TDS compliance on the IT portal.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "National Apprenticeship Portal",
+    "skill_category": "Technical",
+    "skill_description": "Registering establishments and managing apprentices under the Apprentices Act on the National Apprenticeship Portal.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "eShram Portal",
+    "skill_category": "Technical",
+    "skill_description": "Registering unorganised sector workers and managing gig workforce documentation on the eShram portal.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Udyam Registration Portal",
+    "skill_category": "Technical",
+    "skill_description": "Registering MSME status and accessing MSME-specific labour law relaxations on the Udyam portal.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Microsoft Excel (Advanced)",
+    "skill_category": "Technical",
+    "skill_description": "Using pivot tables, VLOOKUP, and formulas for HR analytics, headcount tracking, and compensation modelling.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Microsoft PowerPoint",
+    "skill_category": "Technical",
+    "skill_description": "Creating HR presentations, leadership updates, training decks, and performance review communications.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Microsoft Word",
+    "skill_category": "Technical",
+    "skill_description": "Drafting offer letters, employment contracts, HR policies, and formal HR communications.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Microsoft Teams",
+    "skill_category": "Technical",
+    "skill_description": "Conducting virtual interviews, HR briefings, and team communications using Microsoft Teams.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Microsoft SharePoint",
+    "skill_category": "Technical",
+    "skill_description": "Managing HR document libraries, policy portals, and employee knowledge bases using SharePoint.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Microsoft Power BI",
+    "skill_category": "Technical",
+    "skill_description": "Building HR analytics dashboards for attrition, hiring, diversity, and workforce metrics using Power BI.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Google Workspace (HR)",
+    "skill_category": "Technical",
+    "skill_description": "Using Google Docs, Sheets, and Forms for HR documentation, data collection, and team collaboration.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "SurveyMonkey",
+    "skill_category": "Technical",
+    "skill_description": "Designing and distributing employee engagement surveys, pulse checks, and exit surveys.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Typeform",
+    "skill_category": "Technical",
+    "skill_description": "Creating structured employee feedback forms and HR surveys with conversational user experience.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Google Forms",
+    "skill_category": "Technical",
+    "skill_description": "Building HR data collection forms including new hire surveys, feedback forms, and compliance checklists.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Culture Amp",
+    "skill_category": "Technical",
+    "skill_description": "Running employee engagement and sentiment surveys and analytics using Culture Amp's platform.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Glint (Microsoft Viva Glint)",
+    "skill_category": "Technical",
+    "skill_description": "Conducting continuous employee listening, engagement surveys, and action planning using Glint.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Leapsome",
+    "skill_category": "Technical",
+    "skill_description": "Running performance reviews, OKR tracking, and employee development using Leapsome.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "15Five",
+    "skill_category": "Technical",
+    "skill_description": "Managing continuous performance feedback, weekly check-ins, and OKR tracking using 15Five.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Mercer | Mettl",
+    "skill_category": "Technical",
+    "skill_description": "Assessing candidates and employees using psychometric tests and skills assessments on Mercer Mettl.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HackerEarth Assessments",
+    "skill_category": "Technical",
+    "skill_description": "Evaluating technical candidates through coding tests and technical assessments using HackerEarth.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HackerRank",
+    "skill_category": "Technical",
+    "skill_description": "Screening and assessing software developer candidates using coding challenges on HackerRank.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "iMocha",
+    "skill_category": "Technical",
+    "skill_description": "Assessing candidate skills across technical, functional, and soft skill domains using iMocha.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Thomas International",
+    "skill_category": "Technical",
+    "skill_description": "Using Thomas International's psychometric and behavioural assessments for hiring and development.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Hogan Assessments",
+    "skill_category": "Technical",
+    "skill_description": "Using Hogan personality assessments for leadership selection, development, and succession planning.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Docebo",
+    "skill_category": "Technical",
+    "skill_description": "Creating, delivering, and tracking employee training programmes using Docebo LMS.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "TalentLMS",
+    "skill_category": "Technical",
+    "skill_description": "Building and managing online training courses and employee learning paths using TalentLMS.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Cornerstone OnDemand",
+    "skill_category": "Technical",
+    "skill_description": "Managing learning, performance, and talent development on the Cornerstone OnDemand platform.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "LinkedIn Learning (Admin)",
+    "skill_category": "Technical",
+    "skill_description": "Curating and assigning LinkedIn Learning courses to employees for skill development programmes.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Coursera for Business",
+    "skill_category": "Technical",
+    "skill_description": "Managing enterprise learning programmes and employee upskilling through Coursera for Business.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "NIIT Learning Management System",
+    "skill_category": "Technical",
+    "skill_description": "Deploying corporate training and certification programmes using NIIT's LMS for Indian enterprises.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Moodle",
+    "skill_category": "Technical",
+    "skill_description": "Building and managing open-source learning management systems for corporate training delivery.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "EdCast (Cornerstone)",
+    "skill_category": "Technical",
+    "skill_description": "Curating and delivering personalised learning experiences using EdCast's learning experience platform.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Tableau (HR Analytics)",
+    "skill_category": "Technical",
+    "skill_description": "Creating HR dashboards and workforce visualisations for attrition, headcount, and DEI analytics.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "SQL (HR Analytics)",
+    "skill_category": "Technical",
+    "skill_description": "Writing SQL queries to extract employee data, analyse HR metrics, and generate workforce reports.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Python (HR Analytics)",
+    "skill_category": "Technical",
+    "skill_description": "Using Python for HR data analysis, attrition modelling, and people analytics automation.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "R Programming (HR Analytics)",
+    "skill_category": "Technical",
+    "skill_description": "Using R for statistical analysis of survey data, salary benchmarking, and workforce planning.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "AuthBridge",
+    "skill_category": "Technical",
+    "skill_description": "Conducting employee background verification including education, employment, and criminal checks via AuthBridge.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "IDfy (Background Verification)",
+    "skill_category": "Technical",
+    "skill_description": "Running automated background checks and identity verification using IDfy's platform.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "First Advantage",
+    "skill_category": "Technical",
+    "skill_description": "Conducting comprehensive background screening and drug testing using First Advantage platform.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Slack",
+    "skill_category": "Technical",
+    "skill_description": "Managing HR team communications, employee announcements, and cross-functional collaboration using Slack.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Notion",
+    "skill_category": "Technical",
+    "skill_description": "Building HR knowledge bases, SOPs, onboarding wikis, and team documentation using Notion.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Asana",
+    "skill_category": "Technical",
+    "skill_description": "Managing HR projects, hiring campaigns, and onboarding workflows using Asana.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Trello",
+    "skill_category": "Technical",
+    "skill_description": "Tracking recruitment pipelines, onboarding checklists, and HR project tasks using Trello boards.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Zoom",
+    "skill_category": "Technical",
+    "skill_description": "Conducting virtual interviews, HR induction sessions, and employee webinars using Zoom.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "DocuSign",
+    "skill_category": "Technical",
+    "skill_description": "Managing digital offer letter signing, policy acknowledgements, and HR document workflows using DocuSign.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Leegality (Digital Contracts)",
+    "skill_category": "Technical",
+    "skill_description": "Executing digital employment contracts, NDAs, and HR agreements using Leegality's Indian e-signing platform.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "ChatGPT",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using ChatGPT for drafting JDs, HR policies, email templates, offer letters, and training content.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Claude (Anthropic)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Claude for analysing HR documents, summarising survey responses, and drafting HR communications.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using AI-powered Excel Copilot to analyse HR data, generate formulas, and produce workforce summaries.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Power BI Copilot",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using AI in Power BI to generate HR dashboards and answer workforce data queries in natural language.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Gemini (Google)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Google Gemini for HR content drafting, policy summarisation, and research in Google Workspace.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Notion AI",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Notion AI to generate HR SOPs, summarise meeting notes, and draft onboarding documentation.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Grammarly",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Grammarly to proofread and improve HR communications, job descriptions, and policy documents.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Otter.ai",
+    "skill_category": "AI-Tool",
+    "skill_description": "Transcribing interviews, HR meetings, and focus group discussions using Otter.ai.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Perplexity AI",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Perplexity AI for real-time research on labour laws, compensation benchmarks, and HR trends.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Canva AI",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Canva's AI features to create employee communication visuals, training materials, and HR presentations.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Textio",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Textio's AI to write unbiased, inclusive job descriptions and HR communications that attract diverse candidates.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Talent Acquisition Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Developing workforce sourcing strategies aligned with business growth, budget, and talent market conditions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Job Analysis and Job Description Writing",
+    "skill_category": "Domain",
+    "skill_description": "Analysing roles and writing accurate, inclusive JDs that attract qualified candidates.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Candidate Sourcing",
+    "skill_category": "Domain",
+    "skill_description": "Identifying and attracting active and passive candidates through portals, LinkedIn, referrals, and Boolean search.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Boolean Search (Recruitment)",
+    "skill_category": "Domain",
+    "skill_description": "Using Boolean search operators to find specific candidate profiles on LinkedIn and job portals.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Resume Screening and Shortlisting",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating resumes against job requirements to create shortlists for interviewing.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Structured Interviewing",
+    "skill_category": "Domain",
+    "skill_description": "Designing and conducting structured, competency-based interviews using standardised question sets.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Behavioural Event Interviewing (BEI)",
+    "skill_category": "Domain",
+    "skill_description": "Using STAR-based behavioural questioning to assess past performance as a predictor of future behaviour.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Competency-Based Interviewing",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating candidates against predefined competencies relevant to the role and organisational culture.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Panel Interview Facilitation",
+    "skill_category": "Domain",
+    "skill_description": "Organising and facilitating panel interviews ensuring consistent evaluation across multiple interviewers.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Technical Interview Coordination",
+    "skill_category": "Domain",
+    "skill_description": "Scheduling and coordinating technical interview rounds for engineering and specialist roles.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Campus Recruitment",
+    "skill_category": "Domain",
+    "skill_description": "Managing college hiring including campus drives, pre-placement talks, and graduate intake programmes.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Lateral Hiring",
+    "skill_category": "Domain",
+    "skill_description": "Managing mid-level and senior experienced hire recruitment including agency coordination and offer management.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Executive Search",
+    "skill_category": "Domain",
+    "skill_description": "Identifying and engaging C-suite and senior leadership candidates through targeted search and headhunting.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Mass Hiring and Volume Recruitment",
+    "skill_category": "Domain",
+    "skill_description": "Managing high-volume hiring campaigns for field roles, BPO, retail, and manufacturing operations.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Recruitment Process Outsourcing (RPO) Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing RPO vendor relationships, SLAs, and quality of hire for outsourced recruitment functions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Headhunting and Passive Candidate Engagement",
+    "skill_category": "Domain",
+    "skill_description": "Proactively approaching and engaging employed professionals not actively seeking new roles.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Employer Branding",
+    "skill_category": "Domain",
+    "skill_description": "Building and communicating the company's reputation as an employer of choice to attract and retain talent.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Candidate Experience Management",
+    "skill_category": "Domain",
+    "skill_description": "Designing positive candidate touchpoints through the recruitment funnel to improve offer acceptance rates.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Offer Negotiation and Management",
+    "skill_category": "Domain",
+    "skill_description": "Structuring and negotiating competitive offers including CTC, joining bonus, and benefits.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Offer Letter Drafting",
+    "skill_category": "Domain",
+    "skill_description": "Preparing legally compliant offer and appointment letters with accurate CTC breakdowns.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Pre-Employment Background Verification",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating education, employment history, identity, and criminal record verification for new hires.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Time-to-Fill and Time-to-Hire Metrics",
+    "skill_category": "Domain",
+    "skill_description": "Tracking and optimising the time taken to fill open positions from requisition to joining.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Quality of Hire Measurement",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating new hire performance, retention, and manager satisfaction to measure recruitment quality.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Recruitment Funnel Analytics",
+    "skill_category": "Domain",
+    "skill_description": "Analysing sourcing channel effectiveness, conversion rates, and cost-per-hire across the recruiting funnel.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Talent Pipeline Building",
+    "skill_category": "Domain",
+    "skill_description": "Creating and nurturing pools of pre-qualified candidates for anticipated future hiring needs.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Internal Mobility and Referral Programme Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing employee referral schemes and internal job postings to improve retention and quality of hire.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Diversity Hiring Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Designing targeted sourcing and evaluation practices to achieve diverse and inclusive candidate slates.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Gig and Contract Workforce Hiring",
+    "skill_category": "Domain",
+    "skill_description": "Managing hiring and onboarding for contractual, freelance, and platform-based gig workers.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Global Mobility and Expat Hiring",
+    "skill_category": "Domain",
+    "skill_description": "Managing visa, work permit, and relocation processes for international hires and expat assignments.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Employee Onboarding Programme Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing structured induction programmes that integrate new hires into the organisation's culture and role.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Pre-Boarding Process Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing joining formalities, document collection, and engagement with candidates before their start date.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "New Hire Induction",
+    "skill_category": "Domain",
+    "skill_description": "Conducting orientation sessions covering company values, policies, compliance, and role expectations.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Buddy and Mentor Assignment",
+    "skill_category": "Domain",
+    "skill_description": "Pairing new hires with experienced employees to support their cultural and professional integration.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Onboarding Experience Measurement",
+    "skill_category": "Domain",
+    "skill_description": "Measuring new hire satisfaction and integration effectiveness through structured surveys and checkpoints.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Exit Management and F&F Settlement",
+    "skill_category": "Domain",
+    "skill_description": "Managing employee separation including notice period, final settlement, and exit documentation.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Exit Interview Process",
+    "skill_category": "Domain",
+    "skill_description": "Conducting structured exit interviews to gather attrition insights and identify retention opportunities.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Full and Final Settlement (FnF)",
+    "skill_category": "Domain",
+    "skill_description": "Computing and processing FnF amounts including gratuity, leave encashment, and deductions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Relieving Letter and Experience Certificate Issuance",
+    "skill_category": "Domain",
+    "skill_description": "Issuing compliant relieving letters and experience certificates upon employee separation.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Payroll Processing (India)",
+    "skill_category": "Domain",
+    "skill_description": "Computing monthly net pay including deductions, allowances, and statutory contributions for Indian employees.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "CTC Structure Design",
+    "skill_category": "Domain",
+    "skill_description": "Structuring tax-efficient CTC components including basic, HRA, allowances, and retirement benefits.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Salary Benchmarking",
+    "skill_category": "Domain",
+    "skill_description": "Comparing internal pay levels against market data using surveys to ensure competitive compensation.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Compensation and Benefits Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing compensation frameworks, salary bands, and benefits packages to attract and retain talent.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Pay Equity Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Analysing internal pay data to identify and correct gender or demographic pay gaps.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Incentive and Variable Pay Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing performance-linked variable pay schemes, sales incentive plans, and bonus structures.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Employee Benefits Administration",
+    "skill_category": "Domain",
+    "skill_description": "Managing health insurance, group term life, flexi-benefits, and wellness programme administration.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Salary Revision and Annual Increment Process",
+    "skill_category": "Domain",
+    "skill_description": "Managing the annual merit cycle including increment letters, payroll updates, and appraisal integration.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Joining Bonus and Retention Bonus Management",
+    "skill_category": "Domain",
+    "skill_description": "Designing and administering signing bonuses and retention incentives with clawback provisions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Fringe Benefits and Perquisites (Income Tax)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding taxability of employer-provided benefits under the Income Tax Act for payroll compliance.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "EPFO Compliance (PF)",
+    "skill_category": "Domain",
+    "skill_description": "Managing Provident Fund registration, deductions, contributions, and monthly ECR filings with EPFO.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "ESIC Compliance (ESI)",
+    "skill_category": "Domain",
+    "skill_description": "Managing ESI registration, contributions, half-yearly returns, and employee benefit administration.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "TDS on Salary (Section 192)",
+    "skill_category": "Domain",
+    "skill_description": "Computing TDS on salary under Section 192 of the Income Tax Act and filing quarterly Form 24Q.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Professional Tax Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Computing and remitting professional tax as per state-specific slabs and maintaining compliance records.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Labour Welfare Fund (LWF)",
+    "skill_category": "Domain",
+    "skill_description": "Contributing to state Labour Welfare Fund as mandated by applicable state-specific legislation.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Gratuity (Payment of Gratuity Act 1972)",
+    "skill_category": "Domain",
+    "skill_description": "Computing gratuity entitlements and managing payment and provisioning under the Gratuity Act.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Maternity Benefit Act 1961",
+    "skill_category": "Domain",
+    "skill_description": "Implementing maternity leave entitlements, benefits, and return-to-work provisions under the Act.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Payment of Bonus Act 1965",
+    "skill_category": "Domain",
+    "skill_description": "Computing and disbursing statutory bonus to eligible employees under the Payment of Bonus Act.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Minimum Wages Act Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring all employees are paid at or above applicable state-wise minimum wages.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Payment of Wages Act 1936",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring timely and compliant salary disbursement within the periods specified under the Act.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Employees Compensation Act 2010",
+    "skill_category": "Domain",
+    "skill_description": "Managing workplace injury compensation claims under the Employees Compensation Act.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Contract Labour (Regulation and Abolition) Act 1970",
+    "skill_category": "Domain",
+    "skill_description": "Managing principal employer obligations for contractor workforce under CLRA including registration and compliance.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Shops and Establishments Act",
+    "skill_category": "Domain",
+    "skill_description": "Complying with state-specific Shops and Establishments Acts governing working hours and conditions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Factories Act 1948",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring manufacturing establishments meet occupational health, safety, and welfare standards.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Industrial Disputes Act 1947",
+    "skill_category": "Domain",
+    "skill_description": "Managing termination, layoffs, retrenchment, and disputes in compliance with the Industrial Disputes Act.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "New Labour Codes (4 Codes)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and preparing for compliance under the four New Labour Codes on Wages, Industrial Relations, Social Security, and OSH.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Code on Wages 2019",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring minimum wages, bonus, and timely payment compliance under the Code on Wages.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Social Security Code 2020",
+    "skill_category": "Domain",
+    "skill_description": "Understanding expanded social security coverage for gig workers and new employee categories under the Code.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "POSH Act Compliance (Prevention of Sexual Harassment)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing the POSH Act framework including ICC formation, policy, training, and complaint resolution.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Apprentices Act 1961",
+    "skill_category": "Domain",
+    "skill_description": "Managing apprenticeship programmes, stipends, and compliance with the Apprentices Act.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Equal Remuneration Act 1976",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring equal pay for equal work regardless of gender and maintaining compliance registers.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "National Pension System (NPS) for Employees",
+    "skill_category": "Domain",
+    "skill_description": "Administering employer NPS contributions and managing employee enrolment and account management.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Performance Appraisal System Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing annual and continuous performance review systems aligned with business goals.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "360-Degree Feedback",
+    "skill_category": "Domain",
+    "skill_description": "Designing and implementing multi-rater feedback processes for development and appraisal.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "OKR Framework Implementation",
+    "skill_category": "Domain",
+    "skill_description": "Implementing Objectives and Key Results framework for goal alignment and performance tracking.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "KPI Setting and Monitoring",
+    "skill_category": "Domain",
+    "skill_description": "Defining role-specific KPIs aligned with departmental and organisational objectives.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Performance Improvement Plan (PIP)",
+    "skill_category": "Domain",
+    "skill_description": "Designing and managing structured PIPs for underperforming employees with measurable targets.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Bell Curve and Forced Ranking",
+    "skill_category": "Domain",
+    "skill_description": "Applying performance distribution models for calibration and differentiated reward allocation.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Performance Calibration",
+    "skill_category": "Domain",
+    "skill_description": "Facilitating manager calibration sessions to ensure fair and consistent performance ratings.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Continuous Performance Management",
+    "skill_category": "Domain",
+    "skill_description": "Shifting from annual reviews to ongoing feedback, check-ins, and real-time goal tracking.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Training Needs Analysis (TNA)",
+    "skill_category": "Domain",
+    "skill_description": "Identifying skill gaps through manager inputs, surveys, and performance data to design training priorities.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Instructional Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing structured learning programmes using ADDIE or other ID models for blended delivery.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Facilitation and Training Delivery",
+    "skill_category": "Domain",
+    "skill_description": "Delivering classroom, virtual, and blended training sessions to employee groups.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "e-Learning Content Development",
+    "skill_category": "Domain",
+    "skill_description": "Creating online learning modules using authoring tools and digital media for self-paced learning.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Kirkpatrick Evaluation Model",
+    "skill_category": "Domain",
+    "skill_description": "Measuring training effectiveness across four levels — Reaction, Learning, Behaviour, and Results.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Leadership Development Programmes",
+    "skill_category": "Domain",
+    "skill_description": "Designing and delivering development interventions for high-potential employees and first-time managers.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Mentoring and Coaching Programme Management",
+    "skill_category": "Domain",
+    "skill_description": "Designing and managing formal mentoring and coaching programmes to accelerate employee development.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Individual Development Plan (IDP)",
+    "skill_category": "Domain",
+    "skill_description": "Collaborating with employees to create personalised development plans aligned with career goals.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Learning Management System (LMS) Administration",
+    "skill_category": "Domain",
+    "skill_description": "Managing course libraries, learner enrolments, completion tracking, and reporting on an LMS.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Skills Taxonomy and Competency Mapping",
+    "skill_category": "Domain",
+    "skill_description": "Building skills taxonomies and mapping competency requirements across roles for learning and development.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "E-learning Authoring Tools (Articulate, Adobe Captivate)",
+    "skill_category": "Domain",
+    "skill_description": "Creating interactive e-learning modules using authoring tools like Articulate Storyline and Adobe Captivate.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Employee Engagement Measurement",
+    "skill_category": "Domain",
+    "skill_description": "Designing and running engagement surveys to measure satisfaction, commitment, and advocacy.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Pulse Survey Design",
+    "skill_category": "Domain",
+    "skill_description": "Running frequent short pulse surveys to track real-time employee sentiment and wellbeing.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Employee Net Promoter Score (eNPS)",
+    "skill_category": "Domain",
+    "skill_description": "Measuring employee loyalty and advocacy using eNPS and developing action plans from results.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Employee Wellbeing Programme Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing physical, mental, and financial wellness programmes to improve employee health and productivity.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Recognition and Rewards Programme",
+    "skill_category": "Domain",
+    "skill_description": "Designing and managing peer recognition, spot awards, and milestone celebration programmes.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Culture Building and Values Communication",
+    "skill_category": "Domain",
+    "skill_description": "Embedding organisational values through rituals, communication, and leadership modelling.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Diversity, Equity and Inclusion (DEI) Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Designing and implementing DEI initiatives to build an inclusive and equitable workplace.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Employee Resource Groups (ERGs)",
+    "skill_category": "Domain",
+    "skill_description": "Establishing and managing employee affinity groups to support inclusion and community building.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Attrition Analysis and Retention Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Analysing turnover patterns and designing targeted retention interventions for critical roles.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Stay Interview Design",
+    "skill_category": "Domain",
+    "skill_description": "Conducting structured stay interviews to understand retention drivers before employees consider leaving.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Internal Communications (HR)",
+    "skill_category": "Domain",
+    "skill_description": "Designing employee communication programmes, town halls, and newsletters to inform and engage staff.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Business Partnering (HRBP)",
+    "skill_category": "Domain",
+    "skill_description": "Acting as a strategic HR partner to business units aligning people practices with business objectives.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Workforce Planning",
+    "skill_category": "Domain",
+    "skill_description": "Forecasting headcount needs and creating hiring plans aligned with business growth projections.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Organisational Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing organisational structures, reporting relationships, and spans of control to support strategy.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Change Management",
+    "skill_category": "Domain",
+    "skill_description": "Planning and managing people aspects of organisational change using ADKAR or Kotter's 8-Step model.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Succession Planning",
+    "skill_category": "Domain",
+    "skill_description": "Identifying and developing internal talent pipelines for critical and leadership positions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Talent Management",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, developing, and retaining high-potential employees to build long-term capability.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "High Potential (HiPo) Identification",
+    "skill_category": "Domain",
+    "skill_description": "Using structured assessments and calibration to identify and differentiate high-potential employees.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Policy Development and Management",
+    "skill_category": "Domain",
+    "skill_description": "Drafting, reviewing, and maintaining HR policies, employee handbooks, and codes of conduct.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Audit",
+    "skill_category": "Domain",
+    "skill_description": "Conducting systematic reviews of HR processes, compliance records, and policy adherence.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Metrics and People Analytics",
+    "skill_category": "Domain",
+    "skill_description": "Using data to track headcount, turnover, time-to-hire, engagement, and other workforce metrics.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Employee Relations Management",
+    "skill_category": "Domain",
+    "skill_description": "Building and maintaining positive employer-employee relationships and managing workplace concerns.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Grievance Handling and Redressal",
+    "skill_category": "Domain",
+    "skill_description": "Managing employee grievances through structured redressal processes in compliance with company policy.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Disciplinary Action and Show Cause Process",
+    "skill_category": "Domain",
+    "skill_description": "Managing misconduct investigations, show cause notices, and disciplinary proceedings within legal norms.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Industrial Relations (IR)",
+    "skill_category": "Domain",
+    "skill_description": "Managing relationships with trade unions, collective bargaining, and ensuring industrial harmony.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Standing Orders (Certified)",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and maintaining certified standing orders governing terms of employment for workmen.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Domestic Inquiry Management",
+    "skill_category": "Domain",
+    "skill_description": "Conducting and documenting domestic inquiry proceedings for workplace misconduct cases.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Termination and Separation Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing employee exits including voluntary resignation, retrenchment, and termination in compliance with law.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Mediation and Conflict Resolution",
+    "skill_category": "Domain",
+    "skill_description": "Facilitating workplace conflict resolution using mediation techniques to preserve relationships.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Whistleblower Policy and Ethics Reporting",
+    "skill_category": "Domain",
+    "skill_description": "Implementing whistleblower mechanisms and managing ethical complaint investigations confidentially.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Organisational Development (OD)",
+    "skill_category": "Domain",
+    "skill_description": "Applying OD interventions to improve organisational effectiveness, culture, and change readiness.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Job Evaluation",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating and grading roles using point-factor or Hay methodology to create equitable pay structures.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Competency Framework Design",
+    "skill_category": "Domain",
+    "skill_description": "Developing behavioural and technical competency frameworks aligned with organisational values.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Culture Diagnostics and Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Using structured tools and surveys to diagnose current organisational culture and identify gaps.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Team Effectiveness Interventions",
+    "skill_category": "Domain",
+    "skill_description": "Designing team building workshops and offsites to improve team cohesion and performance.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Psychometric Testing and Assessment Centres",
+    "skill_category": "Domain",
+    "skill_description": "Designing and facilitating assessment centres and psychometric tools for selection and development.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Strategy and Planning",
+    "skill_category": "Domain",
+    "skill_description": "Aligning the HR function's priorities and initiatives with long-term organisational strategy.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "People Analytics",
+    "skill_category": "Domain",
+    "skill_description": "Using workforce data to generate insights on talent, productivity, and organisational health.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Dashboard Design",
+    "skill_category": "Domain",
+    "skill_description": "Building leadership-ready HR dashboards tracking headcount, attrition, DEI, and hiring metrics.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Workforce Segmentation",
+    "skill_category": "Domain",
+    "skill_description": "Segmenting the workforce by function, tenure, performance, and risk to prioritise HR interventions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Predictive HR Analytics",
+    "skill_category": "Domain",
+    "skill_description": "Building models to predict attrition, flight risk, and hiring success using historical HR data.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Technology Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating and selecting HR technology tools to automate and improve the people function.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Return on Investment (HR ROI)",
+    "skill_category": "Domain",
+    "skill_description": "Measuring the financial and business impact of HR programmes including training, engagement, and hiring.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "ESOP Administration",
+    "skill_category": "Domain",
+    "skill_description": "Administering employee stock option plans including vesting schedules, exercise, and tax implications.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Outsourcing Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing outsourced HR functions including payroll vendors, PEO arrangements, and staffing agencies.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Statutory Compliance Calendar Management",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining and tracking all HR statutory compliance due dates across PF, ESI, PT, TDS, and labour laws.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Third-Party Workforce and Contract Labour Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing compliance obligations for contract staff under CLRA and principal employer responsibilities.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Gig Economy HR Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Managing compliance, classification, and benefits for gig and platform workers under evolving Indian laws.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Global HR Operations",
+    "skill_category": "Domain",
+    "skill_description": "Managing HR processes for multi-country operations including cross-border payroll and mobility.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Shared Services Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing centralised HR shared service centres delivering consistent HR services across business units.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Communication Skills (Written and Verbal)",
+    "skill_category": "Foundational",
+    "skill_description": "Writing clear HR communications and speaking confidently with employees, managers, and leadership.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Active Listening",
+    "skill_category": "Foundational",
+    "skill_description": "Listening attentively to employees and managers to fully understand their needs and concerns.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Empathy",
+    "skill_category": "Foundational",
+    "skill_description": "Demonstrating genuine understanding and care for employee experiences and challenges.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Confidentiality and Discretion",
+    "skill_category": "Foundational",
+    "skill_description": "Handling sensitive employee information, performance data, and HR matters with strict confidentiality.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Analytical Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Using data and structured reasoning to solve HR problems and inform talent decisions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Problem Solving",
+    "skill_category": "Foundational",
+    "skill_description": "Identifying root causes of employee and organisational problems and developing practical HR solutions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Interpersonal Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Building trusted working relationships with employees across all levels of the organisation.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Negotiation Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Negotiating offer packages, vendor contracts, and grievance resolutions to achieve fair outcomes.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Time Management",
+    "skill_category": "Foundational",
+    "skill_description": "Managing competing HR priorities, multiple hires, and compliance deadlines simultaneously.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Attention to Detail",
+    "skill_category": "Foundational",
+    "skill_description": "Ensuring accuracy in payroll, compliance documents, offer letters, and employee records.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Adaptability",
+    "skill_category": "Foundational",
+    "skill_description": "Adjusting to changing business needs, restructuring, and evolving labour law requirements.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Ethical Conduct and Integrity",
+    "skill_category": "Foundational",
+    "skill_description": "Upholding the highest ethical standards in hiring, compensation, and employee relations.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Cultural Sensitivity",
+    "skill_category": "Foundational",
+    "skill_description": "Working respectfully and effectively with India's diverse regional, linguistic, and social cultures.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Business Acumen",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding how HR decisions impact business performance, costs, and competitive capability.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Stakeholder Management",
+    "skill_category": "Foundational",
+    "skill_description": "Managing relationships with business leaders, employees, legal teams, and external HR vendors.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Resilience and Stress Management",
+    "skill_category": "Foundational",
+    "skill_description": "Maintaining composure and effectiveness under the pressures of high-volume hiring and compliance cycles.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Coaching and Mentoring",
+    "skill_category": "Foundational",
+    "skill_description": "Providing guidance and developmental support to junior HR team members and line managers.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Influence Without Authority",
+    "skill_category": "Foundational",
+    "skill_description": "Driving HR practices and policies by influencing line managers and leaders without direct authority.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Continuous Learning",
+    "skill_category": "Foundational",
+    "skill_description": "Staying updated on labour law changes, HR trends, and new HR technology in the Indian market.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Data-Driven Decision Making",
+    "skill_category": "Foundational",
+    "skill_description": "Using HR metrics and workforce data rather than intuition alone to make people management decisions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Strategic Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Connecting HR initiatives to business strategy to deliver long-term organisational value.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Leadership",
+    "skill_category": "Foundational",
+    "skill_description": "Inspiring, guiding, and developing HR teams and influencing positive people practices across the organisation.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Team Collaboration",
+    "skill_category": "Foundational",
+    "skill_description": "Working effectively within the HR team and cross-functionally with finance, legal, and operations.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Hindi and Regional Language Proficiency",
+    "skill_category": "Foundational",
+    "skill_description": "Communicating with blue-collar workers, field staff, and regional employees in their language.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "English Proficiency (Business)",
+    "skill_category": "Foundational",
+    "skill_description": "Reading, writing, and speaking professional English for MNC environments, reports, and global HR teams.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Growth Mindset",
+    "skill_category": "Foundational",
+    "skill_description": "Embracing change, learning from experience, and continuously developing as an HR professional.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Conflict Management",
+    "skill_category": "Foundational",
+    "skill_description": "Resolving interpersonal and team conflicts constructively using structured and empathetic approaches.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Presentation Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Presenting HR data, policy changes, and strategic initiatives to management and employee audiences.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Project Management (HR)",
+    "skill_category": "Foundational",
+    "skill_description": "Planning and executing HR projects including system implementations, culture programmes, and policy rollouts.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Inter-State Migrant Workmen Act 1979",
+    "skill_category": "Domain",
+    "skill_description": "Managing compliance for employing interstate migrant workers including registration and amenities.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Building and Other Construction Workers Act 1996",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring welfare fund contributions and safety compliance for construction workers under BOCW Act.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Child and Adolescent Labour (Prohibition and Regulation) Act 1986",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring compliance with child labour laws including minimum age requirements and regulations for adolescent employment under the amended Act.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Persons with Disabilities Act (RPWD Act 2016)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing reasonable accommodations and equal opportunity policies for employees with disabilities.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Transgender Persons (Protection of Rights) Act 2019",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring workplace inclusion and non-discrimination for transgender employees under the 2019 Act.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "DPDP Act 2023 (HR Data Privacy)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring employee data collection, storage, and processing complies with India's Digital Personal Data Protection Act.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Non-Disclosure Agreement (NDA) and Non-Compete Drafting",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and enforcing NDAs and non-compete clauses within Indian contractual law limits.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Fixed-Term Employment Contract Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Structuring compliant fixed-term employment contracts with benefit parity under the Code on Industrial Relations and Industrial Disputes Act.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Compliance Register Maintenance",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining statutory registers including attendance, wages, PF, ESI, and contractors as required by law.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Form 16 and Investment Declaration Process",
+    "skill_category": "Domain",
+    "skill_description": "Managing annual investment declaration cycles and issuing Form 16 to employees for income tax filing.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Section 80C and Employee Tax Planning",
+    "skill_category": "Domain",
+    "skill_description": "Advising employees on tax-saving investments under Chapter VI-A to optimise net take-home salary.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "New Tax Regime vs Old Tax Regime Advisory",
+    "skill_category": "Domain",
+    "skill_description": "Helping employees choose between the new and old income tax regime for optimal tax efficiency.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Job Architecture and Grade Structure",
+    "skill_category": "Domain",
+    "skill_description": "Designing job levels, grade structures, and title frameworks to support career progression and pay equity.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Salary Survey Participation",
+    "skill_category": "Domain",
+    "skill_description": "Participating in third-party salary surveys (Mercer, Aon, Willis Towers Watson) to benchmark pay levels.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Total Rewards Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Designing a total rewards framework encompassing pay, benefits, recognition, learning, and wellbeing.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Long-Term Incentive (LTI) Plan Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing equity-linked and cash-based long-term incentive plans for senior talent retention.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Cafeteria Benefits and Flexi-Benefits Plan",
+    "skill_category": "Domain",
+    "skill_description": "Designing flexible benefits programmes allowing employees to customise their benefits basket.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Group Health Insurance Administration",
+    "skill_category": "Domain",
+    "skill_description": "Managing group mediclaim policy, renewals, employee enrolment, claims, and insurer relationships.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Group Term Life Insurance (GTL) Administration",
+    "skill_category": "Domain",
+    "skill_description": "Managing group term life cover, sum assured calculations, and employee beneficiary nominations.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Mediclaim and Hospitalisation Claim Processing",
+    "skill_category": "Domain",
+    "skill_description": "Processing employee health insurance claims and managing insurer coordination for reimbursements.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "9-Box Grid Talent Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Using the 9-box performance-potential matrix for talent segmentation and succession decisions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Career Path Design",
+    "skill_category": "Domain",
+    "skill_description": "Creating structured career ladders and lattices to guide employee growth and retention.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Internship Programme Management",
+    "skill_category": "Domain",
+    "skill_description": "Designing and managing internship programmes including project assignments, mentors, and conversion pipelines.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Returnee and Diversity Hire Programmes",
+    "skill_category": "Domain",
+    "skill_description": "Designing structured programmes to attract and reintegrate returning-to-work professionals.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Campus to Corporate Transition",
+    "skill_category": "Domain",
+    "skill_description": "Designing bridging programmes that help campus hires transition effectively into professional work environments.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Blended Learning Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing learning programmes that combine classroom, e-learning, on-the-job, and coaching modalities.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Microlearning Content Design",
+    "skill_category": "Domain",
+    "skill_description": "Creating short, focused learning units for mobile delivery that address specific skill gaps.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Learning Budget Planning",
+    "skill_category": "Domain",
+    "skill_description": "Allocating and managing the annual training budget across functions, priorities, and learning modalities.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Soft Skills Training Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing workshops for communication, leadership, time management, and interpersonal effectiveness.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Compliance Training Programme",
+    "skill_category": "Domain",
+    "skill_description": "Designing mandatory compliance training covering POSH, code of conduct, data privacy, and safety.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Onboarding Learning Path Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing structured 30-60-90 day learning journeys for new hires to accelerate productivity.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Great Place to Work (GPTW) Survey Process",
+    "skill_category": "Domain",
+    "skill_description": "Managing the GPTW certification process including survey execution and action planning.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Employee Satisfaction Survey Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing annual satisfaction surveys and translating results into targeted employee experience improvements.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Manager Effectiveness Survey",
+    "skill_category": "Domain",
+    "skill_description": "Measuring manager quality and effectiveness through upward feedback surveys and development actions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Mental Health and EAP Programme Management",
+    "skill_category": "Domain",
+    "skill_description": "Implementing Employee Assistance Programmes and mental health support for the workforce.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Diversity, Equity and Inclusion (DEI) Metrics",
+    "skill_category": "Domain",
+    "skill_description": "Tracking and reporting on gender, disability, and inclusion metrics to drive DEI accountability.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Women in Leadership Programme",
+    "skill_category": "Domain",
+    "skill_description": "Designing targeted development and sponsorship programmes to advance women into leadership roles.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Return to Work Programme (Maternity, Illness)",
+    "skill_category": "Domain",
+    "skill_description": "Designing structured return-to-work support for employees returning from maternity or extended leave.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Mergers and Acquisitions HR Integration",
+    "skill_category": "Domain",
+    "skill_description": "Managing HR workstreams in M&A including cultural alignment, benefit harmonisation, and retention.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Organisation Restructuring",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing workforce restructuring including redeployment, voluntary separation, and communication.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Role Clarity and Accountability Framework",
+    "skill_category": "Domain",
+    "skill_description": "Establishing clear role definitions, ownership maps, and RACI matrices to improve organisational effectiveness.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Digital Transformation",
+    "skill_category": "Domain",
+    "skill_description": "Leading the adoption of HR technology, automation, and data systems to modernise the HR function.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Process Standardisation and SOP Design (HR)",
+    "skill_category": "Domain",
+    "skill_description": "Documenting and standardising HR processes through structured SOPs for consistent service delivery.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Span of Control Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating management spans and layers to optimise organisational structure and decision speed.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Headcount and Cost Modelling",
+    "skill_category": "Domain",
+    "skill_description": "Modelling workforce headcount, employee costs, and HR budget scenarios for business planning.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Springboard (Payroll Software India)",
+    "skill_category": "Technical",
+    "skill_description": "Processing payroll and managing statutory compliance using Springboard payroll software in India.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Qandle",
+    "skill_category": "Technical",
+    "skill_description": "Managing HR operations including payroll, attendance, and performance using Qandle HRMS.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "factoHR",
+    "skill_category": "Technical",
+    "skill_description": "Using factoHR for payroll, attendance, leave management, and ESS (Employee Self Service) in India.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Adrenalin HCM",
+    "skill_category": "Technical",
+    "skill_description": "Using Adrenalin HCM for workforce management, talent, and payroll in large Indian enterprises.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Zimyo HRMS",
+    "skill_category": "Technical",
+    "skill_description": "Managing payroll, attendance, and HR operations using Zimyo, an Indian HRMS for SMEs.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "RazorpayX Payroll",
+    "skill_category": "Technical",
+    "skill_description": "Processing payroll and managing compliance filings using RazorpayX Payroll for Indian startups.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Multiplier (Global Payroll)",
+    "skill_category": "Technical",
+    "skill_description": "Managing global payroll, employment contracts, and compliance for international hires using Multiplier.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Deel (Global HR)",
+    "skill_category": "Technical",
+    "skill_description": "Managing contractor payments, international employee payroll, and compliance using Deel.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Darwinbox Analytics",
+    "skill_category": "Technical",
+    "skill_description": "Using Darwinbox's built-in analytics module for people insights, talent trends, and HR reporting.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Zoho Analytics (HR)",
+    "skill_category": "Technical",
+    "skill_description": "Building HR dashboards and workforce reports by connecting Zoho People to Zoho Analytics.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "LinkedIn Talent Insights",
+    "skill_category": "Technical",
+    "skill_description": "Using LinkedIn Talent Insights for workforce planning, talent pool analysis, and competitive benchmarking.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Applicant Tracking System (ATS) Administration",
+    "skill_category": "Technical",
+    "skill_description": "Configuring, maintaining, and training users on the organisation's ATS platform.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HireVue (AI Video Interviewing)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using HireVue's AI video interviewing platform for candidate screening and asynchronous interviews.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Paradox AI (Olivia Chatbot)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Paradox AI's Olivia chatbot to automate candidate screening, scheduling, and FAQ responses.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Harver (AI Pre-Employment Assessment)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Harver's AI-powered assessments (including former Pymetrics neuroscience games) for unbiased candidate screening.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Process Orientation",
+    "skill_category": "Foundational",
+    "skill_description": "Following structured HR processes consistently while maintaining flexibility for individual employee needs.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Networking and Talent Market Knowledge",
+    "skill_category": "Foundational",
+    "skill_description": "Building external professional networks to stay connected with talent markets and HR best practices.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Commercial Awareness (HR)",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding business models, revenue drivers, and cost structures to provide commercially relevant HR advice.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Self-Management and Accountability",
+    "skill_category": "Foundational",
+    "skill_description": "Taking ownership of HR deliverables, meeting deadlines, and following through without supervision.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Creativity in Problem Solving",
+    "skill_category": "Foundational",
+    "skill_description": "Generating innovative HR solutions for recruitment, engagement, and compliance challenges.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Digital Literacy",
+    "skill_category": "Foundational",
+    "skill_description": "Comfortably using HRMS, analytics tools, and digital platforms to execute HR tasks efficiently.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Inclusion and Belonging",
+    "skill_category": "Foundational",
+    "skill_description": "Creating environments where all employees feel valued, respected, and able to contribute fully.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Facilitation Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Facilitating HR workshops, town halls, focus groups, and training sessions effectively.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Accountability and Ownership",
+    "skill_category": "Foundational",
+    "skill_description": "Taking responsibility for the outcomes of HR processes and following through on commitments.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Agility and Speed",
+    "skill_category": "Foundational",
+    "skill_description": "Moving quickly to execute hiring, compliance, and HR process changes in fast-paced environments.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Social Recruiting",
+    "skill_category": "Domain",
+    "skill_description": "Leveraging LinkedIn, Twitter/X, and Instagram to attract and engage candidates for open positions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Employee Value Proposition (EVP) Development",
+    "skill_category": "Domain",
+    "skill_description": "Defining the unique benefits and experiences the organisation offers to attract and retain talent.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Talent Community Management",
+    "skill_category": "Domain",
+    "skill_description": "Building and nurturing talent communities of potential candidates for future hiring needs.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Recruitment Marketing",
+    "skill_category": "Domain",
+    "skill_description": "Using marketing techniques including content, SEO, and paid media to attract candidates.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Assessment Centre Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing multi-method assessment centres using group exercises, presentations, and psychometrics.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Aptitude Test Design and Administration",
+    "skill_category": "Domain",
+    "skill_description": "Selecting and administering cognitive ability and aptitude tests for screening and selection.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Situational Judgment Test (SJT) Design",
+    "skill_category": "Domain",
+    "skill_description": "Creating situational judgment assessments to evaluate candidates' decision-making in realistic scenarios.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Offer Acceptance Rate Improvement",
+    "skill_category": "Domain",
+    "skill_description": "Analysing and improving the percentage of candidates who accept job offers through process and package design.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Recruitment Budget Management",
+    "skill_category": "Domain",
+    "skill_description": "Planning and managing recruitment spend across portals, agencies, assessments, and employer brand.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Hiring Manager Collaboration",
+    "skill_category": "Domain",
+    "skill_description": "Working with hiring managers to align on JD, interview process, and selection criteria for each role.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Compensation Benchmarking (Mercer, Aon, WTW)",
+    "skill_category": "Domain",
+    "skill_description": "Using Mercer, Aon, and Willis Towers Watson compensation surveys to benchmark and price roles.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Compensation Philosophy Development",
+    "skill_category": "Domain",
+    "skill_description": "Defining the organisation's pay positioning strategy — lead, lag, or match the market.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Pay Band Design",
+    "skill_category": "Domain",
+    "skill_description": "Creating minimum, midpoint, and maximum pay ranges for each grade in the salary structure.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Compa-Ratio Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Calculating and interpreting compa-ratios to assess how individuals are positioned within their pay bands.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Annual Compensation Review (ACR) Process",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing the annual compensation review cycle including calibration and merit budget allocation.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Short-Term Incentive (STI) Plan Administration",
+    "skill_category": "Domain",
+    "skill_description": "Administering quarterly and annual bonus schemes including eligibility, payout calculation, and communication.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Sales Incentive Plan (SIP) Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing sales commission structures, quotas, and accelerators to drive commercial performance.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Equity Compensation (RSU, Stock Options)",
+    "skill_category": "Domain",
+    "skill_description": "Administering RSUs, stock options, and equity grant programmes for employee ownership.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Employee Master Data Management",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining accurate, complete, and secure employee records in HRMS across all lifecycle stages.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Service Delivery",
+    "skill_category": "Domain",
+    "skill_description": "Delivering consistent HR services to employees including query resolution, letter issuance, and documentation.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR SLA Management",
+    "skill_category": "Domain",
+    "skill_description": "Defining and tracking HR service level agreements for response times and process completion.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Vendor Management (HR)",
+    "skill_category": "Domain",
+    "skill_description": "Managing HR service vendors including staffing agencies, payroll processors, and assessment providers.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Manpower Requisition Process",
+    "skill_category": "Domain",
+    "skill_description": "Managing the formal headcount approval and manpower requisition process from business request to hiring.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Joining Formalities and Documentation",
+    "skill_category": "Domain",
+    "skill_description": "Collecting and verifying all pre-joining and joining documents including ID proofs and educational certificates.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Employee ID and System Access Management",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating employee ID creation, IT access provisioning, and system onboarding on day one.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Leave Policy Administration",
+    "skill_category": "Domain",
+    "skill_description": "Managing leave types, accrual rules, carry-forward policies, and employee leave balances.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Attendance and Time Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing biometric systems, attendance records, and shift schedules for payroll accuracy.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR MIS Reporting",
+    "skill_category": "Domain",
+    "skill_description": "Preparing monthly HR MIS reports covering headcount, attrition, hiring, absenteeism, and costs.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Employment Contract Management",
+    "skill_category": "Domain",
+    "skill_description": "Drafting, reviewing, and maintaining employment agreements, addendums, and contract renewals.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Trade Union Negotiation",
+    "skill_category": "Domain",
+    "skill_description": "Negotiating collective bargaining agreements with trade unions on wages, benefits, and working conditions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Wage Settlement and Long-Term Agreement",
+    "skill_category": "Domain",
+    "skill_description": "Negotiating and executing long-term wage settlements and charters of demand with unions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Works Committee and Joint Consultation",
+    "skill_category": "Domain",
+    "skill_description": "Managing statutory works committees and joint consultation mechanisms for employee-employer dialogue.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Conciliation and Labour Court Proceedings",
+    "skill_category": "Domain",
+    "skill_description": "Representing the organisation in labour conciliation proceedings and court matters.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Competency-Based Learning",
+    "skill_category": "Domain",
+    "skill_description": "Designing learning programmes mapped to specific competency profiles required for role effectiveness.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Learning ROI Measurement",
+    "skill_category": "Domain",
+    "skill_description": "Measuring the business impact and financial return of training investments using L3 and L4 evaluation.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Functional Training Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing domain-specific training for finance, operations, sales, and technical functions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "External Training Vendor Management",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, evaluating, and managing external training vendors and certification partners.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Upskilling and Reskilling Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Building programmes to prepare the workforce for evolving skill requirements and technology adoption.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Attrition Modelling",
+    "skill_category": "Domain",
+    "skill_description": "Building statistical models to identify flight risk employees and predict voluntary turnover patterns.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Recruitment Analytics",
+    "skill_category": "Domain",
+    "skill_description": "Tracking and analysing sourcing channel effectiveness, cost-per-hire, and recruiter productivity metrics.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Employee Lifecycle Analytics",
+    "skill_category": "Domain",
+    "skill_description": "Analysing key milestones from hire to exit to identify patterns that improve talent outcomes.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Diversity Analytics",
+    "skill_category": "Domain",
+    "skill_description": "Tracking gender, representation, and inclusion metrics to measure DEI programme effectiveness.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Cost and Productivity Analytics",
+    "skill_category": "Domain",
+    "skill_description": "Analysing cost-per-hire, cost-of-vacancy, revenue-per-employee, and HR ROI metrics.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Engagement Survey Analytics",
+    "skill_category": "Domain",
+    "skill_description": "Analysing engagement survey data by segment, driver, and trend to prioritise action planning.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Provident Fund (PF) Withdrawal and Transfer",
+    "skill_category": "Domain",
+    "skill_description": "Assisting employees with PF withdrawal, UAN transfer, and Form 31 and 19 processes.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "UAN (Universal Account Number) Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing employee UAN activation, KYC linking, and PF account portability across employers.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "ESI Dispensary and Claim Facilitation",
+    "skill_category": "Domain",
+    "skill_description": "Helping employees access ESI medical facilities, filing claims, and resolving ESI-related queries.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Labour Inspector Visit Management",
+    "skill_category": "Domain",
+    "skill_description": "Preparing for and managing statutory labour inspection visits with all required registers and documents.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Bonus Calculation (Minimum Bonus and Allocable Surplus)",
+    "skill_category": "Domain",
+    "skill_description": "Computing statutory bonus based on allocable surplus and minimum bonus thresholds under the Act.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Leave Encashment Tax Planning",
+    "skill_category": "Domain",
+    "skill_description": "Computing taxability of leave encashment on resignation and retirement under Income Tax Act provisions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Superannuation Fund Administration",
+    "skill_category": "Domain",
+    "skill_description": "Administering employer superannuation benefit schemes for eligible employees as retirement benefits.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "National Pension System (NPS) Tier 1 and 2",
+    "skill_category": "Domain",
+    "skill_description": "Enrolling employees in NPS, managing contributions, and advising on Tier 1 and Tier 2 accounts.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Legal Documentation",
+    "skill_category": "Domain",
+    "skill_description": "Drafting legally compliant HR documents including appointment letters, warning letters, and termination orders.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Labour Compliance Audit",
+    "skill_category": "Domain",
+    "skill_description": "Auditing contractor and subcontractor compliance with PF, ESI, minimum wages, and labour laws.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Biometric Attendance System Management",
+    "skill_category": "Technical",
+    "skill_description": "Managing biometric devices, integrating attendance data with payroll, and troubleshooting attendance records.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Excel Power Query (HR Data)",
+    "skill_category": "Technical",
+    "skill_description": "Using Excel Power Query to clean, transform, and consolidate HR data from multiple sources.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Microsoft Forms",
+    "skill_category": "Technical",
+    "skill_description": "Creating HR data collection forms, onboarding surveys, and compliance acknowledgements using Microsoft Forms.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Canva (HR Communications)",
+    "skill_category": "Technical",
+    "skill_description": "Designing employee communication visuals, announcement posts, and HR presentation templates using Canva.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "WhatsApp Business (HR Communication)",
+    "skill_category": "Technical",
+    "skill_description": "Using WhatsApp Business for bulk employee communication, offer updates, and HR notifications.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Airtable (HR Projects)",
+    "skill_category": "Technical",
+    "skill_description": "Managing HR projects, recruitment trackers, and people data using Airtable's flexible database.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "ServiceNow HR Service Delivery",
+    "skill_category": "Technical",
+    "skill_description": "Managing HR service requests, case management, and employee journey workflows using ServiceNow.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Workday Recruiting",
+    "skill_category": "Technical",
+    "skill_description": "Managing job requisitions, candidate tracking, and offer management within Workday Recruiting module.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "SAP SuccessFactors Learning",
+    "skill_category": "Technical",
+    "skill_description": "Administering learning content, assigning courses, and tracking completions on SAP SuccessFactors LMS.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "LinkedIn Recruiter Lite",
+    "skill_category": "Technical",
+    "skill_description": "Sourcing candidates, sending InMails, and tracking outreach using LinkedIn Recruiter Lite.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "JobDiva",
+    "skill_category": "Technical",
+    "skill_description": "Managing staffing and recruitment operations for placement agencies using JobDiva ATS.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Bullhorn CRM (Staffing)",
+    "skill_category": "Technical",
+    "skill_description": "Managing candidate and client relationships for staffing and RPO operations using Bullhorn.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Eightfold AI (Talent Intelligence)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Eightfold AI for AI-powered talent matching, skills inference, and internal mobility recommendations.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Beamery (Talent CRM)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Beamery's AI-powered talent CRM for candidate relationship management and pipeline nurturing.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Visier (People Analytics AI)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Visier's AI-powered people analytics platform for workforce insights, predictions, and benchmarking.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Kore.ai (HR Chatbot)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Deploying Kore.ai HR chatbots to automate employee queries on leave, payroll, and policy questions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Copilot in Word (Microsoft 365)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using AI in Microsoft Word to draft HR policies, employment contracts, and communication templates.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Systems Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding how HR decisions create system-wide effects on culture, performance, and retention.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Curiosity and Learning Agility",
+    "skill_category": "Foundational",
+    "skill_description": "Actively seeking new HR knowledge, tools, and practices to stay ahead in a rapidly changing field.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Emotional Regulation",
+    "skill_category": "Foundational",
+    "skill_description": "Managing personal emotions while handling difficult HR conversations, terminations, and sensitive situations.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Trustworthiness and Reliability",
+    "skill_category": "Foundational",
+    "skill_description": "Consistently following through on commitments and building trust as the cornerstone of the HR role.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Cross-Functional Collaboration",
+    "skill_category": "Foundational",
+    "skill_description": "Working effectively with Finance, Legal, IT, and Operations to deliver seamless HR services.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Report Writing (HR)",
+    "skill_category": "Foundational",
+    "skill_description": "Writing structured HR reports, policy documents, and management briefs with clarity and precision.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Policy Communication",
+    "skill_category": "Domain",
+    "skill_description": "Communicating new and updated HR policies effectively to all employees through appropriate channels.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Code of Conduct Implementation",
+    "skill_category": "Domain",
+    "skill_description": "Rolling out, training, and monitoring adherence to the organisation's code of conduct and ethics policy.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Background Check Policy Design",
+    "skill_category": "Domain",
+    "skill_description": "Defining background verification standards by role level and employment category.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Drug and Alcohol Testing Policy",
+    "skill_category": "Domain",
+    "skill_description": "Designing and implementing pre-employment and random drug testing policies for regulated industries.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Non-Solicitation and IP Protection Clauses",
+    "skill_category": "Domain",
+    "skill_description": "Drafting employment clauses protecting company IP, client relationships, and competitive information.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Risk Management",
+    "skill_category": "Domain",
+    "skill_description": "Identifying and mitigating people-related risks including compliance gaps, key person dependency, and fraud.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Workforce Diversity Reporting",
+    "skill_category": "Domain",
+    "skill_description": "Preparing mandatory and voluntary diversity reports covering gender, disability, and inclusion metrics.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "ESOP Trust and Registry Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing ESOP trust deeds, employee option registers, and SEBI disclosure requirements.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Retention Bonus Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing time-bound retention incentives with clawback provisions to retain critical talent.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Deferred Compensation Planning",
+    "skill_category": "Domain",
+    "skill_description": "Designing deferred pay and bonus schemes aligned with employee retention and tax efficiency.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Communication Planning",
+    "skill_category": "Domain",
+    "skill_description": "Planning the annual HR communications calendar covering appraisals, benefits, policy changes, and engagement.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Annual Reporting",
+    "skill_category": "Domain",
+    "skill_description": "Preparing the HR section of annual reports including workforce data, training metrics, and DEI disclosures.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Freelancer and Consultant Engagement Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing independent contractor agreements, TDS on fees, and compliance under labour laws.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "International Assignment Policy",
+    "skill_category": "Domain",
+    "skill_description": "Designing policies governing home-host compensation, tax equalisation, and benefits for expat assignments.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Cross-Cultural Competence Training",
+    "skill_category": "Domain",
+    "skill_description": "Designing training to help employees work effectively across cultural boundaries in global organisations.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Psychological Safety Building",
+    "skill_category": "Domain",
+    "skill_description": "Creating team cultures where employees feel safe to speak up, take risks, and raise concerns.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Manager Capability Building",
+    "skill_category": "Domain",
+    "skill_description": "Designing programmes to build first-time manager and people manager effectiveness across the organisation.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Benchmarking",
+    "skill_category": "Domain",
+    "skill_description": "Comparing HR metrics and practices against industry benchmarks to identify improvement opportunities.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Budget Variance Analysis (HR)",
+    "skill_category": "Domain",
+    "skill_description": "Analysing HR budget versus actual spend on headcount, recruitment, training, and benefits.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Employment Law Updates and Advisory",
+    "skill_category": "Domain",
+    "skill_description": "Tracking amendments to labour laws and advising the business on compliance implications and actions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Project Management",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing HR programmes including system implementations, culture initiatives, and policy rollouts.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Transformation and Capability Building",
+    "skill_category": "Domain",
+    "skill_description": "Improving the HR function's own capability through process redesign, upskilling, and technology adoption.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Employee Experience (EX) Design",
+    "skill_category": "Domain",
+    "skill_description": "Mapping and improving the end-to-end employee journey from candidate through alumni stage.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Employer of Record (EOR) Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing EOR arrangements for international or remote employees where the company is not the legal employer.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Payroll Reconciliation",
+    "skill_category": "Domain",
+    "skill_description": "Reconciling payroll outputs against HRMS data, bank records, and statutory filings for accuracy.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Salary Slip and Payslip Generation",
+    "skill_category": "Domain",
+    "skill_description": "Generating accurate, compliant pay slips containing all statutory deductions and allowance breakdowns.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Expat and Foreign National Employment Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Managing work visa, FRRO registration, and income tax compliance for foreign employees in India.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "STPI and SEZ HR Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Managing HR compliance for companies operating within STPI and SEZ frameworks with specific exemptions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR KPIs and Scorecard Design",
+    "skill_category": "Domain",
+    "skill_description": "Defining and tracking HR function performance metrics aligned with business and people strategy.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Data Quality and HRMS Hygiene",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining data accuracy, completeness, and consistency in HRMS for reliable analytics and compliance.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Process Automation",
+    "skill_category": "Domain",
+    "skill_description": "Identifying and implementing automation opportunities in HR workflows using RPA, chatbots, and workflow tools.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Workforce Cost Optimisation",
+    "skill_category": "Domain",
+    "skill_description": "Identifying opportunities to reduce people costs through structure, outsourcing, and policy design.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Strategic Workforce Planning (SWP)",
+    "skill_category": "Domain",
+    "skill_description": "Aligning long-term workforce supply and demand with 3-5 year business growth plans.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Competency Assessment and Gap Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Assessing current workforce competency levels against future role requirements to identify gaps.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Job Matching and Skills-Based Hiring",
+    "skill_category": "Domain",
+    "skill_description": "Shifting from credentials-based to skills-based hiring practices for more equitable and effective selection.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Vendor Evaluation and RFP",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating HRMS, payroll, and assessment vendors through structured RFP processes.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "New Joinee Survey and Early Attrition Prevention",
+    "skill_category": "Domain",
+    "skill_description": "Surveying new hires at 30-60-90 days to identify integration gaps and prevent early attrition.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Communication Campaign Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing multi-channel communication campaigns for open enrolment, policy changes, and culture initiatives.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Critical Role Identification",
+    "skill_category": "Domain",
+    "skill_description": "Identifying roles with disproportionate strategic impact or scarce talent supply for prioritised retention.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Knowledge Transfer and Retention (Before Exit)",
+    "skill_category": "Domain",
+    "skill_description": "Designing structured knowledge handover processes for departing employees to preserve institutional knowledge.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Bamboo HR Reporting",
+    "skill_category": "Technical",
+    "skill_description": "Building custom HR reports, headcount analysis, and people data exports using BambooHR's reporting module.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "SmartRecruiters",
+    "skill_category": "Technical",
+    "skill_description": "Managing collaborative hiring, job posting, and candidate workflow using SmartRecruiters ATS.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Korn Ferry Reward (Compensation Benchmarking Tool)",
+    "skill_category": "Technical",
+    "skill_description": "Using Korn Ferry Reward's compensation benchmarking platform to price roles and design pay structures using global and India survey data.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Looker Studio (HR Analytics)",
+    "skill_category": "Technical",
+    "skill_description": "Building connected HR dashboards and workforce reports using Looker Studio.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "SAP Analytics Cloud (HR)",
+    "skill_category": "Technical",
+    "skill_description": "Using SAP Analytics Cloud for workforce planning, people analytics, and HR reporting.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Workday Prism Analytics",
+    "skill_category": "Technical",
+    "skill_description": "Combining Workday HR data with external data in Workday Prism for advanced workforce analytics.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "RChilli Resume Parser",
+    "skill_category": "Technical",
+    "skill_description": "Using RChilli's AI-powered resume parsing to extract structured data from candidate resumes.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Naukri FastForward",
+    "skill_category": "Technical",
+    "skill_description": "Managing enterprise recruitment solutions and hiring analytics using Naukri's FastForward products.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Indeed Assessment Tools",
+    "skill_category": "Technical",
+    "skill_description": "Using Indeed's built-in assessment tools for skills-based screening of job applicants.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Zoom (Virtual Hiring Events)",
+    "skill_category": "Technical",
+    "skill_description": "Organising virtual hiring fairs, campus recruitment events, and walk-in interviews using Zoom.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Microsoft Power Automate (HR)",
+    "skill_category": "Technical",
+    "skill_description": "Automating HR processes including offer approvals, onboarding tasks, and compliance reminders using Power Automate.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Data Security and Access Control",
+    "skill_category": "Domain",
+    "skill_description": "Implementing role-based access to sensitive HR data and ensuring data security compliance.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Employment Reference Check Process",
+    "skill_category": "Domain",
+    "skill_description": "Conducting structured reference checks with former managers to validate candidate performance and conduct.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Probation Period Management",
+    "skill_category": "Domain",
+    "skill_description": "Monitoring new hire progress during probation and processing confirmation or extension decisions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Confirmation Letter and Appraisal Letters",
+    "skill_category": "Domain",
+    "skill_description": "Preparing employee confirmation, increment, promotion, and transfer letters with accurate details.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Promotion and Transfer Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing the documentation, communication, and system updates for employee promotions and transfers.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Workforce Reporting to Management",
+    "skill_category": "Domain",
+    "skill_description": "Preparing weekly, monthly, and quarterly people dashboards for CHRO and business leadership.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Manpower Cost Budgeting",
+    "skill_category": "Domain",
+    "skill_description": "Preparing annual manpower cost budgets covering salaries, benefits, recruitment, and training costs.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HRIS Data Migration",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing employee data migration during HRMS implementation or system change.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Chatbot and Self-Service Implementation",
+    "skill_category": "Domain",
+    "skill_description": "Deploying employee self-service portals and HR chatbots to reduce HR query volumes.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Pay Transparency Policy",
+    "skill_category": "Domain",
+    "skill_description": "Designing and implementing pay transparency policies in line with emerging Indian and global standards.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "ESG Workforce Reporting (BRSR)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing workforce disclosures for Business Responsibility and Sustainability Reports under SEBI mandate.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Due Diligence (M&A)",
+    "skill_category": "Domain",
+    "skill_description": "Reviewing target company HR practices, liabilities, and compliance gaps during M&A due diligence.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Talent Acquisition Technology Evaluation",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating and selecting ATS, sourcing tools, and assessment platforms for recruitment efficiency.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Offboarding Checklist Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing structured employee offboarding including asset return, access revocation, and knowledge transfer.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Contractor Onboarding and Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Managing documentation, access, and statutory compliance for contract and third-party staff.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR SOP Development",
+    "skill_category": "Domain",
+    "skill_description": "Writing detailed standard operating procedures for all HR processes from hire to retire.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Line Manager Effectiveness Coaching",
+    "skill_category": "Domain",
+    "skill_description": "Coaching managers on performance conversations, team management, and people development best practices.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Annual Human Capital Report Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Compiling the annual HR report for board and leadership covering people strategy and metrics.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Workforce Segmentation by Risk and Value",
+    "skill_category": "Domain",
+    "skill_description": "Classifying employees by retention risk and business value to prioritise HR interventions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Employee Lifecycle Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing the complete employee journey from pre-hire through separation with consistent HR touch points.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Interview Panel Training",
+    "skill_category": "Domain",
+    "skill_description": "Training interviewers on structured, bias-free assessment techniques and legal compliance in hiring.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Anti-Discrimination Policy Implementation",
+    "skill_category": "Domain",
+    "skill_description": "Designing and enforcing policies that prevent workplace discrimination based on protected characteristics.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Labour Law Poster and Notice Board Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring statutory notices, wage boards, and compliance posters are displayed as required by law.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Work From Home and Hybrid Policy Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing and implementing remote work and hybrid work policies with clear eligibility and productivity norms.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Employee Assistance Programme (EAP) Management",
+    "skill_category": "Domain",
+    "skill_description": "Contracting, promoting, and managing EAP services covering mental health, legal, and financial counselling.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Budgeting and Cost Control",
+    "skill_category": "Domain",
+    "skill_description": "Managing the HR function's operational budget across people costs, vendors, and programmes.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Talent Review and Calibration Sessions",
+    "skill_category": "Domain",
+    "skill_description": "Facilitating cross-function talent review meetings to assess performance, potential, and succession readiness.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Compensation Survey Data Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Analysing third-party salary survey data to derive market pay ranges and recommend pay adjustments.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Trakstar (Performance Management)",
+    "skill_category": "Technical",
+    "skill_description": "Managing performance reviews, goal tracking, and 360 feedback using Trakstar performance management tool.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HiredScore (AI Recruiter)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using HiredScore's AI to grade and prioritise candidates from existing talent pools.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Poppulo (Employee Communications)",
+    "skill_category": "Technical",
+    "skill_description": "Sending targeted, measurable internal communications and digital signage using Poppulo.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Loom (HR Video Messages)",
+    "skill_category": "Technical",
+    "skill_description": "Recording asynchronous HR video messages for onboarding, policy updates, and team communications.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Udemy Business",
+    "skill_category": "Technical",
+    "skill_description": "Curating and assigning workplace learning courses to employees using Udemy Business.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Skillsoft",
+    "skill_category": "Technical",
+    "skill_description": "Accessing and managing corporate digital learning courses using Skillsoft's platform.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "ClearTax Payroll",
+    "skill_category": "Technical",
+    "skill_description": "Processing payroll and managing Form 16, TDS, and statutory returns using ClearTax Payroll.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Leena AI (HR Helpdesk)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Leena AI's HR virtual assistant to automate employee query resolution and self-service.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Fetcher AI (Recruiting)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Fetcher's AI to automatically source and engage passive candidates from the web.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Companies Act 2013 (HR Compliance)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding HR-related provisions of Companies Act 2013 including employment disclosures, board-level HR, and CSR obligations.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Naukri Resdex (Resume Database Search)",
+    "skill_category": "Technical",
+    "skill_description": "Searching and accessing Naukri's paid Resdex resume database to source and shortlist candidates.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Background Check Adjudication",
+    "skill_category": "Domain",
+    "skill_description": "Reviewing flagged background verification results and making compliant, consistent adjudication decisions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Paternity Leave Policy Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing company paternity leave policies that complement statutory provisions and support working fathers.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "POSH ICC Annual Report Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing the mandatory annual Internal Complaints Committee report as required under the POSH Act.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Form 11 (EPFO New Joiner Declaration)",
+    "skill_category": "Domain",
+    "skill_description": "Collecting and submitting Form 11 from new employees for EPFO membership declaration and UAN linking.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Form F (Gratuity Nomination)",
+    "skill_category": "Domain",
+    "skill_description": "Collecting Form F gratuity nominee declarations from all eligible employees as required under the Gratuity Act.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Occupational Health and Safety (OHS) Management",
+    "skill_category": "Domain",
+    "skill_description": "Implementing workplace safety standards, incident reporting, and OHS compliance under the Factories Act and OSH Code.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Advance Salary and Loan Deduction Management",
+    "skill_category": "Domain",
+    "skill_description": "Processing employee salary advances, EMI deductions, and loan recoveries accurately through payroll.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Self-Appraisal Process Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing the employee self-assessment component of performance reviews for reflection and goal alignment.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Goal Setting Framework (SMART Goals)",
+    "skill_category": "Domain",
+    "skill_description": "Training managers and employees to set Specific, Measurable, Achievable, Relevant, and Time-bound goals.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Promotion Criteria and Policy Design",
+    "skill_category": "Domain",
+    "skill_description": "Defining transparent promotion eligibility criteria, processes, and communication to ensure fairness and consistency.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Gamification in Learning Design",
+    "skill_category": "Domain",
+    "skill_description": "Applying game mechanics — points, badges, leaderboards — to enhance employee learning engagement and completion.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Social Learning and Communities of Practice",
+    "skill_category": "Domain",
+    "skill_description": "Facilitating peer-to-peer knowledge sharing through forums, communities of practice, and social learning platforms.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Employee Self-Service (ESS) Portal Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing employee self-service portals enabling staff to view payslips, apply for leave, and update personal details.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "HR Letter Templates and Automation",
+    "skill_category": "Domain",
+    "skill_description": "Creating standardised HR letter templates and automating issuance of offer, confirmation, and increment letters.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Shift Roster and Schedule Management",
+    "skill_category": "Domain",
+    "skill_description": "Planning, publishing, and managing shift rosters for manufacturing, BPO, retail, and operations employees.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "AI Literacy for HR Professionals",
+    "skill_category": "Domain",
+    "skill_description": "Understanding AI capabilities, limitations, and ethics to evaluate AI-powered HR tools and make informed adoption decisions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Prompt Engineering for HR Tasks",
+    "skill_category": "Domain",
+    "skill_description": "Writing effective prompts for AI tools like ChatGPT and Claude to generate JDs, HR policies, and survey questions.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Assertiveness in HR",
+    "skill_category": "Foundational",
+    "skill_description": "Communicating HR policies, delivering difficult feedback, and enforcing boundaries professionally and confidently.",
+    "job_families": [
+      5
+    ]
+  },
+  {
+    "skill_name": "Numeracy and Financial Literacy (HR)",
+    "skill_category": "Foundational",
+    "skill_description": "Interpreting payroll numbers, HR budgets, manpower costs, and compensation data with accuracy.",
+    "job_families": [
+      5
+    ]
+  }
+]

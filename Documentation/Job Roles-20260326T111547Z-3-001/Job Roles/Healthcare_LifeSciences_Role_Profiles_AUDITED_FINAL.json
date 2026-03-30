@@ -1,0 +1,1820 @@
+[
+  {
+    "role_name": "Clinical Research Associate",
+    "job_family": "Healthcare and Life Sciences",
+    "domain_skills": [
+      {
+        "skill_name": "Site Initiation Visit (SIV) Conduct",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Protocol Deviation Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Informed Consent Process",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Case Report Form (CRF) Completion and Review",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Clinical Trial Site Management and Oversight",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Trial Master File (eTMF) Maintenance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Good Clinical Practice (GCP) Guidelines",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Clinical Monitoring (Source Data Verification)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Clinical Trial Management System (CTMS)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Medidata Rave (EDC)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Oracle Clinical / Oracle Inform",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Elsevier ClinicalKey AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Critical Thinking and Evidence-Based Practice",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Confidentiality and Professional Ethics",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 35,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "Elsevier ClinicalKey AI assists CRAs in reviewing clinical literature, protocol updates, and adverse event reports efficiently. ChatGPT and Perplexity AI support drafting monitoring visit reports, site correspondence, and deviation narratives. AI-powered risk-based monitoring platforms increasingly flag data anomalies and prioritise site visits, reducing on-site monitoring burden.",
+    "human_value_tasks": "CRAs build trust-based relationships with principal investigators and site coordinators that enable open reporting of issues and protocol deviations — interpersonal credibility AI cannot establish. They make on-site clinical judgements about subject eligibility, consent quality, and safety reporting that require professional accountability. Regulatory submissions depend on CRA certification of data integrity, requiring human professional accountability and legal standing.",
+    "salary_range_low": 400000,
+    "salary_range_high": 1000000,
+    "salary_progression": {
+      "year_0_1": "4-7 lakh",
+      "year_2_3": "8-15 lakh",
+      "year_4_5": "15-25 lakh",
+      "year_6_plus": "25-50 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "PG,UG"
+  },
+  {
+    "role_name": "Pharmacovigilance Associate",
+    "job_family": "Healthcare and Life Sciences",
+    "domain_skills": [
+      {
+        "skill_name": "Periodic Safety Update Report (PSUR)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Medical Coding (MedDRA, WHO Drug Dictionary)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ICSR Triage and Case Processing Workflow",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Literature Safety Surveillance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Aggregate Safety Report Writing (DSUR, PBRER)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Pharmacovigilance (PV)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Individual Case Safety Report (ICSR) Processing",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "ARGUS Safety (Oracle)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ArisGlobal LifeSphere Safety",
+        "importance": "High"
+      },
+      {
+        "skill_name": "MedWatch / VIGIBASE (Pharmacovigilance Reporting)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "IBM Micromedex (Drug Information AI)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Elsevier ClinicalKey AI",
+        "importance": "High"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Critical Thinking and Evidence-Based Practice",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 50,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "IBM Micromedex and Elsevier ClinicalKey AI support case assessment by providing rapid access to drug interaction data, mechanism of action, and published case literature. ChatGPT accelerates drafting of ICSR narratives, aggregate report sections, and correspondence. AI-powered signal detection tools within ARGUS Safety and VigiBase increasingly automate disproportionality analysis and flagging of potential new signals.",
+    "human_value_tasks": "Pharmacovigilance associates make professional medical judgements on case causality, seriousness classification, and expectedness against reference safety information — assessments with direct patient safety implications requiring human accountability. They interpret ambiguous clinical narratives to determine regulatory reportability under evolving Indian CDSCO and ICH E2A requirements. Aggregate safety analyses require synthesis of complex safety data trends that go beyond what AI pattern detection alone can contextualise.",
+    "salary_range_low": 350000,
+    "salary_range_high": 900000,
+    "salary_progression": {
+      "year_0_1": "3.5-6 lakh",
+      "year_2_3": "7-13 lakh",
+      "year_4_5": "13-22 lakh",
+      "year_6_plus": "22-42 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Commonly Remote",
+    "emerging_role_flag": false,
+    "programme_levels": "PG,UG"
+  },
+  {
+    "role_name": "Medical Writer",
+    "job_family": "Healthcare and Life Sciences",
+    "domain_skills": [
+      {
+        "skill_name": "Regulatory Medical Writing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Clinical Study Report (CSR) Writing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Systematic Review and Meta-Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Literature Review and Evidence Synthesis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Good Clinical Practice (GCP) Guidelines",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Scientific Publications and Manuscript Writing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Patient Information Leaflet and Labelling Writing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Regulatory Submission Document Writing (CTD, IND, NDA)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Mendeley",
+        "importance": "High"
+      },
+      {
+        "skill_name": "PubMed and Medical Literature Search",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Word",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Elsevier ClinicalKey AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "High"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Regulatory Writing Skills",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Critical Thinking and Evidence-Based Practice",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 65,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "ChatGPT and Elsevier ClinicalKey AI dramatically accelerate literature synthesis, first-draft section generation, and structured data summarisation for CSRs and regulatory documents. Perplexity AI supports rapid reference checking and evidence triangulation across multiple clinical databases. AI grammar and clarity tools streamline technical writing review, and AI-assisted citation management reduces manual reference formatting time.",
+    "human_value_tasks": "Medical writers interpret complex clinical data and translate it into accurate, unambiguous regulatory language that directly affects drug approval outcomes — professional responsibility AI-generated content cannot assume. They ensure consistency across multi-module regulatory submissions, checking alignment with clinical, statistical, and nonclinical data packages that require deep domain understanding. Author accountability on regulatory documents is a legal and professional requirement that must remain human.",
+    "salary_range_low": 400000,
+    "salary_range_high": 1100000,
+    "salary_progression": {
+      "year_0_1": "4-7 lakh",
+      "year_2_3": "8-16 lakh",
+      "year_4_5": "16-28 lakh",
+      "year_6_plus": "28-55 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Commonly Remote",
+    "emerging_role_flag": false,
+    "programme_levels": "PG,UG"
+  },
+  {
+    "role_name": "Drug Safety Associate",
+    "job_family": "Healthcare and Life Sciences",
+    "domain_skills": [
+      {
+        "skill_name": "Signal Detection and Risk Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Benefit-Risk Assessment",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Drug Safety Narrative Writing and Case Assessment",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Pharmacovigilance System Master File (PSMF)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Literature Safety Surveillance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Pharmacovigilance (PV)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Adverse Event Reporting and Safety Monitoring",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "ARGUS Safety (Oracle)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ArisGlobal LifeSphere Safety",
+        "importance": "High"
+      },
+      {
+        "skill_name": "MedWatch / VIGIBASE (Pharmacovigilance Reporting)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "PubMed and Medical Literature Search",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "IBM Micromedex (Drug Information AI)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Elsevier ClinicalKey AI",
+        "importance": "High"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Confidentiality and Professional Ethics",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 50,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "IBM Micromedex and Elsevier ClinicalKey AI accelerate medical assessment by providing structured drug-event interaction data and published case precedents. ChatGPT assists in drafting safety narratives, regulatory query responses, and aggregate report sections. AI signal detection modules in safety databases are increasingly used to identify disproportionate reporting and emerging safety trends before they reach human reviewers.",
+    "human_value_tasks": "Drug safety associates make regulatory causality determinations and seriousness classifications that directly drive 7-day and 15-day expedited reporting timelines to CDSCO and ICH regulators — decisions with serious patient safety consequences requiring professional accountability. They provide medical opinion on complex multi-drug interactions, underlying disease contributions, and confounding factors that AI tools cannot fully contextualise. Safety Risk Management Plans require human clinical judgment on risk minimisation strategies.",
+    "salary_range_low": 350000,
+    "salary_range_high": 950000,
+    "salary_progression": {
+      "year_0_1": "3.5-6.5 lakh",
+      "year_2_3": "8-14 lakh",
+      "year_4_5": "14-24 lakh",
+      "year_6_plus": "24-48 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Commonly Remote",
+    "emerging_role_flag": false,
+    "programme_levels": "PG,UG"
+  },
+  {
+    "role_name": "Regulatory Affairs Executive",
+    "job_family": "Healthcare and Life Sciences",
+    "domain_skills": [
+      {
+        "skill_name": "Schedule M Compliance (GMP India)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Regulatory Intelligence",
+        "importance": "High"
+      },
+      {
+        "skill_name": "eCTD Compilation and Submission",
+        "importance": "High"
+      },
+      {
+        "skill_name": "CDSCO Drug Approval Process and Submission Portal",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Drug Master File and EDMF Preparation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Post-Approval Regulatory Lifecycle Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Drug Regulatory Affairs (India — CDSCO)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Common Technical Document (CTD) Dossier Preparation",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Documentum (Regulatory Document Management)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Word",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Elsevier ClinicalKey AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "High"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Regulatory Writing Skills",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 45,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Perplexity AI accelerate drafting of regulatory responses, literature summaries, and gap analyses for dossier preparation. Elsevier ClinicalKey AI supports rapid retrieval of published safety and efficacy data needed for CTD module preparation. AI tools are emerging for automated regulatory intelligence monitoring — tracking CDSCO guidance updates and global regulatory changes in real time.",
+    "human_value_tasks": "Regulatory affairs executives interact directly with CDSCO officers, manage query responses under regulatory timelines, and negotiate submission strategies — professional relationships and negotiating skills AI cannot replicate. They make strategic decisions on development paths, regulatory routes, and label claims that have multi-year business implications. Accountability for the accuracy and completeness of regulatory submissions, which carry legal penalties if incorrect, is a human professional responsibility.",
+    "salary_range_low": 350000,
+    "salary_range_high": 950000,
+    "salary_progression": {
+      "year_0_1": "3.5-6 lakh",
+      "year_2_3": "7-14 lakh",
+      "year_4_5": "14-24 lakh",
+      "year_6_plus": "24-48 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "PG,UG"
+  },
+  {
+    "role_name": "Hospital Administrator",
+    "job_family": "Healthcare and Life Sciences",
+    "domain_skills": [
+      {
+        "skill_name": "Healthcare Revenue Cycle Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Biomedical Waste Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Healthcare Regulatory Compliance (India)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Patient Flow and Bed Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Medical Staff Credentialing and Privileging",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Hospital Operations Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "NABH Accreditation (India)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Hospital Management Information System (HMIS)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "eHospital (NIC)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ayushman Bharat Digital Mission (ABDM) Systems",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Stakeholder Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Decision Making",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 40,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Copilot in Excel assist in preparing NABH documentation, standard operating procedures, and operational performance reports. AI-powered HMIS analytics modules provide real-time bed occupancy dashboards, OT utilisation tracking, and revenue cycle insights. AI tools are beginning to support discharge planning, patient scheduling optimisation, and predictive demand forecasting in larger Indian hospitals.",
+    "human_value_tasks": "Hospital administrators manage complex multi-stakeholder environments — balancing clinical, financial, regulatory, and patient experience priorities simultaneously — requiring experienced human leadership. They handle medical emergencies, staff conflicts, family complaints, and accreditation visits that require immediate human presence and authority. Building the trust of clinical staff, managing physician relations, and leading culture change towards patient safety requires sustained human leadership.",
+    "salary_range_low": 400000,
+    "salary_range_high": 1000000,
+    "salary_progression": {
+      "year_0_1": "4-6.5 lakh",
+      "year_2_3": "8-15 lakh",
+      "year_4_5": "15-25 lakh",
+      "year_6_plus": "25-50 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "PG,MBA"
+  },
+  {
+    "role_name": "Healthcare Quality Analyst",
+    "job_family": "Healthcare and Life Sciences",
+    "domain_skills": [
+      {
+        "skill_name": "Clinical Audit",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Root Cause Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Internal Quality Auditing (ISO 9001)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Patient Safety Incident Reporting and Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Healthcare Quality Indicator Monitoring",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Clinical Policy and SOP Development (Healthcare)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Healthcare Quality Improvement",
+        "importance": "High"
+      },
+      {
+        "skill_name": "NABH Accreditation (India)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Hospital Management Information System (HMIS)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Power BI",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Power BI Copilot",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Confidentiality and Professional Ethics",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 45,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT accelerates drafting of quality policies, audit reports, NABH documentation, and corrective action plans. Copilot in Excel and Power BI Copilot automate quality indicator dashboards, trend analysis, and variance reporting. AI tools are emerging for automated sentinel event detection from HMIS data and real-time infection surveillance alerting.",
+    "human_value_tasks": "Healthcare quality analysts conduct clinical walk-rounds, observe care delivery, and interview frontline staff to identify quality gaps that data systems alone cannot surface. They facilitate root cause analysis sessions with clinical teams, requiring group facilitation skills and clinical sensitivity. NABH accreditation preparation requires sustained engagement with every department, building quality culture through education and persuasion rather than enforcement alone.",
+    "salary_range_low": 350000,
+    "salary_range_high": 850000,
+    "salary_progression": {
+      "year_0_1": "3.5-5.5 lakh",
+      "year_2_3": "6-12 lakh",
+      "year_4_5": "12-20 lakh",
+      "year_6_plus": "20-38 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "PG,UG"
+  },
+  {
+    "role_name": "Lab Technician",
+    "job_family": "Healthcare and Life Sciences",
+    "domain_skills": [
+      {
+        "skill_name": "Quality Control in Clinical Laboratories",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Good Laboratory Practice (GLP)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "NABL Accreditation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Blood Bank Operations",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Clinical Biochemistry Testing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Biomedical Waste Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Specimen Collection and Processing Techniques",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Laboratory Equipment Operation and Maintenance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Laboratory Quality Assurance and Internal Audit",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Laboratory Information Management System (LIMS)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "HPLC (High Performance Liquid Chromatography)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Low"
+      },
+      {
+        "skill_name": "Elsevier ClinicalKey AI",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "PathAI (Computational Pathology)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Confidentiality and Professional Ethics",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Critical Thinking and Evidence-Based Practice",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "Medium"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 30,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "PathAI assists in computational pathology by automating pattern recognition in histology slides, supporting faster and more consistent pathological assessment. Elsevier ClinicalKey AI provides rapid reference for interpreting unusual test results and understanding clinical significance. AI-powered quality monitoring tools within modern LIMS platforms flag quality control failures, outliers, and calibration drift in real time.",
+    "human_value_tasks": "Lab technicians perform specimen collection procedures requiring patient communication, comfort management, and technique precision that directly affects sample quality and patient experience. They troubleshoot instrument failures, investigate unexpected results, and make pre-analytical decisions about specimen acceptability that require practical expertise and judgement. Direct patient-facing sample collection in India requires adaptability to diverse patient demographics, languages, and clinical presentations.",
+    "salary_range_low": 200000,
+    "salary_range_high": 450000,
+    "salary_progression": {
+      "year_0_1": "2-3.2 lakh",
+      "year_2_3": "3.5-5.5 lakh",
+      "year_4_5": "5.5-9 lakh",
+      "year_6_plus": "9-18 lakh"
+    },
+    "english_requirement": "Functional",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG"
+  },
+  {
+    "role_name": "Pharma Sales Executive (MR)",
+    "job_family": "Healthcare and Life Sciences",
+    "domain_skills": [
+      {
+        "skill_name": "Pharmaceutical Sales (Medical Representative)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Key Opinion Leader (KOL) Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Prescription Audit and Market Share Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Schedule H and H1 Drug Prescriptions",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Medical Detailing and Product Presentation Skills",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Pharma Territory Management and Daily Call Planning",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "IMS Health / IQVIA Analytics",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Salesforce CRM",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Zoho CRM",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Microsoft PowerPoint",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Salesforce Einstein",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Negotiation and Persuasion",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Patient Communication and Counselling",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Adaptability and Learning Agility",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 40,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT helps MRs prepare for doctor calls by generating product FAQs, objection-handling scripts, and clinical data summaries. Salesforce Einstein provides AI-powered call prioritisation, next-best-action recommendations, and territory performance insights. AI-driven CLM (Closed Loop Marketing) platforms increasingly personalise digital detailing content for individual doctors based on their prescription patterns.",
+    "human_value_tasks": "Medical representatives build personal, trust-based relationships with doctors that drive prescribing decisions — relationship capital accumulated through sustained face-to-face engagement that AI outreach cannot replicate. They navigate complex prescriber motivations, address clinical concerns about drug efficacy and safety in real time, and adapt their detailing approach to individual physician communication styles. The MR's physical presence at clinics, hospitals, and chemists creates brand visibility and loyalty that digital channels cannot replace in the Indian pharma market.",
+    "salary_range_low": 250000,
+    "salary_range_high": 600000,
+    "salary_progression": {
+      "year_0_1": "2.5-4 lakh (+ incentives)",
+      "year_2_3": "4.5-8 lakh",
+      "year_4_5": "8-14 lakh",
+      "year_6_plus": "14-28 lakh"
+    },
+    "english_requirement": "Functional",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Public Health Analyst",
+    "job_family": "Healthcare and Life Sciences",
+    "domain_skills": [
+      {
+        "skill_name": "Epidemiology and Disease Surveillance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Biostatistics (Clinical Research)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Systematic Review and Meta-Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Literature Review and Evidence Synthesis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Public Health Programme Design and Evaluation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Health Policy Analysis and Advocacy",
+        "importance": "High"
+      },
+      {
+        "skill_name": "IDSP Surveillance System and Outbreak Investigation",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "SPSS",
+        "importance": "High"
+      },
+      {
+        "skill_name": "R Programming (Biostatistics)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "STATA (Biostatistics)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "REDCap (Research Electronic Data Capture)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Elsevier ClinicalKey AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Critical Thinking and Evidence-Based Practice",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Regulatory Writing Skills",
+        "importance": "Medium"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "ChatGPT and Perplexity AI accelerate literature reviews, policy document synthesis, and report drafting for public health research. Elsevier ClinicalKey AI provides rapid access to clinical evidence for health technology assessment and programme evaluation. AI tools in epidemiology are being used for disease outbreak prediction, population health modelling, and automated surveillance data analysis from IDSP feeds.",
+    "human_value_tasks": "Public health analysts design community health interventions that require deep understanding of socioeconomic determinants, cultural barriers, and local health system contexts across India's diverse geography — contextual intelligence AI cannot develop. They engage with government programme officers, district health officials, and community stakeholders to translate data into actionable recommendations. Field data collection supervision and community engagement for health surveys requires physical presence and interpersonal trust-building.",
+    "salary_range_low": 350000,
+    "salary_range_high": 900000,
+    "salary_progression": {
+      "year_0_1": "3.5-6 lakh",
+      "year_2_3": "7-13 lakh",
+      "year_4_5": "13-22 lakh",
+      "year_6_plus": "22-42 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "PG"
+  },
+  {
+    "role_name": "Biomedical Engineer",
+    "job_family": "Healthcare and Life Sciences",
+    "domain_skills": [
+      {
+        "skill_name": "Medical Device Regulation (MDR 2017 India)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Biocompatibility Testing (ISO 10993)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Medical Device Post-Market Surveillance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Good Manufacturing Practice (GMP)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Biomedical Equipment Preventive Maintenance and Calibration",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Medical Device Installation and Commissioning",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ISO 13485 Medical Device Quality Management System",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Hospital Management Information System (HMIS)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Patient Monitoring Systems",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Power BI",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Confidentiality and Professional Ethics",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 35,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT assists in drafting technical specifications, maintenance SOPs, and regulatory submissions for medical devices. Perplexity AI supports literature research on device performance standards and failure mode analysis. AI-powered predictive maintenance tools are being integrated with biomedical equipment management systems to anticipate device failures before they affect patient care.",
+    "human_value_tasks": "Biomedical engineers perform hands-on equipment commissioning, calibration, and emergency troubleshooting in clinical environments where equipment downtime directly impacts patient care — physical technical skills AI cannot substitute. They conduct electrical safety testing and risk assessments on life-critical devices where errors have direct patient safety consequences requiring professional accountability. Interaction with clinical staff to understand equipment issues, train users, and negotiate maintenance priorities requires interpersonal skills and clinical context awareness.",
+    "salary_range_low": 300000,
+    "salary_range_high": 750000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh",
+      "year_2_3": "5.5-10 lakh",
+      "year_4_5": "10-17 lakh",
+      "year_6_plus": "17-32 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Nutritionist/Dietician",
+    "job_family": "Healthcare and Life Sciences",
+    "domain_skills": [
+      {
+        "skill_name": "Clinical Nutrition and Dietary Science",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Medication Reconciliation",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Healthcare Quality Improvement",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Nutritional Status Assessment and Anthropometry",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Medical Nutrition Therapy and Therapeutic Diet Planning",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Diet Counselling and Behaviour Change Communication",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Hospital Management Information System (HMIS)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "REDCap (Research Electronic Data Capture)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Microsoft PowerPoint",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Patient Monitoring Systems",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Elsevier ClinicalKey AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "IBM Micromedex (Drug Information AI)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Patient Communication and Counselling",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Critical Thinking and Evidence-Based Practice",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Interpersonal Skills",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 40,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Elsevier ClinicalKey AI assist dieticians in reviewing current evidence on therapeutic nutrition protocols and generating patient-friendly diet education materials. IBM Micromedex supports drug-nutrient interaction checking during medication reconciliation. AI-powered diet planning apps with regional Indian food databases are emerging to personalise meal plans while accounting for cultural food preferences.",
+    "human_value_tasks": "Dieticians conduct in-depth dietary assessments, identify underlying eating behaviours, and build therapeutic alliances with patients — particularly for conditions like eating disorders, cancer cachexia, and renal disease — that require human empathy and sustained therapeutic relationships. They adapt evidence-based diet recommendations to individual patient circumstances including affordability, regional food culture, religious dietary restrictions, and practical cooking constraints. Physical assessment of nutritional status including clinical signs requires bedside examination skills.",
+    "salary_range_low": 250000,
+    "salary_range_high": 600000,
+    "salary_progression": {
+      "year_0_1": "2.5-4 lakh",
+      "year_2_3": "4.5-8 lakh",
+      "year_4_5": "8-14 lakh",
+      "year_6_plus": "14-28 lakh"
+    },
+    "english_requirement": "Functional",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Physiotherapist",
+    "job_family": "Healthcare and Life Sciences",
+    "domain_skills": [
+      {
+        "skill_name": "Geriatric Clinical Considerations",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Healthcare Quality Improvement",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Informed Consent Process",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Good Clinical Practice (GCP) Guidelines",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Musculoskeletal Assessment and Manual Therapy",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Exercise Prescription and Therapeutic Rehabilitation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Electrotherapy and Physical Modalities Application",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Hospital Management Information System (HMIS)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Patient Monitoring Systems",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Microsoft PowerPoint",
+        "importance": "Low"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Elsevier ClinicalKey AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Patient Communication and Counselling",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Critical Thinking and Evidence-Based Practice",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Interpersonal Skills",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 30,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Elsevier ClinicalKey AI help physiotherapists review current clinical guidelines, evidence-based protocols, and outcome measures for specific conditions. Perplexity AI accelerates clinical literature review for continuing professional development. AI-powered motion capture and biomechanical analysis tools are emerging in rehabilitation to provide objective assessment data supporting clinical decision-making.",
+    "human_value_tasks": "Physiotherapists perform hands-on assessment, manual therapy, and therapeutic exercise supervision that is fundamentally a physical, tactile skill requiring direct patient contact that AI cannot replicate. They continuously adapt treatment techniques in real time based on patient response, pain levels, tissue feel, and movement quality observed during sessions. The therapeutic relationship — built on empathy, encouragement, and trust — is central to patient motivation and rehabilitation adherence, especially for long-term conditions.",
+    "salary_range_low": 250000,
+    "salary_range_high": 600000,
+    "salary_progression": {
+      "year_0_1": "2.5-4 lakh",
+      "year_2_3": "4.5-8 lakh",
+      "year_4_5": "8-14 lakh",
+      "year_6_plus": "14-28 lakh"
+    },
+    "english_requirement": "Functional",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Occupational Therapist",
+    "job_family": "Healthcare and Life Sciences",
+    "domain_skills": [
+      {
+        "skill_name": "Geriatric Clinical Considerations",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Informed Consent Process",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Healthcare Quality Improvement",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Occupational Therapy Functional Assessment and Goal Setting",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Splinting, Orthotics, and Adaptive Equipment Prescription",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Sensory Integration and Paediatric OT Techniques",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Hospital Management Information System (HMIS)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Patient Monitoring Systems",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "REDCap (Research Electronic Data Capture)",
+        "importance": "Low"
+      },
+      {
+        "skill_name": "Microsoft PowerPoint",
+        "importance": "Low"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Elsevier ClinicalKey AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Patient Communication and Counselling",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Interpersonal Skills",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Critical Thinking and Evidence-Based Practice",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 30,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Elsevier ClinicalKey AI assist occupational therapists in reviewing evidence-based intervention protocols and standardised assessment tools. Perplexity AI supports literature searches for clinical practice updates. AI-assisted assistive technology solutions and smart home adaptations for persons with disabilities are an emerging application area in OT practice.",
+    "human_value_tasks": "Occupational therapists perform direct functional assessments, activity analysis in real-life environments, and hands-on intervention to improve daily living skills — clinical practice that is fundamentally observational and physical, requiring human presence. They engage patients, families, and caregivers in goal-setting and home programme design, requiring motivational communication and empathy AI cannot provide. Adaptation of therapy to individual cultural roles, occupational identity, and life circumstances requires human contextual understanding.",
+    "salary_range_low": 250000,
+    "salary_range_high": 580000,
+    "salary_progression": {
+      "year_0_1": "2.5-4 lakh",
+      "year_2_3": "4.5-7.5 lakh",
+      "year_4_5": "7.5-13 lakh",
+      "year_6_plus": "13-26 lakh"
+    },
+    "english_requirement": "Functional",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Optometrist",
+    "job_family": "Healthcare and Life Sciences",
+    "domain_skills": [
+      {
+        "skill_name": "Informed Consent Process",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Healthcare Quality Improvement",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Geriatric Clinical Considerations",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Comprehensive Eye Examination and Visual Acuity Testing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Spectacle and Contact Lens Prescription and Fitting",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Low Vision Assessment and Rehabilitation",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Hospital Management Information System (HMIS)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Patient Monitoring Systems",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Microsoft PowerPoint",
+        "importance": "Low"
+      },
+      {
+        "skill_name": "REDCap (Research Electronic Data Capture)",
+        "importance": "Low"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Elsevier ClinicalKey AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Viz.ai (AI Radiology)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Patient Communication and Counselling",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Interpersonal Skills",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Critical Thinking and Evidence-Based Practice",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 35,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "Viz.ai and AI-powered fundus imaging tools automate diabetic retinopathy screening and glaucoma risk scoring from retinal photographs, assisting optometrists in high-volume screening settings. Elsevier ClinicalKey AI supports evidence-based clinical decision-making for complex cases and unusual presentations. AI-driven auto-refractors increasingly provide preliminary refraction data, reducing manual testing time while the optometrist validates results.",
+    "human_value_tasks": "Optometrists perform precise refractive examinations, interpret complex visual field results, and make clinical judgements about referral urgency for suspected glaucoma, macular degeneration, and diabetic eye disease — clinical skills requiring professional training and patient interaction. They communicate diagnoses empathetically, explain progressive conditions, and counsel patients on visual changes — particularly sensitive for elderly patients facing vision loss. Contact lens fitting requires physical assessment and patient-specific adjustments that AI cannot perform.",
+    "salary_range_low": 250000,
+    "salary_range_high": 580000,
+    "salary_progression": {
+      "year_0_1": "2.5-4 lakh",
+      "year_2_3": "4.5-7.5 lakh",
+      "year_4_5": "7.5-13 lakh",
+      "year_6_plus": "13-26 lakh"
+    },
+    "english_requirement": "Functional",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Medical Lab Technologist",
+    "job_family": "Healthcare and Life Sciences",
+    "domain_skills": [
+      {
+        "skill_name": "Blood Bank Operations",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Biomedical Waste Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Haematology, Microbiology, and Molecular Diagnostic Techniques",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Laboratory Equipment Validation and Calibration",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Internal Quality Control and External Quality Assessment",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Quality Control in Clinical Laboratories",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ISO 15189 (Medical Laboratory Accreditation)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Laboratory Information Management System (LIMS)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "HPLC (High Performance Liquid Chromatography)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Hospital Management Information System (HMIS)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel Advanced (Pivot Tables, VLOOKUP, Macros)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "PathAI (Computational Pathology)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Elsevier ClinicalKey AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Confidentiality and Professional Ethics",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Critical Thinking and Evidence-Based Practice",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 40,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "PathAI automates cell morphology analysis in haematology and computational pathology, reducing turnaround times and improving consistency in high-volume laboratories. Elsevier ClinicalKey AI supports interpretation of unusual test results and correlation with clinical presentations. AI-powered LIMS platforms increasingly provide automated delta checking, reflex testing triggers, and critical value alerting without manual intervention.",
+    "human_value_tasks": "Medical lab technologists perform manual microscopy, interpret subtle cellular morphology changes, and troubleshoot unexpected test results — technical skills requiring trained human interpretation that AI image analysis tools are still developing to fully match in complex cases. They manage laboratory emergencies, handle critical value communication to clinicians, and respond to specimen integrity issues requiring real-time professional judgement. Maintaining NABL accreditation documentation and managing internal quality audits requires professional accountability.",
+    "salary_range_low": 250000,
+    "salary_range_high": 550000,
+    "salary_progression": {
+      "year_0_1": "2.5-3.8 lakh",
+      "year_2_3": "4-7 lakh",
+      "year_4_5": "7-12 lakh",
+      "year_6_plus": "12-22 lakh"
+    },
+    "english_requirement": "Functional",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Radiology Technician",
+    "job_family": "Healthcare and Life Sciences",
+    "domain_skills": [
+      {
+        "skill_name": "Informed Consent Process",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Good Laboratory Practice (GLP)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "NABL Accreditation Awareness",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "NABH Accreditation (India)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Radiographic Positioning and Imaging Techniques (X-Ray, CT, MRI)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Radiation Safety and Dose Optimisation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Contrast Media Administration and Adverse Reaction Management",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Picture Archiving and Communication System (PACS)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Hospital Management Information System (HMIS)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Patient Monitoring Systems",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ayushman Bharat Digital Mission (ABDM) Systems",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Viz.ai (AI Radiology)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Elsevier ClinicalKey AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Patient Communication and Counselling",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Confidentiality and Professional Ethics",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Critical Thinking and Evidence-Based Practice",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 45,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "Viz.ai and AI-powered radiology tools assist in automated image analysis for stroke detection, pulmonary embolism, and chest X-ray screening — augmenting the radiologist's reporting workflow in hospitals where the technician interacts closely. ChatGPT assists in drafting patient preparation instructions and procedure consent documentation. AI tools within PACS platforms increasingly flag critical findings and prioritise urgent cases for radiologist review.",
+    "human_value_tasks": "Radiology technicians physically position patients — including those who are injured, anxious, or in pain — requiring physical strength, interpersonal sensitivity, and creative problem-solving to achieve diagnostic image quality in challenging situations. They monitor patient comfort and safety during contrast-enhanced studies, respond to adverse reactions, and ensure radiation protection compliance — patient safety responsibilities requiring immediate human response. MRI screening and patient safety checks are critical gatekeeper functions requiring human professional accountability.",
+    "salary_range_low": 220000,
+    "salary_range_high": 500000,
+    "salary_progression": {
+      "year_0_1": "2.2-3.5 lakh",
+      "year_2_3": "3.8-6.5 lakh",
+      "year_4_5": "6.5-11 lakh",
+      "year_6_plus": "11-22 lakh"
+    },
+    "english_requirement": "Functional",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG"
+  },
+  {
+    "role_name": "Nursing Officer",
+    "job_family": "Healthcare and Life Sciences",
+    "domain_skills": [
+      {
+        "skill_name": "Geriatric Clinical Considerations",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Healthcare Quality Improvement",
+        "importance": "High"
+      },
+      {
+        "skill_name": "NABH Accreditation (India)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Biomedical Waste Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Nursing Assessment, Care Planning, and Documentation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Medication Administration and IV Therapy",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Wound Care and Infection Prevention Nursing",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Hospital Management Information System (HMIS)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Patient Monitoring Systems",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ayushman Bharat Digital Mission (ABDM) Systems",
+        "importance": "High"
+      },
+      {
+        "skill_name": "eHospital (NIC)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Elsevier ClinicalKey AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "IBM Micromedex (Drug Information AI)",
+        "importance": "High"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Patient Communication and Counselling",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Critical Thinking and Evidence-Based Practice",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Confidentiality and Professional Ethics",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 35,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "IBM Micromedex and Elsevier ClinicalKey AI provide real-time drug reference information, dosage calculators, and drug interaction alerts at the point of care. ChatGPT assists in drafting patient education materials, discharge instructions, and nursing care documentation. AI-powered early warning systems integrated with patient monitoring detect deterioration patterns and alert nursing staff before clinical emergencies develop.",
+    "human_value_tasks": "Nursing officers deliver hands-on bedside care — physical assessment, dressing changes, catheter care, IV access management — requiring clinical skills, patient comfort, and real-time adaptive technique that AI cannot physically perform. They exercise immediate clinical judgement in response to rapidly changing patient conditions, initiating emergency protocols and communicating deterioration to physicians. The nurse-patient relationship — built on trust, presence, and compassionate care — is the cornerstone of healing environments that cannot be replicated by technology.",
+    "salary_range_low": 280000,
+    "salary_range_high": 650000,
+    "salary_progression": {
+      "year_0_1": "2.8-4.5 lakh",
+      "year_2_3": "5-9 lakh",
+      "year_4_5": "9-15 lakh",
+      "year_6_plus": "15-28 lakh"
+    },
+    "english_requirement": "Functional",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  }
+]

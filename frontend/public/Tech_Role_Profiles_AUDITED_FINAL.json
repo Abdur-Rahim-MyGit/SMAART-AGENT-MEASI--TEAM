@@ -1,0 +1,2628 @@
+[
+  {
+    "role_name": "Software Developer",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "Object-Oriented Programming (OOP)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Data Structures and Algorithms",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Design Patterns (GoF)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "SOLID Principles",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Software Development Life Cycle (SDLC)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Code Review Best Practices",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Python",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Java",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Git",
+        "importance": "High"
+      },
+      {
+        "skill_name": "REST API Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "SQL",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "GitHub Copilot",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Tabnine",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Technical)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Continuous Learning and Technical Development",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "GitHub Copilot and Tabnine assist with code completion, boilerplate generation, and unit test scaffolding, covering a significant portion of routine coding tasks. ChatGPT and Claude are used for debugging assistance, code explanation, and generating first-draft implementations. AI accelerates repetitive development tasks but requires human review for correctness, security, and architectural fit.",
+    "human_value_tasks": "Software developers make architectural decisions, define abstractions, and design systems that meet complex, evolving business requirements — tasks requiring contextual judgement and experience. They debug intricate production issues involving concurrency, distributed systems, or data corruption where AI lacks sufficient context. Code review, mentoring junior developers, and aligning technical solutions to product goals demand human communication and accountability.",
+    "salary_range_low": 350000,
+    "salary_range_high": 900000,
+    "salary_progression": {
+      "year_0_1": "3.5-6 lakh",
+      "year_2_3": "7-12 lakh",
+      "year_4_5": "12-20 lakh",
+      "year_6_plus": "20-40 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Commonly Remote",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Full Stack Developer",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "Object-Oriented Programming (OOP)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Data Structures and Algorithms",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microservices Architecture",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Responsive Web Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "System Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "API Gateway Pattern",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "React.js",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Node.js",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Python",
+        "importance": "High"
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Git",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "GitHub Copilot",
+        "importance": "High"
+      },
+      {
+        "skill_name": "v0 by Vercel",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Technical)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Continuous Learning and Technical Development",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 60,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "v0 by Vercel generates full React component scaffolding from natural language, dramatically accelerating frontend development. GitHub Copilot assists across both frontend and backend codebases, completing boilerplate and suggesting API integrations. ChatGPT supports architecture decisions, SQL query generation, and debugging complex stack traces.",
+    "human_value_tasks": "Full stack developers integrate disparate systems, balance performance trade-offs across frontend and backend, and make product-aligned architectural choices that AI cannot assess without deep business context. They own the end-to-end delivery of features including deployment, monitoring, and incident response. Debugging cross-layer issues — where a frontend behaviour is caused by a backend race condition — requires holistic system thinking.",
+    "salary_range_low": 400000,
+    "salary_range_high": 1100000,
+    "salary_progression": {
+      "year_0_1": "4-7 lakh",
+      "year_2_3": "8-14 lakh",
+      "year_4_5": "14-22 lakh",
+      "year_6_plus": "22-45 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Commonly Remote",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Frontend Developer",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "Responsive Web Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Accessibility Design (WCAG)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Web Performance Optimisation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Agile and Scrum Methodology",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Code Review Best Practices",
+        "importance": "Medium"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "React.js",
+        "importance": "High"
+      },
+      {
+        "skill_name": "TypeScript",
+        "importance": "High"
+      },
+      {
+        "skill_name": "HTML5",
+        "importance": "High"
+      },
+      {
+        "skill_name": "CSS3",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Tailwind CSS",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Git",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "GitHub Copilot",
+        "importance": "High"
+      },
+      {
+        "skill_name": "v0 by Vercel",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Lovable (AI App Builder)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Creativity in Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Technical)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Continuous Learning and Technical Development",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 65,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "v0 by Vercel and Lovable generate complete React component trees, forms, and UI layouts from text descriptions, covering a large share of routine frontend work. GitHub Copilot completes CSS, component logic, and test cases in real time. AI tools are transforming frontend development speed but human review remains essential for accessibility, performance, and brand consistency.",
+    "human_value_tasks": "Frontend developers translate design system requirements into pixel-perfect, accessible, and performant interfaces, requiring aesthetic judgement and user empathy. They debug browser-specific rendering issues and performance bottlenecks that require deep knowledge of DOM, rendering engines, and paint cycles. Collaboration with designers and product managers to refine UX details demands communication skills beyond AI capability.",
+    "salary_range_low": 350000,
+    "salary_range_high": 900000,
+    "salary_progression": {
+      "year_0_1": "3.5-6 lakh",
+      "year_2_3": "7-12 lakh",
+      "year_4_5": "12-20 lakh",
+      "year_6_plus": "20-38 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Commonly Remote",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Backend Developer",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "Database Design and Normalisation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "API Gateway Pattern",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Event-Driven Architecture",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Caching Strategies",
+        "importance": "High"
+      },
+      {
+        "skill_name": "System Design",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Python",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Java",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Spring Boot",
+        "importance": "High"
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Redis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Docker",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "GitHub Copilot",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Tabnine",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Technical)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Continuous Learning and Technical Development",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "GitHub Copilot and Tabnine accelerate boilerplate generation for service layers, repository patterns, and unit tests in Java and Python backends. ChatGPT assists in designing database schemas, writing complex SQL queries, and generating API documentation. AI code generation requires careful human review for security vulnerabilities, especially in authentication, authorisation, and data handling code.",
+    "human_value_tasks": "Backend developers design fault-tolerant distributed systems, select appropriate data stores, and make latency vs consistency trade-offs that require deep systems thinking. They debug race conditions, deadlocks, and data inconsistencies in production that require understanding of system internals AI cannot replicate. Security-critical code paths, performance optimization under load, and disaster recovery design require human expertise and accountability.",
+    "salary_range_low": 400000,
+    "salary_range_high": 1100000,
+    "salary_progression": {
+      "year_0_1": "4-7 lakh",
+      "year_2_3": "8-14 lakh",
+      "year_4_5": "14-22 lakh",
+      "year_6_plus": "22-45 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Commonly Remote",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Mobile App Developer",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "Object-Oriented Programming (OOP)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Mobile UI/UX Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Design Patterns (GoF)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "API Security",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Mobile App Architecture (MVP/MVVM/Clean)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Flutter",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Kotlin",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Swift",
+        "importance": "High"
+      },
+      {
+        "skill_name": "React Native",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Android Studio",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Xcode",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "GitHub Copilot",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Tabnine",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Continuous Learning and Technical Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Technical)",
+        "importance": "Medium"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "GitHub Copilot accelerates Flutter widget trees, Kotlin coroutines boilerplate, and Swift UI components. ChatGPT supports integration of third-party SDKs, resolving platform-specific build errors, and generating localisation strings. AI tools are widely used for generating unit tests for ViewModels and business logic layers in mobile codebases.",
+    "human_value_tasks": "Mobile app developers optimise for platform-specific behaviours, device fragmentation, and battery/memory constraints that AI cannot contextualise fully. They navigate App Store and Play Store review guidelines, handle push notification flows, and implement biometric authentication with platform-specific nuances. Designing offline-first architectures and handling poor network connectivity in Indian market contexts requires domain experience.",
+    "salary_range_low": 350000,
+    "salary_range_high": 950000,
+    "salary_progression": {
+      "year_0_1": "3.5-6 lakh",
+      "year_2_3": "7-13 lakh",
+      "year_4_5": "13-22 lakh",
+      "year_6_plus": "22-40 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Commonly Remote",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "QA Engineer",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "Automation Testing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Test Case Design and Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "API Testing (Automated)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Performance Testing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Behaviour-Driven Development (BDD)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Selenium",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Cypress",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Postman",
+        "importance": "High"
+      },
+      {
+        "skill_name": "JMeter",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Jira",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Python",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "GitHub Copilot",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Tabnine",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Technical)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "GitHub Copilot and ChatGPT generate Selenium/Cypress test scripts from user story descriptions, significantly reducing test authoring time. AI tools assist in generating edge case test data, creating API mock configurations, and writing BDD step definitions. AI-powered test generation is emerging for visual regression testing and exploratory test suggestions.",
+    "human_value_tasks": "QA engineers apply domain knowledge and user empathy to identify edge cases and real-world usage scenarios that automated generation misses. They assess risk-based test prioritisation, balancing coverage with release velocity in ways that require business context. Root cause analysis of flaky tests, environment-specific failures, and third-party integration issues requires investigative skills AI cannot replicate.",
+    "salary_range_low": 300000,
+    "salary_range_high": 800000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh",
+      "year_2_3": "6-10 lakh",
+      "year_4_5": "10-17 lakh",
+      "year_6_plus": "17-30 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Commonly Remote",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "DevOps Engineer",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "Site Reliability Engineering (SRE)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Cloud Cost Optimisation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Incident Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Change Management (IT)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "CI/CD Pipeline Design",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Docker",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Kubernetes",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Terraform",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Jenkins",
+        "importance": "High"
+      },
+      {
+        "skill_name": "GitHub Actions",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ansible",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "GitHub Copilot",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Amazon Q Developer (formerly AWS CodeWhisperer)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Continuous Learning and Technical Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Technical)",
+        "importance": "Medium"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "GitHub Copilot and ChatGPT accelerate writing Terraform modules, Kubernetes manifests, and Dockerfile configurations. Amazon Q Developer assists with AWS-specific IaC and CloudFormation templates. AI tools assist in root cause analysis during incidents by correlating logs and suggesting runbook steps, though final remediation requires human judgement.",
+    "human_value_tasks": "DevOps engineers design resilient deployment architectures that balance speed, safety, and cost for specific organisational contexts. They conduct blameless post-mortems and drive systemic improvements to prevent recurring failures, which requires organisational trust and communication skills. Production incident response — assessing blast radius, coordinating rollbacks, communicating to stakeholders — demands human accountability and judgment.",
+    "salary_range_low": 450000,
+    "salary_range_high": 1200000,
+    "salary_progression": {
+      "year_0_1": "4.5-7 lakh",
+      "year_2_3": "9-15 lakh",
+      "year_4_5": "15-25 lakh",
+      "year_6_plus": "25-50 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Commonly Remote",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Cloud Engineer",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "Multi-Cloud Strategy",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Business Continuity and Disaster Recovery",
+        "importance": "High"
+      },
+      {
+        "skill_name": "FinOps (Cloud Financial Operations)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Cloud Cost Optimisation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Cloud Security (AWS/Azure/GCP)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Amazon Web Services (AWS)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Azure",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Google Cloud Platform (GCP)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Terraform",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Kubernetes",
+        "importance": "High"
+      },
+      {
+        "skill_name": "AWS IAM",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Amazon Q Developer (formerly AWS CodeWhisperer)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "GitHub Copilot",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Continuous Learning and Technical Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Technical)",
+        "importance": "Medium"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "Amazon Q Developer assists with AWS-specific IaC generation, security configuration auditing, and architecture optimisation recommendations. GitHub Copilot accelerates Terraform module writing, cloud-init scripts, and policy document generation. AI tools increasingly help identify cost anomalies and suggest rightsizing recommendations in cloud environments.",
+    "human_value_tasks": "Cloud engineers design multi-region architectures that balance resilience, latency, compliance, and cost — decisions requiring business context and risk judgement. They negotiate enterprise cloud contracts, architect data residency solutions for Indian regulatory requirements (RBI, SEBI data localisation), and advise on cloud migration strategies. Security architecture decisions affecting customer data require human accountability.",
+    "salary_range_low": 450000,
+    "salary_range_high": 1300000,
+    "salary_progression": {
+      "year_0_1": "4.5-8 lakh",
+      "year_2_3": "10-16 lakh",
+      "year_4_5": "16-26 lakh",
+      "year_6_plus": "26-55 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Commonly Remote",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Data Analyst",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "Statistical Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "A/B Testing and Business Experimentation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Data Quality Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Product Analytics",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Stakeholder Management (Tech)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "SQL",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Python for Data Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Pandas",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Data Visualisation and Dashboards",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Looker Studio (formerly Google Data Studio)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Excel for Data Analysis",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Power BI Copilot",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Data-Driven Decision Making",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Storytelling with Data",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 60,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "ChatGPT and Power BI Copilot automate SQL query generation, data cleaning scripts, and dashboard commentary, covering a large share of routine analyst output. Copilot in Excel accelerates pivot table analysis, formula writing, and data exploration. AI tools assist in anomaly detection and generating first-draft analytical reports.",
+    "human_value_tasks": "Data analysts frame the right business questions, contextualise data anomalies against operational events, and translate insights into actionable recommendations that AI cannot generate without business context. They build relationships with business stakeholders to understand decision needs and communicate findings persuasively to non-technical audiences. Ethical handling of sensitive customer data and bias identification in analyses requires human judgement.",
+    "salary_range_low": 300000,
+    "salary_range_high": 850000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh",
+      "year_2_3": "6-11 lakh",
+      "year_4_5": "10-18 lakh",
+      "year_6_plus": "18-35 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Data Engineer",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "Data Warehouse Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Data Quality Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Data Governance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Event-Driven Architecture",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ETL Pipeline Development",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Apache Airflow",
+        "importance": "High"
+      },
+      {
+        "skill_name": "dbt (data build tool)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Snowflake",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Google BigQuery",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Python",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Apache Kafka",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "GitHub Copilot",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Amazon Q Developer (formerly AWS CodeWhisperer)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Continuous Learning and Technical Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Technical)",
+        "importance": "Medium"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "GitHub Copilot and ChatGPT generate PySpark jobs, dbt models, and Airflow DAG boilerplate, significantly reducing pipeline development time. Amazon Q Developer assists with AWS Glue and Redshift query optimisation. AI tools help with SQL transformation logic, schema documentation, and data lineage annotation.",
+    "human_value_tasks": "Data engineers design data architectures that balance freshness, cost, scalability, and governance for specific organisational data maturity levels. They troubleshoot complex data quality failures, schema drift, and pipeline failures that require deep knowledge of upstream source systems. Cross-functional coordination with data scientists, analysts, and platform teams to align on data contracts and SLAs requires human relationship management.",
+    "salary_range_low": 450000,
+    "salary_range_high": 1200000,
+    "salary_progression": {
+      "year_0_1": "4.5-8 lakh",
+      "year_2_3": "9-16 lakh",
+      "year_4_5": "16-26 lakh",
+      "year_6_plus": "26-50 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Commonly Remote",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Data Scientist (Junior)",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "Feature Engineering",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Deep Learning",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Natural Language Processing (NLP)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "A/B Testing and Business Experimentation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Machine Learning",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Python",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Scikit-learn",
+        "importance": "High"
+      },
+      {
+        "skill_name": "TensorFlow",
+        "importance": "High"
+      },
+      {
+        "skill_name": "PyTorch",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Pandas",
+        "importance": "High"
+      },
+      {
+        "skill_name": "SQL",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "GitHub Copilot",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Curiosity and Research Mindset",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Data-Driven Decision Making",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 60,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "ChatGPT and GitHub Copilot accelerate exploratory data analysis, Jupyter notebook code generation, and ML pipeline boilerplate. Perplexity AI assists with literature review for algorithms, model selection rationale, and benchmarking. AutoML tools and AI-assisted hyperparameter tuning reduce experimentation cycle time significantly.",
+    "human_value_tasks": "Data scientists frame the right problem statement and translate fuzzy business questions into well-defined ML tasks, a step requiring domain knowledge AI cannot supply. They critically evaluate model fairness, interpretability, and business impact before recommending deployment, ensuring responsible AI use. Communicating model limitations, confidence intervals, and bias risks to non-technical stakeholders requires deep technical communication skills.",
+    "salary_range_low": 450000,
+    "salary_range_high": 1300000,
+    "salary_progression": {
+      "year_0_1": "4.5-8 lakh",
+      "year_2_3": "9-16 lakh",
+      "year_4_5": "16-28 lakh",
+      "year_6_plus": "28-60 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "PG"
+  },
+  {
+    "role_name": "ML Engineer (Junior)",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "Model Deployment and Serving (MLOps)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Feature Engineering",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Deep Learning",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Transfer Learning",
+        "importance": "High"
+      },
+      {
+        "skill_name": "CI/CD Pipeline Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "MLOps (Machine Learning Operations)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Python",
+        "importance": "High"
+      },
+      {
+        "skill_name": "PyTorch",
+        "importance": "High"
+      },
+      {
+        "skill_name": "TensorFlow",
+        "importance": "High"
+      },
+      {
+        "skill_name": "MLflow",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Docker",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "GitHub Copilot",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Continuous Learning and Technical Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Technical)",
+        "importance": "Medium"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 65,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "GitHub Copilot and ChatGPT generate training scripts, data loaders, and model evaluation code, covering a significant share of ML engineering boilerplate. AI tools assist in hyperparameter search scripting, Docker image optimisation for inference, and Kubernetes deployment manifest generation. The role itself involves building AI systems — making it both a producer and consumer of AI tooling.",
+    "human_value_tasks": "ML engineers design reliable, scalable model serving infrastructure that meets latency SLOs and handles traffic spikes — decisions requiring systems thinking beyond what AI tools can automate. They debug subtle model degradation issues in production, tracing root causes through data drift, pipeline bugs, or distribution shift. Setting up responsible monitoring frameworks and escalation protocols for model failures requires human judgement and stakeholder communication.",
+    "salary_range_low": 500000,
+    "salary_range_high": 1400000,
+    "salary_progression": {
+      "year_0_1": "5-9 lakh",
+      "year_2_3": "10-18 lakh",
+      "year_4_5": "18-30 lakh",
+      "year_6_plus": "30-65 lakh (VERIFY)"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Commonly Remote",
+    "emerging_role_flag": false,
+    "programme_levels": "PG"
+  },
+  {
+    "role_name": "Cybersecurity Analyst",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "OWASP Top 10",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Network Security",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Identity and Access Management (IAM)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Vulnerability Assessment",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Penetration Testing",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Burp Suite",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Nmap",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Metasploit",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Wireshark",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ELK Stack (Elasticsearch, Logstash, Kibana)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Linux System Administration",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Microsoft Copilot",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ethical Conduct and Integrity",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Continuous Learning and Technical Development",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 40,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "Microsoft Copilot and ChatGPT assist in threat intelligence research, generating security policy templates, and drafting incident response runbooks. AI-powered SIEM tools increasingly correlate security events and generate initial triage recommendations. Perplexity AI helps analysts research new CVEs, attack techniques, and threat actor TTPs rapidly.",
+    "human_value_tasks": "Cybersecurity analysts apply contextual judgement to distinguish genuine attacks from false positives in noisy alert environments — a skill requiring experience AI cannot replicate. They conduct adversarial thinking, simulating attacker behaviour to identify novel attack vectors not covered by signature-based detection. Incident response coordination, regulatory reporting to CERT-In, and stakeholder communication during breaches require human accountability.",
+    "salary_range_low": 400000,
+    "salary_range_high": 1100000,
+    "salary_progression": {
+      "year_0_1": "4-7 lakh",
+      "year_2_3": "8-14 lakh",
+      "year_4_5": "14-24 lakh",
+      "year_6_plus": "24-50 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Network Administrator",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "Incident Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Change Management (IT)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Capacity Planning",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ITIL Framework",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Network Security",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Routing and Switching Configuration (Cisco and Juniper)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "DNS Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "VPN Configuration and Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Network Monitoring (Nagios and Zabbix)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Linux System Administration",
+        "importance": "High"
+      },
+      {
+        "skill_name": "PowerShell",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Microsoft Copilot",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Low"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Technical)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 30,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Microsoft Copilot assist in drafting network configuration scripts, generating firewall rule documentation, and researching CVEs for network equipment. AI-powered network monitoring tools automate anomaly detection and alert correlation, reducing manual log review. AI assists in generating network topology documentation and change management records.",
+    "human_value_tasks": "Network administrators make real-time decisions during network outages that affect business continuity, requiring rapid problem-solving under pressure. They design network segmentation, firewall policies, and access control lists that balance security with business usability in ways requiring contextual judgement. Vendor negotiations, ISP escalations, and infrastructure change management require human relationship skills and accountability.",
+    "salary_range_low": 300000,
+    "salary_range_high": 750000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh",
+      "year_2_3": "6-10 lakh",
+      "year_4_5": "10-16 lakh",
+      "year_6_plus": "16-28 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Database Administrator",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "Data Quality Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Data Governance",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Capacity Planning",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Incident Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Database Design and Normalisation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Database Performance Tuning and Execution Plans",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Oracle Database",
+        "importance": "High"
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "importance": "High"
+      },
+      {
+        "skill_name": "MySQL",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft SQL Server",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Shell Scripting (Bash)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "GitHub Copilot",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+        "importance": "Low"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Technical)",
+        "importance": "Medium"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 40,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and GitHub Copilot assist in generating complex SQL queries, stored procedures, and index recommendation scripts. AI tools are increasingly used to suggest query optimisation strategies by analysing execution plans. Automated database monitoring tools use AI to predict storage growth, detect slow queries, and recommend maintenance windows.",
+    "human_value_tasks": "DBAs make critical decisions on storage architecture, backup retention, and recovery objectives that balance cost with business risk — requiring contextual judgement about data criticality. They diagnose complex performance degradation caused by lock contention, statistics staleness, or storage I/O saturation, which requires deep platform expertise. Database migration planning during major upgrades requires careful testing and rollback planning that demands human accountability.",
+    "salary_range_low": 350000,
+    "salary_range_high": 900000,
+    "salary_progression": {
+      "year_0_1": "3.5-5.5 lakh",
+      "year_2_3": "7-12 lakh",
+      "year_4_5": "12-20 lakh",
+      "year_6_plus": "20-35 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "UI/UX Designer",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "User Research",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Wireframing and Prototyping",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Usability Testing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Design Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Information Architecture",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Accessibility Design (WCAG)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Mobile UI/UX Design",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Figma",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Figma Dev Mode",
+        "importance": "High"
+      },
+      {
+        "skill_name": "HTML and CSS Basics for Designers",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "Midjourney",
+        "importance": "High"
+      },
+      {
+        "skill_name": "DALL-E",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "v0 by Vercel",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Canva AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Empathy and Client Sensitivity",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Creativity and Innovation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 60,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "Midjourney and DALL-E generate visual concepts, mood boards, and illustration assets that replace hours of manual design work. v0 by Vercel generates interactive UI components directly from design descriptions, bridging design-to-code. AI tools assist in synthesising user research data, generating persona drafts, and producing accessibility audit reports.",
+    "human_value_tasks": "UI/UX designers conduct in-depth user interviews and contextual enquiries to uncover latent needs and pain points that AI cannot discover without human empathy and interpersonal interaction. They make nuanced aesthetic decisions that reflect brand values, cultural context, and emotional resonance with Indian users. Design system governance, aligning designers and developers on component usage, and managing design critique sessions require human leadership.",
+    "salary_range_low": 350000,
+    "salary_range_high": 950000,
+    "salary_progression": {
+      "year_0_1": "3.5-6 lakh",
+      "year_2_3": "7-13 lakh",
+      "year_4_5": "13-22 lakh",
+      "year_6_plus": "22-40 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Commonly Remote",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Product Manager (Associate)",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "Product Roadmap Planning",
+        "importance": "High"
+      },
+      {
+        "skill_name": "User Story Writing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Product Analytics",
+        "importance": "High"
+      },
+      {
+        "skill_name": "A/B Testing and Business Experimentation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Agile and Scrum Methodology",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Stakeholder Management (Tech)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Design Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "User Research",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Jira",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Confluence",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Miro",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Notion AI",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "High"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Stakeholder Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Decision Making",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 55,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "ChatGPT and Notion AI accelerate PRD drafting, user story generation, competitor analysis, and meeting notes summarisation. Perplexity AI is used for rapid market research, benchmarking, and feature discovery across competitor products. AI tools assist in generating data analysis queries and interpreting product metrics dashboards.",
+    "human_value_tasks": "Associate product managers build deep empathy with users through interviews, usability studies, and field observations that AI cannot replicate. They navigate complex stakeholder politics, aligning engineering, design, and business teams around a shared product vision — requiring trust, communication, and influence skills. Prioritisation decisions involving real trade-offs between user needs, business goals, and technical constraints require human judgement and accountability.",
+    "salary_range_low": 450000,
+    "salary_range_high": 1300000,
+    "salary_progression": {
+      "year_0_1": "4.5-8 lakh",
+      "year_2_3": "10-18 lakh",
+      "year_4_5": "18-30 lakh",
+      "year_6_plus": "30-60 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG,MBA"
+  },
+  {
+    "role_name": "Technical Writer",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "Software Development Life Cycle (SDLC)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Agile and Scrum Methodology",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "User Research",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "API Documentation (OpenAPI and Developer Guides)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Technical Writing and Documentation Standards",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Git",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Confluence",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Notion",
+        "importance": "High"
+      },
+      {
+        "skill_name": "API Design and Documentation (OpenAPI/Swagger)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "VS Code (Visual Studio Code)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Grammarly",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Copilot in Word (Microsoft 365)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Notion AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Written Communication",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Technical)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Curiosity and Research Mindset",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 70,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "ChatGPT and Copilot in Word draft first versions of API documentation, user guides, and release notes from specifications or code, covering a large portion of routine writing. Grammarly automates grammar, clarity, and style consistency checking. Notion AI accelerates knowledge base structuring, doc summarisation, and internal wiki maintenance.",
+    "human_value_tasks": "Technical writers ensure accuracy through hands-on product testing, reproducing developer workflows to identify undocumented edge cases and errors that AI-generated docs routinely miss. They develop documentation information architecture and taxonomy that reflects how users actually think, requiring empathy and information design skills. Interviewing subject matter experts to extract tacit knowledge and translating it for diverse audiences requires human communication and trust-building.",
+    "salary_range_low": 300000,
+    "salary_range_high": 800000,
+    "salary_progression": {
+      "year_0_1": "3-5 lakh",
+      "year_2_3": "5.5-9 lakh",
+      "year_4_5": "9-15 lakh",
+      "year_6_plus": "15-28 lakh"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Commonly Remote",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Automation Test Engineer",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "API Testing (Automated)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Performance Testing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Test Case Design and Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Automation Testing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Test Automation Framework Architecture",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Selenium",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Playwright",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Cypress",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Appium",
+        "importance": "High"
+      },
+      {
+        "skill_name": "JUnit / TestNG",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Python",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "GitHub Copilot",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Tabnine",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Technical)",
+        "importance": "Medium"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 65,
+    "ai_exposure_level": "High",
+    "ai_exposure_detail": "GitHub Copilot and ChatGPT generate Selenium/Playwright test scripts, page object models, and test data factories from feature descriptions, dramatically reducing script authoring time. Tabnine completes automation code patterns in real time. AI-powered test generation tools are beginning to auto-generate test cases from user stories and application behaviour.",
+    "human_value_tasks": "Automation test engineers design test architectures that are maintainable, scalable, and aligned to CI/CD pipeline needs — requiring systems thinking beyond script generation. They diagnose flaky test root causes involving timing, environment inconsistencies, or upstream system behaviour that require deep investigation. Deciding which tests to automate vs keep manual, and optimising test suite execution time, requires strategic judgement.",
+    "salary_range_low": 350000,
+    "salary_range_high": 900000,
+    "salary_progression": {
+      "year_0_1": "3.5-6 lakh",
+      "year_2_3": "7-12 lakh",
+      "year_4_5": "12-20 lakh",
+      "year_6_plus": "20-35 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Commonly Remote",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Site Reliability Engineer",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "CI/CD Pipeline Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Capacity Planning",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Infrastructure as Code (IaC)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Site Reliability Engineering (SRE)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "SLO and SLI Definition and Management",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Prometheus",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Grafana",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Datadog",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Terraform",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Python",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ELK Stack (Elasticsearch, Logstash, Kibana)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "GitHub Copilot",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Amazon Q Developer (formerly AWS CodeWhisperer)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Communication Skills (Technical)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Decision Making Under Pressure",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 50,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "GitHub Copilot and ChatGPT assist in writing runbooks, Kubernetes operators, and alerting rule configurations. Amazon Q Developer helps with AWS-specific reliability automation scripts. AI-powered observability tools like Datadog increasingly surface anomaly correlations and predicted failure modes, augmenting on-call engineer workflows.",
+    "human_value_tasks": "SREs make high-stakes incident response decisions under pressure — rolling back deployments, escalating to engineering teams, and communicating status to leadership — requiring judgement that AI cannot provide in real time. They define and negotiate SLOs with product and engineering teams, balancing reliability goals with velocity, requiring relationship and communication skills. Chaos engineering experiments require careful planning and human oversight to avoid unintended production impact.",
+    "salary_range_low": 600000,
+    "salary_range_high": 1600000,
+    "salary_progression": {
+      "year_0_1": "6-10 lakh",
+      "year_2_3": "12-20 lakh",
+      "year_4_5": "20-35 lakh",
+      "year_6_plus": "35-70 lakh (VERIFY)"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Commonly Remote",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Solutions Architect (Junior)",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "Cloud Security (AWS/Azure/GCP)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "API Gateway Pattern",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Domain-Driven Design (DDD)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Serverless Architecture",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Stakeholder Management (Tech)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "System Design",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Amazon Web Services (AWS)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Azure",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Terraform",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Docker",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Kubernetes",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Amazon Q Developer (formerly AWS CodeWhisperer)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Perplexity AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Leadership and Team Management",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Continuous Learning and Technical Development",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 50,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Amazon Q Developer assist in generating architecture diagrams from text descriptions, drafting RFP responses, and researching AWS/Azure service capabilities. Perplexity AI accelerates research on emerging architecture patterns and cloud service comparisons. AI tools help in generating proof-of-concept IaC and reviewing architecture for common anti-patterns.",
+    "human_value_tasks": "Solutions architects translate ambiguous business requirements into concrete technical architectures, requiring deep stakeholder engagement and business domain understanding. They make technology selection decisions that have long-term strategic and financial implications — balancing vendor lock-in, team capability, and total cost of ownership. Presenting architectures to executive and technical audiences and defending trade-off decisions requires communication and credibility built through experience.",
+    "salary_range_low": 700000,
+    "salary_range_high": 1800000,
+    "salary_progression": {
+      "year_0_1": "7-12 lakh",
+      "year_2_3": "14-22 lakh",
+      "year_4_5": "22-35 lakh",
+      "year_6_plus": "35-75 lakh (VERIFY)"
+    },
+    "english_requirement": "Essential",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "PG,MBA"
+  },
+  {
+    "role_name": "Blockchain Developer",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "CQRS and Event Sourcing",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Blockchain Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Object-Oriented Programming (OOP)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "API Security",
+        "importance": "High"
+      },
+      {
+        "skill_name": "System Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Smart Contract Development and Security",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Solidity",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Python",
+        "importance": "High"
+      },
+      {
+        "skill_name": "JavaScript",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Node.js",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Git",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "GitHub Copilot",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Tabnine",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Continuous Learning and Technical Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Ethical Conduct and Integrity",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 50,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "GitHub Copilot and ChatGPT assist in writing Solidity contracts, generating ERC-20/ERC-721 boilerplate, and creating deployment scripts. ChatGPT helps debug transaction failures, analyse gas optimisation, and explain complex cryptographic primitives. AI tools assist in generating test suites for smart contracts using Hardhat and Foundry frameworks.",
+    "human_value_tasks": "Blockchain developers conduct smart contract security audits to identify reentrancy, overflow, and access control vulnerabilities — high-stakes work where AI-generated code frequently introduces exploitable bugs. They design token economics and governance models that balance incentives across diverse stakeholder groups, requiring economic reasoning and game theory knowledge. Navigating India's evolving VDA (Virtual Digital Asset) regulatory framework requires up-to-date legal and compliance awareness.",
+    "salary_range_low": 500000,
+    "salary_range_high": 1400000,
+    "salary_progression": {
+      "year_0_1": "5-9 lakh",
+      "year_2_3": "10-18 lakh",
+      "year_4_5": "18-30 lakh",
+      "year_6_plus": "30-65 lakh (VERIFY)"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Commonly Remote",
+    "emerging_role_flag": true,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Game Developer",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "Object-Oriented Programming (OOP)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Game Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Design Patterns (GoF)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Performance Testing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Agile and Scrum Methodology",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Unity and Unreal Engine Game Development",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "C++",
+        "importance": "High"
+      },
+      {
+        "skill_name": "C#",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Python",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Git",
+        "importance": "High"
+      },
+      {
+        "skill_name": "VS Code (Visual Studio Code)",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "GitHub Copilot",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Midjourney",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Creativity and Innovation",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Continuous Learning and Technical Development",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 45,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "GitHub Copilot assists in generating game mechanic scripts, AI NPC behaviour trees, and boilerplate systems like inventory management in C#/C++. ChatGPT supports game loop architecture decisions, shader debugging, and writing tool scripts. Midjourney and generative AI tools are used for rapid concept art, texture generation, and asset ideation in indie and mid-size studios.",
+    "human_value_tasks": "Game developers design the core gameplay loop, pacing, and feel — elements requiring creative vision and iterative player testing that AI cannot replicate. They optimise rendering and CPU performance for target hardware, applying platform-specific profiling knowledge that demands deep technical expertise. Collaboration with artists, sound designers, and game designers to achieve a cohesive player experience requires human creative direction.",
+    "salary_range_low": 350000,
+    "salary_range_high": 900000,
+    "salary_progression": {
+      "year_0_1": "3.5-6 lakh",
+      "year_2_3": "7-12 lakh",
+      "year_4_5": "12-20 lakh",
+      "year_6_plus": "20-40 lakh (VERIFY)"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "Embedded Systems Engineer",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "Object-Oriented Programming (OOP)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Edge Computing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "System Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Performance Testing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Real-Time Operating System (RTOS) Programming",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Embedded C Programming",
+        "importance": "High"
+      },
+      {
+        "skill_name": "C++",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Python",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Arduino and Raspberry Pi",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Altium Designer (PCB)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Git",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "GitHub Copilot",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Tabnine",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Continuous Learning and Technical Development",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 35,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "GitHub Copilot and ChatGPT assist in generating peripheral driver templates, HAL abstraction layer code, and unit test stubs for embedded C/C++ codebases. ChatGPT supports debugging register-level issues and interpreting microcontroller datasheets. AI tools are beginning to assist with hardware-in-the-loop (HIL) test script generation.",
+    "human_value_tasks": "Embedded systems engineers debug hardware-software interaction issues using oscilloscopes, logic analysers, and JTAG debuggers — skills requiring physical hardware access and deep electronics knowledge AI cannot replicate. They optimise firmware for power consumption, memory footprint, and real-time determinism, requiring trade-off decisions specific to each hardware platform. Hardware bring-up, involving first-boot debugging on new PCB revisions, requires hands-on investigation skills.",
+    "salary_range_low": 350000,
+    "salary_range_high": 900000,
+    "salary_progression": {
+      "year_0_1": "3.5-6 lakh",
+      "year_2_3": "7-12 lakh",
+      "year_4_5": "12-20 lakh",
+      "year_6_plus": "20-40 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Mostly On-Site",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "IoT Developer",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "Edge Computing",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Network Security",
+        "importance": "High"
+      },
+      {
+        "skill_name": "API Security",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Event-Driven Architecture",
+        "importance": "High"
+      },
+      {
+        "skill_name": "System Design",
+        "importance": "High"
+      },
+      {
+        "skill_name": "IoT Architecture Design (Device to Cloud)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "Python",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Embedded C Programming",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Arduino and Raspberry Pi",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Git",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "Amazon Web Services (AWS)",
+        "importance": "High"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "GitHub Copilot",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Amazon Q Developer (formerly AWS CodeWhisperer)",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Analytical Thinking",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Continuous Learning and Technical Development",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Attention to Detail",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 40,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "GitHub Copilot and ChatGPT generate firmware code, cloud integration scripts, and AWS IoT Core rule configurations. Amazon Q Developer assists with AWS IoT device management and Greengrass component development. AI tools help interpret sensor datasheet protocols and generate device shadow handling code.",
+    "human_value_tasks": "IoT developers physically commission and debug device fleets in field environments — warehouses, factories, agricultural fields — where remote debugging is insufficient and hands-on troubleshooting is essential. They design power-efficient firmware for battery-operated devices that must operate for years without maintenance, requiring hardware-specific optimisation beyond AI's code generation capability. Security architecture decisions for devices that cannot be easily patched post-deployment require careful upfront human design.",
+    "salary_range_low": 350000,
+    "salary_range_high": 950000,
+    "salary_progression": {
+      "year_0_1": "3.5-6 lakh",
+      "year_2_3": "7-12 lakh",
+      "year_4_5": "12-20 lakh",
+      "year_6_plus": "20-40 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": true,
+    "programme_levels": "UG,PG"
+  },
+  {
+    "role_name": "IT Support Engineer",
+    "job_family": "Technology, Software and Data",
+    "domain_skills": [
+      {
+        "skill_name": "Incident Management",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Change Management (IT)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "ITIL Framework",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Root Cause Analysis",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Identity and Access Management (IAM)",
+        "importance": "High"
+      }
+    ],
+    "technical_skills": [
+      {
+        "skill_name": "ServiceNow",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Azure Active Directory (Entra ID)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Linux System Administration",
+        "importance": "High"
+      },
+      {
+        "skill_name": "PowerShell",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Network Monitoring (Nagios and Zabbix)",
+        "importance": "Medium"
+      },
+      {
+        "skill_name": "ManageEngine Suite",
+        "importance": "Medium"
+      }
+    ],
+    "ai_skills": [
+      {
+        "skill_name": "ChatGPT",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Microsoft Copilot",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Notion AI",
+        "importance": "Medium"
+      }
+    ],
+    "foundational_skills": [
+      {
+        "skill_name": "Communication Skills (Written and Verbal)",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Problem Solving",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Empathy and Client Sensitivity",
+        "importance": "High"
+      },
+      {
+        "skill_name": "Time Management and Deadline Adherence",
+        "importance": "High"
+      }
+    ],
+    "missing_skills": [],
+    "ai_exposure_pct": 45,
+    "ai_exposure_level": "Moderate",
+    "ai_exposure_detail": "ChatGPT and Microsoft Copilot assist IT support engineers in generating step-by-step troubleshooting guides, drafting knowledge base articles, and researching solutions for uncommon error codes. AI-powered service desk tools increasingly auto-suggest resolutions from historical tickets, reducing resolution time. Notion AI helps maintain and update internal runbooks and SOPs.",
+    "human_value_tasks": "IT support engineers provide empathetic, context-sensitive assistance to non-technical users who need patient, clear guidance — human communication skills AI chatbots cannot fully replicate. They diagnose complex environmental issues (hardware failures, software conflicts, network intermittency) that require physical investigation and lateral thinking. Escalation decisions, vendor management during hardware failures, and executive-level support require human judgement and accountability.",
+    "salary_range_low": 250000,
+    "salary_range_high": 600000,
+    "salary_progression": {
+      "year_0_1": "2.5-4 lakh",
+      "year_2_3": "4.5-7 lakh",
+      "year_4_5": "7-12 lakh",
+      "year_6_plus": "12-22 lakh"
+    },
+    "english_requirement": "Important",
+    "remote_friendly": "Hybrid Available",
+    "emerging_role_flag": false,
+    "programme_levels": "UG,PG"
+  }
+]

@@ -1,0 +1,1346 @@
+{
+  "B.Tech CSE": {
+    "degree": "B.Tech CSE",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Software Development",
+        "direction_description": "Building applications and systems across frontend, backend, and full stack domains.",
+        "direction_type": "Primary",
+        "roles": [
+          "Software Developer",
+          "Full Stack Developer",
+          "Frontend Developer",
+          "Backend Developer",
+          "Mobile App Developer"
+        ],
+        "why_primary": "B.Tech CSE is the most direct pipeline into software development; core programming, data structures, and OS concepts are taught throughout the degree."
+      },
+      {
+        "direction_name": "Data & AI Engineering",
+        "direction_description": "Building data pipelines, analytics systems, and machine learning models for organisations.",
+        "direction_type": "Primary",
+        "roles": [
+          "Data Analyst",
+          "Data Engineer",
+          "Data Scientist (Junior)",
+          "ML Engineer (Junior)",
+          "Automation Test Engineer"
+        ],
+        "why_primary": "Algorithms, statistics, and programming from B.Tech CSE provide a strong foundation for data and AI engineering roles."
+      },
+      {
+        "direction_name": "DevOps, Cloud & Infrastructure",
+        "direction_description": "Managing cloud infrastructure, CI/CD pipelines, and system reliability at scale.",
+        "direction_type": "Primary",
+        "roles": [
+          "DevOps Engineer",
+          "Cloud Engineer",
+          "Site Reliability Engineer",
+          "Network Administrator",
+          "Database Administrator"
+        ],
+        "why_primary": "Networking, OS, and systems programming modules in B.Tech CSE directly prepare graduates for infrastructure and cloud roles."
+      },
+      {
+        "direction_name": "Cybersecurity & Quality",
+        "direction_description": "Protecting systems and ensuring software quality through security and testing roles.",
+        "direction_type": "Primary",
+        "roles": [
+          "Cybersecurity Analyst",
+          "QA Engineer",
+          "Automation Test Engineer",
+          "Technical Writer"
+        ],
+        "why_primary": "Security fundamentals and software engineering principles in CSE curriculum align directly with cybersecurity and QA roles."
+      },
+      {
+        "direction_name": "Product & Technical Leadership",
+        "direction_description": "Bridging technology and business through product management and solutions architecture.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Product Manager (Associate)",
+          "Solutions Architect (Junior)",
+          "Business Analyst",
+          "Technical Writer"
+        ],
+        "additional_skills_needed": "Product thinking, Agile/Scrum, stakeholder management, JIRA, basic financial literacy",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Blockchain & Emerging Tech",
+        "direction_description": "Building decentralised applications and working in emerging technology domains.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Blockchain Developer",
+          "IoT Developer",
+          "Embedded Systems Engineer",
+          "Game Developer"
+        ],
+        "additional_skills_needed": "Solidity, Web3.js, smart contracts, IoT protocols (MQTT), Unity/Unreal basics",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Finance & Quantitative Analytics",
+        "direction_description": "Applying programming and analytical skills in fintech, trading, and financial analytics.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Fintech Analyst",
+          "Data Analyst",
+          "Risk Analyst",
+          "Investment Analyst"
+        ],
+        "additional_skills_needed": "Financial markets basics, Python for finance, SQL, risk modelling, CFA Level 1 optional",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "CSE graduates are highly sought in fintech and quant roles; the main gap is financial domain knowledge which can be bridged in 6-9 months with focused effort."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Founding a tech startup, SaaS product, or digital services company.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Product Manager (Associate)",
+          "Software Developer",
+          "Solutions Architect (Junior)"
+        ],
+        "additional_skills_needed": "Business model design, startup fundraising basics, GTM strategy, legal/company registration, customer discovery",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "CSE is the strongest degree for tech entrepreneurship in India; success depends more on idea validation and execution than technical skills."
+      }
+    ]
+  },
+  "B.Tech IT": {
+    "degree": "B.Tech IT",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Software & Web Development",
+        "direction_description": "Developing web and mobile applications across the full technology stack.",
+        "direction_type": "Primary",
+        "roles": [
+          "Software Developer",
+          "Full Stack Developer",
+          "Frontend Developer",
+          "Backend Developer",
+          "Mobile App Developer"
+        ],
+        "why_primary": "B.Tech IT covers programming, web technologies, and software engineering making graduates job-ready for development roles."
+      },
+      {
+        "direction_name": "Networking & IT Infrastructure",
+        "direction_description": "Managing enterprise networks, databases, and IT systems for organisations.",
+        "direction_type": "Primary",
+        "roles": [
+          "Network Administrator",
+          "Database Administrator",
+          "IT Support Engineer",
+          "Cloud Engineer",
+          "DevOps Engineer"
+        ],
+        "why_primary": "Networking, database management, and system administration are core B.Tech IT subjects directly applicable to infrastructure roles."
+      },
+      {
+        "direction_name": "Quality Assurance & Testing",
+        "direction_description": "Ensuring software quality through manual and automated testing processes.",
+        "direction_type": "Primary",
+        "roles": [
+          "QA Engineer",
+          "Automation Test Engineer",
+          "Technical Writer",
+          "Cybersecurity Analyst"
+        ],
+        "why_primary": "Software testing methodologies and SDLC concepts are foundational in B.Tech IT, and QA is a common first placement for IT graduates."
+      },
+      {
+        "direction_name": "Data Analytics & Business Intelligence",
+        "direction_description": "Transforming raw data into business insights using analytics and BI tools.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Data Analyst",
+          "Data Engineer",
+          "Business Analyst",
+          "ML Engineer (Junior)"
+        ],
+        "additional_skills_needed": "SQL advanced, Python/R, Power BI/Tableau, statistics fundamentals, cloud data platforms",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Product & Project Management",
+        "direction_description": "Managing technology products and projects across cross-functional teams.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Product Manager (Associate)",
+          "Project Coordinator",
+          "Business Analyst",
+          "Solutions Architect (Junior)"
+        ],
+        "additional_skills_needed": "Agile/Scrum, JIRA, stakeholder management, product roadmap tools, business acumen",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Cybersecurity & Ethical Hacking",
+        "direction_description": "Specialising in information security, penetration testing, and cyber defence.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Cybersecurity Analyst",
+          "Network Administrator",
+          "IT Support Engineer"
+        ],
+        "additional_skills_needed": "CEH or CompTIA Security+ certification, penetration testing tools (Kali Linux, Metasploit), VAPT methodologies, SIEM tools",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Cybersecurity is a high-demand but specialised field; certifications and hands-on CTF experience are essential to stand out against dedicated cybersecurity programme graduates."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting an IT services firm, tech product company, or digital agency.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Software Developer",
+          "IT Support Engineer",
+          "Product Manager (Associate)"
+        ],
+        "additional_skills_needed": "Client acquisition, project scoping and pricing, legal setup, financial management, team building",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "IT services entrepreneurship is highly accessible for B.Tech IT graduates; starting with freelancing or a small services firm before scaling is a proven approach."
+      }
+    ]
+  },
+  "B.Tech Mechanical": {
+    "degree": "B.Tech Mechanical",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Design & Product Engineering",
+        "direction_description": "Designing mechanical components and systems using CAD and simulation tools.",
+        "direction_type": "Primary",
+        "roles": [
+          "Mechanical Design Engineer",
+          "Automobile Engineer",
+          "Aerospace Engineer (Junior)",
+          "Embedded Systems Engineer"
+        ],
+        "why_primary": "Engineering drawing, CAD, and machine design are core B.Tech Mechanical subjects directly applicable to design engineering roles."
+      },
+      {
+        "direction_name": "Manufacturing & Production",
+        "direction_description": "Managing production processes, quality, and plant operations in manufacturing environments.",
+        "direction_type": "Primary",
+        "roles": [
+          "Production Engineer",
+          "Quality Engineer",
+          "Maintenance Engineer",
+          "Safety Officer"
+        ],
+        "why_primary": "Manufacturing processes, industrial engineering, and quality management are central to B.Tech Mechanical curriculum."
+      },
+      {
+        "direction_name": "Infrastructure & Construction",
+        "direction_description": "Supporting infrastructure projects in estimation, project engineering, and site roles.",
+        "direction_type": "Primary",
+        "roles": [
+          "Project Engineer",
+          "Estimation Engineer",
+          "Safety Officer",
+          "Maintenance Engineer"
+        ],
+        "why_primary": "Thermodynamics, fluid mechanics, and structural analysis give mechanical graduates a strong base for infrastructure and project engineering."
+      },
+      {
+        "direction_name": "Energy & Power Systems",
+        "direction_description": "Working in power generation, HVAC, and energy systems engineering.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Power Systems Engineer",
+          "Instrumentation Engineer",
+          "Environmental Engineer",
+          "Chemical Process Engineer"
+        ],
+        "additional_skills_needed": "Energy systems specialisation, HVAC design tools, renewable energy basics, PLC/SCADA fundamentals",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Data & Analytics for Engineering",
+        "direction_description": "Applying data analytics to manufacturing operations and supply chain optimisation.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Data Analyst",
+          "Business Analyst",
+          "Supply Chain Executive",
+          "Operations Executive"
+        ],
+        "additional_skills_needed": "Python/SQL, Power BI, supply chain analytics, Six Sigma Green Belt, ERP tools",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Robotics & Automation Engineering",
+        "direction_description": "Designing and deploying automated manufacturing systems and robotics solutions.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Embedded Systems Engineer",
+          "Automation Test Engineer",
+          "IoT Developer",
+          "Production Engineer"
+        ],
+        "additional_skills_needed": "PLC programming, ROS (Robot Operating System), Python, industrial automation protocols, servo and motor systems",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Robotics and automation is a natural extension for mechanical graduates but requires dedicated upskilling in software and control systems — strong demand in automotive and manufacturing sectors."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a manufacturing unit, engineering consultancy, or industrial services business.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Production Engineer",
+          "Mechanical Design Engineer",
+          "Project Engineer"
+        ],
+        "additional_skills_needed": "Business plan development, MSME registration, machinery procurement, costing and pricing, industrial compliance",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Manufacturing entrepreneurship is capital-intensive; most successful founders gain 3-5 years of industry experience before setting up independently."
+      }
+    ]
+  },
+  "B.Tech Civil": {
+    "degree": "B.Tech Civil",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Structural & Site Engineering",
+        "direction_description": "Designing and supervising construction of buildings, bridges, and infrastructure.",
+        "direction_type": "Primary",
+        "roles": [
+          "Civil Site Engineer",
+          "Structural Engineer",
+          "Project Engineer",
+          "Safety Officer"
+        ],
+        "why_primary": "Structural analysis, RCC design, and construction management are the core of B.Tech Civil, directly preparing graduates for site and structural roles."
+      },
+      {
+        "direction_name": "Project & Estimation Engineering",
+        "direction_description": "Managing project costs, timelines, and resource planning for construction projects.",
+        "direction_type": "Primary",
+        "roles": [
+          "Estimation Engineer",
+          "Project Engineer",
+          "Project Coordinator",
+          "Estimation Engineer"
+        ],
+        "why_primary": "Quantity surveying, project planning, and BOQ preparation are taught in B.Tech Civil and directly map to estimation and project roles."
+      },
+      {
+        "direction_name": "Environmental & Water Engineering",
+        "direction_description": "Designing water supply, sewage, and environmental management systems.",
+        "direction_type": "Primary",
+        "roles": [
+          "Environmental Engineer",
+          "Water Resource Engineer",
+          "Safety Officer",
+          "Environmental Impact Assessor"
+        ],
+        "why_primary": "Environmental engineering, fluid mechanics, and hydrology are standard Civil engineering subjects applicable to these roles."
+      },
+      {
+        "direction_name": "Urban Planning & Infrastructure",
+        "direction_description": "Working on smart city, transportation, and urban infrastructure development projects.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Landscape Designer",
+          "Project Engineer",
+          "Sustainability Analyst",
+          "Environmental Impact Assessor"
+        ],
+        "additional_skills_needed": "AutoCAD/Revit advanced, GIS tools, urban planning regulations, smart infrastructure concepts",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Real Estate & Construction Management",
+        "direction_description": "Managing real estate development projects and construction business operations.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Project Coordinator",
+          "Estimation Engineer",
+          "Business Analyst",
+          "Operations Executive"
+        ],
+        "additional_skills_needed": "RERA regulations, real estate valuation, project management certification (PMP), contract management",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "BIM & Construction Technology",
+        "direction_description": "Using Building Information Modelling and digital tools to modernise construction workflows.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Civil Site Engineer",
+          "Structural Engineer",
+          "Project Engineer",
+          "Estimation Engineer"
+        ],
+        "additional_skills_needed": "Revit, Navisworks, BIM Level 2/3 concepts, Autodesk Construction Cloud, clash detection workflows",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "BIM is rapidly becoming mandatory in large infrastructure projects in India; civil graduates who invest in this skill early gain a significant competitive edge."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a construction firm, real estate development company, or civil consultancy.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Civil Site Engineer",
+          "Estimation Engineer",
+          "Project Engineer"
+        ],
+        "additional_skills_needed": "Contractor licensing, RERA registration, working capital management, vendor and labour management, tender bidding",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Civil engineering entrepreneurship is viable but highly capital-intensive; most successful founders work as site engineers or contractors for 5+ years before going independent."
+      }
+    ]
+  },
+  "B.Tech Electrical": {
+    "degree": "B.Tech Electrical",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Power Systems & Utilities",
+        "direction_description": "Working in power generation, transmission, distribution, and utility management.",
+        "direction_type": "Primary",
+        "roles": [
+          "Power Systems Engineer",
+          "Electrical Design Engineer",
+          "Maintenance Engineer",
+          "Safety Officer"
+        ],
+        "why_primary": "Power systems, electrical machines, and transmission lines are core B.Tech Electrical subjects directly preparing graduates for utility and power roles."
+      },
+      {
+        "direction_name": "Electrical Design & Projects",
+        "direction_description": "Designing electrical systems for buildings, industrial plants, and infrastructure projects.",
+        "direction_type": "Primary",
+        "roles": [
+          "Electrical Design Engineer",
+          "Project Engineer",
+          "Estimation Engineer",
+          "Instrumentation Engineer"
+        ],
+        "why_primary": "Electrical circuit design, CAD tools, and project execution are fundamental to B.Tech Electrical training."
+      },
+      {
+        "direction_name": "Industrial Automation & Control",
+        "direction_description": "Designing and maintaining automated control systems in manufacturing and process industries.",
+        "direction_type": "Primary",
+        "roles": [
+          "Instrumentation Engineer",
+          "Embedded Systems Engineer",
+          "Production Engineer",
+          "Maintenance Engineer"
+        ],
+        "why_primary": "Control systems, PLCs, and instrumentation are taught in B.Tech Electrical and directly applicable to automation and industrial roles."
+      },
+      {
+        "direction_name": "Renewable Energy & Sustainability",
+        "direction_description": "Designing and managing solar, wind, and other renewable energy systems.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Power Systems Engineer",
+          "Environmental Engineer",
+          "Sustainability Analyst",
+          "Project Engineer"
+        ],
+        "additional_skills_needed": "Solar PV design tools (PVsyst), wind energy fundamentals, energy auditing, MNRE regulations, DPR preparation",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "IoT & Embedded Systems",
+        "direction_description": "Developing connected hardware and embedded solutions for smart infrastructure.",
+        "direction_type": "Secondary",
+        "roles": [
+          "IoT Developer",
+          "Embedded Systems Engineer",
+          "Electronics Engineer",
+          "Network Administrator"
+        ],
+        "additional_skills_needed": "Arduino/Raspberry Pi, C/C++ for embedded, MQTT, microcontroller programming, PCB design basics",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Electric Vehicles & Emerging Energy",
+        "direction_description": "Working in the rapidly growing EV ecosystem in powertrain, battery, and charging infrastructure roles.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Automobile Engineer",
+          "Electronics Engineer",
+          "Embedded Systems Engineer",
+          "Production Engineer"
+        ],
+        "additional_skills_needed": "EV powertrain fundamentals, battery management systems, motor drives, EV charging standards (CCS/CHAdeMO), MATLAB/Simulink",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "EV is the fastest-growing domain for electrical graduates in India; OEMs and startups actively recruit but expect domain-specific knowledge beyond the core curriculum."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Launching an electrical contracting firm, solar EPC company, or energy audit consultancy.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Electrical Design Engineer",
+          "Power Systems Engineer",
+          "Project Engineer"
+        ],
+        "additional_skills_needed": "Electrical contractor licensing, CEIG approvals, solar subsidy schemes, project costing, client acquisition",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Solar EPC and electrical contracting entrepreneurship has strong market demand in India but requires licensed contractors and project execution experience before going independent."
+      }
+    ]
+  },
+  "B.Tech ECE": {
+    "degree": "B.Tech ECE",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Embedded Systems & Hardware",
+        "direction_description": "Designing and programming embedded systems, microcontrollers, and hardware platforms.",
+        "direction_type": "Primary",
+        "roles": [
+          "Embedded Systems Engineer",
+          "Electronics Engineer",
+          "IoT Developer",
+          "Instrumentation Engineer"
+        ],
+        "why_primary": "Microcontrollers, digital electronics, and embedded C are foundational in B.Tech ECE, making these the most natural first roles."
+      },
+      {
+        "direction_name": "Telecommunications & Networking",
+        "direction_description": "Designing and managing communication systems, RF networks, and telecom infrastructure.",
+        "direction_type": "Primary",
+        "roles": [
+          "Network Administrator",
+          "Electronics Engineer",
+          "IT Support Engineer",
+          "Instrumentation Engineer"
+        ],
+        "why_primary": "Communication systems, signal processing, and RF engineering are core ECE subjects directly applicable to telecom roles."
+      },
+      {
+        "direction_name": "Software & Application Development",
+        "direction_description": "Transitioning into software roles leveraging programming skills from the ECE curriculum.",
+        "direction_type": "Primary",
+        "roles": [
+          "Software Developer",
+          "QA Engineer",
+          "Automation Test Engineer",
+          "Data Analyst"
+        ],
+        "why_primary": "ECE graduates are actively recruited by IT companies in India; programming and logical reasoning skills make the transition straightforward."
+      },
+      {
+        "direction_name": "VLSI & Chip Design",
+        "direction_description": "Designing integrated circuits and semiconductor chips for electronics applications.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Electronics Engineer",
+          "Embedded Systems Engineer",
+          "Instrumentation Engineer"
+        ],
+        "additional_skills_needed": "Verilog/VHDL, Cadence/Synopsys tools, digital IC design, FPGA programming, semiconductor fundamentals",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Signal Processing & AI at Edge",
+        "direction_description": "Applying signal processing and machine learning for edge computing and intelligent devices.",
+        "direction_type": "Secondary",
+        "roles": [
+          "ML Engineer (Junior)",
+          "Data Engineer",
+          "Embedded Systems Engineer",
+          "IoT Developer"
+        ],
+        "additional_skills_needed": "Python, TensorFlow Lite, DSP fundamentals, edge AI frameworks, OpenCV",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Defence & Aerospace Electronics",
+        "direction_description": "Working on avionics, radar, and defence electronics systems in public sector and defence PSUs.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Aerospace Engineer (Junior)",
+          "Electronics Engineer",
+          "Instrumentation Engineer",
+          "Embedded Systems Engineer"
+        ],
+        "additional_skills_needed": "DRDO/ISRO/HAL recruitment exam preparation, avionics fundamentals, radar and sonar basics, security clearance awareness",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Defence and aerospace roles in India are largely through GATE/PSU exams or campus recruitment at premier institutions; competitive but highly stable career paths."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a hardware startup, electronics manufacturing unit, or IoT product company.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Embedded Systems Engineer",
+          "IoT Developer",
+          "Electronics Engineer"
+        ],
+        "additional_skills_needed": "Product prototyping, PCB manufacturing vendors, BIS certification, crowdfunding/investor pitching, supply chain for components",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Hardware entrepreneurship in India is challenging due to manufacturing ecosystem gaps; most successful founders start with software/IoT products before moving to pure hardware."
+      }
+    ]
+  },
+  "B.Tech EEE": {
+    "degree": "B.Tech EEE",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Power Systems & Energy",
+        "direction_description": "Working in electrical power generation, transmission, distribution, and energy management.",
+        "direction_type": "Primary",
+        "roles": [
+          "Power Systems Engineer",
+          "Electrical Design Engineer",
+          "Maintenance Engineer",
+          "Safety Officer"
+        ],
+        "why_primary": "Power electronics, electrical machines, and power systems are central to B.Tech EEE and directly prepare graduates for energy sector roles."
+      },
+      {
+        "direction_name": "Electronics & Control Systems",
+        "direction_description": "Designing control systems, automation, and electronics for industrial applications.",
+        "direction_type": "Primary",
+        "roles": [
+          "Electronics Engineer",
+          "Instrumentation Engineer",
+          "Embedded Systems Engineer",
+          "Production Engineer"
+        ],
+        "why_primary": "Electronics, control systems, and PLCs are core EEE subjects applicable to automation and industrial electronics roles."
+      },
+      {
+        "direction_name": "Electrical Project & Design Engineering",
+        "direction_description": "Executing electrical design and project engineering for infrastructure and industrial projects.",
+        "direction_type": "Primary",
+        "roles": [
+          "Electrical Design Engineer",
+          "Project Engineer",
+          "Estimation Engineer",
+          "Instrumentation Engineer"
+        ],
+        "why_primary": "EEE graduates combine electrical and electronics design skills making them versatile for project and design engineering roles."
+      },
+      {
+        "direction_name": "Renewable Energy & Smart Grid",
+        "direction_description": "Designing and deploying solar, wind, and smart grid solutions for the energy transition.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Power Systems Engineer",
+          "Environmental Engineer",
+          "Sustainability Analyst",
+          "IoT Developer"
+        ],
+        "additional_skills_needed": "Solar PV design, smart grid technologies, SCADA for energy, MNRE regulations, energy storage systems",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Software & Data for Energy",
+        "direction_description": "Applying software and data skills to energy analytics, SCADA, and digital grid management.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Data Analyst",
+          "Software Developer",
+          "Network Administrator",
+          "IT Support Engineer"
+        ],
+        "additional_skills_needed": "Python, SQL, SCADA software, industrial IoT protocols, data visualisation for energy",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Electric Vehicles & Power Electronics",
+        "direction_description": "Working in the EV ecosystem across battery systems, motor drives, and charging infrastructure.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Automobile Engineer",
+          "Electronics Engineer",
+          "Embedded Systems Engineer",
+          "Power Systems Engineer"
+        ],
+        "additional_skills_needed": "EV powertrain design, battery management systems, power converter design, MATLAB/Simulink, EV standards",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "EEE graduates are among the most naturally suited for EV roles; strong demand from OEMs and EV startups but requires domain-specific upskilling beyond the core curriculum."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Launching a solar EPC company, electrical contracting firm, or EV charging infrastructure business.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Power Systems Engineer",
+          "Electrical Design Engineer",
+          "Project Engineer"
+        ],
+        "additional_skills_needed": "Electrical contractor licensing, DISCOM regulations, project costing, subsidy schemes, client acquisition",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Solar and EV charging entrepreneurship has strong tailwinds in India; EEE graduates are well-positioned but need industry experience and regulatory knowledge before going independent."
+      }
+    ]
+  },
+  "B.Tech Chemical": {
+    "degree": "B.Tech Chemical",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Process & Plant Engineering",
+        "direction_description": "Designing and optimising chemical processes and plant operations in process industries.",
+        "direction_type": "Primary",
+        "roles": [
+          "Chemical Process Engineer",
+          "Production Engineer",
+          "Quality Engineer",
+          "Safety Officer"
+        ],
+        "why_primary": "Process design, thermodynamics, and reactor engineering are the core of B.Tech Chemical, directly applicable to process and plant engineering roles."
+      },
+      {
+        "direction_name": "Quality, Safety & Environment",
+        "direction_description": "Ensuring product quality, workplace safety, and environmental compliance in chemical industries.",
+        "direction_type": "Primary",
+        "roles": [
+          "Quality Engineer",
+          "Safety Officer",
+          "Environmental Engineer",
+          "Environmental Impact Assessor"
+        ],
+        "why_primary": "HSE regulations, quality management, and environmental engineering are standard B.Tech Chemical subjects with direct job applicability."
+      },
+      {
+        "direction_name": "Pharma & Specialty Chemicals",
+        "direction_description": "Working in pharmaceutical manufacturing, drug formulation, and specialty chemical production.",
+        "direction_type": "Primary",
+        "roles": [
+          "Chemical Process Engineer",
+          "Drug Safety Associate",
+          "Pharmacovigilance Associate",
+          "Lab Technician"
+        ],
+        "why_primary": "Chemistry and process engineering fundamentals from B.Tech Chemical are highly valued by pharma and specialty chemical manufacturers."
+      },
+      {
+        "direction_name": "Petroleum & Energy Sector",
+        "direction_description": "Working in oil & gas, petrochemicals, and energy processing industries.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Chemical Process Engineer",
+          "Instrumentation Engineer",
+          "Safety Officer",
+          "Environmental Engineer"
+        ],
+        "additional_skills_needed": "Petroleum refining fundamentals, HAZOP studies, process simulation tools (Aspen Plus), oil & gas safety standards",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Research & Regulatory Affairs",
+        "direction_description": "Working in chemical or pharma research and regulatory compliance roles.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Research Associate",
+          "Regulatory Affairs Executive",
+          "Clinical Research Associate",
+          "Medical Writer"
+        ],
+        "additional_skills_needed": "Regulatory frameworks (CDSCO, EPA), GLP/GMP standards, scientific writing, documentation skills",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Sustainability & Green Chemistry",
+        "direction_description": "Applying sustainable process design and environmental management in industry and consulting.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Environmental Engineer",
+          "Sustainability Analyst",
+          "Environmental Impact Assessor",
+          "Water Resource Engineer"
+        ],
+        "additional_skills_needed": "Life cycle assessment, ISO 14001, carbon accounting, ESG reporting frameworks, green chemistry principles",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Sustainability is a fast-growing niche for chemical engineers but most roles require demonstrated knowledge of ESG frameworks and LCA tools beyond the standard curriculum."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a specialty chemical manufacturing unit, chemical trading firm, or environmental consulting practice.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Chemical Process Engineer",
+          "Quality Engineer",
+          "Safety Officer"
+        ],
+        "additional_skills_needed": "Chemical manufacturing licenses, PCB/CPCB compliance, MSME registration, supplier and buyer networks, plant costing",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Chemical manufacturing entrepreneurship is highly regulated and capital-intensive; most founders spend 5+ years in the industry before going independent."
+      }
+    ]
+  },
+  "B.Tech Biotechnology": {
+    "degree": "B.Tech Biotechnology",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Clinical Research & Pharmacovigilance",
+        "direction_description": "Supporting drug development, clinical trials, and drug safety monitoring in pharma and CROs.",
+        "direction_type": "Primary",
+        "roles": [
+          "Clinical Research Associate",
+          "Pharmacovigilance Associate",
+          "Drug Safety Associate",
+          "Medical Writer"
+        ],
+        "why_primary": "Biomedical sciences, pharmacology, and research methodology from B.Tech Biotechnology directly prepare graduates for CRO and pharma research roles."
+      },
+      {
+        "direction_name": "Regulatory Affairs & Quality",
+        "direction_description": "Ensuring compliance with regulatory standards in pharma, biotech, and medical device industries.",
+        "direction_type": "Primary",
+        "roles": [
+          "Regulatory Affairs Executive",
+          "Quality Engineer",
+          "Lab Technician",
+          "Healthcare Quality Analyst"
+        ],
+        "why_primary": "GMP, GLP, and regulatory science are taught in B.Tech Biotechnology, enabling graduates to enter QA and regulatory roles."
+      },
+      {
+        "direction_name": "Research & Laboratory Science",
+        "direction_description": "Conducting scientific research in academic, industrial, or government laboratory settings.",
+        "direction_type": "Primary",
+        "roles": [
+          "Research Associate",
+          "Lab Technician",
+          "Medical Lab Technologist",
+          "Biomedical Engineer"
+        ],
+        "why_primary": "Hands-on laboratory training and research methodology are central to B.Tech Biotechnology, making lab and research roles the most direct career path."
+      },
+      {
+        "direction_name": "Healthcare & Hospital Operations",
+        "direction_description": "Supporting healthcare delivery and hospital management functions.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Hospital Administrator",
+          "Healthcare Quality Analyst",
+          "Public Health Analyst",
+          "Nutritionist/Dietician"
+        ],
+        "additional_skills_needed": "Hospital management basics, NABH standards, health informatics, public health frameworks",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Bioinformatics & Data Science",
+        "direction_description": "Applying computational tools to analyse biological data and support drug discovery.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Data Analyst",
+          "Research Associate",
+          "ML Engineer (Junior)",
+          "Data Scientist (Junior)"
+        ],
+        "additional_skills_needed": "Python/R for bioinformatics, genomics databases, machine learning basics, NGS data analysis, Biopython",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Agri-Biotech & Food Science",
+        "direction_description": "Applying biotechnology to agricultural improvement, food quality, and agri-product development.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Food Quality Analyst",
+          "Agricultural Officer",
+          "Research Associate",
+          "Organic Farming Consultant"
+        ],
+        "additional_skills_needed": "Agri-biotech applications, FSSAI regulations, food microbiology, plant tissue culture, ICAR certification",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Agri-biotech is a niche but growing domain in India; state agricultural universities and agri companies actively recruit biotech graduates with relevant specialisation."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a biotech startup, diagnostic lab, or health-tech venture.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Clinical Research Associate",
+          "Lab Technician",
+          "Research Associate"
+        ],
+        "additional_skills_needed": "Biotech startup ecosystem knowledge, CDSCO licensing, lab setup regulations, funding sources (DBT, BIRAC grants), IP and patent basics",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Biotech entrepreneurship is challenging without postgraduate research exposure; diagnostic lab franchising or health-tech are more accessible starting points for UG graduates."
+      }
+    ]
+  },
+  "B.Tech Automobile": {
+    "degree": "B.Tech Automobile",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Automotive Design & Engineering",
+        "direction_description": "Designing vehicle components and systems for automotive OEMs and Tier-1 suppliers.",
+        "direction_type": "Primary",
+        "roles": [
+          "Automobile Engineer",
+          "Mechanical Design Engineer",
+          "Production Engineer",
+          "Quality Engineer"
+        ],
+        "why_primary": "Vehicle dynamics, CAD, and automotive systems are core B.Tech Automobile subjects directly applicable to design and engineering roles at OEMs."
+      },
+      {
+        "direction_name": "Manufacturing & Quality",
+        "direction_description": "Managing production quality and process efficiency in automotive manufacturing plants.",
+        "direction_type": "Primary",
+        "roles": [
+          "Production Engineer",
+          "Quality Engineer",
+          "Maintenance Engineer",
+          "Safety Officer"
+        ],
+        "why_primary": "Automotive manufacturing processes, APQP, and IATF quality standards are standard curriculum components for automobile engineering graduates."
+      },
+      {
+        "direction_name": "After-Sales & Service Engineering",
+        "direction_description": "Supporting vehicle servicing, diagnostics, and dealer operations for automotive brands.",
+        "direction_type": "Primary",
+        "roles": [
+          "Automobile Engineer",
+          "Maintenance Engineer",
+          "IT Support Engineer",
+          "Project Engineer"
+        ],
+        "why_primary": "Vehicle systems knowledge makes automobile graduates natural fits for after-sales, service, and technical support roles at dealerships and OEMs."
+      },
+      {
+        "direction_name": "Supply Chain & Procurement",
+        "direction_description": "Managing automotive component sourcing and supply chain operations.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Supply Chain Executive",
+          "Procurement Executive",
+          "Logistics Coordinator",
+          "Quality Engineer"
+        ],
+        "additional_skills_needed": "Automotive supply chain standards, SAP MM, vendor development, IATF 16949, import/export of auto components",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Electric Vehicle Engineering",
+        "direction_description": "Transitioning into EV design, battery systems, and electric powertrain engineering.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Automobile Engineer",
+          "Electronics Engineer",
+          "Embedded Systems Engineer",
+          "Production Engineer"
+        ],
+        "additional_skills_needed": "EV powertrain, battery management systems, regenerative braking, MATLAB/Simulink, EV charging standards",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Motorsport & Advanced Vehicle Dynamics",
+        "direction_description": "Working in motorsport engineering, performance tuning, or advanced vehicle testing roles.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Automobile Engineer",
+          "Mechanical Design Engineer",
+          "Project Engineer"
+        ],
+        "additional_skills_needed": "Vehicle dynamics simulation, CFD basics, motorsport regulations, data acquisition systems, ADAMS/CarSim software",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Motorsport and advanced vehicle dynamics is highly competitive and niche; Formula Student participation and internships at racing teams significantly improve entry prospects."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting an automotive service centre, EV conversion workshop, or auto component manufacturing unit.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Automobile Engineer",
+          "Production Engineer",
+          "Maintenance Engineer"
+        ],
+        "additional_skills_needed": "Auto dealership/service business setup, GST and trade licensing, EV retrofit regulations, workshop management, customer acquisition",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Auto service and EV retrofit entrepreneurship is accessible and growing in India; 2-3 years of OEM or dealership experience is highly recommended before starting independently."
+      }
+    ]
+  },
+  "B.Tech Aerospace": {
+    "degree": "B.Tech Aerospace",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Aerospace Design & Structures",
+        "direction_description": "Designing aircraft structures, components, and systems for aerospace OEMs and defence organisations.",
+        "direction_type": "Primary",
+        "roles": [
+          "Aerospace Engineer (Junior)",
+          "Mechanical Design Engineer",
+          "Structural Engineer",
+          "Project Engineer"
+        ],
+        "why_primary": "Aerodynamics, structural analysis, and aerospace materials are core B.Tech Aerospace subjects directly applicable to design and structural roles."
+      },
+      {
+        "direction_name": "Avionics & Embedded Systems",
+        "direction_description": "Developing avionics systems, flight control software, and embedded aerospace applications.",
+        "direction_type": "Primary",
+        "roles": [
+          "Embedded Systems Engineer",
+          "Electronics Engineer",
+          "Instrumentation Engineer",
+          "IoT Developer"
+        ],
+        "why_primary": "Avionics, control systems, and flight dynamics are standard aerospace curriculum subjects applicable to embedded and electronics roles."
+      },
+      {
+        "direction_name": "Defence & Space PSUs",
+        "direction_description": "Working at DRDO, ISRO, HAL, and other defence and space public sector organisations.",
+        "direction_type": "Primary",
+        "roles": [
+          "Aerospace Engineer (Junior)",
+          "Project Engineer",
+          "Research Associate",
+          "Instrumentation Engineer"
+        ],
+        "why_primary": "B.Tech Aerospace is specifically valued by ISRO, DRDO, and HAL which actively recruit aerospace graduates through GATE and campus placements."
+      },
+      {
+        "direction_name": "Manufacturing & Quality in Aerospace",
+        "direction_description": "Managing precision manufacturing and quality assurance for aerospace components.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Production Engineer",
+          "Quality Engineer",
+          "Safety Officer",
+          "Maintenance Engineer"
+        ],
+        "additional_skills_needed": "AS9100 quality standards, aerospace manufacturing processes, NDT methods, precision machining, composite materials",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Simulation & CFD Analysis",
+        "direction_description": "Using computational fluid dynamics and simulation tools for aerospace design validation.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Mechanical Design Engineer",
+          "Research Associate",
+          "Aerospace Engineer (Junior)",
+          "Data Analyst"
+        ],
+        "additional_skills_needed": "ANSYS Fluent, OpenFOAM, MATLAB, Python for simulation, HPC computing basics",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Drone & UAV Technology",
+        "direction_description": "Designing, building, and operating unmanned aerial vehicles for commercial and defence applications.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Aerospace Engineer (Junior)",
+          "Embedded Systems Engineer",
+          "IoT Developer",
+          "Electronics Engineer"
+        ],
+        "additional_skills_needed": "UAV design, flight controller programming (ArduPilot/PX4), DGCA drone regulations, payload integration, RF communication",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Drone technology is a rapidly growing sector in India post-PLI scheme; aerospace graduates are well-positioned but must supplement with hands-on build experience and DGCA compliance knowledge."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a drone services company, aerospace components supplier, or aviation MRO business.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Aerospace Engineer (Junior)",
+          "Project Engineer",
+          "Production Engineer"
+        ],
+        "additional_skills_needed": "DGCA licensing for drone operations, aviation MRO regulations, DPIIT startup registration, component import/export, investor pitching",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Aerospace entrepreneurship, especially in drones and MRO, is growing in India but heavily regulated; industry experience and regulatory expertise are essential before going independent."
+      }
+    ]
+  },
+  "B.Tech Agricultural": {
+    "degree": "B.Tech Agricultural",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Agricultural Development & Extension",
+        "direction_description": "Working with farmers, government agencies, and NGOs to improve agricultural practices and productivity.",
+        "direction_type": "Primary",
+        "roles": [
+          "Agricultural Officer",
+          "Horticulturist",
+          "Organic Farming Consultant",
+          "Agribusiness Executive"
+        ],
+        "why_primary": "Crop science, soil management, and agricultural extension are core B.Tech Agricultural subjects directly applicable to field and development roles."
+      },
+      {
+        "direction_name": "Agribusiness & Supply Chain",
+        "direction_description": "Managing agricultural commodity trading, supply chain, and agribusiness operations.",
+        "direction_type": "Primary",
+        "roles": [
+          "Agribusiness Executive",
+          "Supply Chain Executive",
+          "Procurement Executive",
+          "Logistics Coordinator"
+        ],
+        "why_primary": "Agricultural economics and agribusiness management modules prepare graduates for commodity trading and supply chain roles in the agri sector."
+      },
+      {
+        "direction_name": "Food Quality & Processing",
+        "direction_description": "Ensuring food safety, quality, and processing standards in the food and agri-processing industry.",
+        "direction_type": "Primary",
+        "roles": [
+          "Food Quality Analyst",
+          "Dairy Technologist",
+          "Lab Technician",
+          "Quality Engineer"
+        ],
+        "why_primary": "Food technology, post-harvest management, and quality standards are standard B.Tech Agricultural subjects directly applicable to food processing roles."
+      },
+      {
+        "direction_name": "Soil, Water & Environmental Management",
+        "direction_description": "Managing soil health, irrigation systems, and environmental sustainability in agriculture.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Soil Scientist",
+          "Water Resource Engineer",
+          "Environmental Impact Assessor",
+          "Sustainability Analyst"
+        ],
+        "additional_skills_needed": "GIS for agriculture, remote sensing, soil testing lab skills, watershed management, ICAR certification",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "AgriTech & Precision Farming",
+        "direction_description": "Using technology such as drones, IoT, and data analytics to modernise farming practices.",
+        "direction_type": "Secondary",
+        "roles": [
+          "IoT Developer",
+          "Data Analyst",
+          "Research Associate",
+          "Agribusiness Executive"
+        ],
+        "additional_skills_needed": "Drone operation for agriculture, IoT sensors, remote sensing, Python basics, agri-data platforms",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Forestry & Natural Resource Management",
+        "direction_description": "Working in forest conservation, natural resource management, and ecology roles.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Forestry Officer",
+          "Environmental Impact Assessor",
+          "Sustainability Analyst",
+          "Water Resource Engineer"
+        ],
+        "additional_skills_needed": "Forest management regulations, wildlife protection laws, IFS exam preparation, biodiversity assessment tools",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Forestry Officer roles are primarily through state PSC and IFS exams requiring dedicated preparation; the degree provides domain knowledge but competitive exams demand additional structured study."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a farm-based enterprise, agri input dealership, organic produce brand, or agri-tech startup.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Agribusiness Executive",
+          "Organic Farming Consultant",
+          "Food Quality Analyst"
+        ],
+        "additional_skills_needed": "FPO/cooperative formation, APMC regulations, organic certification (PGS/NPOP), agri marketing and branding, e-NAM platform",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Agricultural entrepreneurship is highly encouraged by government schemes (PM Kisan, RKVY, AGRI startups); graduates with access to land or farmer networks have a strong head start."
+      }
+    ]
+  },
+  "B.Tech Mining": {
+    "degree": "B.Tech Mining",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Mine Operations & Engineering",
+        "direction_description": "Planning and managing underground and open-cast mining operations for mineral extraction.",
+        "direction_type": "Primary",
+        "roles": [
+          "Mining Engineer",
+          "Production Engineer",
+          "Safety Officer",
+          "Project Engineer"
+        ],
+        "why_primary": "Mine planning, rock mechanics, and blasting engineering are core B.Tech Mining subjects directly applicable to mine operations roles."
+      },
+      {
+        "direction_name": "Mine Safety & Environment",
+        "direction_description": "Ensuring safety compliance and environmental management in mining operations.",
+        "direction_type": "Primary",
+        "roles": [
+          "Safety Officer",
+          "Environmental Engineer",
+          "Environmental Impact Assessor",
+          "Quality Engineer"
+        ],
+        "why_primary": "DGMS safety regulations and environmental management are mandatory curriculum components in B.Tech Mining with direct job applicability."
+      },
+      {
+        "direction_name": "Mineral Processing & Metallurgy",
+        "direction_description": "Processing ore and managing mineral beneficiation for metals and non-metals industries.",
+        "direction_type": "Primary",
+        "roles": [
+          "Chemical Process Engineer",
+          "Production Engineer",
+          "Quality Engineer",
+          "Lab Technician"
+        ],
+        "why_primary": "Mineral processing, ore characterisation, and metallurgical testing are standard B.Tech Mining subjects applicable to beneficiation and processing roles."
+      },
+      {
+        "direction_name": "Geotechnical & Infrastructure Engineering",
+        "direction_description": "Applying geotechnical expertise to tunnelling, civil, and infrastructure projects.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Civil Site Engineer",
+          "Structural Engineer",
+          "Project Engineer",
+          "Estimation Engineer"
+        ],
+        "additional_skills_needed": "Geotechnical investigation methods, tunnel engineering basics, AutoCAD, ground improvement techniques",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Mining Analytics & Automation",
+        "direction_description": "Applying data analytics and automation technologies to improve mining efficiency.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Data Analyst",
+          "IoT Developer",
+          "Operations Executive",
+          "Business Analyst"
+        ],
+        "additional_skills_needed": "Python/SQL, mining software (Surpac, Vulcan), IoT for mining, drone surveying, predictive maintenance concepts",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Oil, Gas & Energy Sector",
+        "direction_description": "Transitioning into oil & gas exploration, drilling, and energy resource management roles.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Chemical Process Engineer",
+          "Safety Officer",
+          "Environmental Engineer",
+          "Project Engineer"
+        ],
+        "additional_skills_needed": "Petroleum geology basics, drilling engineering fundamentals, OISD safety standards, oil & gas regulations, relevant GATE paper",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Mining graduates have transferable geoscience and safety skills for oil & gas roles but domain-specific knowledge in petroleum engineering is needed; ONGC and OIL are key recruiters."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a mining consultancy, quarry operation, or mineral trading business.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Mining Engineer",
+          "Safety Officer",
+          "Project Engineer"
+        ],
+        "additional_skills_needed": "Mining lease regulations (MMDR Act), DGMS approvals, quarry licensing, mineral auction processes, environmental clearances",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Mining entrepreneurship is heavily regulated by central and state governments; navigating the regulatory environment requires deep experience and strong government liaison skills."
+      }
+    ]
+  },
+  "B.Tech Textile": {
+    "degree": "B.Tech Textile",
+    "programme_level": "UG",
+    "directions": [
+      {
+        "direction_name": "Textile Manufacturing & Production",
+        "direction_description": "Managing fibre, yarn, fabric, and garment production processes in textile mills.",
+        "direction_type": "Primary",
+        "roles": [
+          "Textile Engineer",
+          "Production Engineer",
+          "Quality Engineer",
+          "Maintenance Engineer"
+        ],
+        "why_primary": "Spinning, weaving, knitting, and textile machinery are core B.Tech Textile subjects directly applicable to manufacturing and production roles."
+      },
+      {
+        "direction_name": "Quality & Process Control",
+        "direction_description": "Ensuring product quality and process consistency across textile and apparel manufacturing.",
+        "direction_type": "Primary",
+        "roles": [
+          "Quality Engineer",
+          "Process Improvement Analyst",
+          "Safety Officer",
+          "Lab Technician"
+        ],
+        "why_primary": "Textile testing, quality standards (OEKO-TEX, GOTS), and process control are standard curriculum components with direct industry applicability."
+      },
+      {
+        "direction_name": "Textile Design & Merchandising",
+        "direction_description": "Working in fashion design, fabric development, and product merchandising roles.",
+        "direction_type": "Primary",
+        "roles": [
+          "Fashion Designer",
+          "Visual Merchandiser",
+          "Product Designer",
+          "Graphic Designer"
+        ],
+        "why_primary": "Textile structures, dyeing, and colour science knowledge gives B.Tech Textile graduates a strong foundation in design and merchandising roles."
+      },
+      {
+        "direction_name": "Apparel Export & Supply Chain",
+        "direction_description": "Managing garment export operations, sourcing, and international supply chain.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Supply Chain Executive",
+          "Procurement Executive",
+          "Logistics Coordinator",
+          "Trade Finance Executive"
+        ],
+        "additional_skills_needed": "Apparel export documentation, APEDA/AEPC regulations, fabric and trim sourcing, costing, ERP for apparel",
+        "estimated_additional_effort": "3-6 months"
+      },
+      {
+        "direction_name": "Sustainable Textiles & Innovation",
+        "direction_description": "Developing eco-friendly textile products and implementing sustainable manufacturing practices.",
+        "direction_type": "Secondary",
+        "roles": [
+          "Sustainability Analyst",
+          "Environmental Engineer",
+          "Research Associate",
+          "Quality Engineer"
+        ],
+        "additional_skills_needed": "Sustainable fibre knowledge, circular fashion principles, GOTS/OEKO-TEX certification, life cycle assessment, ESG reporting",
+        "estimated_additional_effort": "6-12 months"
+      },
+      {
+        "direction_name": "Technical Textiles & Nonwovens",
+        "direction_description": "Working in high-performance technical textile applications for medical, defence, and industrial uses.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Textile Engineer",
+          "Production Engineer",
+          "Research Associate",
+          "Biomedical Engineer"
+        ],
+        "additional_skills_needed": "Technical textile applications (geo, agro, medico textiles), nonwoven manufacturing, composites basics, specialised testing methods",
+        "estimated_additional_effort": "6-12 months",
+        "realistic_note": "Technical textiles is a growing niche in India with government PLI support; graduates need specialised knowledge beyond conventional textile manufacturing to access these roles."
+      },
+      {
+        "direction_name": "Entrepreneurship",
+        "direction_description": "Starting a garment manufacturing unit, fabric brand, textile export firm, or sustainable fashion label.",
+        "direction_type": "Alternate",
+        "roles": [
+          "Textile Engineer",
+          "Fashion Designer",
+          "Production Engineer"
+        ],
+        "additional_skills_needed": "MSME/IEC registration, APEDA export certification, fabric procurement networks, D2C brand building, GST for manufacturing",
+        "estimated_additional_effort": "12+ months",
+        "realistic_note": "Textile entrepreneurship has one of the most accessible entry points among engineering disciplines in India; starting with job work or contract manufacturing before setting up independently is a well-trodden path."
+      }
+    ]
+  }
+}

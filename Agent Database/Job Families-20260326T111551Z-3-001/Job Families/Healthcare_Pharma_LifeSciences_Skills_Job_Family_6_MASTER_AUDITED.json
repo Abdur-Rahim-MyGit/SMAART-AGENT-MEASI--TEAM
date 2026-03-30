@@ -1,0 +1,4378 @@
+[
+  {
+    "skill_name": "Electronic Health Record (EHR) Systems",
+    "skill_category": "Technical",
+    "skill_description": "Documenting patient encounters, medical histories, and clinical notes using EHR platforms in hospital settings.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Hospital Management Information System (HMIS)",
+    "skill_category": "Technical",
+    "skill_description": "Managing patient registration, billing, ward management, and clinical workflows using HMIS software.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Laboratory Information Management System (LIMS)",
+    "skill_category": "Technical",
+    "skill_description": "Managing sample tracking, test workflows, results reporting, and quality control in laboratory settings.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Radiology Information System (RIS)",
+    "skill_category": "Technical",
+    "skill_description": "Managing radiology orders, scheduling, reporting, and image tracking using RIS software.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Picture Archiving and Communication System (PACS)",
+    "skill_category": "Technical",
+    "skill_description": "Storing, retrieving, and distributing medical images (X-rays, CT, MRI) using PACS platforms.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Pharmacy Management System",
+    "skill_category": "Technical",
+    "skill_description": "Managing drug inventory, dispensing records, prescription verification, and billing in pharmacy operations.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical Trial Management System (CTMS)",
+    "skill_category": "Technical",
+    "skill_description": "Managing clinical trial protocols, patient enrolment, site monitoring, and regulatory submissions using CTMS.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Electronic Data Capture (EDC) System",
+    "skill_category": "Technical",
+    "skill_description": "Collecting, validating, and managing clinical trial data using EDC platforms such as Medidata Rave and Oracle Inform.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Medidata Rave (EDC)",
+    "skill_category": "Technical",
+    "skill_description": "Capturing and managing clinical trial data using Medidata Rave's electronic data capture platform.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Oracle Clinical / Oracle Inform",
+    "skill_category": "Technical",
+    "skill_description": "Managing clinical trial data collection and validation using Oracle's clinical data management platforms.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Veeva Vault (eTMF and RIM)",
+    "skill_category": "Technical",
+    "skill_description": "Managing trial master files, regulatory submissions, and content lifecycle using Veeva Vault.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Veeva CRM (Pharma)",
+    "skill_category": "Technical",
+    "skill_description": "Managing medical representative territory, call planning, and customer interactions using Veeva CRM.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "SAP for Pharma and Life Sciences",
+    "skill_category": "Technical",
+    "skill_description": "Managing supply chain, manufacturing, quality, and finance in pharma companies using SAP ERP.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Oracle ERP (Pharma)",
+    "skill_category": "Technical",
+    "skill_description": "Managing procurement, manufacturing, quality, and finance in pharmaceutical operations using Oracle ERP.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "SAP Quality Management (SAP QM)",
+    "skill_category": "Technical",
+    "skill_description": "Managing quality inspections, non-conformances, and batch management using SAP QM module.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "MasterControl (QMS Software)",
+    "skill_category": "Technical",
+    "skill_description": "Managing SOPs, training records, deviations, and CAPA using MasterControl quality management software.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "TrackWise (CAPA Software)",
+    "skill_category": "Technical",
+    "skill_description": "Managing corrective and preventive action workflows, deviations, and audit findings using Sparta TrackWise.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Documentum (Regulatory Document Management)",
+    "skill_category": "Technical",
+    "skill_description": "Managing regulatory documents, submissions, and clinical trial files using OpenText Documentum.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "eCTD Publishing Tools (ERED, Lorenz docuBridge)",
+    "skill_category": "Technical",
+    "skill_description": "Compiling and publishing electronic Common Technical Documents for drug regulatory submissions.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "CDISC Standards (CDASH, SDTM, ADaM)",
+    "skill_category": "Technical",
+    "skill_description": "Applying CDISC data standards for clinical trial data collection, tabulation, and analysis datasets.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "SAS (Statistical Analysis Software)",
+    "skill_category": "Technical",
+    "skill_description": "Using SAS for biostatistical analysis, clinical data programming, and statistical reporting in pharma.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "R Programming (Biostatistics)",
+    "skill_category": "Technical",
+    "skill_description": "Using R for biostatistical analysis, survival analysis, and clinical trial data visualisation.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Python (Healthcare Analytics)",
+    "skill_category": "Technical",
+    "skill_description": "Using Python for healthcare data analysis, machine learning models, and automation in life sciences.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "SPSS (Healthcare Research)",
+    "skill_category": "Technical",
+    "skill_description": "Conducting clinical and health research statistical analysis using IBM SPSS.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Microsoft Excel (Advanced)",
+    "skill_category": "Technical",
+    "skill_description": "Using advanced Excel functions for clinical data tabulation, patient tracking, and healthcare reporting.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Microsoft Power BI",
+    "skill_category": "Technical",
+    "skill_description": "Building healthcare KPI dashboards, clinical performance reports, and patient flow visualisations.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Tableau (Healthcare)",
+    "skill_category": "Technical",
+    "skill_description": "Creating data visualisations for patient outcomes, hospital performance, and epidemiological analytics.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "JMP Statistical Software",
+    "skill_category": "Technical",
+    "skill_description": "Using JMP for pharmaceutical process analytical technology, design of experiments, and quality analytics.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Minitab",
+    "skill_category": "Technical",
+    "skill_description": "Performing statistical process control, DOE, and quality analysis in pharmaceutical manufacturing.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "REDCap (Research Electronic Data Capture)",
+    "skill_category": "Technical",
+    "skill_description": "Building and managing research databases and surveys using REDCap for clinical and translational research.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "HPLC (High Performance Liquid Chromatography)",
+    "skill_category": "Technical",
+    "skill_description": "Performing pharmaceutical analysis including assay, impurity profiling, and dissolution testing using HPLC.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Gas Chromatography (GC)",
+    "skill_category": "Technical",
+    "skill_description": "Analysing solvents, residual solvents, and volatile impurities in pharmaceutical products using GC.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "UV-Vis Spectrophotometry",
+    "skill_category": "Technical",
+    "skill_description": "Quantifying drug concentration and performing pharmaceutical quality tests using UV-Vis spectrophotometry.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "FTIR Spectroscopy",
+    "skill_category": "Technical",
+    "skill_description": "Identifying pharmaceutical raw materials and checking for compliance using Fourier Transform Infrared spectroscopy.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Atomic Absorption Spectroscopy (AAS)",
+    "skill_category": "Technical",
+    "skill_description": "Measuring trace metal contaminants and elemental impurities in pharmaceutical products using AAS.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Mass Spectrometry (LC-MS/MS)",
+    "skill_category": "Technical",
+    "skill_description": "Identifying and quantifying drug compounds, metabolites, and impurities using liquid chromatography mass spectrometry.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "NMR Spectroscopy",
+    "skill_category": "Technical",
+    "skill_description": "Characterising molecular structures of drug substances and performing structural confirmation using NMR.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "PCR (Polymerase Chain Reaction)",
+    "skill_category": "Technical",
+    "skill_description": "Amplifying and detecting DNA/RNA sequences for microbial testing, diagnostics, and molecular biology research.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "ELISA (Enzyme-Linked Immunosorbent Assay)",
+    "skill_category": "Technical",
+    "skill_description": "Detecting and quantifying proteins, antibodies, and biomarkers using ELISA in pharma and diagnostic settings.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Flow Cytometry",
+    "skill_category": "Technical",
+    "skill_description": "Analysing cell populations, surface markers, and viability in immunology and cell biology research.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Cell Culture Techniques",
+    "skill_category": "Technical",
+    "skill_description": "Growing and maintaining mammalian and microbial cell lines for drug development and biologics production.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Aseptic Technique",
+    "skill_category": "Technical",
+    "skill_description": "Performing laboratory and manufacturing operations under sterile conditions to prevent contamination.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Dissolution Testing",
+    "skill_category": "Technical",
+    "skill_description": "Evaluating in vitro drug release profiles using dissolution apparatus per USP/IP pharmacopoeial methods.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Particle Size Analysis",
+    "skill_category": "Technical",
+    "skill_description": "Characterising pharmaceutical particle size distributions using laser diffraction and sieve analysis.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Karl Fischer Titration",
+    "skill_category": "Technical",
+    "skill_description": "Determining moisture content in pharmaceutical raw materials and finished products using Karl Fischer method.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "SUGAM Portal (CDSCO)",
+    "skill_category": "Technical",
+    "skill_description": "Submitting drug approval applications, licences, and regulatory filings on the CDSCO SUGAM portal.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "NPPA Drug Pricing Portal",
+    "skill_category": "Technical",
+    "skill_description": "Filing drug price revision applications and accessing DPCO compliance data on the NPPA portal.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "MedWatch / VIGIBASE (Pharmacovigilance Reporting)",
+    "skill_category": "Technical",
+    "skill_description": "Reporting adverse drug reactions to pharmacovigilance databases including VIGIBASE and regulatory portals.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "GST Portal (Pharma)",
+    "skill_category": "Technical",
+    "skill_description": "Filing GST returns for pharmaceutical products including HSN classification and ITC reconciliation.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "eSanjeevani (Telemedicine Platform)",
+    "skill_category": "Technical",
+    "skill_description": "Providing or supporting remote clinical consultations using eSanjeevani, India's national telemedicine platform.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Ayushman Bharat Digital Mission (ABDM) Systems",
+    "skill_category": "Technical",
+    "skill_description": "Integrating healthcare services with Ayushman Bharat Digital Mission for Health ID and digital health records.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Patient Monitoring Systems",
+    "skill_category": "Technical",
+    "skill_description": "Operating ECG, SpO2, blood pressure, and multi-parameter monitors in clinical and ICU settings.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Diagnostic Imaging (X-Ray, CT, MRI Basics)",
+    "skill_category": "Technical",
+    "skill_description": "Understanding and supporting the operation of diagnostic imaging equipment in radiology departments.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Biosafety Cabinet (BSC) Operation",
+    "skill_category": "Technical",
+    "skill_description": "Working safely within Class II biosafety cabinets for handling biological samples and hazardous materials.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Autoclave and Sterilisation Equipment",
+    "skill_category": "Technical",
+    "skill_description": "Operating and validating autoclaves and sterilisation equipment in pharmaceutical and hospital settings.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Microsoft Word",
+    "skill_category": "Technical",
+    "skill_description": "Drafting clinical study reports, SOPs, regulatory documents, and scientific manuscripts.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Microsoft PowerPoint",
+    "skill_category": "Technical",
+    "skill_description": "Creating clinical and scientific presentations for regulatory meetings, conferences, and management updates.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Microsoft Teams",
+    "skill_category": "Technical",
+    "skill_description": "Coordinating clinical, regulatory, and medical affairs team communications and virtual meetings.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Endnote / Zotero (Reference Management)",
+    "skill_category": "Technical",
+    "skill_description": "Managing scientific literature references and citations using Endnote or Zotero for research publications.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "PubMed and Medical Literature Search",
+    "skill_category": "Technical",
+    "skill_description": "Searching and retrieving biomedical literature using PubMed and MEDLINE databases for evidence review.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Embase",
+    "skill_category": "Technical",
+    "skill_description": "Accessing and searching biomedical and pharmacological literature using Embase for systematic reviews.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "UpToDate",
+    "skill_category": "Technical",
+    "skill_description": "Accessing evidence-based clinical decision support resources using UpToDate for patient care.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "ChatGPT",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using ChatGPT for drafting clinical study synopses, regulatory documents, medical writing, and literature summaries.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Claude (Anthropic)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Claude for analysing lengthy clinical documents, synthesising research, and drafting regulatory content.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Gemini (Google)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Google Gemini for medical literature research, clinical documentation drafting, and workspace productivity.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Perplexity AI",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Perplexity AI for real-time literature search, drug information research, and regulatory updates.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Grammarly",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Grammarly to improve the clarity and quality of medical writing, clinical reports, and regulatory submissions.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Excel Copilot to analyse clinical data, generate summaries, and create formulas for healthcare analytics.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Power BI Copilot",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using AI in Power BI to generate healthcare performance dashboards and answer clinical data queries.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Otter.ai",
+    "skill_category": "AI-Tool",
+    "skill_description": "Transcribing clinical meetings, investigator conferences, and medical affairs interactions using Otter.ai.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "IBM Watson for Oncology",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using IBM Watson for Oncology to support evidence-based treatment recommendations in oncology clinical decisions.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Elsevier ClinicalKey AI",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Elsevier ClinicalKey's AI search for rapid access to evidence-based clinical guidelines and drug data.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Insilico Medicine (AI Drug Discovery)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Insilico Medicine's AI platform for generative chemistry and target identification in drug discovery.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Schrödinger (Computational Drug Design)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Schrödinger's molecular simulation and AI tools for structure-based drug design and optimisation.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Drug Regulatory Affairs (India — CDSCO)",
+    "skill_category": "Domain",
+    "skill_description": "Navigating India's drug approval process including CDSCO regulations, New Drug Application, and import licences.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Drugs and Cosmetics Act 1940 and Rules 1945",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring pharmaceutical products comply with India's primary drug regulation under the Drugs and Cosmetics Act.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "New Drug Application (NDA) India",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and submitting NDA dossiers to CDSCO for approval of new chemical entities in India.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Abbreviated New Drug Application (ANDA) India",
+    "skill_category": "Domain",
+    "skill_description": "Preparing generic drug dossiers and bioequivalence submissions for CDSCO approval.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Drug Manufacturing Licence (Form 25 and 28)",
+    "skill_category": "Domain",
+    "skill_description": "Obtaining and maintaining drug manufacturing licences under Schedule M from the State Licensing Authority.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Schedule M Compliance (GMP India)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing Good Manufacturing Practices for pharmaceutical premises and equipment per Schedule M of D&C Rules.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "WHO-GMP Guidelines",
+    "skill_category": "Domain",
+    "skill_description": "Complying with World Health Organization Good Manufacturing Practice standards for pharma manufacturing.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "ICH Guidelines (Q1, Q2, Q3, Q6, Q7, E6, E8)",
+    "skill_category": "Domain",
+    "skill_description": "Applying International Council for Harmonisation guidelines across quality, safety, and efficacy dossier preparation.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Common Technical Document (CTD) Dossier Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Compiling CTD-format regulatory submission dossiers across Modules 1–5 for global drug registrations.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "eCTD Compilation and Submission",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and publishing electronic Common Technical Document submissions for regulatory authorities.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "US FDA Regulatory Requirements (ANDA, NDA, 510k)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding US FDA submission requirements for generic drugs, new drugs, and medical devices.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "EU EMA Regulatory Requirements",
+    "skill_category": "Domain",
+    "skill_description": "Understanding EMA centralised and mutual recognition procedures for drug marketing authorisation in Europe.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "USFDA 21 CFR Part 11 Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring electronic records and signatures in clinical and manufacturing systems comply with 21 CFR Part 11.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Pharmacopoeia Compliance (IP, USP, BP, Eur Ph)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring drug substances and products meet quality standards in Indian Pharmacopoeia and international compendia.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Drug Price Control Order (DPCO 2013)",
+    "skill_category": "Domain",
+    "skill_description": "Managing price compliance obligations under DPCO 2013 and NPPA regulations for scheduled formulations.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Import Licence and Export NOC (Pharma)",
+    "skill_category": "Domain",
+    "skill_description": "Obtaining import licences for drugs and No Objection Certificates for pharmaceutical exports from CDSCO.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Medical Device Regulation (MDR 2017 India)",
+    "skill_category": "Domain",
+    "skill_description": "Complying with India's Medical Devices Rules 2017 for device registration, import, and manufacturing.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "In Vitro Diagnostics Regulation (IVD Rules India)",
+    "skill_category": "Domain",
+    "skill_description": "Registering and managing compliance for in vitro diagnostic devices under Indian regulations.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Cosmetics Regulation (BIS, Drugs and Cosmetics Act)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring cosmetics meet BIS standards and comply with licensing requirements under the D&C Act.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Regulatory Intelligence",
+    "skill_category": "Domain",
+    "skill_description": "Monitoring and analysing changes in global regulatory guidelines to proactively inform submission strategies.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Regulatory Strategy and Planning",
+    "skill_category": "Domain",
+    "skill_description": "Developing product regulatory pathways, submission timelines, and approval strategies for drug portfolios.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Regulatory Authority Interaction (CDSCO, FDA, EMA)",
+    "skill_category": "Domain",
+    "skill_description": "Managing formal and informal interactions with regulatory agencies during review and post-approval phases.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Dossier Gap Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Identifying missing or inadequate data in regulatory dossiers to plan additional studies or justifications.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical Trial Protocol Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing clinical study protocols including study objectives, design, endpoints, and statistical methodology.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Good Clinical Practice (GCP) Guidelines",
+    "skill_category": "Domain",
+    "skill_description": "Conducting clinical trials in compliance with ICH E6 GCP standards for participant safety and data integrity.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Informed Consent Process",
+    "skill_category": "Domain",
+    "skill_description": "Designing, administering, and documenting the informed consent process for clinical trial participants.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical Trial Phases (I, II, III, IV)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding the objectives, design, and regulatory requirements across all four phases of clinical development.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical Site Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing clinical trial sites including investigator selection, training, monitoring, and performance tracking.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical Monitoring (Source Data Verification)",
+    "skill_category": "Domain",
+    "skill_description": "Conducting on-site and remote monitoring visits to verify source data and protocol compliance.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Adverse Event Reporting and Safety Monitoring",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, categorising, and reporting adverse events and serious adverse events per regulatory timelines.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Serious Adverse Event (SAE) Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing SAE collection, narrative writing, causality assessment, and regulatory reporting.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Data Safety Monitoring Board (DSMB)",
+    "skill_category": "Domain",
+    "skill_description": "Supporting DSMB charter preparation, interim analysis, and safety review meetings in clinical trials.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical Study Report (CSR) Writing",
+    "skill_category": "Domain",
+    "skill_description": "Writing comprehensive clinical study reports per ICH E3 guidelines for regulatory submission.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Investigator Brochure (IB) Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Compiling and updating investigator brochures summarising preclinical and clinical data on investigational drugs.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Patient Recruitment and Retention Strategies",
+    "skill_category": "Domain",
+    "skill_description": "Designing campaigns and strategies to achieve clinical trial enrolment targets and retain participants.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical Data Management (CDM)",
+    "skill_category": "Domain",
+    "skill_description": "Managing clinical trial data collection, cleaning, validation, and database lock for analysis.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Data Query Resolution",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, raising, and resolving data discrepancies in clinical trial databases to ensure data quality.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Risk-Based Monitoring (RBM)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing risk-based approaches to clinical trial monitoring prioritising high-risk sites and data points.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Ethics Committee Submission (IEC/IRB)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and submitting clinical trial applications to Independent Ethics Committees or IRBs in India.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "New Drugs and Clinical Trials Rules 2019 (India)",
+    "skill_category": "Domain",
+    "skill_description": "Conducting clinical trials in India in compliance with the New Drugs and Clinical Trials Rules 2019.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Bioavailability and Bioequivalence (BA/BE) Studies",
+    "skill_category": "Domain",
+    "skill_description": "Designing and managing BA/BE studies for generic drug submissions in India and internationally.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Paediatric Clinical Trials",
+    "skill_category": "Domain",
+    "skill_description": "Designing and managing clinical studies in paediatric populations with special ethical and safety considerations.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Oncology Clinical Trials",
+    "skill_category": "Domain",
+    "skill_description": "Managing oncology-specific trial design, endpoints (response rate, OS, PFS), and safety considerations.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Medical Device Clinical Investigation",
+    "skill_category": "Domain",
+    "skill_description": "Designing and conducting clinical investigations for medical device regulatory submissions.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Pharmacovigilance (PV)",
+    "skill_category": "Domain",
+    "skill_description": "Monitoring, collecting, and assessing adverse drug reactions to ensure ongoing drug safety post-approval.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Individual Case Safety Report (ICSR) Processing",
+    "skill_category": "Domain",
+    "skill_description": "Triaging, processing, and submitting individual case safety reports to regulatory authorities.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Signal Detection and Risk Management",
+    "skill_category": "Domain",
+    "skill_description": "Detecting drug safety signals from post-marketing data and managing risk mitigation plans.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Periodic Safety Update Report (PSUR)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing Periodic Safety Update Reports for post-marketing surveillance of approved medicines.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Risk Management Plan (RMP)",
+    "skill_category": "Domain",
+    "skill_description": "Developing and maintaining Risk Management Plans identifying important risks and mitigation strategies.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Pharmacovigilance Regulations (India — PVPI)",
+    "skill_category": "Domain",
+    "skill_description": "Complying with India's Pharmacovigilance Programme of India (PvPI) reporting and safety monitoring requirements.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "E2B (R3) ICH Safety Reporting",
+    "skill_category": "Domain",
+    "skill_description": "Submitting adverse event reports in ICH E2B(R3) format for electronic individual case safety submissions.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Good Manufacturing Practice (GMP)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing and maintaining GMP standards across pharmaceutical manufacturing, testing, and packaging operations.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Good Laboratory Practice (GLP)",
+    "skill_category": "Domain",
+    "skill_description": "Conducting non-clinical safety studies in compliance with GLP principles for data integrity and reliability.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Standard Operating Procedure (SOP) Development",
+    "skill_category": "Domain",
+    "skill_description": "Writing, reviewing, and maintaining SOPs for laboratory, manufacturing, and quality assurance processes.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Out of Specification (OOS) Investigation",
+    "skill_category": "Domain",
+    "skill_description": "Conducting root cause analysis and investigations for OOS results in pharmaceutical testing.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "CAPA (Corrective and Preventive Action)",
+    "skill_category": "Domain",
+    "skill_description": "Identifying root causes of quality events and implementing CAPA systems to prevent recurrence.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Change Control Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing the change control process for modifications to materials, processes, equipment, and documents.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Deviation and Non-Conformance Management",
+    "skill_category": "Domain",
+    "skill_description": "Documenting, investigating, and closing deviations and non-conformances in manufacturing and laboratory operations.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Internal Audit (Pharma/Healthcare)",
+    "skill_category": "Domain",
+    "skill_description": "Conducting quality system and GMP audits to assess compliance with regulatory standards and SOPs.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Vendor Qualification and Audit",
+    "skill_category": "Domain",
+    "skill_description": "Qualifying and auditing contract manufacturers, testing laboratories, and raw material suppliers.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Qualification and Validation (IQ, OQ, PQ)",
+    "skill_category": "Domain",
+    "skill_description": "Conducting equipment and process qualification studies (IQ, OQ, PQ) for pharma manufacturing.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Process Validation",
+    "skill_category": "Domain",
+    "skill_description": "Validating pharmaceutical manufacturing processes to demonstrate reproducible product quality.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Cleaning Validation",
+    "skill_category": "Domain",
+    "skill_description": "Validating cleaning procedures for manufacturing equipment to prevent cross-contamination.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Analytical Method Validation",
+    "skill_category": "Domain",
+    "skill_description": "Validating analytical test methods for accuracy, precision, specificity, linearity, and robustness.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Computer System Validation (CSV)",
+    "skill_category": "Domain",
+    "skill_description": "Validating computer systems in GxP environments including LIMS, ERP, and EDC systems per GAMP guidelines.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Data Integrity (ALCOA+ Principles)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring pharmaceutical data is Attributable, Legible, Contemporaneous, Original, and Accurate throughout its lifecycle.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Batch Manufacturing Record (BMR) and Batch Packaging Record (BPR)",
+    "skill_category": "Domain",
+    "skill_description": "Reviewing, approving, and maintaining BMR and BPR documentation for pharmaceutical batch release.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Certificate of Analysis (CoA) Review",
+    "skill_category": "Domain",
+    "skill_description": "Reviewing and approving certificates of analysis for raw materials, in-process, and finished pharmaceutical products.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Stability Studies (ICH Q1)",
+    "skill_category": "Domain",
+    "skill_description": "Designing and managing pharmaceutical product stability studies per ICH Q1 guidelines for shelf-life determination.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Environmental Monitoring (Pharma)",
+    "skill_category": "Domain",
+    "skill_description": "Monitoring microbial and particulate contamination levels in pharmaceutical cleanrooms and aseptic areas.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "ISO 13485 (Medical Devices Quality System)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing and maintaining ISO 13485 quality management systems for medical device manufacturers.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "ISO 15189 (Medical Laboratory Accreditation)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing quality and competence requirements for medical laboratory accreditation under ISO 15189.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "NABL Accreditation",
+    "skill_category": "Domain",
+    "skill_description": "Obtaining and maintaining NABL accreditation for testing and calibration laboratories in India.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "21 CFR Part 820 (FDA QSR for Medical Devices)",
+    "skill_category": "Domain",
+    "skill_description": "Complying with FDA's Quality System Regulation for medical device design, manufacturing, and post-market activities.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Formulation Development",
+    "skill_category": "Domain",
+    "skill_description": "Developing pharmaceutical drug formulations including tablets, capsules, injectables, and topicals.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Drug Substance Characterisation",
+    "skill_category": "Domain",
+    "skill_description": "Characterising active pharmaceutical ingredient properties including solubility, polymorphism, and stability.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Pharmaceutical Preformulation Studies",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating physicochemical properties of drug substances to inform dosage form design.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Bioavailability Enhancement Strategies",
+    "skill_category": "Domain",
+    "skill_description": "Applying techniques such as nanosizing, solid dispersions, and co-crystals to improve poorly soluble drugs.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Pharmacokinetics and Pharmacodynamics (PK/PD)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and applying PK/PD principles to drug dose selection and therapeutic monitoring.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Drug-Drug Interaction (DDI) Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating and managing potential drug-drug interactions during drug development and clinical practice.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Pharmaceutical Microbiology",
+    "skill_category": "Domain",
+    "skill_description": "Testing pharmaceutical products for microbial limits, sterility, and endotoxin per pharmacopoeial standards.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Pharmaceutical Water Systems (WFI, Purified Water)",
+    "skill_category": "Domain",
+    "skill_description": "Managing pharmaceutical-grade water systems including water for injection and purified water as per GMP.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Impurity Profiling and Control",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, quantifying, and controlling drug-related and process-related impurities per ICH Q3 guidelines.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Pharmaceutical Packaging and Container Closure",
+    "skill_category": "Domain",
+    "skill_description": "Selecting and validating pharmaceutical packaging systems and ensuring compatibility and integrity.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Biopharmaceutical Manufacturing",
+    "skill_category": "Domain",
+    "skill_description": "Manufacturing biological drugs including monoclonal antibodies, vaccines, and recombinant proteins using bioreactors.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Upstream and Downstream Bioprocessing",
+    "skill_category": "Domain",
+    "skill_description": "Managing cell culture, fermentation, and purification processes in biopharmaceutical manufacturing.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Biosimilar Development and Regulatory Pathway",
+    "skill_category": "Domain",
+    "skill_description": "Developing biosimilar products and navigating their regulatory approval pathway including comparability studies.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Gene Therapy and Cell Therapy Basics",
+    "skill_category": "Domain",
+    "skill_description": "Understanding advanced therapy medicinal products including gene editing, CAR-T, and stem cell therapies.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Vaccine Development and Manufacturing",
+    "skill_category": "Domain",
+    "skill_description": "Understanding vaccine development platforms, manufacturing scale-up, and fill-finish operations.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Monoclonal Antibody Production",
+    "skill_category": "Domain",
+    "skill_description": "Producing and characterising monoclonal antibodies using hybridoma and CHO cell-based manufacturing.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Medical Affairs Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Developing evidence generation and communication plans to support drug launch and lifecycle management.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Key Opinion Leader (KOL) Management",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, engaging, and managing relationships with key opinion leaders for medical affairs objectives.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Medical Information Services",
+    "skill_category": "Domain",
+    "skill_description": "Providing accurate, balanced medical and scientific information to healthcare professionals and patients.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Medical Education Programme Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing and delivering scientific education programmes for healthcare professionals on disease and therapy.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Health Economics and Outcomes Research (HEOR)",
+    "skill_category": "Domain",
+    "skill_description": "Generating and communicating health economic evidence including cost-effectiveness and quality of life data.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Real-World Evidence (RWE) Generation",
+    "skill_category": "Domain",
+    "skill_description": "Designing and conducting real-world studies using claims, registry, and EHR data for post-approval evidence.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Disease Area Expertise",
+    "skill_category": "Domain",
+    "skill_description": "Developing deep scientific expertise in a therapeutic area to support medical, commercial, and regulatory functions.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Managed Care and Market Access (India)",
+    "skill_category": "Domain",
+    "skill_description": "Developing payer access strategies and engaging government health programmes including PMJAY and state schemes.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Regulatory Medical Writing",
+    "skill_category": "Domain",
+    "skill_description": "Writing regulatory documents including clinical study reports, summaries, and narratives for drug submissions.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Scientific and Medical Publication Writing",
+    "skill_category": "Domain",
+    "skill_description": "Writing peer-reviewed manuscripts, abstracts, and posters for scientific journals and conferences.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Systematic Review and Meta-Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Conducting systematic literature reviews and meta-analyses to synthesise evidence from multiple studies.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Literature Review and Evidence Synthesis",
+    "skill_category": "Domain",
+    "skill_description": "Reviewing biomedical literature to summarise current evidence for regulatory, medical, or scientific purposes.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Patient Summary and Lay Language Writing",
+    "skill_category": "Domain",
+    "skill_description": "Writing plain-language summaries of clinical trials and drug information for patients and the public.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical Pathology and Laboratory Diagnostics",
+    "skill_category": "Domain",
+    "skill_description": "Interpreting clinical laboratory tests including haematology, biochemistry, and microbiology for patient care.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Microbiology Testing (Pathogen Identification)",
+    "skill_category": "Domain",
+    "skill_description": "Identifying pathogens through culture, sensitivity testing, and molecular methods in clinical microbiology labs.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Histopathology and Cytopathology",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and interpreting tissue and cell samples for disease diagnosis using histological techniques.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Molecular Diagnostics and NGS",
+    "skill_category": "Domain",
+    "skill_description": "Performing molecular diagnostic tests including NGS-based cancer panels and infectious disease genomics.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Point-of-Care Testing (POCT)",
+    "skill_category": "Domain",
+    "skill_description": "Operating and interpreting rapid bedside diagnostic tests including glucose, troponin, and COVID tests.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Blood Bank Operations",
+    "skill_category": "Domain",
+    "skill_description": "Managing blood component collection, processing, compatibility testing, and transfusion services.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Hospital Operations Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing day-to-day hospital operations including patient flow, bed management, and resource utilisation.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Healthcare Quality Improvement",
+    "skill_category": "Domain",
+    "skill_description": "Implementing quality improvement initiatives including lean healthcare, patient safety, and Six Sigma.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "NABH Accreditation (India)",
+    "skill_category": "Domain",
+    "skill_description": "Achieving and maintaining National Accreditation Board for Hospitals accreditation for quality healthcare.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Patient Safety Management",
+    "skill_category": "Domain",
+    "skill_description": "Implementing patient safety protocols, incident reporting, and near-miss management in healthcare settings.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Healthcare Infection Control",
+    "skill_category": "Domain",
+    "skill_description": "Implementing hospital-acquired infection prevention policies, hand hygiene, and antibiotic stewardship.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Discharge Planning and Coordination",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating multidisciplinary discharge planning to ensure safe and timely patient discharge.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Biomedical Waste Management (BMWM Rules India)",
+    "skill_category": "Domain",
+    "skill_description": "Managing healthcare biomedical waste segregation, collection, and disposal per India's BMWM Rules 2016.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Telemedicine in India",
+    "skill_category": "Domain",
+    "skill_description": "Delivering and managing remote clinical consultations per the Telemedicine Practice Guidelines 2020.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Healthcare Supply Chain Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing procurement, storage, distribution, and inventory of pharmaceuticals and medical supplies.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Medical Coding (ICD-10, CPT)",
+    "skill_category": "Domain",
+    "skill_description": "Assigning standardised ICD-10 and CPT codes to diagnoses and procedures for billing and data analysis.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Health Insurance and TPA Management (India)",
+    "skill_category": "Domain",
+    "skill_description": "Managing third-party administrator processes, pre-authorisations, and insurance claims in Indian hospitals.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PMJAY)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing PMJAY scheme administration, beneficiary empanelment, and claim submission for government health cover.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical Nutrition and Dietary Science",
+    "skill_category": "Domain",
+    "skill_description": "Designing therapeutic nutrition interventions for patients with chronic and acute conditions.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Drug Formulary Management",
+    "skill_category": "Domain",
+    "skill_description": "Developing and maintaining hospital drug formularies based on evidence, safety, and cost criteria.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "FSSAI Compliance (Nutraceuticals and Food Supplements)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring nutraceutical and food supplement products comply with FSSAI regulations and licensing requirements.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "BIS Standards (Medical Devices and Diagnostics)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring medical devices and diagnostic products meet BIS quality and safety certification standards.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Narcotics and Psychotropics Compliance (NDPS Act)",
+    "skill_category": "Domain",
+    "skill_description": "Managing controlled substance handling, records, and compliance under the NDPS Act and Narcotic Drugs Rules.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "GST Compliance for Pharmaceuticals",
+    "skill_category": "Domain",
+    "skill_description": "Managing GST classification, exemptions, and compliance for pharmaceutical products under Indian GST law.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical Establishment Act 2010 (India)",
+    "skill_category": "Domain",
+    "skill_description": "Registering clinical establishments and meeting quality standards under the Clinical Establishment Act.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Epidemic Diseases Act and Public Health Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Understanding outbreak reporting obligations and public health compliance under India's Epidemic Diseases Act.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Epidemiology and Disease Surveillance",
+    "skill_category": "Domain",
+    "skill_description": "Designing and conducting epidemiological studies to monitor disease patterns and inform public health responses.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Biostatistics (Clinical Research)",
+    "skill_category": "Domain",
+    "skill_description": "Applying statistical methods including hypothesis testing, survival analysis, and sample size calculation to clinical data.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "National Health Policy and Programmes (India)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding India's national health schemes including NHM, RMNCH+A, and immunisation programmes.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Public Health Nutrition",
+    "skill_category": "Domain",
+    "skill_description": "Addressing nutritional deficiencies and designing community-based nutrition intervention programmes.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Pharmaceutical Sales (Medical Representative)",
+    "skill_category": "Domain",
+    "skill_description": "Promoting pharmaceutical products to doctors, chemists, and hospitals through scientific detailing.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Detailing Technique and Visual Aid Usage",
+    "skill_category": "Domain",
+    "skill_description": "Delivering structured product presentations to prescribers using visual aids and clinical evidence.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Prescription Audit and Market Share Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Analysing prescription data, market share, and competitive performance in the pharmaceutical field.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Pharmaceutical Brand Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing pharmaceutical product lifecycle, positioning, and promotional strategy in the Indian market.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Healthcare Professional (HCP) Engagement",
+    "skill_category": "Domain",
+    "skill_description": "Building professional relationships with healthcare providers through scientific exchange and support programmes.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Continuing Medical Education (CME) Management",
+    "skill_category": "Domain",
+    "skill_description": "Organising and managing CME programmes for healthcare professionals in compliance with MCI/NMC guidelines.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Scientific Writing and Communication",
+    "skill_category": "Foundational",
+    "skill_description": "Communicating scientific and clinical data clearly in written reports, publications, and presentations.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Critical Appraisal of Medical Literature",
+    "skill_category": "Foundational",
+    "skill_description": "Evaluating the validity, relevance, and applicability of published clinical and scientific evidence.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Analytical Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Applying structured reasoning to interpret complex clinical, quality, and regulatory data.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Attention to Detail",
+    "skill_category": "Foundational",
+    "skill_description": "Ensuring precision and accuracy in laboratory work, clinical documentation, and regulatory submissions.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Problem Solving",
+    "skill_category": "Foundational",
+    "skill_description": "Identifying root causes of scientific, operational, and quality problems and developing effective solutions.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Ethics in Research and Healthcare",
+    "skill_category": "Foundational",
+    "skill_description": "Applying research ethics principles including autonomy, beneficence, non-maleficence, and justice.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Patient-Centred Care",
+    "skill_category": "Foundational",
+    "skill_description": "Prioritising patient needs, preferences, and safety in all clinical and healthcare decision-making.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Communication Skills (Clinical and Scientific)",
+    "skill_category": "Foundational",
+    "skill_description": "Communicating clearly with patients, colleagues, investigators, and regulatory authorities.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Cross-Functional Collaboration (Healthcare)",
+    "skill_category": "Foundational",
+    "skill_description": "Working effectively across clinical, regulatory, manufacturing, medical, and commercial teams.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Project Management",
+    "skill_category": "Foundational",
+    "skill_description": "Planning and managing healthcare and pharma projects including clinical trials, product launches, and quality initiatives.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Time Management and Prioritisation",
+    "skill_category": "Foundational",
+    "skill_description": "Managing multiple scientific and clinical priorities within regulatory timelines and project deadlines.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Adaptability",
+    "skill_category": "Foundational",
+    "skill_description": "Adjusting to evolving regulatory requirements, scientific developments, and organisational changes in healthcare.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Continuous Learning and CPD",
+    "skill_category": "Foundational",
+    "skill_description": "Staying updated through continuing professional development on advances in medicine, regulations, and technology.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Integrity and Professional Ethics",
+    "skill_category": "Foundational",
+    "skill_description": "Upholding scientific honesty, data integrity, and professional standards in all healthcare and research activities.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Interpersonal Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Building effective working relationships with colleagues, investigators, regulatory bodies, and healthcare professionals.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Resilience and Stress Management",
+    "skill_category": "Foundational",
+    "skill_description": "Maintaining performance and composure in high-pressure healthcare, clinical, and regulatory environments.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Cultural Sensitivity (India — Healthcare)",
+    "skill_category": "Foundational",
+    "skill_description": "Delivering culturally appropriate healthcare and clinical research in India's diverse patient and professional landscape.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Teamwork",
+    "skill_category": "Foundational",
+    "skill_description": "Collaborating effectively in multidisciplinary clinical, research, and quality teams to achieve shared goals.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Leadership",
+    "skill_category": "Foundational",
+    "skill_description": "Guiding and motivating healthcare teams through scientific challenges and operational demands.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Data Literacy",
+    "skill_category": "Foundational",
+    "skill_description": "Interpreting clinical, laboratory, and healthcare data to support evidence-based decisions.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Drug Discovery Process",
+    "skill_category": "Domain",
+    "skill_description": "Understanding the target identification, lead optimisation, and pre-clinical phases of new drug discovery.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Target Identification and Validation",
+    "skill_category": "Domain",
+    "skill_description": "Identifying and validating biological targets for drug intervention using genomics, proteomics, and cell assays.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "High-Throughput Screening (HTS)",
+    "skill_category": "Domain",
+    "skill_description": "Performing automated large-scale compound screening assays to identify drug candidates.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Medicinal Chemistry Principles",
+    "skill_category": "Domain",
+    "skill_description": "Applying structure-activity relationships and lead optimisation principles to improve drug candidates.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Toxicology (Preclinical Safety)",
+    "skill_category": "Domain",
+    "skill_description": "Assessing acute, subacute, and chronic toxicity of drug candidates in preclinical safety studies.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "In Vitro ADME Studies",
+    "skill_category": "Domain",
+    "skill_description": "Characterising absorption, distribution, metabolism, and excretion of drug candidates using in vitro assays.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Computational Drug Discovery and Molecular Modelling",
+    "skill_category": "Domain",
+    "skill_description": "Using computational tools for molecular docking, homology modelling, and QSAR in drug discovery.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical Operations Management",
+    "skill_category": "Domain",
+    "skill_description": "Overseeing the operational execution of clinical trials including timelines, budgets, and quality oversight.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Trial Master File (TMF) Management",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining complete and audit-ready trial master files throughout the study lifecycle.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Site Initiation Visit (SIV) Conduct",
+    "skill_category": "Domain",
+    "skill_description": "Conducting site initiation visits to train investigators and set up clinical sites for trial conduct.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Monitoring Visit Reports",
+    "skill_category": "Domain",
+    "skill_description": "Writing detailed monitoring visit reports documenting site status, findings, and follow-up actions.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Study Close-out Activities",
+    "skill_category": "Domain",
+    "skill_description": "Managing study close-out visits, database lock, and archiving activities at the end of clinical trials.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Investigational Product Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing investigational drug accountability, storage, dispensing, and reconciliation at clinical sites.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Protocol Deviation Management",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, categorising, documenting, and managing protocol deviations and waivers in clinical trials.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Budget and Contract Management (CRO/Sponsor)",
+    "skill_category": "Domain",
+    "skill_description": "Negotiating and managing clinical trial budgets, contracts, and payments with CROs and investigative sites.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Sample Size Calculation",
+    "skill_category": "Domain",
+    "skill_description": "Calculating clinical trial sample sizes using power analysis and effect size assumptions.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Statistical Analysis Plan (SAP) Development",
+    "skill_category": "Domain",
+    "skill_description": "Writing statistical analysis plans defining pre-specified analyses for clinical trial datasets.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Survival Analysis (Kaplan-Meier, Cox Regression)",
+    "skill_category": "Domain",
+    "skill_description": "Applying survival analysis methods to time-to-event data in oncology and cardiovascular clinical trials.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Randomisation and Blinding",
+    "skill_category": "Domain",
+    "skill_description": "Designing and implementing randomisation schedules and blinding procedures for clinical trials.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Mixed-Effects Models (MMRM)",
+    "skill_category": "Domain",
+    "skill_description": "Applying mixed-effects models for repeated measures analysis in longitudinal clinical trial data.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Bayesian Methods in Clinical Trials",
+    "skill_category": "Domain",
+    "skill_description": "Applying Bayesian statistical approaches for adaptive trial design and dose-finding studies.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Post-Market Surveillance (PMS)",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing post-market surveillance activities for approved drugs and medical devices.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Periodic Benefit-Risk Evaluation Report (PBRER)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing Periodic Benefit-Risk Evaluation Reports for ongoing benefit-risk assessment of approved medicines.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Variations and Amendments to Drug Approvals",
+    "skill_category": "Domain",
+    "skill_description": "Managing major and minor variation submissions to update approved drug dossiers after market authorisation.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Orphan Drug Designation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and submitting applications for orphan drug designation for rare disease drugs.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Fast Track and Accelerated Approval Pathways",
+    "skill_category": "Domain",
+    "skill_description": "Navigating expedited regulatory pathways including fast track, priority review, and accelerated approval.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "AYUSH Product Registration (India)",
+    "skill_category": "Domain",
+    "skill_description": "Registering Ayurvedic, Unani, Siddha, and Homeopathy products under AYUSH regulations and licensing.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Digital Health and mHealth",
+    "skill_category": "Domain",
+    "skill_description": "Designing and implementing mobile health applications, wearables, and digital therapeutic solutions.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Health Technology Assessment (HTA)",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating clinical and economic evidence for healthcare technologies to support reimbursement decisions.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Interoperability Standards (HL7, FHIR)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing healthcare data exchange standards including HL7 and FHIR for health system integration.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical Decision Support Systems",
+    "skill_category": "Domain",
+    "skill_description": "Designing and implementing clinical decision support tools to enhance diagnostic and treatment accuracy.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Healthcare Data Privacy (DPDP Act 2023)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring patient and health data processing complies with India's Digital Personal Data Protection Act.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "AI in Healthcare — Regulatory and Ethics",
+    "skill_category": "Domain",
+    "skill_description": "Understanding regulatory frameworks and ethical considerations for AI-based medical devices and diagnostics.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical Pharmacology",
+    "skill_category": "Domain",
+    "skill_description": "Applying clinical pharmacology principles including dosing, drug interactions, and therapeutic monitoring.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Oncology Drug Development",
+    "skill_category": "Domain",
+    "skill_description": "Understanding oncology-specific regulatory requirements, endpoints, and development strategies.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Rare Disease Drug Development",
+    "skill_category": "Domain",
+    "skill_description": "Navigating the unique challenges of drug development for rare and ultra-rare diseases including patient registries.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Infectious Disease Epidemiology",
+    "skill_category": "Domain",
+    "skill_description": "Analysing transmission dynamics and disease burden of infectious diseases for public health and drug development.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical Genetics and Genomics",
+    "skill_category": "Domain",
+    "skill_description": "Applying clinical genetics and genomic sequencing to diagnosis, personalised medicine, and research.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Precision Medicine and Biomarker Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Designing biomarker-driven clinical development strategies for targeted therapies and companion diagnostics.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Pharmacogenomics",
+    "skill_category": "Domain",
+    "skill_description": "Applying pharmacogenomic principles to understand how genetic variation affects drug response and toxicity.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Good Distribution Practice (GDP)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring pharmaceutical products are stored and transported under conditions that maintain their quality.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Cold Chain Management (Pharma)",
+    "skill_category": "Domain",
+    "skill_description": "Managing temperature-controlled supply chains for biologics, vaccines, and temperature-sensitive pharmaceuticals.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Manufacturing Technology Transfer",
+    "skill_category": "Domain",
+    "skill_description": "Managing the transfer of pharmaceutical manufacturing processes from development to commercial scale.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Scale-up and Process Optimisation",
+    "skill_category": "Domain",
+    "skill_description": "Scaling pharmaceutical manufacturing processes from laboratory to pilot to commercial production scale.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Lean Manufacturing in Pharma",
+    "skill_category": "Domain",
+    "skill_description": "Applying lean principles to eliminate waste, improve efficiency, and reduce costs in pharmaceutical operations.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Production Planning and Scheduling (Pharma)",
+    "skill_category": "Domain",
+    "skill_description": "Planning and scheduling pharmaceutical manufacturing batches to meet demand while optimising capacity.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Indian Pharmacopoeia (IP) Standards",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring pharmaceutical products and raw materials meet quality standards of the Indian Pharmacopoeia.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Schedule H and H1 Drug Prescriptions",
+    "skill_category": "Domain",
+    "skill_description": "Managing prescription-only drugs under Schedule H and H1 with appropriate dispensing controls.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Drug Inspector Liaison",
+    "skill_category": "Domain",
+    "skill_description": "Managing interactions with State Drug Inspectors during audits and licence renewal processes.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "WHO Prequalification (Pharma)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and managing WHO prequalification dossiers for access to global procurement markets.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "USFDA Warning Letter Response",
+    "skill_category": "Domain",
+    "skill_description": "Preparing comprehensive corrective action responses to USFDA Form 483 observations and warning letters.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "EU EMA GMP Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Meeting EU GMP requirements for pharmaceutical manufacturing sites exporting to European markets.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Japan PMDA Regulatory Requirements",
+    "skill_category": "Domain",
+    "skill_description": "Understanding PMDA requirements for drug registration and GMP compliance in the Japanese market.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Spotfire (Pharma Analytics)",
+    "skill_category": "Technical",
+    "skill_description": "Visualising and analysing clinical, manufacturing, and quality data using TIBCO Spotfire in pharma settings.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Veeva Vault eTMF",
+    "skill_category": "Technical",
+    "skill_description": "Managing electronic Trial Master Files for clinical studies using Veeva Vault eTMF.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Medidata Rave CTMS",
+    "skill_category": "Technical",
+    "skill_description": "Managing clinical trial sites, milestones, and operational metrics using Medidata's CTMS module.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Oracle Health Sciences (OHS) Suite",
+    "skill_category": "Technical",
+    "skill_description": "Using Oracle Health Sciences tools for clinical data management, safety, and regulatory submissions.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Quanterix Simoa (Digital ELISA)",
+    "skill_category": "Technical",
+    "skill_description": "Using Simoa digital ELISA technology for ultra-sensitive biomarker detection in clinical research.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "GraphPad Prism",
+    "skill_category": "Technical",
+    "skill_description": "Performing statistical analysis and creating publication-quality graphs for biomedical research using GraphPad Prism.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "BioRender",
+    "skill_category": "Technical",
+    "skill_description": "Creating scientific figures, pathway diagrams, and research illustrations using BioRender.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Named Patient Programme (NPP) Management Platform",
+    "skill_category": "Technical",
+    "skill_description": "Managing named patient, compassionate use, and early access programme requests and product supply using dedicated NPP management systems.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Veeva PromoMats / Medical Content Management",
+    "skill_category": "Technical",
+    "skill_description": "Managing promotional and medical content review, approval workflows, and MLR submissions using Veeva PromoMats.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Evidence-Based Medicine (EBM)",
+    "skill_category": "Foundational",
+    "skill_description": "Applying evidence-based principles to evaluate clinical research and integrate findings into practice.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Risk Thinking and Risk-Based Approaches",
+    "skill_category": "Foundational",
+    "skill_description": "Applying quality risk management principles (ICH Q9) to pharma development and manufacturing decisions.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Regulatory Mindset and Compliance Culture",
+    "skill_category": "Foundational",
+    "skill_description": "Maintaining a proactive compliance mindset and fostering a culture of quality in regulated environments.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Presentation and Oral Communication",
+    "skill_category": "Foundational",
+    "skill_description": "Presenting clinical, regulatory, and scientific data confidently to internal and external audiences.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Negotiation and Influencing",
+    "skill_category": "Foundational",
+    "skill_description": "Negotiating study budgets, regulatory positions, and internal resource allocations in healthcare organisations.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Curiosity and Scientific Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Approaching healthcare and scientific challenges with intellectual curiosity and rigorous thinking.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Confidentiality and Data Privacy",
+    "skill_category": "Foundational",
+    "skill_description": "Protecting patient data, clinical trial data, and proprietary scientific information with strict confidentiality.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Bilingual Scientific Communication (Hindi and English)",
+    "skill_category": "Foundational",
+    "skill_description": "Communicating in Hindi and English for patient engagement, rural healthcare delivery, and diverse team collaboration.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Safety-First Mindset",
+    "skill_category": "Foundational",
+    "skill_description": "Prioritising patient safety, occupational safety, and data integrity in every professional action.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical Protocol Amendment Management",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and submitting protocol amendments to regulatory authorities and ethics committees for approval.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Blinding and Unblinding Procedures",
+    "skill_category": "Domain",
+    "skill_description": "Designing and managing blind-maintenance and emergency unblinding procedures in clinical trials.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Centralised and Decentralised Clinical Trials",
+    "skill_category": "Domain",
+    "skill_description": "Designing hybrid and fully decentralised trial models using remote patient engagement and data capture.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Adaptive Trial Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing adaptive clinical trials that allow pre-specified modifications based on interim data analyses.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Real-World Data (RWD) Sources and Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Identifying and analysing real-world data from claims, registries, and wearables for health research.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Patient-Reported Outcomes (PRO) and ePRO",
+    "skill_category": "Domain",
+    "skill_description": "Designing, validating, and analysing patient-reported outcome measures in clinical trials.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Global Drug Registration Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Developing multi-market regulatory strategies for simultaneous or sequential global drug registrations.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Reference-Listed Drug (RLD) and Innovator Dossier",
+    "skill_category": "Domain",
+    "skill_description": "Identifying reference-listed drugs and using innovator dossier data for generic drug applications.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Regulatory Submission Planning and Timeline Management",
+    "skill_category": "Domain",
+    "skill_description": "Planning and tracking regulatory submission schedules to meet agency timelines and product launch dates.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Audit Readiness and Inspection Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing sites, staff, and documentation for regulatory inspections and GMP/GCP audits.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Product Recall Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing Class I, II, and III pharmaceutical and medical device recalls per regulatory requirements.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Counterfeit Medicine Detection and Prevention",
+    "skill_category": "Domain",
+    "skill_description": "Implementing serialisation, track-and-trace, and anti-counterfeiting measures for pharmaceutical products.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Drug Shortage Management",
+    "skill_category": "Domain",
+    "skill_description": "Anticipating and managing pharmaceutical supply shortages to ensure patient access to critical medicines.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical Risk Management",
+    "skill_category": "Domain",
+    "skill_description": "Identifying and managing risks to participant safety, data quality, and trial conduct in clinical research.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Translational Research",
+    "skill_category": "Domain",
+    "skill_description": "Bridging preclinical findings to clinical applications through first-in-human studies and proof-of-concept trials.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Companion Diagnostic Development",
+    "skill_category": "Domain",
+    "skill_description": "Developing and co-registering companion diagnostics for targeted drug therapies.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Benefit-Risk Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating the overall benefit-risk profile of pharmaceutical products at development and post-market stages.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Biomarker Qualification",
+    "skill_category": "Domain",
+    "skill_description": "Developing and qualifying biomarkers for use as diagnostic, prognostic, or predictive tools in clinical trials.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Cell-Based Assay Development",
+    "skill_category": "Domain",
+    "skill_description": "Developing and validating cell-based assays for potency testing, drug screening, and immunogenicity assessment.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Immunogenicity Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating and managing anti-drug antibody responses for biologics and biosimilars.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Protein Characterisation",
+    "skill_category": "Domain",
+    "skill_description": "Characterising biologic drug substances using mass spectrometry, electrophoresis, and chromatographic techniques.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Medical Affairs Digital Engagement",
+    "skill_category": "Domain",
+    "skill_description": "Using digital channels including webinars, virtual advisory boards, and digital content for HCP engagement.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Publication Planning and Ethics",
+    "skill_category": "Domain",
+    "skill_description": "Planning scientific publications in compliance with ICMJE, GPP3, and anti-ghost authorship standards.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Expanded Access and Named Patient Programmes",
+    "skill_category": "Domain",
+    "skill_description": "Managing compassionate use and expanded access programmes for patients outside clinical trials.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Medical Liaison Programme (MSL)",
+    "skill_category": "Domain",
+    "skill_description": "Supporting Medical Science Liaison activities including scientific exchange and evidence dissemination.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical Pharmacovigilance Integration",
+    "skill_category": "Domain",
+    "skill_description": "Integrating pharmacovigilance data into clinical development decisions and safety labelling updates.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Labelling and Package Insert Management",
+    "skill_category": "Domain",
+    "skill_description": "Drafting, reviewing, and updating drug product labelling and package inserts per regulatory requirements.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Serialisation and Track and Trace (Pharma)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing drug serialisation and track-and-trace systems per national and international mandates.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Contract Research Organisation (CRO) Management",
+    "skill_category": "Domain",
+    "skill_description": "Selecting, contracting, and overseeing CROs for outsourced clinical research and regulatory activities.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Hospital Formulary Inclusion Strategy",
+    "skill_category": "Domain",
+    "skill_description": "Developing strategies to include pharmaceutical products in hospital formularies and drug policy committees.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Scientific Dossier Preparation for Tenders",
+    "skill_category": "Domain",
+    "skill_description": "Preparing technical documents for government procurement tenders and institutional drug supply contracts.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Paediatric Investigation Plan (PIP)",
+    "skill_category": "Domain",
+    "skill_description": "Developing paediatric investigation plans for new drug applications in regulatory markets.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Geriatric Clinical Considerations",
+    "skill_category": "Domain",
+    "skill_description": "Applying geriatric pharmacology and design considerations in clinical trials and drug development for elderly patients.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Pregnancy and Lactation Pharmacology",
+    "skill_category": "Domain",
+    "skill_description": "Understanding pharmacology in pregnancy and lactation for labelling, safety assessment, and clinical use.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Pharmacoeconomics",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating the cost-effectiveness, cost-utility, and budget impact of pharmaceutical interventions.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Healthcare Business Development",
+    "skill_category": "Domain",
+    "skill_description": "Identifying and pursuing licensing, partnership, and co-development opportunities in the healthcare sector.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical Operations Budgeting",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and managing clinical trial budgets including site payments, CRO fees, and operational costs.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Patient Advocacy and Community Engagement",
+    "skill_category": "Domain",
+    "skill_description": "Engaging patient advocacy groups in drug development, trial design, and disease awareness initiatives.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "ICMR Guidelines Compliance (India)",
+    "skill_category": "Domain",
+    "skill_description": "Conducting biomedical and clinical research in compliance with ICMR National Ethical Guidelines.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "National Pharmacovigilance Programme of India (PvPI)",
+    "skill_category": "Domain",
+    "skill_description": "Reporting and managing adverse drug reactions through India's national pharmacovigilance programme.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Biological Therapy Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing clinical use, storage, administration, and monitoring of biological and targeted therapies.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Antibiotic Stewardship Programme",
+    "skill_category": "Domain",
+    "skill_description": "Implementing rational antibiotic use policies to reduce resistance and improve patient outcomes.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical Audit",
+    "skill_category": "Domain",
+    "skill_description": "Conducting structured clinical audits to measure healthcare delivery against defined standards.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Standard of Care (SOC) Documentation",
+    "skill_category": "Domain",
+    "skill_description": "Documenting and implementing clinical standards of care for specific diseases and patient populations.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Medical Device Post-Market Surveillance",
+    "skill_category": "Domain",
+    "skill_description": "Monitoring medical device performance after market launch through complaint surveillance and safety reporting.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "In Silico Methods and Computational Modelling (Pharma)",
+    "skill_category": "Domain",
+    "skill_description": "Using computational simulations and in silico modelling to predict drug safety and efficacy.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Patient Support Programme Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing adherence, reimbursement assistance, and disease management support programmes for patients.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Nutraceuticals and Dietary Supplement Regulation",
+    "skill_category": "Domain",
+    "skill_description": "Registering nutraceuticals, herbal products, and dietary supplements under FSSAI and AYUSH frameworks.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Veeva Vault Quality (QMS)",
+    "skill_category": "Technical",
+    "skill_description": "Managing quality events, change control, CAPA, and document control using Veeva Vault Quality module.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "PerkinElmer Signals Notebooks (ELN)",
+    "skill_category": "Technical",
+    "skill_description": "Documenting laboratory experiments and research data in PerkinElmer's electronic lab notebook.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Benchling (ELN and Bioregistry)",
+    "skill_category": "Technical",
+    "skill_description": "Managing research data, molecular biology workflows, and bioregistry using Benchling platform.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Phoenix WinNonlin (PK Analysis)",
+    "skill_category": "Technical",
+    "skill_description": "Performing non-compartmental and compartmental pharmacokinetic data analysis using Phoenix WinNonlin.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "NONMEM (Population PK/PD)",
+    "skill_category": "Technical",
+    "skill_description": "Building population pharmacokinetic and pharmacodynamic models using NONMEM for clinical dose optimisation.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Simcyp Simulator (PBPK Modelling)",
+    "skill_category": "Technical",
+    "skill_description": "Using Simcyp for physiologically-based pharmacokinetic modelling to predict drug exposure across populations.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "ARGUS Safety (Oracle)",
+    "skill_category": "Technical",
+    "skill_description": "Processing and submitting individual case safety reports using Oracle Argus Safety pharmacovigilance platform.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "ArisGlobal LifeSphere Safety",
+    "skill_category": "Technical",
+    "skill_description": "Managing pharmacovigilance case processing, signal detection, and regulatory reporting using ArisGlobal.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Practo (Healthcare Platform)",
+    "skill_category": "Technical",
+    "skill_description": "Managing patient appointments, teleconsultations, and digital prescriptions using Practo platform in India.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "eHospital (NIC)",
+    "skill_category": "Technical",
+    "skill_description": "Managing patient care, records, and hospital administration using NIC's eHospital system in government facilities.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Tally (Pharma Accounting)",
+    "skill_category": "Technical",
+    "skill_description": "Managing GST-compliant pharmaceutical accounting, inventory, and billing using Tally ERP or Tally Prime.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Zoho CRM (Pharma Sales)",
+    "skill_category": "Technical",
+    "skill_description": "Managing medical representative territories, call reports, and customer data using Zoho CRM in pharma.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Castor EDC",
+    "skill_category": "Technical",
+    "skill_description": "Creating eCRFs, managing clinical data, and running study audits using Castor EDC platform.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "STATA (Biostatistics)",
+    "skill_category": "Technical",
+    "skill_description": "Conducting epidemiological and clinical biostatistical analyses using STATA statistical software.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "FlowJo (Flow Cytometry Analysis)",
+    "skill_category": "Technical",
+    "skill_description": "Analysing flow cytometry data for immune cell phenotyping and clinical research using FlowJo software.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "PathAI (Computational Pathology)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using PathAI's computational pathology platform for AI-assisted histopathology analysis and drug development.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Tempus (AI Clinical Analytics)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Tempus AI's platform for molecular profiling, clinical data analysis, and precision oncology insights.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Viz.ai (AI Radiology)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Viz.ai's AI for automated detection of stroke and other time-sensitive conditions from medical imaging.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "IBM Micromedex (Drug Information AI)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Accessing AI-enhanced drug information, interactions, and dosing guidance using IBM Micromedex.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Patient Communication and Counselling",
+    "skill_category": "Foundational",
+    "skill_description": "Communicating effectively with patients about diagnoses, treatment options, and adherence requirements.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Multidisciplinary Team Collaboration",
+    "skill_category": "Foundational",
+    "skill_description": "Working effectively in multidisciplinary teams with physicians, pharmacists, nurses, and allied health professionals.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Strategic Thinking (Healthcare)",
+    "skill_category": "Foundational",
+    "skill_description": "Developing long-term thinking in drug development, regulatory strategy, and healthcare business planning.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Commercial Awareness (Pharma)",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding pharmaceutical market dynamics, pricing, and commercial factors influencing drug development.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Digital Literacy (Healthcare)",
+    "skill_category": "Foundational",
+    "skill_description": "Using healthcare digital tools, data platforms, and clinical information systems comfortably and effectively.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Mentoring and Knowledge Transfer",
+    "skill_category": "Foundational",
+    "skill_description": "Guiding junior clinical, regulatory, and scientific staff through knowledge sharing and hands-on mentoring.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Self-Management and Initiative",
+    "skill_category": "Foundational",
+    "skill_description": "Taking ownership of work deliverables and proactively advancing tasks in regulated healthcare environments.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Cross-Cultural Patient Engagement (India)",
+    "skill_category": "Foundational",
+    "skill_description": "Engaging patients respectfully across India's linguistic and cultural diversity in clinical and community settings.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Feasibility Assessment for Clinical Trials",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating site capabilities, patient populations, and investigator experience for clinical trial feasibility.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Investigator Meeting Planning",
+    "skill_category": "Domain",
+    "skill_description": "Planning and conducting investigator meetings to align sites on protocol, procedures, and expectations.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Regulatory Authority Meeting Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing briefing documents and responses for pre-IND, pre-NDA, and end-of-phase regulatory meetings.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical Trial Insurance and Liability",
+    "skill_category": "Domain",
+    "skill_description": "Managing clinical trial insurance requirements and participant compensation policies in Indian and global trials.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Electronic Patient-Reported Outcome (ePRO) Implementation",
+    "skill_category": "Domain",
+    "skill_description": "Implementing digital tools for real-time patient symptom and quality-of-life data collection in trials.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Wearable Device Data in Clinical Trials",
+    "skill_category": "Domain",
+    "skill_description": "Integrating wearable sensor and remote monitoring data into clinical trial data management systems.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical Supply Chain Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing investigational medicinal product supply, distribution, and accountability across clinical sites.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "IND Application Preparation (US FDA)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing Investigational New Drug applications for submission to USFDA to initiate clinical studies.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Biobank and Sample Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing biological sample collection, storage, tracking, and shipment for clinical research purposes.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Good Pharmacovigilance Practice (GVP)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing EMA's Good Pharmacovigilance Practice guidelines for safety monitoring of authorised medicines.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Current Good Manufacturing Practice (cGMP)",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining current GMP standards as continuously updated by USFDA and other regulatory agencies.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "API Manufacturing Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring active pharmaceutical ingredient manufacturing meets ICH Q7 and Schedule M GMP requirements.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Aseptic Manufacturing and Cleanroom Operations",
+    "skill_category": "Domain",
+    "skill_description": "Managing sterile pharmaceutical manufacturing in classified cleanroom environments per ISO 14644 standards.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Lyophilisation (Freeze-Drying) Process",
+    "skill_category": "Domain",
+    "skill_description": "Operating and validating lyophilisation processes for sterile injectable pharmaceutical products.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Solid Dosage Form Manufacturing",
+    "skill_category": "Domain",
+    "skill_description": "Manufacturing tablets and capsules through granulation, compression, coating, and encapsulation operations.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Liquid and Semi-Solid Dosage Manufacturing",
+    "skill_category": "Domain",
+    "skill_description": "Manufacturing liquid orals, topicals, and semi-solid dosage forms including creams and ointments.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Injectable Product Manufacturing",
+    "skill_category": "Domain",
+    "skill_description": "Manufacturing sterile parenteral products including small and large volume parenterals under aseptic conditions.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Pharmaceutical Equipment Calibration",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining calibration programmes for laboratory and manufacturing equipment to ensure measurement accuracy.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Good Automated Manufacturing Practice (GAMP 5)",
+    "skill_category": "Domain",
+    "skill_description": "Applying GAMP 5 guidelines for risk-based validation of automated pharmaceutical manufacturing systems.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Quality Metrics and Continuous Improvement",
+    "skill_category": "Domain",
+    "skill_description": "Tracking pharmaceutical quality metrics including batch failures, OOS rates, and CAPA effectiveness.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Annual Product Quality Review (APQR)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing annual product quality reviews to assess process consistency and identify improvements.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Site Master File (SMF) Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and maintaining the pharmaceutical site master file describing manufacturing site operations.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Drug Master File (DMF) Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing Drug Master Files for submission to regulatory authorities for raw materials and manufacturing.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Pharmaceutical Risk Management (ICH Q9)",
+    "skill_category": "Domain",
+    "skill_description": "Applying ICH Q9 quality risk management principles using FMEA, HAZOP, and risk ranking tools.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "ICH Q10 Pharmaceutical Quality System",
+    "skill_category": "Domain",
+    "skill_description": "Implementing a lifecycle-based pharmaceutical quality system as described in ICH Q10 guideline.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Medical Device Design and Development",
+    "skill_category": "Domain",
+    "skill_description": "Managing the product development lifecycle for medical devices from concept through design verification.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Risk Management for Medical Devices (ISO 14971)",
+    "skill_category": "Domain",
+    "skill_description": "Applying ISO 14971 risk management processes to identify, evaluate, and control medical device risks.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Usability Engineering for Medical Devices",
+    "skill_category": "Domain",
+    "skill_description": "Applying IEC 62366 usability engineering processes to ensure safe and effective device user interaction.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Device Vigilance and MDR Reporting",
+    "skill_category": "Domain",
+    "skill_description": "Managing medical device incident reporting and vigilance obligations to CDSCO and international regulators.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Sterilisation Validation (ETO, Gamma, Autoclave)",
+    "skill_category": "Domain",
+    "skill_description": "Validating medical device sterilisation processes including ethylene oxide, gamma irradiation, and steam.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Biocompatibility Testing (ISO 10993)",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating biocompatibility of medical device materials using ISO 10993 series testing protocols.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Patient Flow Optimisation",
+    "skill_category": "Domain",
+    "skill_description": "Analysing and improving patient movement through OPD, emergency, and inpatient services to reduce waiting times.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical Governance",
+    "skill_category": "Domain",
+    "skill_description": "Implementing clinical governance frameworks to maintain and improve standards of patient care.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Outcome-Based Healthcare and Value-Based Care",
+    "skill_category": "Domain",
+    "skill_description": "Designing payment and quality models that link reimbursement to patient health outcomes.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "OPD and IPD Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing outpatient department and inpatient department operations including scheduling, capacity, and throughput.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Intensive Care Unit (ICU) Operations",
+    "skill_category": "Domain",
+    "skill_description": "Managing ICU protocols, staffing ratios, equipment maintenance, and critical patient monitoring workflows.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Emergency Medicine Protocols",
+    "skill_category": "Domain",
+    "skill_description": "Implementing emergency response protocols, triage systems, and code blue procedures in hospital settings.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Radiology and Imaging Department Management",
+    "skill_category": "Domain",
+    "skill_description": "Overseeing radiology service delivery, equipment utilisation, and report turnaround time management.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Surgical Services Operations",
+    "skill_category": "Domain",
+    "skill_description": "Managing operation theatre scheduling, surgical team coordination, and sterile supply chain for surgical services.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Healthcare Revenue Cycle Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing billing, collections, insurance adjudication, and financial performance of healthcare services.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Cost per Patient Day Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Calculating and optimising cost per patient day across departments for healthcare financial planning.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Haematology Testing and Interpretation",
+    "skill_category": "Domain",
+    "skill_description": "Performing and interpreting complete blood counts, peripheral smears, and coagulation studies in clinical labs.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical Biochemistry Testing",
+    "skill_category": "Domain",
+    "skill_description": "Performing liver, kidney, metabolic, and cardiac enzyme panels in clinical biochemistry laboratories.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Serology and Immunology Testing",
+    "skill_category": "Domain",
+    "skill_description": "Performing serological tests for infectious diseases and autoimmune conditions in diagnostic labs.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Quality Control in Clinical Laboratories",
+    "skill_category": "Domain",
+    "skill_description": "Implementing internal and external quality control procedures to maintain laboratory result accuracy.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Proficiency Testing (External Quality Assurance)",
+    "skill_category": "Domain",
+    "skill_description": "Participating in external quality assurance and proficiency testing schemes for clinical laboratory accreditation.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Laboratory Safety and Hazard Management",
+    "skill_category": "Domain",
+    "skill_description": "Implementing chemical, biological, and radiation safety protocols in clinical and research laboratories.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Community Health Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Conducting community-level health needs assessments to identify priority health issues for intervention.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Health Promotion and Behaviour Change",
+    "skill_category": "Domain",
+    "skill_description": "Designing evidence-based health promotion campaigns using behaviour change communication strategies.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Immunisation Programme Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing routine immunisation programme implementation, cold chain, and coverage monitoring.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Disease Outbreak Response",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating investigation, containment, and communication activities during infectious disease outbreaks.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Malnutrition and Child Health Programmes (India)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing government nutrition and child health programmes including ICDS, POSHAN Abhiyaan.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Non-Communicable Disease (NCD) Management",
+    "skill_category": "Domain",
+    "skill_description": "Designing and implementing NCD prevention and management programmes for diabetes, CVD, and cancer.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Maternal and Child Health (MCH) Programmes",
+    "skill_category": "Domain",
+    "skill_description": "Implementing RMNCH+A strategy and MCH services for antenatal, delivery, and postnatal care.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Health Informatics and Data Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing health information systems, district-level data reporting, and programme monitoring in India.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "One Health Approach",
+    "skill_category": "Domain",
+    "skill_description": "Applying One Health principles integrating human, animal, and environmental health for pandemic preparedness.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Genomics and Sequencing Technologies",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and applying next-generation sequencing technologies for clinical and research applications.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "CRISPR and Gene Editing Applications",
+    "skill_category": "Domain",
+    "skill_description": "Understanding CRISPR-Cas9 and related gene editing technologies for research and therapeutic applications.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Stem Cell Research and Applications",
+    "skill_category": "Domain",
+    "skill_description": "Conducting and managing stem cell culture, characterisation, and clinical application research.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Bioinformatics and Computational Biology",
+    "skill_category": "Domain",
+    "skill_description": "Analysing genomic, proteomic, and transcriptomic data using bioinformatics tools and pipelines.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Protein Engineering and Antibody Discovery",
+    "skill_category": "Domain",
+    "skill_description": "Engineering therapeutic proteins and discovering antibody candidates using phage display and directed evolution.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Combination Product Regulation",
+    "skill_category": "Domain",
+    "skill_description": "Navigating regulatory requirements for drug-device and drug-biologic combination products.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Traditional Medicine Regulation (AYUSH India)",
+    "skill_category": "Domain",
+    "skill_description": "Registering and ensuring compliance of Ayurveda, Unani, Siddha, and homeopathy products under AYUSH rules.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Nutritional Labelling Compliance (FSSAI)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring food and nutraceutical product labelling meets FSSAI nutritional information and claim standards.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical Trial Accreditation (CDSCO recognised site)",
+    "skill_category": "Domain",
+    "skill_description": "Achieving and maintaining CDSCO recognition as an accredited clinical trial site in India.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Drug Advertising Standards (India)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring pharmaceutical advertising complies with the Drugs and Magic Remedies Act and CDSCO guidelines.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "KNIME (Clinical Analytics)",
+    "skill_category": "Technical",
+    "skill_description": "Building clinical and pharma data analysis workflows using KNIME's open-source analytics platform.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "eClinicalWorks (EMR India)",
+    "skill_category": "Technical",
+    "skill_description": "Managing patient records, appointments, e-prescriptions, and billing using eClinicalWorks EMR system.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clario (ePRO and eSource)",
+    "skill_category": "Technical",
+    "skill_description": "Managing electronic patient-reported outcomes and eSource data in clinical trials using Clario platform.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Optical Character Recognition (OCR) for Medical Records",
+    "skill_category": "Technical",
+    "skill_description": "Using OCR tools to digitise handwritten prescriptions and historical medical records for EHR integration.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Statistical Process Control (SPC) Software",
+    "skill_category": "Technical",
+    "skill_description": "Implementing SPC charts and analysis for pharmaceutical manufacturing process monitoring.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Good Documentation Practices (GDocP)",
+    "skill_category": "Foundational",
+    "skill_description": "Maintaining legible, complete, and contemporaneous records in pharmaceutical manufacturing and clinical settings.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Scientific Curiosity and Research Mindset",
+    "skill_category": "Foundational",
+    "skill_description": "Approaching healthcare and scientific problems with intellectual rigor, curiosity, and evidence-driven thinking.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Clinical and Commercial Acumen",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding how clinical outcomes and regulatory decisions translate into commercial success in pharma.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Stakeholder Management (Healthcare)",
+    "skill_category": "Foundational",
+    "skill_description": "Managing relationships with investigators, KOLs, regulators, payers, and patient groups.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Deadline Management in Regulatory Contexts",
+    "skill_category": "Foundational",
+    "skill_description": "Meeting strict regulatory and clinical submission deadlines with accurate and complete data packages.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Active Listening (Clinical)",
+    "skill_category": "Foundational",
+    "skill_description": "Listening attentively to patients, investigators, and colleagues to fully understand clinical needs and concerns.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Change Management (Healthcare Organisations)",
+    "skill_category": "Foundational",
+    "skill_description": "Leading and managing change in healthcare organisations including new system implementations and process redesign.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Emotional Intelligence in Healthcare",
+    "skill_category": "Foundational",
+    "skill_description": "Managing personal emotions and responding to patients and colleagues with empathy in high-stress environments.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Critical Safety Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Anticipating and proactively addressing patient safety risks in clinical practice and drug development.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Networking and Professional Community Engagement",
+    "skill_category": "Foundational",
+    "skill_description": "Building professional networks through conferences, scientific societies, and industry associations.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Grant Writing and Research Funding",
+    "skill_category": "Foundational",
+    "skill_description": "Writing competitive grant applications to ICMR, DST, and industry sources for research funding.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Regulatory Writing Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Writing clear, precise, and structured regulatory documents that meet agency standards and style requirements.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Academic and Scientific Presentation",
+    "skill_category": "Foundational",
+    "skill_description": "Presenting research findings at scientific conferences, grand rounds, and internal review meetings.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Compliance and Quality Mindset",
+    "skill_category": "Foundational",
+    "skill_description": "Embedding a quality-first culture and proactive compliance in all scientific and operational activities.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Technology Adoption and Innovation",
+    "skill_category": "Foundational",
+    "skill_description": "Proactively exploring and adopting new technologies including AI, digital health, and automation in practice.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Early Access Programme (EAP) Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing early access programmes that allow patients access to investigational drugs before approval.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Regulatory Compliance Training",
+    "skill_category": "Domain",
+    "skill_description": "Designing and delivering GCP, GMP, GLP, and pharmacovigilance compliance training programmes.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Informed Consent Form (ICF) Development",
+    "skill_category": "Domain",
+    "skill_description": "Writing patient-friendly ICFs that accurately represent study risks and procedures in plain language.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Site Qualification Visit (SQV) Conduct",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating potential clinical sites for feasibility, patient population, and regulatory compliance readiness.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Dose-Escalation Study Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing first-in-human dose-escalation studies with appropriate safety monitoring and stopping rules.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Proof-of-Concept Clinical Study",
+    "skill_category": "Domain",
+    "skill_description": "Designing and executing early Phase II proof-of-concept studies to establish clinical activity of drugs.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Human Volunteer Study Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing Phase I studies in healthy volunteers including screening, dosing, and follow-up protocols.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Pharmacokinetic Sample Collection",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating timed blood and tissue sample collection for pharmacokinetic assessments in clinical trials.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Medical Coding (MedDRA, WHO Drug Dictionary)",
+    "skill_category": "Domain",
+    "skill_description": "Coding adverse events using MedDRA and drugs using WHO Drug Dictionary for clinical safety databases.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Drug-Drug Interaction (DDI) Studies",
+    "skill_category": "Domain",
+    "skill_description": "Designing and conducting clinical drug-drug interaction studies as required for regulatory submissions.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Paediatric Dose Calculation",
+    "skill_category": "Domain",
+    "skill_description": "Calculating weight-based and BSA-based doses for paediatric patients in clinical practice and trials.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Therapeutic Drug Monitoring (TDM)",
+    "skill_category": "Domain",
+    "skill_description": "Monitoring drug concentrations in patient plasma to optimise dosing for narrow therapeutic index drugs.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Medication Reconciliation",
+    "skill_category": "Domain",
+    "skill_description": "Reconciling patient medication lists during transitions of care to prevent medication errors.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Hospital Pharmacy Operations",
+    "skill_category": "Domain",
+    "skill_description": "Managing inpatient pharmacy dispensing, clinical pharmacy services, and medication safety programmes.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Drug Information Centre Management",
+    "skill_category": "Domain",
+    "skill_description": "Running a drug information service providing evidence-based responses to clinical queries.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Pharmacoeconomic Modelling",
+    "skill_category": "Domain",
+    "skill_description": "Building cost-effectiveness and budget impact models for health technology assessment submissions.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Medical Device Training and Support",
+    "skill_category": "Domain",
+    "skill_description": "Training healthcare professionals on proper use of medical devices and maintaining technical support programmes.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Product Launch Planning (Pharma)",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing pharmaceutical product launches including pre-launch evidence generation and commercial readiness.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Market Access Strategy (India)",
+    "skill_category": "Domain",
+    "skill_description": "Developing strategies for government formulary listing, institutional access, and health insurance coverage.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "E-pharma and Online Pharmacy Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring online pharmacy operations comply with CDSCO e-pharmacy rules and prescription verification requirements.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Pharmaceutical Supply and Demand Forecasting",
+    "skill_category": "Domain",
+    "skill_description": "Forecasting pharmaceutical product demand and managing supply planning across manufacturing and distribution.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Instrument Qualification in QC Labs",
+    "skill_category": "Domain",
+    "skill_description": "Conducting IQ, OQ, and PQ for analytical instruments in pharmaceutical quality control laboratories.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Column Qualification and Management (Chromatography)",
+    "skill_category": "Domain",
+    "skill_description": "Qualifying, tracking, and managing HPLC and GC columns for pharmaceutical analytical laboratories.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Reference Standard Management",
+    "skill_category": "Domain",
+    "skill_description": "Procuring, storing, and managing primary and working reference standards in pharmaceutical QC laboratories.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Reagent and Chemical Management (Pharma Lab)",
+    "skill_category": "Domain",
+    "skill_description": "Managing laboratory chemicals, reagents, and consumables including expiry control and safety compliance.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Environmental Health and Safety (EHS) in Pharma",
+    "skill_category": "Domain",
+    "skill_description": "Implementing EHS programmes for chemical safety, occupational health, and environmental compliance in pharma.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Plasma-Derived Medicinal Products",
+    "skill_category": "Domain",
+    "skill_description": "Understanding donor screening, pathogen reduction, and regulatory requirements for plasma-derived products.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Blood Donation and Transfusion Medicine",
+    "skill_category": "Domain",
+    "skill_description": "Managing voluntary blood donation programmes, donor screening, and safe transfusion practice.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Oncology Supportive Care Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing pain, anti-emetics, growth factors, and supportive therapies in oncology patients.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Palliative Care and End-of-Life Management",
+    "skill_category": "Domain",
+    "skill_description": "Implementing symptom management, family counselling, and ethical frameworks for palliative care.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Rehabilitation Services Management",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating physiotherapy, occupational therapy, and speech therapy rehabilitation services in hospitals.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Dietary Supplement Research and Development",
+    "skill_category": "Domain",
+    "skill_description": "Researching and developing dietary supplement formulations for nutraceuticals and functional foods.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Contract Manufacturing Organisation (CMO) Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing outsourced pharmaceutical manufacturing including quality oversight and supply agreements.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Medical Ethics Committee (MEC) Operations",
+    "skill_category": "Domain",
+    "skill_description": "Managing independent ethics committee operations including application review and meeting coordination.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Regulatory Horizon Scanning",
+    "skill_category": "Domain",
+    "skill_description": "Monitoring upcoming regulatory guideline changes to proactively adjust development and compliance strategies.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Central Lab and Reference Lab Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing central laboratory operations for clinical trials including sample logistics and result reporting.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Medidata Rave Architect (EDC Build)",
+    "skill_category": "Technical",
+    "skill_description": "Building and configuring electronic data capture studies in Medidata Rave Architect for clinical trials.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "PAREXEL Inform (EDC)",
+    "skill_category": "Technical",
+    "skill_description": "Managing clinical trial data collection and query management using PAREXEL's Inform EDC platform.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "CTMS (Veeva Site Connect)",
+    "skill_category": "Technical",
+    "skill_description": "Managing clinical site operations and study metrics using Veeva's site-facing clinical trial platform.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "IRT / RTSM System (Randomisation and Trial Supply)",
+    "skill_category": "Technical",
+    "skill_description": "Managing patient randomisation and investigational product supply using RTSM systems in clinical trials.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "eDiaries (Patient Electronic Diaries)",
+    "skill_category": "Technical",
+    "skill_description": "Configuring and managing electronic patient diaries for symptom and PRO data collection in trials.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "SAS Clinical Programming (PROC MIXED, PROC LIFETEST)",
+    "skill_category": "Technical",
+    "skill_description": "Programming clinical statistical analyses using SAS procedures for regulatory submission data packages.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Pinnacle 21 (CDISC Validator)",
+    "skill_category": "Technical",
+    "skill_description": "Validating SDTM and ADaM clinical datasets against CDISC standards using Pinnacle 21 validator.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Define.xml Creation (CDISC)",
+    "skill_category": "Technical",
+    "skill_description": "Creating Define.xml metadata files for SDTM and ADaM dataset documentation in regulatory submissions.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Bioinformatics Tools (BLAST, NCBI, UniProt)",
+    "skill_category": "Technical",
+    "skill_description": "Using BLAST, NCBI databases, and UniProt for sequence alignment and protein characterisation in research.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Galaxy Bioinformatics Platform",
+    "skill_category": "Technical",
+    "skill_description": "Running reproducible bioinformatics workflows for genomic and transcriptomic data analysis using Galaxy.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "LIMS (LabWare)",
+    "skill_category": "Technical",
+    "skill_description": "Managing laboratory workflows, sample testing, and results reporting using LabWare LIMS software.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Thermo Fisher SampleManager (LIMS)",
+    "skill_category": "Technical",
+    "skill_description": "Managing pharmaceutical quality control laboratory operations using Thermo Fisher SampleManager LIMS.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Zoom (Virtual Medical Consultations)",
+    "skill_category": "Technical",
+    "skill_description": "Conducting teleconsultations, investigator meetings, and medical education events using Zoom.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Electronic Lab Notebook (ELN) Administration",
+    "skill_category": "Technical",
+    "skill_description": "Configuring and managing electronic laboratory notebooks for research documentation compliance.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "IQVIA OneKey (HCP Database)",
+    "skill_category": "Technical",
+    "skill_description": "Accessing healthcare professional contact databases and territory intelligence using IQVIA OneKey.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "IMS Health / IQVIA Analytics",
+    "skill_category": "Technical",
+    "skill_description": "Using IQVIA market intelligence data for prescription analytics and pharmaceutical market assessment.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Empower CDS (Waters Chromatography)",
+    "skill_category": "Technical",
+    "skill_description": "Acquiring and processing chromatographic data using Waters Empower Chromatography Data System in QC labs.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Chromeleon CDS (Thermo Fisher)",
+    "skill_category": "Technical",
+    "skill_description": "Managing and analysing HPLC and IC data using Thermo Fisher Chromeleon Chromatography Data System.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Salesforce Health Cloud (Pharma CRM)",
+    "skill_category": "Technical",
+    "skill_description": "Managing medical representative activities, HCP relationships, and field force analytics using Salesforce Health Cloud.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "OpenClinica (EDC)",
+    "skill_category": "Technical",
+    "skill_description": "Building and managing electronic data capture studies using OpenClinica's open-source and enterprise EDC platform.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "ICH E8(R1) Clinical Study Design Quality",
+    "skill_category": "Domain",
+    "skill_description": "Applying ICH E8(R1) principles for quality by design in clinical trial planning and study design.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "ICH E9(R1) Estimands Framework",
+    "skill_category": "Domain",
+    "skill_description": "Applying the ICH E9(R1) estimands framework to define precise trial objectives and handle intercurrent events.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "GxP Training and Qualification Records Management",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining role-based GxP training records and ensuring staff qualification documentation in regulated environments.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "CDSCO Drug Alert and Recall Portal",
+    "skill_category": "Technical",
+    "skill_description": "Accessing and using the CDSCO drug alert portal to monitor product recalls and safety alerts in India.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Type I and Type II Variation (EU Drug Approvals)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and submitting minor (Type IA/IB) and major (Type II) variations to update EU marketing authorisations.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "DIA eTMF Reference Model",
+    "skill_category": "Domain",
+    "skill_description": "Applying the Drug Information Association eTMF Reference Model for compliant electronic trial master file management.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "CRF Completion Guidelines (CCG)",
+    "skill_category": "Domain",
+    "skill_description": "Writing and applying CRF completion guidelines to standardise data entry by sites in clinical trials.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Data Management Plan (DMP) Development",
+    "skill_category": "Domain",
+    "skill_description": "Writing data management plans defining data collection, handling, validation, and archiving for clinical studies.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "ICF Translation and Back-Translation (India)",
+    "skill_category": "Domain",
+    "skill_description": "Translating informed consent forms into regional Indian languages and performing back-translation for accuracy.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "ICP-OES (Elemental Impurity Testing)",
+    "skill_category": "Technical",
+    "skill_description": "Performing elemental impurity analysis in pharmaceutical products using ICP-OES per ICH Q3D guidelines.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Endotoxin Testing (LAL / rFC Method)",
+    "skill_category": "Technical",
+    "skill_description": "Testing pharmaceutical products for bacterial endotoxins using LAL and recombinant Factor C methods.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Microbial Identification (MALDI-TOF)",
+    "skill_category": "Technical",
+    "skill_description": "Identifying microbial contaminants in pharmaceutical and clinical samples using MALDI-TOF mass spectrometry.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Bioburden Testing (Pharma)",
+    "skill_category": "Domain",
+    "skill_description": "Determining microbial bioburden in non-sterile pharmaceutical products per USP and IP pharmacopoeial methods.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "pH and Viscosity Measurement (Pharma QC)",
+    "skill_category": "Domain",
+    "skill_description": "Performing routine pH, viscosity, and rheology measurements as part of pharmaceutical QC testing.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Line Listing and Summary Tabulations (PV)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing adverse event line listings and tabulated summaries for periodic safety reports and signal evaluation.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Pharmacovigilance System Master File (PSMF)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and maintaining the Pharmacovigilance System Master File as required by EU GVP Module II.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Summary of Product Characteristics (SmPC) Writing",
+    "skill_category": "Domain",
+    "skill_description": "Writing and updating SmPC documents for EU drug marketing authorisation applications and post-approval variations.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Briefing Document and Regulatory Response Writing",
+    "skill_category": "Domain",
+    "skill_description": "Writing regulatory agency briefing documents and responses to agency queries during drug review processes.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "CONSORT and PRISMA Reporting Guidelines",
+    "skill_category": "Domain",
+    "skill_description": "Applying CONSORT guidelines for clinical trial reporting and PRISMA guidelines for systematic review publications.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Lean Six Sigma in Healthcare",
+    "skill_category": "Domain",
+    "skill_description": "Applying Lean Six Sigma DMAIC methodology to reduce waste, errors, and inefficiencies in healthcare processes.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Medical Tourism Management (India)",
+    "skill_category": "Domain",
+    "skill_description": "Managing international patient services, medical visa facilitation, and cross-border healthcare coordination in India.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Pharmacists Act 1948 (India)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring pharmacy practice compliance with the Pharmacists Act 1948 governing pharmacist registration and conduct.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "GMP for Biologics (ICH Q5A to Q5E)",
+    "skill_category": "Domain",
+    "skill_description": "Applying ICH Q5 series guidelines for quality of biological products including viral safety and characterisation.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Fermentation Process Optimisation",
+    "skill_category": "Domain",
+    "skill_description": "Optimising microbial and mammalian fermentation processes for maximum biopharmaceutical yield and product quality.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Scientific Peer Review Participation",
+    "skill_category": "Foundational",
+    "skill_description": "Participating in peer review of manuscripts and grant proposals to ensure scientific rigour and reproducibility.",
+    "job_families": [
+      6
+    ]
+  },
+  {
+    "skill_name": "Literature Gap Analysis",
+    "skill_category": "Foundational",
+    "skill_description": "Identifying knowledge and evidence gaps in published literature to inform research planning and regulatory strategy.",
+    "job_families": [
+      6
+    ]
+  }
+]

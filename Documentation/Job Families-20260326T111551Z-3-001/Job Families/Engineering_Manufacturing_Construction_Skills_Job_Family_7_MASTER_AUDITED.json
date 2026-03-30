@@ -1,0 +1,4186 @@
+[
+  {
+    "skill_name": "AutoCAD",
+    "skill_category": "Technical",
+    "skill_description": "Creating 2D engineering drawings, layouts, and technical documentation using AutoCAD for design and manufacturing.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "AutoCAD Civil 3D",
+    "skill_category": "Technical",
+    "skill_description": "Designing roads, drainage, and civil infrastructure projects using AutoCAD Civil 3D.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "SOLIDWORKS",
+    "skill_category": "Technical",
+    "skill_description": "Designing 3D mechanical components and assemblies and performing stress analysis using SOLIDWORKS.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "CATIA",
+    "skill_category": "Technical",
+    "skill_description": "Designing complex surface and solid models for automotive, aerospace, and industrial product development using CATIA.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "PTC Creo (Pro/ENGINEER)",
+    "skill_category": "Technical",
+    "skill_description": "Creating parametric 3D part and assembly designs for mechanical product development using PTC Creo.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Siemens NX (Unigraphics)",
+    "skill_category": "Technical",
+    "skill_description": "Performing integrated CAD, CAM, and CAE operations for complex mechanical and aerospace components using Siemens NX.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Inventor (Autodesk)",
+    "skill_category": "Technical",
+    "skill_description": "Designing mechanical parts, assemblies, and sheet metal components using Autodesk Inventor.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "ZWCAD",
+    "skill_category": "Technical",
+    "skill_description": "Creating 2D and 3D engineering drawings for manufacturing and construction using ZWCAD software.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Draftsight",
+    "skill_category": "Technical",
+    "skill_description": "Producing 2D CAD drawings and technical documentation for engineering and construction projects using DraftSight.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Fusion 360 (Autodesk)",
+    "skill_category": "Technical",
+    "skill_description": "Designing and simulating mechanical products and toolpaths using Autodesk Fusion 360's integrated CAD/CAM platform.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Autodesk Revit",
+    "skill_category": "Technical",
+    "skill_description": "Creating building information models for architectural, structural, and MEP design using Autodesk Revit.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Navisworks (Autodesk)",
+    "skill_category": "Technical",
+    "skill_description": "Reviewing and coordinating multi-discipline BIM models and detecting clashes using Autodesk Navisworks.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "STAAD.Pro",
+    "skill_category": "Technical",
+    "skill_description": "Analysing and designing steel, concrete, and timber structures for industrial and building projects using STAAD.Pro.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "ETABS",
+    "skill_category": "Technical",
+    "skill_description": "Modelling and analysing multi-storey building structures for seismic and gravity loading using ETABS.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "SAP2000",
+    "skill_category": "Technical",
+    "skill_description": "Performing finite element analysis of bridges, buildings, and industrial structures using SAP2000.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "SAFE",
+    "skill_category": "Technical",
+    "skill_description": "Designing and analysing concrete slabs, foundations, and footings using Computers and Structures SAFE software.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Tekla Structures",
+    "skill_category": "Technical",
+    "skill_description": "Creating detailed 3D structural steel and precast concrete models for fabrication and construction using Tekla.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "ANSYS Structural",
+    "skill_category": "Technical",
+    "skill_description": "Performing finite element structural analysis including static, dynamic, and fatigue simulations using ANSYS.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "PLAXIS",
+    "skill_category": "Technical",
+    "skill_description": "Analysing geotechnical problems including soil settlement, slope stability, and foundation behaviour using PLAXIS.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "MIDAS Civil",
+    "skill_category": "Technical",
+    "skill_description": "Analysing and designing bridge structures and civil infrastructure using MIDAS Civil software.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Bentley MicroStation",
+    "skill_category": "Technical",
+    "skill_description": "Creating engineering drawings and infrastructure models for roads, bridges, and utilities using Bentley MicroStation.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Bentley OpenRoads Designer",
+    "skill_category": "Technical",
+    "skill_description": "Designing and modelling roadway geometry, corridors, and drainage for highway projects using OpenRoads Designer.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "AutoCAD MEP",
+    "skill_category": "Technical",
+    "skill_description": "Designing mechanical, electrical, and plumbing systems for buildings using AutoCAD MEP.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "EPLAN Electric P8",
+    "skill_category": "Technical",
+    "skill_description": "Creating electrical engineering schematics, panel layouts, and documentation using EPLAN Electric P8.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "DIALUX / RELUX",
+    "skill_category": "Technical",
+    "skill_description": "Designing and simulating lighting layouts for commercial, industrial, and outdoor applications using DIALux or Relux.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Aspen HYSYS",
+    "skill_category": "Technical",
+    "skill_description": "Simulating and optimising oil, gas, and chemical process plant designs using AspenTech HYSYS.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Aspen Plus",
+    "skill_category": "Technical",
+    "skill_description": "Modelling steady-state chemical processes for design, optimisation, and troubleshooting using Aspen Plus.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "PDMS / E3D (Plant Design)",
+    "skill_category": "Technical",
+    "skill_description": "Creating 3D plant and pipe routing models for oil, gas, and chemical facilities using AVEVA PDMS or E3D.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "CAESAR II (Pipe Stress Analysis)",
+    "skill_category": "Technical",
+    "skill_description": "Analysing piping system stress, flexibility, and compliance with ASME codes using CAESAR II.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "SmartPlant (AVEVA / Hexagon)",
+    "skill_category": "Technical",
+    "skill_description": "Managing plant design data, P&IDs, and engineering documents using SmartPlant or AVEVA solutions.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "ANSYS Fluent (CFD)",
+    "skill_category": "Technical",
+    "skill_description": "Simulating fluid flow, heat transfer, and combustion in industrial equipment using ANSYS Fluent.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "OpenFOAM (CFD)",
+    "skill_category": "Technical",
+    "skill_description": "Performing open-source computational fluid dynamics simulations for research and engineering applications.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "MATLAB",
+    "skill_category": "Technical",
+    "skill_description": "Performing numerical analysis, data processing, control system design, and engineering algorithm development using MATLAB.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "MATLAB Simulink",
+    "skill_category": "Technical",
+    "skill_description": "Modelling, simulating, and testing dynamic systems and embedded control algorithms using Simulink.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Abaqus (FEA)",
+    "skill_category": "Technical",
+    "skill_description": "Performing advanced finite element analysis for nonlinear structural and crash simulations using Abaqus.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "LS-DYNA",
+    "skill_category": "Technical",
+    "skill_description": "Simulating crashworthiness, impact, and nonlinear dynamic problems using LS-DYNA FEA software.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "COMSOL Multiphysics",
+    "skill_category": "Technical",
+    "skill_description": "Simulating coupled physical phenomena including structural, thermal, and fluid problems using COMSOL.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Mastercam (CAM Software)",
+    "skill_category": "Technical",
+    "skill_description": "Programming CNC machining toolpaths for milling, turning, and multi-axis operations using Mastercam.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Siemens NX CAM",
+    "skill_category": "Technical",
+    "skill_description": "Creating NC programs for CNC machines using Siemens NX CAM module for complex machined components.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "GibbsCAM",
+    "skill_category": "Technical",
+    "skill_description": "Programming CNC turning, milling, and multi-task machining operations using GibbsCAM.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "CNC Programming (G-code and M-code)",
+    "skill_category": "Technical",
+    "skill_description": "Writing and editing CNC machine programs using G-code and M-code for precision machining operations.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "PLC Programming (Ladder Logic, Structured Text)",
+    "skill_category": "Technical",
+    "skill_description": "Programming industrial PLCs using Ladder Logic and IEC 61131-3 languages for factory automation.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Siemens TIA Portal (PLC)",
+    "skill_category": "Technical",
+    "skill_description": "Programming Siemens SIMATIC PLCs and configuring HMI systems using the TIA Portal engineering framework.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Allen-Bradley RSLogix / Studio 5000",
+    "skill_category": "Technical",
+    "skill_description": "Programming Rockwell Automation PLCs using RSLogix 5000 or Studio 5000 for industrial control systems.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Mitsubishi GX Works (PLC)",
+    "skill_category": "Technical",
+    "skill_description": "Programming Mitsubishi MELSEC PLCs using GX Works for factory and infrastructure automation.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "SCADA Systems (Wonderware, iFIX)",
+    "skill_category": "Technical",
+    "skill_description": "Configuring and operating SCADA platforms for plant monitoring, data acquisition, and process control.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "DCS Configuration (ABB, Honeywell, Yokogawa)",
+    "skill_category": "Technical",
+    "skill_description": "Configuring Distributed Control Systems for continuous process industries including oil, gas, and chemicals.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "3D Printing and Additive Manufacturing",
+    "skill_category": "Technical",
+    "skill_description": "Operating FDM, SLA, and SLS 3D printers for prototyping and production of engineering components.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Lean Manufacturing Tools (VSM, 5S, Kaizen)",
+    "skill_category": "Domain",
+    "skill_description": "Applying value stream mapping, 5S workplace organisation, and Kaizen events to improve production efficiency.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Six Sigma (DMAIC)",
+    "skill_category": "Domain",
+    "skill_description": "Using DMAIC methodology and statistical tools to identify and eliminate defects in manufacturing processes.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "SAP (ERP — Manufacturing Module)",
+    "skill_category": "Technical",
+    "skill_description": "Managing production planning, materials management, and plant maintenance using SAP PP, MM, and PM modules.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "SAP S/4HANA (Engineering)",
+    "skill_category": "Technical",
+    "skill_description": "Using SAP S/4HANA for real-time manufacturing, asset management, and project operations.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Oracle ERP (Manufacturing)",
+    "skill_category": "Technical",
+    "skill_description": "Managing manufacturing operations, supply chain, and cost accounting using Oracle ERP.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Microsoft Project",
+    "skill_category": "Technical",
+    "skill_description": "Planning, scheduling, and tracking engineering and construction project timelines using Microsoft Project.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Primavera P6 (Oracle)",
+    "skill_category": "Technical",
+    "skill_description": "Scheduling, resource levelling, and managing large engineering and infrastructure project programmes using Primavera P6.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "MS Project Server",
+    "skill_category": "Technical",
+    "skill_description": "Managing enterprise project portfolios, resource allocation, and timesheets across engineering teams using MS Project Server.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Procore (Construction Management)",
+    "skill_category": "Technical",
+    "skill_description": "Managing construction project documents, RFIs, submittals, and site inspections using Procore.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Aconex (Oracle Construction)",
+    "skill_category": "Technical",
+    "skill_description": "Managing construction project communications, document control, and workflows using Aconex.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Tally ERP/Prime (Manufacturing)",
+    "skill_category": "Technical",
+    "skill_description": "Managing inventory, job costing, GST compliance, and manufacturing accounts using Tally ERP or Tally Prime.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Zoho Projects",
+    "skill_category": "Technical",
+    "skill_description": "Managing engineering and construction project tasks, timelines, and team collaboration using Zoho Projects.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Non-Destructive Testing (NDT) Techniques",
+    "skill_category": "Technical",
+    "skill_description": "Performing UT, RT, PT, MT, and VT inspections to detect defects in materials and structures without damage.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Coordinate Measuring Machine (CMM)",
+    "skill_category": "Technical",
+    "skill_description": "Measuring dimensional accuracy of precision manufactured components using CMM equipment.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Oscilloscope and Multimeter Usage",
+    "skill_category": "Technical",
+    "skill_description": "Measuring electrical signals, voltages, and currents using oscilloscopes and digital multimeters in electrical work.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Vibration Analysis and Condition Monitoring",
+    "skill_category": "Technical",
+    "skill_description": "Using vibration analysers and sensors to monitor rotating equipment health and predict failures.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Thermal Imaging (Infrared Thermography)",
+    "skill_category": "Technical",
+    "skill_description": "Using infrared cameras to detect thermal anomalies in electrical systems and mechanical equipment.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Microsoft Excel (Advanced)",
+    "skill_category": "Technical",
+    "skill_description": "Using advanced Excel functions, pivot tables, and macros for engineering data analysis, reports, and cost modelling.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Microsoft Power BI",
+    "skill_category": "Technical",
+    "skill_description": "Building manufacturing and project performance dashboards for OEE, KPIs, and resource utilisation using Power BI.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Python (Engineering)",
+    "skill_category": "Technical",
+    "skill_description": "Using Python for engineering data analysis, automation scripts, and scientific computing in manufacturing and design.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "SQL (Manufacturing Analytics)",
+    "skill_category": "Technical",
+    "skill_description": "Querying manufacturing and operations databases to extract performance, quality, and inventory data.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "ETAP (Electrical Power System Analysis)",
+    "skill_category": "Technical",
+    "skill_description": "Analysing power system load flow, short circuit, and protection coordination using ETAP software.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "DIgSILENT PowerFactory",
+    "skill_category": "Technical",
+    "skill_description": "Simulating power system dynamics, grid stability, and protection studies using DIgSILENT PowerFactory.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "PSCAD (Power System Simulation)",
+    "skill_category": "Technical",
+    "skill_description": "Simulating electromagnetic transients and HVDC systems using PSCAD power system simulation tool.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "PROTEUS (PCB Design)",
+    "skill_category": "Technical",
+    "skill_description": "Designing PCB layouts and simulating circuit behaviour using Proteus Design Suite.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Altium Designer (PCB)",
+    "skill_category": "Technical",
+    "skill_description": "Designing multi-layer PCBs, schematics, and component libraries using Altium Designer.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "KiCad (PCB Design)",
+    "skill_category": "Technical",
+    "skill_description": "Designing PCB schematics and layouts using open-source KiCad EDA tool.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Arduino and Raspberry Pi",
+    "skill_category": "Technical",
+    "skill_description": "Prototyping embedded systems and IoT devices using Arduino microcontrollers and Raspberry Pi.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Embedded C Programming",
+    "skill_category": "Technical",
+    "skill_description": "Writing firmware for microcontrollers and embedded systems using C language for industrial applications.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "ChatGPT",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using ChatGPT for drafting engineering reports, technical specifications, SOPs, and project communications.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Claude (Anthropic)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Claude for analysing engineering documents, summarising standards, and drafting technical content.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Gemini (Google)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Google Gemini for engineering research, technical writing, and productivity in Google Workspace.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Copilot in Excel (Microsoft 365 Copilot)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using AI in Excel to analyse engineering data, generate formulas, and produce project summaries.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Power BI Copilot",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using AI in Power BI to generate manufacturing and operations dashboards in natural language.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "GitHub Copilot",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using AI code suggestions to accelerate embedded firmware, automation scripts, and data analysis coding.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Autodesk AI (Generative Design)",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Autodesk's generative design AI tools to explore optimised structural and component design alternatives.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Perplexity AI",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Perplexity AI for real-time engineering standards research, material data, and technical problem solving.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Grammarly",
+    "skill_category": "AI-Tool",
+    "skill_description": "Improving quality and clarity of engineering reports, technical proposals, and project documentation using Grammarly.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Structural Analysis and Design",
+    "skill_category": "Domain",
+    "skill_description": "Analysing loads and designing structural members in steel, concrete, and timber for buildings and infrastructure.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Reinforced Concrete (RCC) Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing RCC beams, columns, slabs, and foundations per IS 456 for Indian building construction.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Steel Structure Design (IS 800)",
+    "skill_category": "Domain",
+    "skill_description": "Designing steel frames, trusses, and connections per IS 800 for industrial buildings and bridges.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Foundation Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing shallow and deep foundations including footings, pile foundations, and raft slabs for structures.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Geotechnical Investigation and Soil Testing",
+    "skill_category": "Domain",
+    "skill_description": "Conducting and interpreting soil boring, SPT, and lab tests to characterise subsoil conditions.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Slope Stability Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating the stability of natural slopes, earthworks, and embankments using limit equilibrium methods.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Road and Highway Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing road geometry, cross-sections, superelevation, and pavement structures per IRC standards.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Pavement Design (IRC, MORTH)",
+    "skill_category": "Domain",
+    "skill_description": "Designing flexible and rigid pavements for national and state highways per Indian Road Congress guidelines.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Bridge Design and Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Designing and analysing girder, box, and cable-stayed bridges per IRC and IS codes for highway and rail projects.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Hydrology and Drainage Design",
+    "skill_category": "Domain",
+    "skill_description": "Computing storm water runoff and designing drainage systems for roads, buildings, and catchment areas.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Water Supply and Distribution System Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing water distribution networks, pumping stations, and treatment works for urban and rural supply.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Wastewater and Sewerage System Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing gravity sewer networks, lift stations, and wastewater treatment plants for urban development.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Construction Planning and Scheduling",
+    "skill_category": "Domain",
+    "skill_description": "Preparing work breakdown structures, bar charts, and network CPM/PERT schedules for construction projects.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Construction Cost Estimation (BOQ)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing bills of quantities, rate analysis, and project cost estimates for civil engineering works.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Contract Management (FIDIC, NEC)",
+    "skill_category": "Domain",
+    "skill_description": "Administering construction contracts including FIDIC Red/Yellow Book and managing variations and claims.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Site Supervision and Quality Control",
+    "skill_category": "Domain",
+    "skill_description": "Monitoring construction quality, workmanship, and material compliance on site against design specifications.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Building Information Modelling (BIM) Management",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating BIM workflows, level of detail standards, and multi-discipline clash detection for construction projects.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Urban Planning and Land Use",
+    "skill_category": "Domain",
+    "skill_description": "Preparing master plans, zoning layouts, and infrastructure provision for urban development projects.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Environmental Impact Assessment (EIA — India)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing EIA reports for MoEFCC clearance for infrastructure and industrial projects in India.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "IS Code Knowledge (IS 456, 800, 875, 1893)",
+    "skill_category": "Domain",
+    "skill_description": "Applying Indian Standards for concrete, steel, loading, and seismic design in structural engineering.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "IRC Standards (Road Design)",
+    "skill_category": "Domain",
+    "skill_description": "Applying Indian Roads Congress standards for geometric design, pavement, and bridge engineering.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "CPWD Specifications",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and applying Central Public Works Department specifications for government civil construction projects.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Mechanical Design and Drafting",
+    "skill_category": "Domain",
+    "skill_description": "Creating detailed mechanical drawings and assemblies with tolerances, fits, and surface finishes for manufacturing.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "GD&T (Geometric Dimensioning and Tolerancing)",
+    "skill_category": "Domain",
+    "skill_description": "Applying ASME Y14.5 or ISO GD&T standards to define part tolerances and inspection requirements.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Machine Design (IS 2500, ISO Standards)",
+    "skill_category": "Domain",
+    "skill_description": "Designing mechanical machine elements including shafts, gears, bearings, and couplings to engineering standards.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Thermodynamics and Heat Transfer",
+    "skill_category": "Domain",
+    "skill_description": "Applying thermodynamics principles to design boilers, heat exchangers, HVAC, and refrigeration systems.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Fluid Mechanics and Hydraulics",
+    "skill_category": "Domain",
+    "skill_description": "Applying fluid flow, pump selection, and piping hydraulic calculations for industrial and infrastructure systems.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Piping and Instrumentation Diagram (P&ID)",
+    "skill_category": "Domain",
+    "skill_description": "Reading, creating, and reviewing P&IDs for process plant piping, instrumentation, and control systems.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Pressure Vessel and Storage Tank Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing unfired pressure vessels and tanks per ASME Section VIII and IS 2825 standards.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Heat Exchanger Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing shell-and-tube, plate, and air-cooled heat exchangers per TEMA and ASME standards.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Rotating Equipment (Pumps, Compressors, Turbines)",
+    "skill_category": "Domain",
+    "skill_description": "Selecting, sizing, and troubleshooting centrifugal and reciprocating pumps, compressors, and steam turbines.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "HVAC System Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing heating, ventilation, and air conditioning systems for commercial and industrial buildings.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Material Science and Selection",
+    "skill_category": "Domain",
+    "skill_description": "Selecting engineering materials based on mechanical properties, corrosion resistance, and application requirements.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Welding Technology and Inspection",
+    "skill_category": "Domain",
+    "skill_description": "Understanding welding processes (MIG, TIG, SMAW), procedures, and NDT inspection of welds per AWS/IS codes.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Casting, Forging, and Forming Processes",
+    "skill_category": "Domain",
+    "skill_description": "Understanding metal casting, forging, stamping, and forming manufacturing processes and their design implications.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Failure Mode and Effects Analysis (FMEA)",
+    "skill_category": "Domain",
+    "skill_description": "Systematically identifying potential failure modes and their effects on equipment and processes.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Production Planning and Control (PPC)",
+    "skill_category": "Domain",
+    "skill_description": "Planning master production schedules, material requirements, and capacity loading for manufacturing operations.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Material Requirements Planning (MRP)",
+    "skill_category": "Domain",
+    "skill_description": "Computing material requirements and production orders from demand forecasts and bills of materials.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Bill of Materials (BOM) Management",
+    "skill_category": "Domain",
+    "skill_description": "Creating, reviewing, and maintaining engineering bills of materials for product and assembly management.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Overall Equipment Effectiveness (OEE)",
+    "skill_category": "Domain",
+    "skill_description": "Measuring and improving manufacturing equipment availability, performance, and quality using OEE metrics.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Total Productive Maintenance (TPM)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing TPM pillars including autonomous maintenance, planned maintenance, and focused improvement.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Preventive and Predictive Maintenance",
+    "skill_category": "Domain",
+    "skill_description": "Planning and implementing preventive maintenance schedules and condition-based predictive maintenance strategies.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Root Cause Analysis (RCA)",
+    "skill_category": "Domain",
+    "skill_description": "Using 5-Why, fishbone diagrams, and fault tree analysis to identify root causes of equipment failures and defects.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Statistical Process Control (SPC)",
+    "skill_category": "Domain",
+    "skill_description": "Monitoring manufacturing process performance using control charts, Cp, Cpk, and process capability analysis.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Quality Management Systems (ISO 9001)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing and maintaining ISO 9001 quality management systems for manufacturing and engineering organisations.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "IATF 16949 (Automotive Quality)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing automotive sector quality management system requirements per IATF 16949.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "AS9100 (Aerospace Quality)",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining aerospace industry quality management system requirements per AS9100 standard.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Inventory Management and Warehousing",
+    "skill_category": "Domain",
+    "skill_description": "Managing raw material, WIP, and finished goods inventory using ABC analysis and reorder point systems.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Supply Chain Management (Manufacturing)",
+    "skill_category": "Domain",
+    "skill_description": "Managing vendor relationships, procurement, logistics, and supplier development for manufacturing supply chains.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Capacity Planning",
+    "skill_category": "Domain",
+    "skill_description": "Assessing and balancing production capacity against demand to eliminate bottlenecks and optimise output.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Industrial Automation and Robotics",
+    "skill_category": "Domain",
+    "skill_description": "Designing and deploying industrial robot cells and automated assembly systems for production environments.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Industry 4.0 and Smart Manufacturing",
+    "skill_category": "Domain",
+    "skill_description": "Applying IoT, digital twins, and data analytics to connect and optimise factory systems under Industry 4.0.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Ergonomics and Workplace Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing workstations and material handling systems to reduce injury risk and improve operator efficiency.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Time and Motion Study",
+    "skill_category": "Domain",
+    "skill_description": "Measuring standard times for manufacturing operations to support line balancing and productivity improvement.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Process Layout and Plant Layout Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing factory floor layouts for optimal material flow, safety, and space utilisation.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Kaizen and Continuous Improvement",
+    "skill_category": "Domain",
+    "skill_description": "Facilitating structured Kaizen events to achieve quick improvements in safety, quality, and productivity.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Electrical System Design (LT and HT)",
+    "skill_category": "Domain",
+    "skill_description": "Designing low-tension and high-tension electrical distribution systems for industrial and commercial buildings.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Power System Protection and Relay Coordination",
+    "skill_category": "Domain",
+    "skill_description": "Selecting and coordinating protective relays to isolate faults safely in power distribution networks.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Transformer and Switchgear Selection",
+    "skill_category": "Domain",
+    "skill_description": "Selecting and specifying transformers, switchboards, MCBs, and circuit breakers for electrical installations.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Motor Control and Variable Frequency Drive (VFD)",
+    "skill_category": "Domain",
+    "skill_description": "Designing motor control circuits and configuring VFDs for energy-efficient speed control of industrial motors.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Instrumentation and Process Control",
+    "skill_category": "Domain",
+    "skill_description": "Selecting, calibrating, and maintaining process instruments including sensors, transmitters, and controllers.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Industrial IoT and Sensor Integration",
+    "skill_category": "Domain",
+    "skill_description": "Connecting industrial sensors, SCADA, and ERP systems via IIoT protocols for real-time plant monitoring.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Renewable Energy Systems (Solar, Wind)",
+    "skill_category": "Domain",
+    "skill_description": "Designing and commissioning solar PV, wind turbine, and hybrid renewable energy systems.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Grid-Connected and Off-Grid Solar Systems",
+    "skill_category": "Domain",
+    "skill_description": "Designing rooftop and ground-mounted solar systems including string inverters, battery storage, and net metering.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Cable Sizing and Load Flow Calculations",
+    "skill_category": "Domain",
+    "skill_description": "Calculating cable sizes, voltage drops, and load flow for LT and HT electrical distribution networks.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Earthing and Lightning Protection Systems",
+    "skill_category": "Domain",
+    "skill_description": "Designing earthing and lightning protection systems per IS 3043 and IEC 62305 for buildings and plants.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "BIS Standards (Bureau of Indian Standards)",
+    "skill_category": "Domain",
+    "skill_description": "Applying BIS product standards and mandatory certification requirements for engineering products in India.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "IS Code Compliance (Indian Standards)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring engineering designs, materials, and construction comply with relevant Indian Standard (IS) codes.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "NBC (National Building Code India)",
+    "skill_category": "Domain",
+    "skill_description": "Designing buildings in compliance with India's National Building Code requirements for safety and services.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "CEA (Central Electricity Authority) Regulations",
+    "skill_category": "Domain",
+    "skill_description": "Complying with Central Electricity Authority technical standards for electrical installation and connectivity.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "RERA Compliance (Real Estate)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding Real Estate Regulatory Authority requirements for construction project registration and timelines.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Factory Act and Occupational Safety (India)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing Factories Act 1948 and Occupational Safety Code 2020 requirements in manufacturing facilities.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "PESO (Petroleum and Explosives Safety)",
+    "skill_category": "Domain",
+    "skill_description": "Complying with PESO regulations for petroleum storage, explosive use, and gas cylinder handling in India.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "CPCB Environmental Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Meeting Central Pollution Control Board norms for air, water, and noise emissions from industrial operations.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "GST Compliance (Engineering and Construction)",
+    "skill_category": "Domain",
+    "skill_description": "Managing GST on works contracts, materials procurement, and construction services per Indian GST law.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Project Management (PMI / PMBOK)",
+    "skill_category": "Domain",
+    "skill_description": "Managing engineering projects through initiation, planning, execution, monitoring, and closure per PMI standards.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Earned Value Management (EVM)",
+    "skill_category": "Domain",
+    "skill_description": "Measuring project performance and forecasting completion cost and schedule using EVM metrics.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Risk Management (Engineering Projects)",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, assessing, and mitigating technical, commercial, and schedule risks in engineering projects.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Stakeholder Management (Engineering)",
+    "skill_category": "Domain",
+    "skill_description": "Managing client, contractor, and regulatory stakeholder communications throughout engineering projects.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Procurement and Tendering (Engineering)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing enquiries, evaluating bids, and managing procurement for materials and subcontracted services.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Value Engineering",
+    "skill_category": "Domain",
+    "skill_description": "Systematically reviewing project design and specifications to reduce costs while maintaining required performance.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Document Control (Engineering Projects)",
+    "skill_category": "Domain",
+    "skill_description": "Managing engineering drawing registers, revision control, and document distribution systems.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Engineering Problem Solving",
+    "skill_category": "Foundational",
+    "skill_description": "Applying systematic analytical approaches to diagnose and resolve technical problems in engineering and manufacturing.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Technical Drawing and Interpretation",
+    "skill_category": "Foundational",
+    "skill_description": "Reading and interpreting engineering drawings, P&IDs, and schematics to understand design intent.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Analytical Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Using quantitative reasoning and structured logic to evaluate technical data and make sound engineering decisions.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Attention to Detail",
+    "skill_category": "Foundational",
+    "skill_description": "Maintaining accuracy and precision in engineering calculations, drawings, and technical documentation.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Communication Skills (Technical)",
+    "skill_category": "Foundational",
+    "skill_description": "Conveying engineering concepts clearly in reports, presentations, and meetings with technical and non-technical audiences.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Teamwork and Collaboration",
+    "skill_category": "Foundational",
+    "skill_description": "Working effectively in multidisciplinary project teams with engineers, contractors, and clients.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Time Management and Deadline Adherence",
+    "skill_category": "Foundational",
+    "skill_description": "Managing multiple engineering tasks and deliverables within project schedule constraints.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Safety-First Mindset (EHS)",
+    "skill_category": "Foundational",
+    "skill_description": "Applying health, safety, and environment principles proactively in engineering and construction work.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Continuous Learning and Technical Development",
+    "skill_category": "Foundational",
+    "skill_description": "Staying current with evolving engineering standards, software, and industry best practices.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Adaptability",
+    "skill_category": "Foundational",
+    "skill_description": "Adjusting to changing project requirements, site conditions, and technical challenges in engineering work.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Leadership and Team Management",
+    "skill_category": "Foundational",
+    "skill_description": "Leading site crews, engineering teams, and subcontractors to deliver project objectives on time.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Business Acumen (Engineering)",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding project commercial drivers, cost constraints, and the business impact of engineering decisions.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Report Writing and Documentation",
+    "skill_category": "Foundational",
+    "skill_description": "Writing clear engineering reports, technical memoranda, method statements, and inspection records.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Negotiation Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Negotiating with vendors, contractors, and clients on pricing, scope, and technical specifications.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Integrity and Professional Ethics",
+    "skill_category": "Foundational",
+    "skill_description": "Upholding engineering ethics, professional standards, and honesty in all technical and commercial work.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Critical Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Evaluating assumptions, technical claims, and design options with evidence-based scepticism.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Resilience and Stress Management",
+    "skill_category": "Foundational",
+    "skill_description": "Maintaining effectiveness under pressure from project deadlines, cost challenges, and site issues.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Cultural Awareness (India — Engineering)",
+    "skill_category": "Foundational",
+    "skill_description": "Working effectively across India's regional, linguistic, and workplace diversity in engineering teams.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Hindi and English Proficiency",
+    "skill_category": "Foundational",
+    "skill_description": "Communicating technical instructions and reports in Hindi and English for diverse Indian project teams.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Spatial Reasoning",
+    "skill_category": "Foundational",
+    "skill_description": "Visualising and interpreting three-dimensional engineering structures, layouts, and assemblies from drawings.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Quantity Surveying and Rate Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Measuring quantities, analysing rates, and preparing detailed estimates for civil engineering works.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Construction Material Testing (Concrete, Steel, Soil)",
+    "skill_category": "Domain",
+    "skill_description": "Conducting cube, cylinder, tensile, and CBR tests on construction materials for quality assurance.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Surveying and Levelling",
+    "skill_category": "Domain",
+    "skill_description": "Using total stations, theodolites, and GPS equipment for topographic and setting-out surveys.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Total Station and DGPS Survey",
+    "skill_category": "Domain",
+    "skill_description": "Operating total station and DGPS instruments for precision land and infrastructure surveying.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Earthwork and Excavation Planning",
+    "skill_category": "Domain",
+    "skill_description": "Planning cut and fill operations, excavation sequences, and earthwork volume calculations for civil projects.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Formwork and Shuttering Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing temporary formwork systems for in-situ concrete construction.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Precast and Prestressed Concrete",
+    "skill_category": "Domain",
+    "skill_description": "Designing and specifying precast elements and prestressed concrete girders for industrial and bridge construction.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Retaining Wall Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing gravity, cantilever, and sheet pile retaining walls for embankments and excavation support.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Seismic Design (IS 1893)",
+    "skill_category": "Domain",
+    "skill_description": "Designing structures for earthquake loads per IS 1893 seismic zone requirements for Indian conditions.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Fire Protection System Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing sprinkler, hydrant, and fire suppression systems per NBC and TAC standards for Indian buildings.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Green Building Design (GRIHA, LEED India)",
+    "skill_category": "Domain",
+    "skill_description": "Designing buildings for energy and water efficiency to achieve GRIHA or LEED India certification.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Construction Safety Management",
+    "skill_category": "Domain",
+    "skill_description": "Implementing site safety plans, risk assessments, and safety inspections on construction sites per Indian law.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Labour Productivity and Workforce Planning (Construction)",
+    "skill_category": "Domain",
+    "skill_description": "Planning skilled and unskilled labour deployment for efficient execution of civil construction activities.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Construction Disputes and Claims Management",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and managing extension of time, variation, and loss and expense claims in construction contracts.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "As-Built Drawing Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing accurate as-built drawings reflecting actual site conditions for handover and O&M purposes.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Concrete Mix Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing and optimising concrete mixes for specified strength, workability, and durability requirements.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Bituminous Pavement Mix Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing bituminous concrete and dense graded mixes for road surfaces per MORTH specifications.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Plant Commissioning and Startup",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing mechanical completion, pre-commissioning, and startup of process plant systems.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Shutdown and Turnaround Management",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing planned shutdown, inspection, and maintenance of industrial process plants.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Steam System Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing steam generation, distribution, and condensate recovery systems for industrial process heating.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Compressed Air System Design",
+    "skill_category": "Domain",
+    "skill_description": "Sizing and designing compressed air generation, distribution, and storage systems for industrial facilities.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Lubrication Engineering",
+    "skill_category": "Domain",
+    "skill_description": "Selecting lubricants, designing lubrication systems, and managing oil analysis programmes for rotating equipment.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Tribology and Wear Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Analysing friction, wear, and surface degradation in mechanical components to reduce failures and extend life.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Asset Integrity Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing the integrity of pressure-containing and structural assets through inspection, corrosion control, and risk-based inspection.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Piping Layout and Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing piping routes, supports, and flexibility arrangements for process plant systems.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Material Take-Off (MTO) Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing engineering material take-offs for piping, structural, and equipment procurement.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Valve Selection and Specification",
+    "skill_category": "Domain",
+    "skill_description": "Selecting and specifying control, isolation, and safety valves for process plant piping systems.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Gaskets and Sealing Engineering",
+    "skill_category": "Domain",
+    "skill_description": "Selecting sealing materials and designing flange joint assemblies to prevent leakage in process systems.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "ASME Codes (Boilers and Pressure Vessels)",
+    "skill_category": "Domain",
+    "skill_description": "Applying ASME Section I, VIII, and IX codes to design, fabricate, and inspect boilers and pressure vessels.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Noise and Vibration Control",
+    "skill_category": "Domain",
+    "skill_description": "Measuring and controlling industrial noise and machinery vibration to meet occupational safety standards.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Energy Audit and Conservation",
+    "skill_category": "Domain",
+    "skill_description": "Conducting energy audits and identifying conservation opportunities in industrial facilities per BEE guidelines.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Bureau of Energy Efficiency (BEE) Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring industrial facilities meet BEE energy performance standards and PAT scheme requirements.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Lean Six Sigma Green Belt",
+    "skill_category": "Domain",
+    "skill_description": "Leading improvement projects using Lean Six Sigma tools to reduce variation and waste in manufacturing.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Just-in-Time (JIT) Manufacturing",
+    "skill_category": "Domain",
+    "skill_description": "Implementing JIT principles to reduce inventory, cut lead times, and synchronise production with demand.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Poka-Yoke and Error Proofing",
+    "skill_category": "Domain",
+    "skill_description": "Designing mistake-proofing devices and fixtures to prevent operator errors in assembly and manufacturing.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Single Minute Exchange of Die (SMED)",
+    "skill_category": "Domain",
+    "skill_description": "Reducing machine changeover and setup times through SMED methodology to improve production flexibility.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Andon and Visual Management Systems",
+    "skill_category": "Domain",
+    "skill_description": "Implementing visual factory management tools including Andon boards, shadow boards, and production tracking.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Advanced Product Quality Planning (APQP)",
+    "skill_category": "Domain",
+    "skill_description": "Managing APQP process for new automotive part development including PPAP, control plans, and PFMEA.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Production Part Approval Process (PPAP)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and submitting PPAP documentation for automotive supplier part approval per AIAG standards.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Measurement System Analysis (MSA / Gauge R&R)",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating measurement system capability using Gauge Repeatability and Reproducibility studies.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Design for Manufacturability (DFM)",
+    "skill_category": "Domain",
+    "skill_description": "Reviewing designs early to ensure parts and assemblies can be manufactured efficiently and cost-effectively.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Design for Assembly (DFA)",
+    "skill_category": "Domain",
+    "skill_description": "Optimising product designs to simplify assembly, reduce parts count, and improve production efficiency.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Rapid Prototyping and Product Development",
+    "skill_category": "Domain",
+    "skill_description": "Managing rapid prototype fabrication and iterative product development cycles from concept to production.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Tooling and Fixture Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing jigs, fixtures, and production tooling to hold and locate parts during machining and assembly.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Die Design and Tool Engineering",
+    "skill_category": "Domain",
+    "skill_description": "Designing press dies, injection moulds, and sheet metal tooling for mass production.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Quality Circles and QC Tools (7 QC Tools)",
+    "skill_category": "Domain",
+    "skill_description": "Using the 7 basic QC tools — Pareto, fishbone, histogram, scatter, run chart, control chart, and check sheet.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Substation Design and Commissioning",
+    "skill_category": "Domain",
+    "skill_description": "Designing 11kV, 33kV, and 132kV substations including layout, protection, and earthing systems.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "High Voltage (HV) Testing and Commissioning",
+    "skill_category": "Domain",
+    "skill_description": "Conducting HV testing of transformers, cables, and switchgear during commissioning activities.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Battery Storage System Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing lithium-ion and lead-acid battery energy storage systems for solar, UPS, and grid applications.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "EV Charging Infrastructure Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing electric vehicle charging station layouts, load studies, and grid connection specifications.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Building Management System (BMS)",
+    "skill_category": "Domain",
+    "skill_description": "Designing and configuring building management systems for HVAC, lighting, and access control integration.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Fire Alarm and Detection System",
+    "skill_category": "Domain",
+    "skill_description": "Designing conventional and addressable fire alarm systems per NBC and IS 2189 for Indian buildings.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "CCTV and Security System Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing CCTV surveillance, access control, and perimeter security systems for industrial and commercial sites.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Telecommunications and Structured Cabling",
+    "skill_category": "Domain",
+    "skill_description": "Designing structured cabling, LAN, and communication infrastructure for buildings and industrial sites.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "NHAI and MoRTH Guidelines",
+    "skill_category": "Domain",
+    "skill_description": "Applying NHAI and Ministry of Road Transport and Highways guidelines for national highway project execution.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "AAI and Airport Infrastructure Standards",
+    "skill_category": "Domain",
+    "skill_description": "Understanding Airports Authority of India standards for airport civil, electrical, and MEP design.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "RVNL and Indian Railways Standards",
+    "skill_category": "Domain",
+    "skill_description": "Applying Indian Railways and RVNL technical standards for civil and electrical railway infrastructure.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "NMMC / MCGM / State Municipal Building Rules",
+    "skill_category": "Domain",
+    "skill_description": "Complying with local municipal authority development control regulations and building permission requirements.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Primavera Risk Analysis",
+    "skill_category": "Technical",
+    "skill_description": "Performing Monte Carlo schedule risk analysis on construction and engineering projects using Oracle Primavera Risk Analysis.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "MSC Nastran (FEA)",
+    "skill_category": "Technical",
+    "skill_description": "Performing finite element structural and dynamic analysis for aerospace and automotive applications using MSC Nastran.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Hypermesh (Altair)",
+    "skill_category": "Technical",
+    "skill_description": "Pre-processing FEA models by creating and meshing geometry for crash and structural simulations using HyperMesh.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Plant Simulation (Tecnomatix)",
+    "skill_category": "Technical",
+    "skill_description": "Simulating factory and logistics systems for layout optimisation and production analysis using Siemens Tecnomatix.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Total Station Survey (Trimble, Leica)",
+    "skill_category": "Technical",
+    "skill_description": "Operating Trimble or Leica total stations for precision construction setting-out and as-built surveys.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Drone Survey and Photogrammetry",
+    "skill_category": "Technical",
+    "skill_description": "Using UAV drones and photogrammetry software for topographic surveys, volumetric measurements, and site progress monitoring.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "GIS (Geographic Information System)",
+    "skill_category": "Technical",
+    "skill_description": "Analysing spatial and infrastructure data using GIS platforms for planning, mapping, and engineering decisions.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "VISSIM (Traffic Simulation)",
+    "skill_category": "Technical",
+    "skill_description": "Simulating urban traffic flows and evaluating road junction designs using PTV VISSIM traffic simulator.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "STAAD Foundation (Structural)",
+    "skill_category": "Technical",
+    "skill_description": "Designing isolated, combined, and raft foundations for buildings and industrial structures using STAAD Foundation.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "PVElite (Pressure Vessel Design)",
+    "skill_category": "Technical",
+    "skill_description": "Designing and checking pressure vessel and heat exchanger components per ASME Section VIII codes using PVElite software.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Smart Plant Instrumentation (AVEVA)",
+    "skill_category": "Technical",
+    "skill_description": "Managing instrument datasheets, loop diagrams, and instrument indexes using Smart Instrumentation.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Interpersonal Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Building productive working relationships with clients, contractors, colleagues, and site teams.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Presentation Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Presenting engineering designs, project progress, and technical proposals to management and clients.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Decision Making Under Pressure",
+    "skill_category": "Foundational",
+    "skill_description": "Making sound engineering and safety decisions in time-critical situations on site and in operations.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Environmental Awareness",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding the environmental impact of engineering and construction activities and adopting sustainable practices.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Creativity and Innovation",
+    "skill_category": "Foundational",
+    "skill_description": "Developing innovative engineering solutions to reduce cost, improve performance, and resolve technical challenges.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Self-Management and Ownership",
+    "skill_category": "Foundational",
+    "skill_description": "Taking personal responsibility for deliverables, managing workloads, and following through without supervision.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Conflict Resolution (Engineering Projects)",
+    "skill_category": "Foundational",
+    "skill_description": "Resolving technical disputes and interpersonal conflicts constructively within engineering project teams.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Mentoring and Knowledge Sharing",
+    "skill_category": "Foundational",
+    "skill_description": "Guiding junior engineers through technical challenges and fostering knowledge transfer within teams.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Data-Driven Decision Making",
+    "skill_category": "Foundational",
+    "skill_description": "Using engineering data, KPIs, and analytics rather than intuition alone to make operations decisions.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Systems Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding how engineering components and processes interact as an integrated system to avoid unintended effects.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Engineering Procurement Construction (EPC) Project Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing the full EPC lifecycle including design, procurement, construction, and commissioning in turnkey projects.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Design Management",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating multi-discipline engineering design teams to deliver complete and timely design packages.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Schedule Baseline and Progress Tracking",
+    "skill_category": "Domain",
+    "skill_description": "Establishing project baselines and monitoring progress against cost, schedule, and resource plans.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Critical Path Method (CPM) Scheduling",
+    "skill_category": "Domain",
+    "skill_description": "Developing CPM networks to identify critical activities and manage float in engineering project schedules.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Resource Loading and Levelling",
+    "skill_category": "Domain",
+    "skill_description": "Allocating and levelling engineering and construction resources against project schedules to avoid overloads.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Project Cost Control and Forecasting",
+    "skill_category": "Domain",
+    "skill_description": "Tracking project cost commitments, actuals, and estimates to complete with cost-to-complete forecasting.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Pile Foundation Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing bored, driven, and sheet pile foundations for heavy structures in soft or deep soil conditions.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Structural Health Monitoring",
+    "skill_category": "Domain",
+    "skill_description": "Implementing sensor-based systems to monitor bridges, buildings, and industrial structures for performance.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Jacketing and Structural Repair",
+    "skill_category": "Domain",
+    "skill_description": "Designing and supervising structural repair and rehabilitation works including concrete jacketing and strengthening.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Demolition Engineering and Planning",
+    "skill_category": "Domain",
+    "skill_description": "Planning safe demolition of structures using implosion, mechanical, or progressive methods.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Deep Excavation and Shoring Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing sheet pile, soldier pile, or diaphragm wall systems for deep excavation in urban construction.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Traffic Impact Assessment (TIA)",
+    "skill_category": "Domain",
+    "skill_description": "Assessing the traffic impact of development proposals and designing mitigation measures.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Irrigation and Canal Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing open channel irrigation systems, canals, and hydraulic structures for agricultural water supply.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Dam and Reservoir Engineering",
+    "skill_category": "Domain",
+    "skill_description": "Designing earthen and concrete dams, spillways, and reservoir works for water storage projects.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Coastal and Port Engineering",
+    "skill_category": "Domain",
+    "skill_description": "Designing breakwaters, jetties, berths, and dredging works for ports and coastal infrastructure.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Tunnel Engineering (NATM, TBM)",
+    "skill_category": "Domain",
+    "skill_description": "Designing and supervising tunnel construction using New Austrian Tunnelling Method and TBM techniques.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Plastic Injection Moulding Process",
+    "skill_category": "Domain",
+    "skill_description": "Setting up and optimising injection moulding machines for plastic component production.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Sheet Metal Fabrication",
+    "skill_category": "Domain",
+    "skill_description": "Planning sheet metal cutting, bending, and joining operations for industrial enclosures and components.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Heat Treatment Processes",
+    "skill_category": "Domain",
+    "skill_description": "Specifying annealing, hardening, tempering, and case hardening processes for engineering components.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Surface Treatment and Coating",
+    "skill_category": "Domain",
+    "skill_description": "Specifying and managing electroplating, powder coating, and protective coating processes for parts.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Metrology and Precision Measurement",
+    "skill_category": "Domain",
+    "skill_description": "Using gauges, micrometers, and CMM for precision dimensional measurement of manufactured components.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Scrap and Waste Reduction",
+    "skill_category": "Domain",
+    "skill_description": "Implementing programmes to reduce manufacturing scrap, rework, and material waste.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Warranty and Customer Returns Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Analysing field warranty claims and returned parts to identify systemic quality and design issues.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "New Product Introduction (NPI)",
+    "skill_category": "Domain",
+    "skill_description": "Managing the transition of new products from engineering release to full-rate manufacturing production.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Product Lifecycle Management (PLM)",
+    "skill_category": "Domain",
+    "skill_description": "Managing product data, revisions, and change orders throughout the engineering product lifecycle.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Engineering Change Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing engineering change notice processes to update designs, BOMs, and production documents.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Cost Reduction and Value Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Systematically reviewing manufacturing costs and design to identify material and process cost reduction opportunities.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Vendor Development and Qualification",
+    "skill_category": "Domain",
+    "skill_description": "Auditing, qualifying, and developing suppliers for components, materials, and outsourced manufacturing.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Diesel Generator (DG) Set Sizing and Selection",
+    "skill_category": "Domain",
+    "skill_description": "Sizing DG sets for standby and prime power applications and specifying synchronisation and controls.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Uninterruptible Power Supply (UPS) Design",
+    "skill_category": "Domain",
+    "skill_description": "Selecting and designing UPS systems for critical loads including servers, hospitals, and process controls.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Industrial Lighting Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing factory, warehouse, and outdoor lighting systems for adequate lux levels and energy efficiency.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Network Automation and SCADA Communication",
+    "skill_category": "Domain",
+    "skill_description": "Configuring industrial communication networks including Modbus, Profibus, and OPC-UA for SCADA integration.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Functional Safety (IEC 61508, IEC 61511)",
+    "skill_category": "Domain",
+    "skill_description": "Designing safety instrumented systems and determining Safety Integrity Level (SIL) per IEC 61511.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Electrical Area Classification (Hazardous Areas)",
+    "skill_category": "Domain",
+    "skill_description": "Classifying hazardous areas and selecting appropriate Ex-rated equipment per IS/IEC standards.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Metro Rail and Urban Transit Systems",
+    "skill_category": "Domain",
+    "skill_description": "Understanding civil, structural, and systems engineering for metro rail and rapid transit infrastructure in India.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Solar Plant Engineering (EPC)",
+    "skill_category": "Domain",
+    "skill_description": "Managing EPC delivery of utility-scale solar power plants including layout, earthing, and grid connection.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Wind Farm Engineering",
+    "skill_category": "Domain",
+    "skill_description": "Designing wind turbine foundations, internal roads, and electrical collection systems for wind energy projects.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Water Treatment Plant (WTP) Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing conventional water treatment systems including coagulation, filtration, and disinfection for potable water.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Sewage Treatment Plant (STP) Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing biological and chemical sewage treatment systems for urban and industrial wastewater.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Industrial Plant Layout and Zoning",
+    "skill_category": "Domain",
+    "skill_description": "Planning factory plot plans, department zoning, and transport routes for safe and efficient plant operations.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Process Safety Management (PSM)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing Process Safety Management programmes to prevent major industrial accidents in chemical plants.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "HAZOP (Hazard and Operability Study)",
+    "skill_category": "Domain",
+    "skill_description": "Facilitating HAZOP studies to identify process hazards and operability problems in plant design.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Gas Dispersion Modelling",
+    "skill_category": "Domain",
+    "skill_description": "Modelling toxic and flammable gas dispersion scenarios for consequence analysis and emergency planning.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Pressure Relief Valve and Rupture Disc Sizing",
+    "skill_category": "Domain",
+    "skill_description": "Sizing and specifying safety relief devices for pressure vessels and process equipment per API 520/521.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Corrosion Control and Cathodic Protection",
+    "skill_category": "Domain",
+    "skill_description": "Specifying corrosion prevention systems including coatings, cathodic protection, and material selection.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Insulation Engineering (Thermal and Acoustic)",
+    "skill_category": "Domain",
+    "skill_description": "Specifying and managing thermal insulation for hot and cold piping and acoustic insulation in buildings.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "CE Marking and Export Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Managing CE marking, product safety assessments, and technical file preparation for European market access.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "First Article Inspection (FAI)",
+    "skill_category": "Domain",
+    "skill_description": "Conducting First Article Inspection to verify new or revised parts meet engineering drawing requirements.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Customer Audit Management",
+    "skill_category": "Domain",
+    "skill_description": "Preparing for and managing quality audits by OEM customers and Tier 1 automotive clients.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Internal Quality Auditing (ISO 9001)",
+    "skill_category": "Domain",
+    "skill_description": "Conducting structured internal audits of quality management system processes and documentation.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Non-Conformance Report (NCR) Management",
+    "skill_category": "Domain",
+    "skill_description": "Raising, tracking, and closing non-conformance reports for materials, components, and process deviations.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "BIM 360 / Autodesk Construction Cloud",
+    "skill_category": "Technical",
+    "skill_description": "Coordinating construction models, managing RFIs, and tracking project issues using Autodesk Construction Cloud.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Revit MEP",
+    "skill_category": "Technical",
+    "skill_description": "Designing mechanical, electrical, and plumbing systems within a BIM environment using Autodesk Revit MEP.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "SketchUp",
+    "skill_category": "Technical",
+    "skill_description": "Creating quick conceptual 3D models for architectural, construction, and civil engineering visualisation.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Lumion / Enscape (Visualisation)",
+    "skill_category": "Technical",
+    "skill_description": "Producing photorealistic architectural and engineering visualisations and walkthroughs using Lumion or Enscape.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "COMPRESS (Pressure Vessel Design)",
+    "skill_category": "Technical",
+    "skill_description": "Designing and checking pressure vessels per ASME Section VIII using COMPRESS engineering software.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "HTRI Xchanger Suite (Heat Exchanger Design)",
+    "skill_category": "Technical",
+    "skill_description": "Designing and rating shell-and-tube, plate, and air-cooled heat exchangers using HTRI Xchanger Suite software.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "WaterGEMS / WaterCAD",
+    "skill_category": "Technical",
+    "skill_description": "Modelling water distribution networks and performing hydraulic and water quality analysis using Bentley WaterGEMS.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "StormCAD / SewerGEMS",
+    "skill_category": "Technical",
+    "skill_description": "Designing and analysing stormwater and sewer drainage networks using Bentley drainage modelling tools.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Civil 3D Corridor Modelling",
+    "skill_category": "Technical",
+    "skill_description": "Creating and optimising road and highway corridor models with earthwork quantities using AutoCAD Civil 3D.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Trimble Connect (Construction)",
+    "skill_category": "Technical",
+    "skill_description": "Sharing and reviewing construction BIM models and coordinating clash detection using Trimble Connect.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Zoho CRM (Engineering Sales)",
+    "skill_category": "Technical",
+    "skill_description": "Managing engineering sales opportunities, customer quotations, and follow-ups using Zoho CRM.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "SAP PM (Plant Maintenance)",
+    "skill_category": "Technical",
+    "skill_description": "Managing maintenance work orders, equipment records, and spare parts using SAP Plant Maintenance module.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Wonderware (SCADA/HMI)",
+    "skill_category": "Technical",
+    "skill_description": "Configuring and operating AVEVA Wonderware SCADA and HMI systems for plant process monitoring.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "LabVIEW (National Instruments)",
+    "skill_category": "Technical",
+    "skill_description": "Developing test and measurement automation, data acquisition, and control systems using National Instruments LabVIEW.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Otter.ai",
+    "skill_category": "AI-Tool",
+    "skill_description": "Transcribing engineering meetings, site coordination calls, and project briefings using Otter.ai.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Notion AI",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Notion AI to generate engineering project documentation, meeting summaries, and knowledge bases.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Engineering Ethics (Codes of Conduct)",
+    "skill_category": "Foundational",
+    "skill_description": "Applying professional engineering ethics codes from IEI, BIS, and international bodies in technical practice.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Cross-Disciplinary Coordination",
+    "skill_category": "Foundational",
+    "skill_description": "Coordinating between civil, structural, mechanical, electrical, and process disciplines on engineering projects.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Structured Problem-Solving (8D, PDCA)",
+    "skill_category": "Foundational",
+    "skill_description": "Using 8D and Plan-Do-Check-Act frameworks to investigate and resolve quality and engineering problems.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Commercial Awareness (Engineering Contracts)",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding contract terms, variation procedures, and commercial risk in engineering project delivery.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Stakeholder Communication (Field and Office)",
+    "skill_category": "Foundational",
+    "skill_description": "Bridging communication between site teams, office engineers, clients, and subcontractors effectively.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Quality Mindset and Compliance Culture",
+    "skill_category": "Foundational",
+    "skill_description": "Embedding quality-first practices and regulatory compliance in all engineering and manufacturing activities.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Land Acquisition and Right of Way (ROW)",
+    "skill_category": "Domain",
+    "skill_description": "Managing land acquisition, right-of-way clearances, and utility relocation for highway and pipeline projects.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Construction Supervision and QA/QC",
+    "skill_category": "Domain",
+    "skill_description": "Monitoring contractor workmanship, materials, and test results to enforce quality on construction sites.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Inspection Test Plan (ITP) Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and implementing inspection and test plans for construction and manufacturing quality assurance.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Method Statement Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Writing detailed method statements describing safe sequences and procedures for construction activities.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Concrete Pumping and Placement",
+    "skill_category": "Domain",
+    "skill_description": "Supervising concrete supply, pumping, placement, and curing for structural concrete works on site.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Post-Tensioning and Prestressing Works",
+    "skill_category": "Domain",
+    "skill_description": "Supervising post-tensioning operations including strand threading, jacking, and grouting for prestressed structures.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Pile Load Testing and Monitoring",
+    "skill_category": "Domain",
+    "skill_description": "Planning and interpreting static and dynamic pile load tests to verify foundation capacity.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Dewatering Systems Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing groundwater dewatering systems for excavations using wellpoints, deep wells, and sumps.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Rock Mechanics and Blasting",
+    "skill_category": "Domain",
+    "skill_description": "Analysing rock mass properties and planning controlled blasting for quarrying and tunnel excavation.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Asphalt Paving and Road Construction",
+    "skill_category": "Domain",
+    "skill_description": "Supervising bituminous road construction including grading, prime coat, and asphalt laying operations.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Structural Audit and Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Conducting condition surveys and structural assessments of existing buildings, bridges, and infrastructure.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "NATM Tunnel Support Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing shotcrete, rock bolts, and steel arch supports for tunnels excavated by NATM method.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Offshore Structure Design (Jacket, Monopile)",
+    "skill_category": "Domain",
+    "skill_description": "Designing offshore jacket, monopile, and gravity base structures for oil, gas, and wind energy platforms.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Pipeline Design and Installation (Onshore)",
+    "skill_category": "Domain",
+    "skill_description": "Designing and supervising onshore oil, gas, and water pipeline installation including trenching and crossings.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Powder Metallurgy and Sintering",
+    "skill_category": "Domain",
+    "skill_description": "Understanding powder metal compaction and sintering processes for manufacturing precision components.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Robotic Welding and Arc Welding Automation",
+    "skill_category": "Domain",
+    "skill_description": "Programming and optimising robotic welding cells for high-volume automotive and structural fabrication.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Quality Gate and Control Plan",
+    "skill_category": "Domain",
+    "skill_description": "Defining quality gates in production flow and maintaining control plans for critical product characteristics.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Operator Training and Skill Matrix",
+    "skill_category": "Domain",
+    "skill_description": "Developing manufacturing operator training plans and maintaining skill matrices for production readiness.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "OEM Supplier Quality Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing incoming quality from OEM-approved suppliers and resolving supplier non-conformances.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Auto Assembly Line Balancing",
+    "skill_category": "Domain",
+    "skill_description": "Balancing automotive assembly line workstations to minimise cycle time variation and maximise throughput.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Manufacturing Execution System (MES)",
+    "skill_category": "Domain",
+    "skill_description": "Using MES software to track real-time production status, WIP, and quality results on the shop floor.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Kanban System Implementation",
+    "skill_category": "Domain",
+    "skill_description": "Designing and implementing Kanban pull systems to control WIP and synchronise material flow in production.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Maintenance Key Performance Indicators (KPIs)",
+    "skill_category": "Domain",
+    "skill_description": "Tracking MTBF, MTTR, maintenance cost, and schedule compliance KPIs for plant maintenance performance.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Spares Management and Criticality Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Classifying critical spare parts and managing inventory for maintenance based on equipment criticality.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Process Flow Diagram (PFD) Development",
+    "skill_category": "Domain",
+    "skill_description": "Developing process flow diagrams showing equipment, streams, and operating conditions for process plants.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Material Balance and Heat Balance Calculations",
+    "skill_category": "Domain",
+    "skill_description": "Performing mass and energy balance calculations for chemical and process plant design.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Column and Vessel Sizing (Chemical Engineering)",
+    "skill_category": "Domain",
+    "skill_description": "Sizing distillation columns, absorbers, reactors, and storage vessels for chemical process design.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Pump and Compressor Sizing",
+    "skill_category": "Domain",
+    "skill_description": "Calculating pump and compressor duties and selecting appropriate equipment from vendor data.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Flare System Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing flare headers, knockout drums, and flare stacks for emergency pressure relief in process plants.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Effluent Treatment Plant (ETP) Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing industrial effluent treatment systems including physico-chemical and biological treatment stages.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Air Pollution Control (Scrubbers, ESP)",
+    "skill_category": "Domain",
+    "skill_description": "Designing electrostatic precipitators, wet scrubbers, and bag filters for industrial air emission control.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Solid Waste Management (Industrial)",
+    "skill_category": "Domain",
+    "skill_description": "Planning industrial solid waste segregation, storage, treatment, and authorised disposal per CPCB guidelines.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Hazardous Chemical Storage and Handling",
+    "skill_category": "Domain",
+    "skill_description": "Designing safe storage, handling, and containment systems for hazardous chemicals per MSIHC Rules 1989 and Factories Act provisions.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Chemical Process Safety (COMAH Equivalent India)",
+    "skill_category": "Domain",
+    "skill_description": "Applying major accident hazard prevention requirements under the Indian Manufacture, Storage and Import Rules.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Electricity Act 2003 and IE Rules (India)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring electrical systems comply with India's Electricity Act 2003 and Indian Electricity Rules.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "MNRE Guidelines (Solar and Wind India)",
+    "skill_category": "Domain",
+    "skill_description": "Applying Ministry of New and Renewable Energy technical standards for solar and wind project execution.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "EIA Notification 2006 (MoEFCC)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing project documentation for environmental clearance under India's EIA Notification 2006.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Hazardous Waste (Management and Handling) Rules",
+    "skill_category": "Domain",
+    "skill_description": "Managing hazardous waste in compliance with India's Hazardous Waste Management and Handling Rules.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Boiler Regulations (India — IBR)",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring boiler design, manufacture, and operation complies with Indian Boiler Regulations (IBR).",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Smart Cities Mission (India)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding Smart Cities Mission frameworks and designing infrastructure for smart city projects in India.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "PMGSY (Rural Road Programme)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding Pradhan Mantri Gram Sadak Yojana specifications and compliance for rural road construction.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Jal Jeevan Mission (Water Supply India)",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing functional household tap connections under India's Jal Jeevan Mission programme.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Power Plant Engineering (Thermal)",
+    "skill_category": "Domain",
+    "skill_description": "Understanding thermal power plant equipment, cycles, and operation including boilers, turbines, and cooling towers.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Oil and Gas Production Facilities",
+    "skill_category": "Domain",
+    "skill_description": "Designing and managing wellhead, separation, compression, and metering systems for oil and gas production.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Refinery Process Engineering",
+    "skill_category": "Domain",
+    "skill_description": "Understanding crude distillation, cracking, reforming, and treating units in petroleum refinery operations.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Chemical Reactor Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing CSTR, PFR, and packed bed reactors with appropriate sizing, temperature, and conversion calculations.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Distillation Column Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing multi-component distillation columns including tray and packing selection and hydraulic checks.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Textile Plant Engineering",
+    "skill_category": "Domain",
+    "skill_description": "Engineering spinning, weaving, dyeing, and finishing plant systems for India's textile manufacturing industry.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Food Processing Plant Engineering",
+    "skill_category": "Domain",
+    "skill_description": "Designing processing, filling, packaging, and CIP systems for food and beverage manufacturing plants.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Pharmaceutical Plant Engineering",
+    "skill_category": "Domain",
+    "skill_description": "Designing GMP-compliant pharmaceutical manufacturing facilities including HVAC, utilities, and cleanrooms.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Cement Plant Engineering",
+    "skill_category": "Domain",
+    "skill_description": "Understanding kiln, grinding, and material handling systems in cement manufacturing operations.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Steel Plant Engineering",
+    "skill_category": "Domain",
+    "skill_description": "Understanding blast furnace, EAF, continuous casting, and rolling mill systems in steel manufacturing.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Automobile Plant Engineering",
+    "skill_category": "Domain",
+    "skill_description": "Understanding press, body shop, paint shop, and assembly operations in automotive manufacturing plants.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Microsoft Office (Engineering)",
+    "skill_category": "Technical",
+    "skill_description": "Using Word, Excel, and PowerPoint for engineering reports, cost estimates, and project presentations.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "SharePoint (Document Management)",
+    "skill_category": "Technical",
+    "skill_description": "Managing engineering document libraries, drawing registers, and team collaboration using SharePoint.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Asana / Trello (Project Tracking)",
+    "skill_category": "Technical",
+    "skill_description": "Tracking engineering tasks, design reviews, and project action items using Asana or Trello.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "EasyPower (Short Circuit Analysis)",
+    "skill_category": "Technical",
+    "skill_description": "Performing electrical arc flash, short circuit, and protection studies using EasyPower software.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "12d Model (Road and Survey)",
+    "skill_category": "Technical",
+    "skill_description": "Designing road alignments, earthworks, and drainage using 12d Model civil engineering software.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Bluebeam Revu (Construction)",
+    "skill_category": "Technical",
+    "skill_description": "Marking up and reviewing engineering and construction drawings digitally using Bluebeam Revu.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Mathematical Modelling",
+    "skill_category": "Foundational",
+    "skill_description": "Building mathematical models of engineering systems for analysis, prediction, and optimisation.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Risk Awareness (Engineering Projects)",
+    "skill_category": "Foundational",
+    "skill_description": "Proactively identifying technical, safety, and schedule risks in engineering and construction work.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Curiosity and Innovation Mindset",
+    "skill_category": "Foundational",
+    "skill_description": "Proactively seeking improved engineering methods, new materials, and smarter design solutions.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Professional Registration (IE(I), Licensed Engineer)",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding the value and process of professional engineering registration with the Institution of Engineers India.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Network Building (Engineering Community)",
+    "skill_category": "Foundational",
+    "skill_description": "Building professional networks with engineering associations, conferences, and technical communities in India.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Multi-tasking and Prioritisation",
+    "skill_category": "Foundational",
+    "skill_description": "Managing multiple engineering deliverables simultaneously and prioritising effectively under competing demands.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Piping Stress Analysis (Caesar II / AutoPIPE)",
+    "skill_category": "Domain",
+    "skill_description": "Analysing pipe stress, flexibility, and support loads using CAESAR II or AutoPIPE for process plant compliance.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Instrument Loop Diagram (ILD) Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing instrument loop diagrams showing field instruments, junction boxes, and control panel connections.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Cause and Effect Diagram (C&E Matrix)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing cause and effect matrices linking process inputs to safety and control system outputs.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Safety Integrity Level (SIL) Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Performing SIL verification studies and documenting Safety Instrumented Function requirements per IEC 61511.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Commissioning and Handover Documentation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing commissioning packages, punch lists, and handover certificates for engineering project completion.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Engineering Basis of Design (BOD)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing basis of design documents defining project criteria, codes, and key engineering assumptions.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Lump Sum Turn Key (LSTK) Contract Management",
+    "skill_category": "Domain",
+    "skill_description": "Managing lump sum turnkey contracts including scope verification, milestone payments, and completion certification.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Engineering Documentation Management System",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining engineering document numbering, revisions, and transmittals using an EDMS or DMS system.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Third-Party Inspection (TPI) Coordination",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating with TPI agencies for statutory and client inspection of equipment, vessels, and structures.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Acceptance Testing and Witnessing",
+    "skill_category": "Domain",
+    "skill_description": "Preparing test protocols and witnessing Factory Acceptance Tests and Site Acceptance Tests for equipment.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Mechanical Completion Certificate (MCC)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and issuing mechanical completion punch lists and certificates for project handover.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Site Safety, Health and Environment (SHE) Plan",
+    "skill_category": "Domain",
+    "skill_description": "Developing and implementing site SHE plans including emergency response, waste management, and hazard controls.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Confined Space Entry Procedures",
+    "skill_category": "Domain",
+    "skill_description": "Planning and supervising confined space entries with permit systems, atmospheric testing, and rescue arrangements.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Permit to Work (PTW) System",
+    "skill_category": "Domain",
+    "skill_description": "Implementing and managing permit to work systems for hot work, electrical isolation, and confined spaces.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Lock Out Tag Out (LOTO) Procedures",
+    "skill_category": "Domain",
+    "skill_description": "Implementing LOTO energy isolation procedures to protect workers during equipment maintenance and repair.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Material Handling and Lifting Engineering",
+    "skill_category": "Domain",
+    "skill_description": "Planning and supervising heavy lifts using cranes, rigging, and lifting gear with load studies and lift plans.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Scaffolding Design and Inspection",
+    "skill_category": "Domain",
+    "skill_description": "Reviewing scaffold designs and conducting scaffold inspections per IS 3696 and the Occupational Safety, Health and Working Conditions Code 2020.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Electrical Hazard Analysis and Arc Flash Study",
+    "skill_category": "Domain",
+    "skill_description": "Conducting arc flash hazard analysis and determining incident energy levels per NFPA 70E and IEEE 1584.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Lifecycle Cost Analysis (LCCA)",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating total lifecycle costs of engineering assets including capital, operating, and end-of-life costs.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Reliability Centred Maintenance (RCM)",
+    "skill_category": "Domain",
+    "skill_description": "Applying RCM methodology to determine optimal maintenance strategies for critical equipment.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Dynamic Simulation of Process Systems",
+    "skill_category": "Domain",
+    "skill_description": "Building and running dynamic process simulations for operator training and emergency response planning.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "3D Laser Scanning (Point Cloud Surveys)",
+    "skill_category": "Domain",
+    "skill_description": "Using terrestrial laser scanners to capture as-built conditions for brownfield engineering projects.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "NDT Level II Certification Knowledge",
+    "skill_category": "Domain",
+    "skill_description": "Understanding NDT Level II examination methods and certification requirements per ASNT SNT-TC-1A.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Radiographic Testing (RT) Film Interpretation",
+    "skill_category": "Domain",
+    "skill_description": "Interpreting industrial radiographic films for weld defect evaluation per ASME and AWS codes.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Ultrasonic Testing (UT) of Welds",
+    "skill_category": "Domain",
+    "skill_description": "Performing manual and phased array ultrasonic testing on welds and materials for defect detection.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Green Hydrogen and Electrolyser Engineering",
+    "skill_category": "Domain",
+    "skill_description": "Understanding electrolyser systems, hydrogen safety, and engineering requirements for green hydrogen projects.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Smart Grid Technology",
+    "skill_category": "Domain",
+    "skill_description": "Understanding smart grid architecture, demand response, AMI, and grid automation for modern power systems.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Digital Twin Technology (Engineering)",
+    "skill_category": "Domain",
+    "skill_description": "Creating and maintaining digital twins of physical assets for remote monitoring, simulation, and maintenance.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Predictive Maintenance using Machine Learning",
+    "skill_category": "Domain",
+    "skill_description": "Applying ML algorithms to condition monitoring data to predict equipment failures before they occur.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Autonomous Mobile Robot (AMR) Integration",
+    "skill_category": "Domain",
+    "skill_description": "Integrating autonomous mobile robots for material transport and warehouse operations in manufacturing plants.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Additive Manufacturing for Production Parts",
+    "skill_category": "Domain",
+    "skill_description": "Qualifying and using metal and polymer additive manufacturing for end-use production components.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Hydrogen Safety and Codes",
+    "skill_category": "Domain",
+    "skill_description": "Understanding hydrogen properties, flammability hazards, and safety codes for industrial hydrogen applications.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "ATEX and IECEx (Explosive Atmosphere Standards)",
+    "skill_category": "Domain",
+    "skill_description": "Selecting and installing certified equipment for use in explosive atmospheres per ATEX and IECEx standards.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Environmental Noise Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Conducting environmental noise surveys and preparing noise impact assessments for construction and industry.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Air Quality Monitoring and Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Monitoring ambient air quality parameters and assessing compliance with CPCB air quality standards.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Bentley OpenUtilities (GIS/Network)",
+    "skill_category": "Technical",
+    "skill_description": "Managing utility network data and asset records for water, gas, and electrical networks using Bentley OpenUtilities.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Agisoft Metashape (Photogrammetry)",
+    "skill_category": "Technical",
+    "skill_description": "Processing drone survey images into 3D point clouds, orthomosaics, and terrain models using Agisoft Metashape.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "STAAD.Pro Advanced (Dynamic Analysis)",
+    "skill_category": "Technical",
+    "skill_description": "Performing seismic response spectrum, time history, and dynamic analysis of structures using STAAD.Pro.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Simulink Real-Time (HIL Testing)",
+    "skill_category": "Technical",
+    "skill_description": "Running hardware-in-the-loop simulations for testing embedded control systems using Simulink Real-Time.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "ANSYS Mechanical (FEA)",
+    "skill_category": "Technical",
+    "skill_description": "Performing linear and nonlinear structural simulations including thermal and fatigue analysis using ANSYS Mechanical.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Autodesk Vault (PDM)",
+    "skill_category": "Technical",
+    "skill_description": "Managing engineering design data, revisions, and collaboration using Autodesk Vault PDM.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Teamcenter (Siemens PLM)",
+    "skill_category": "Technical",
+    "skill_description": "Managing product data, BOM structures, and change management using Siemens Teamcenter PLM.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Arena Simulation Software",
+    "skill_category": "Technical",
+    "skill_description": "Simulating production lines, service systems, and logistics operations using Rockwell Arena.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "PIPENET (Fire and Sprinkler Hydraulics)",
+    "skill_category": "Technical",
+    "skill_description": "Analysing hydraulic performance of fire sprinkler, deluge, and foam systems using PIPENET.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Carrier HAP / Trane Trace 700 (HVAC Load Calculation)",
+    "skill_category": "Technical",
+    "skill_description": "Performing building heating and cooling load calculations and energy analysis using Carrier HAP or Trane Trace 700.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "PVSYST (Solar PV Design)",
+    "skill_category": "Technical",
+    "skill_description": "Designing and simulating solar photovoltaic systems for energy yield, shading, and financial modelling using PVSyst.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "WindPRO / WindFarmer (Wind Energy)",
+    "skill_category": "Technical",
+    "skill_description": "Analysing wind resource, wake losses, and energy yield for wind farm design using WindPRO or WindFarmer.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "HOMER (Microgrid Design)",
+    "skill_category": "Technical",
+    "skill_description": "Designing and optimising hybrid microgrids combining solar, wind, battery, and diesel using HOMER software.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "EPANET (Water Network)",
+    "skill_category": "Technical",
+    "skill_description": "Modelling and analysing water distribution pipe networks for pressure, flow, and water quality using EPANET.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "SWMM (Stormwater Management)",
+    "skill_category": "Technical",
+    "skill_description": "Simulating urban stormwater runoff, sewer overflow, and drainage system performance using EPA SWMM.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "RETScreen (Energy Analysis)",
+    "skill_category": "Technical",
+    "skill_description": "Conducting feasibility studies for renewable energy and energy efficiency projects using RETScreen.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "SewerGEMS (Sewer Hydraulics)",
+    "skill_category": "Technical",
+    "skill_description": "Designing and analysing sanitary sewer networks under gravity and pressure conditions using SewerGEMS.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Navisworks Clash Detection",
+    "skill_category": "Technical",
+    "skill_description": "Running automated clash detection between structural, mechanical, and MEP BIM models in Navisworks.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Dynamo (Revit Programming)",
+    "skill_category": "Technical",
+    "skill_description": "Automating repetitive BIM modelling and data extraction tasks using Dynamo visual programming in Revit.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "SCADA (Citect / Ignition)",
+    "skill_category": "Technical",
+    "skill_description": "Configuring and operating SCADA platforms including Citect and Ignition for industrial process control.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Microsoft Teams (Engineering Collaboration)",
+    "skill_category": "Technical",
+    "skill_description": "Coordinating engineering teams, sharing drawing files, and conducting virtual design reviews using Microsoft Teams.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Continuous Professional Development (CPD)",
+    "skill_category": "Foundational",
+    "skill_description": "Maintaining engineering competence through structured CPD activities including courses, seminars, and self-study.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Technical Proposal Writing",
+    "skill_category": "Foundational",
+    "skill_description": "Writing competitive technical proposals and bid responses for engineering services and project tenders.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Engineering Economics",
+    "skill_category": "Foundational",
+    "skill_description": "Applying NPV, IRR, and payback analysis to evaluate engineering investments and project alternatives.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Client Relationship Management (Engineering)",
+    "skill_category": "Foundational",
+    "skill_description": "Building and maintaining trusted client relationships through quality delivery and proactive communication.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Cross-Cultural Communication (Global Projects)",
+    "skill_category": "Foundational",
+    "skill_description": "Communicating effectively with international engineers and clients on global engineering projects.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Numerical Methods for Engineering",
+    "skill_category": "Foundational",
+    "skill_description": "Applying numerical methods including finite difference, Runge-Kutta, and Newton-Raphson for engineering calculations.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Engineering Specification Writing",
+    "skill_category": "Domain",
+    "skill_description": "Writing detailed technical specifications for equipment, materials, and workmanship for procurement and construction.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Design Review and Verification",
+    "skill_category": "Domain",
+    "skill_description": "Conducting formal design reviews and independent verification checks to validate engineering calculations.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Technical Audit and Engineering Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating engineering designs, processes, and systems against specifications, standards, and codes.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Feasibility Study and Conceptual Engineering",
+    "skill_category": "Domain",
+    "skill_description": "Preparing pre-feasibility and feasibility studies for engineering projects including technical and commercial assessment.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Detailed Engineering Design",
+    "skill_category": "Domain",
+    "skill_description": "Executing detailed engineering deliverables including drawings, specifications, and datasheets for construction.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Front-End Engineering Design (FEED)",
+    "skill_category": "Domain",
+    "skill_description": "Developing FEED packages that define project scope, cost estimate class, and detailed design basis.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Construction Method Engineering",
+    "skill_category": "Domain",
+    "skill_description": "Developing construction methodologies for complex structures, heavy lifts, and sequential construction activities.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Welding Procedure Specification (WPS) and PQR",
+    "skill_category": "Domain",
+    "skill_description": "Preparing welding procedure specifications and procedure qualification records per ASME IX and IS 7307.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Coating Inspection (NACE / AMPP)",
+    "skill_category": "Domain",
+    "skill_description": "Inspecting surface preparation and coating application for corrosion protection per NACE and SSPC standards.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Electrical Load Schedule Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing electrical load schedules listing all connected loads for transformer and generator sizing.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Single Line Diagram (SLD) Development",
+    "skill_category": "Domain",
+    "skill_description": "Preparing electrical single line diagrams showing power system configuration, protection, and metering.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Motor Data Sheet and Specification",
+    "skill_category": "Domain",
+    "skill_description": "Preparing motor datasheets specifying power, voltage, insulation class, and protection for industrial drives.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Transformer Specification and Testing",
+    "skill_category": "Domain",
+    "skill_description": "Specifying distribution and power transformers and reviewing factory test reports for electrical projects.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Tower and Transmission Line Engineering",
+    "skill_category": "Domain",
+    "skill_description": "Designing lattice towers, poles, and overhead transmission lines for 66kV, 132kV, and 400kV systems.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "SCADA and Telemetry System Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing SCADA architectures, RTU configurations, and communication networks for remote monitoring.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Water Pump Station Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing booster pump stations, sump pump arrangements, and pressure management systems for water networks.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Underground Utility Detection and Mapping",
+    "skill_category": "Domain",
+    "skill_description": "Locating and mapping buried utilities using GPR and cable locators before excavation on construction sites.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Construction Programme Monitoring (S-Curve)",
+    "skill_category": "Domain",
+    "skill_description": "Tracking project physical progress against baseline schedule using S-curve and earned value techniques.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Subcontractor Management",
+    "skill_category": "Domain",
+    "skill_description": "Selecting, contracting, and managing specialist subcontractors for civil, mechanical, and electrical works.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Final Account Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing final account settlement documents including variations, provisional sums, and price adjustment.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "QGIS (Open-Source GIS)",
+    "skill_category": "Technical",
+    "skill_description": "Analysing and visualising spatial engineering data using QGIS open-source geographic information system.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Rocscience RS2 / Slide (Geotechnical)",
+    "skill_category": "Technical",
+    "skill_description": "Performing slope stability and stress analysis for geotechnical engineering using Rocscience software.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "SolarEdge / Fronius Inverter Configuration",
+    "skill_category": "Technical",
+    "skill_description": "Configuring and commissioning SolarEdge or Fronius inverters for commercial and utility solar PV systems.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Caneco BT (LV Electrical Design)",
+    "skill_category": "Technical",
+    "skill_description": "Designing low-voltage electrical distribution systems and calculating cable sizing using Caneco BT.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "STAAD.Pro RC (Concrete Detailing and BBS)",
+    "skill_category": "Technical",
+    "skill_description": "Producing reinforced concrete structural detailing and bar bending schedules using Bentley STAAD.Pro RC.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Tekla Structural Designer",
+    "skill_category": "Technical",
+    "skill_description": "Designing and analysing composite and steel-framed building structures using Trimble Tekla Structural Designer.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Revit Structure",
+    "skill_category": "Technical",
+    "skill_description": "Creating structural BIM models with analytical models for integration with structural analysis software.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Safety Observation and Incident Reporting",
+    "skill_category": "Foundational",
+    "skill_description": "Reporting near misses, unsafe acts, and conditions systematically to drive safety improvement on site.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Specification Compliance Review",
+    "skill_category": "Foundational",
+    "skill_description": "Checking supplier and contractor submittals against project technical specifications for approval.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Lean Thinking in Engineering",
+    "skill_category": "Foundational",
+    "skill_description": "Applying lean principles to engineering workflows to eliminate waste, reduce cycle time, and improve quality.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Building Drawing Interpretation (Architectural)",
+    "skill_category": "Domain",
+    "skill_description": "Reading and interpreting architectural drawings including floor plans, elevations, and sections for site execution.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Structural Drawing Preparation (GA and Detailing)",
+    "skill_category": "Domain",
+    "skill_description": "Preparing general arrangement and reinforcement detailing drawings for structural steel and concrete elements.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Ground Improvement Techniques",
+    "skill_category": "Domain",
+    "skill_description": "Selecting and specifying ground improvement methods including vibro-compaction, stone columns, and preloading for weak soils.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Engineering Drawing Standards (IS 696)",
+    "skill_category": "Domain",
+    "skill_description": "Applying IS 696 Indian standard for engineering drawing practices including views, dimensions, and annotations.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Gear Design and Selection",
+    "skill_category": "Domain",
+    "skill_description": "Designing spur, helical, and bevel gears including tooth profile, load capacity, and lubrication requirements.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Bearing Selection and Life Calculation",
+    "skill_category": "Domain",
+    "skill_description": "Selecting rolling element bearings and calculating L10 bearing life using ISO 281 for rotating machinery.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Hydraulic and Pneumatic Systems",
+    "skill_category": "Domain",
+    "skill_description": "Designing and troubleshooting hydraulic power units, cylinders, valves, and pneumatic control circuits.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "CNC Machine Operation (Turning and Milling)",
+    "skill_category": "Domain",
+    "skill_description": "Operating CNC lathes and machining centres including workholding, tool offsetting, and quality checking.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "PLC Programming (Omron, Delta, Mitsubishi)",
+    "skill_category": "Technical",
+    "skill_description": "Programming Omron, Delta, and Mitsubishi PLCs widely used in Indian manufacturing automation applications.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Power Factor Correction (Capacitor Banks)",
+    "skill_category": "Domain",
+    "skill_description": "Designing and sizing capacitor bank installations to improve power factor and reduce electricity tariff penalties.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Smart Metering and AMI (Advanced Metering Infrastructure)",
+    "skill_category": "Domain",
+    "skill_description": "Deploying smart meters and AMI systems for automated energy measurement and DISCOM billing in India.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Energy Management System (EMS) for Buildings",
+    "skill_category": "Domain",
+    "skill_description": "Implementing centralised energy management systems to monitor, control, and optimise building energy consumption.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "ISO 45001 (Occupational Health and Safety Management)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing and maintaining ISO 45001 occupational health and safety management systems in manufacturing.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "ISO 14001 (Environmental Management System)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing ISO 14001 environmental management systems to manage environmental aspects and compliance.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Plastic Extrusion and Blow Moulding Processes",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and managing plastic extrusion, blow moulding, and thermoforming manufacturing processes.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "IIoT Protocols (MQTT, OPC-UA, Modbus)",
+    "skill_category": "Domain",
+    "skill_description": "Implementing IIoT data communication using MQTT, OPC-UA, and Modbus protocols for smart factory connectivity.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Industrial Cybersecurity (OT Security)",
+    "skill_category": "Domain",
+    "skill_description": "Protecting operational technology systems, PLCs, and SCADA from cyber threats in industrial environments.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Process Optimisation using Pinch Technology",
+    "skill_category": "Domain",
+    "skill_description": "Applying heat integration and pinch analysis to minimise energy consumption in chemical and process plant design.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Work Breakdown Structure (WBS) Development",
+    "skill_category": "Domain",
+    "skill_description": "Decomposing project scope into manageable work packages using WBS for scheduling and cost control.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Change Order and Variation Management",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, documenting, pricing, and negotiating changes to project scope and contract during execution.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Project Closure and Lessons Learned",
+    "skill_category": "Domain",
+    "skill_description": "Completing administrative project closure, conducting post-project reviews, and documenting lessons learned.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "PLI Scheme (Production Linked Incentive) for Manufacturing",
+    "skill_category": "Domain",
+    "skill_description": "Understanding PLI scheme eligibility, targets, and incentive structures for Indian manufacturing sector expansion.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "GeM Portal (Government E-Marketplace)",
+    "skill_category": "Technical",
+    "skill_description": "Registering and managing government procurement transactions for engineering services and products on the GeM portal.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "PMAY-U (Pradhan Mantri Awas Yojana Urban)",
+    "skill_category": "Domain",
+    "skill_description": "Planning and executing affordable housing projects under PMAY-U technical and procedural requirements.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Active Listening (Engineering Context)",
+    "skill_category": "Foundational",
+    "skill_description": "Listening carefully to client requirements, safety briefings, and team inputs to ensure accurate understanding.",
+    "job_families": [
+      7
+    ]
+  },
+  {
+    "skill_name": "Emotional Intelligence (Engineering Teams)",
+    "skill_category": "Foundational",
+    "skill_description": "Managing emotions and responding empathetically in engineering team conflicts, client tensions, and site pressures.",
+    "job_families": [
+      7
+    ]
+  }
+]

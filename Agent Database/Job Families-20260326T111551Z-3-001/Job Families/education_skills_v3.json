@@ -1,0 +1,2370 @@
+[
+  {
+    "skill_name": "Curriculum Design",
+    "skill_category": "Domain",
+    "skill_description": "Developing structured learning programmes aligned with educational outcomes and competency frameworks.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Lesson Planning",
+    "skill_category": "Domain",
+    "skill_description": "Creating detailed instructional plans with learning objectives, activities, and assessment methods for classroom delivery.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "NEP 2020 Implementation",
+    "skill_category": "Domain",
+    "skill_description": "Applying National Education Policy 2020 guidelines including multidisciplinary learning, vocational integration, and mother-tongue instruction.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "NAAC Accreditation Process",
+    "skill_category": "Domain",
+    "skill_description": "Preparing institutional documentation and self-study reports to meet National Assessment and Accreditation Council quality benchmarks.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "UGC Regulations Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Ensuring institutional and programme compliance with University Grants Commission norms for higher education.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "AICTE Norms Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Adhering to All India Council for Technical Education approval conditions for technical institutions and programmes.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "NCERT Curriculum Alignment",
+    "skill_category": "Domain",
+    "skill_description": "Mapping teaching content and textbooks to National Council of Educational Research and Training syllabus frameworks.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "CBSE Board Examination Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Coaching students for Central Board of Secondary Education examinations including pattern analysis and practice tests.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "ICSE Board Examination Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing students for Indian Certificate of Secondary Education examinations with syllabus-specific guidance.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "State Board Examination Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Coaching students for state-specific board examinations following respective state education board syllabi.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "NIRF Ranking Parameters",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and improving institutional performance on National Institutional Ranking Framework indicators.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Instructional Design",
+    "skill_category": "Domain",
+    "skill_description": "Applying ADDIE, Bloom's Taxonomy, or Gagn\u00e9's Nine Events models to create effective learning experiences.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Learning Management System Administration",
+    "skill_category": "Technical",
+    "skill_description": "Managing Moodle, Canvas, or similar LMS platforms for course delivery, student tracking, and content management.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Moodle LMS",
+    "skill_category": "Technical",
+    "skill_description": "Configuring and maintaining Moodle open-source LMS for online and blended course delivery in Indian educational institutions.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Google Classroom",
+    "skill_category": "Technical",
+    "skill_description": "Using Google Classroom to distribute assignments, conduct assessments, and manage student interactions in digital classrooms.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Zoom for Education",
+    "skill_category": "Technical",
+    "skill_description": "Conducting live online classes, webinars, and virtual workshops using Zoom with breakout rooms and polling features.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Microsoft Teams for Education",
+    "skill_category": "Technical",
+    "skill_description": "Using Teams for collaborative learning, assignment management, and virtual classroom delivery in institutional settings.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "e-Learning Content Development",
+    "skill_category": "Technical",
+    "skill_description": "Creating SCORM-compliant digital learning modules using authoring tools for online course delivery.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Articulate Storyline",
+    "skill_category": "Technical",
+    "skill_description": "Building interactive e-learning courses with branching scenarios, quizzes, and multimedia elements for online delivery.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Adobe Captivate",
+    "skill_category": "Technical",
+    "skill_description": "Developing responsive e-learning content, simulations, and software demos using Adobe Captivate authoring tool.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "SWAYAM Platform",
+    "skill_category": "Technical",
+    "skill_description": "Creating and delivering MOOC courses on the government's SWAYAM platform for national open online learning.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "NPTEL Course Development",
+    "skill_category": "Technical",
+    "skill_description": "Developing video lectures and assignments for National Programme on Technology Enhanced Learning online courses.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "DIKSHA Platform",
+    "skill_category": "Technical",
+    "skill_description": "Uploading and managing digital teaching resources on the DIKSHA national school education platform.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Statistical Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Applying descriptive and inferential statistics for educational research, assessment analysis, and programme evaluation.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "SPSS",
+    "skill_category": "Technical",
+    "skill_description": "Using IBM SPSS for quantitative research data analysis including regression, ANOVA, and factor analysis in education research.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "R Programming for Research",
+    "skill_category": "Technical",
+    "skill_description": "Using R language for statistical computing, data visualisation, and quantitative analysis in academic research.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Research Methodology",
+    "skill_category": "Domain",
+    "skill_description": "Designing and conducting qualitative, quantitative, or mixed-methods research studies in educational contexts.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Academic Writing",
+    "skill_category": "Foundational",
+    "skill_description": "Writing research papers, theses, journal articles, and grant proposals in standard academic format.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Literature Review",
+    "skill_category": "Domain",
+    "skill_description": "Systematically searching, evaluating, and synthesising existing research to identify gaps and frame new studies.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Citation Management",
+    "skill_category": "Technical",
+    "skill_description": "Using tools like Mendeley or Zotero to organise references and generate citations in APA, MLA, or Chicago style.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Plagiarism Detection",
+    "skill_category": "Technical",
+    "skill_description": "Using Turnitin, iThenticate, or Urkund to check academic work for originality and maintain integrity standards.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Bloom's Taxonomy Application",
+    "skill_category": "Domain",
+    "skill_description": "Aligning learning objectives, teaching activities, and assessments with Bloom's cognitive levels.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Formative Assessment Design",
+    "skill_category": "Domain",
+    "skill_description": "Creating ongoing in-class assessments like quizzes, polls, and assignments to monitor and improve learning.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Summative Assessment Design",
+    "skill_category": "Domain",
+    "skill_description": "Developing end-of-term examinations, projects, and evaluations to measure achievement of learning outcomes.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Rubric Development",
+    "skill_category": "Domain",
+    "skill_description": "Creating detailed scoring criteria and descriptors for consistent evaluation of student assignments and performances.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Question Paper Setting",
+    "skill_category": "Domain",
+    "skill_description": "Designing balanced examination papers with appropriate difficulty distribution mapped to syllabus topics.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Item Response Theory",
+    "skill_category": "Domain",
+    "skill_description": "Applying IRT models to analyse and calibrate test items for standardised assessments and competitive examinations.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Training Needs Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Identifying skill gaps and learning requirements through surveys, interviews, and performance data in corporate training contexts.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Corporate Training Delivery",
+    "skill_category": "Domain",
+    "skill_description": "Facilitating instructor-led training programmes for employee skill development in organisational settings.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Train the Trainer",
+    "skill_category": "Domain",
+    "skill_description": "Building facilitation and content delivery capabilities in subject-matter experts to enable scalable training programmes.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Facilitation Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Leading group discussions, workshops, and learning activities to maximise participant engagement and outcomes.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Public Speaking",
+    "skill_category": "Foundational",
+    "skill_description": "Delivering clear, engaging presentations and lectures to diverse student or professional audiences.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Classroom Management",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining an orderly, inclusive, and productive learning environment in physical or virtual classrooms.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Differentiated Instruction",
+    "skill_category": "Domain",
+    "skill_description": "Adapting teaching methods and materials to address diverse student learning styles, abilities, and backgrounds.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Special Education Needs Awareness",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and accommodating students with learning disabilities, autism, or other special needs in inclusive classrooms.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Right to Education Act Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Implementing provisions of the RTE Act 2009 including enrolment norms, no-detention policy, and inclusive education mandates.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Child Protection Policy",
+    "skill_category": "Domain",
+    "skill_description": "Applying POCSO Act guidelines and institutional child safeguarding protocols in school and educational settings.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Microsoft PowerPoint",
+    "skill_category": "Technical",
+    "skill_description": "Creating structured, visually clear presentation slides for lectures, training, and academic communication.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Microsoft Excel",
+    "skill_category": "Technical",
+    "skill_description": "Managing student data, marks, attendance records, and research datasets using spreadsheet functions.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Microsoft Word",
+    "skill_category": "Technical",
+    "skill_description": "Producing academic documents, syllabi, reports, and correspondence using Microsoft Word's formatting and review features.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Google Workspace for Education",
+    "skill_category": "Technical",
+    "skill_description": "Using Google Docs, Sheets, Slides, and Drive for collaborative academic work and institutional administration.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Video Lecture Production",
+    "skill_category": "Technical",
+    "skill_description": "Recording, editing, and publishing educational video content for online or hybrid course delivery.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "OBS Studio",
+    "skill_category": "Technical",
+    "skill_description": "Using OBS Studio for screen recording, live streaming, and producing video lectures for online education.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Canva for Education",
+    "skill_category": "Technical",
+    "skill_description": "Designing visual educational materials, infographics, and presentations using Canva's education-focused templates.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "ChatGPT",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using ChatGPT to draft lesson plans, generate quiz questions, summarise research, and create teaching content.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Claude",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Claude for research assistance, content drafting, student feedback generation, and academic writing support.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Canva AI",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Canva's AI features to generate visual teaching aids, infographics, and educational design assets.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Grammarly",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Grammarly to improve academic writing quality, grammar accuracy, and style in research papers and reports.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Microsoft Copilot",
+    "skill_category": "AI-Tool",
+    "skill_description": "Using Microsoft Copilot within Word, PowerPoint, and Teams to accelerate content creation and summarisation for educators.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Qualitative Research Methods",
+    "skill_category": "Domain",
+    "skill_description": "Conducting interviews, focus groups, and ethnographic observation to generate rich educational research insights.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Survey Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing valid and reliable questionnaires for data collection in educational research and programme evaluation.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Google Forms",
+    "skill_category": "Technical",
+    "skill_description": "Creating online surveys, feedback forms, and quizzes for student and stakeholder data collection.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "SurveyMonkey",
+    "skill_category": "Technical",
+    "skill_description": "Designing and distributing professional surveys for research, institutional feedback, and training evaluation.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Ethics in Research",
+    "skill_category": "Domain",
+    "skill_description": "Applying institutional review board protocols, informed consent, and confidentiality standards in research involving human participants.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Grant Writing",
+    "skill_category": "Domain",
+    "skill_description": "Preparing competitive research grant proposals for DST, ICSSR, UGC, DBT, and other Indian funding agencies.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "DST Research Funding Processes",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and navigating Department of Science and Technology grant application, reporting, and compliance processes.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "ICSSR Grant Processes",
+    "skill_category": "Domain",
+    "skill_description": "Applying for Indian Council of Social Science Research grants for social science and education research projects.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "DBT Research Funding Processes",
+    "skill_category": "Domain",
+    "skill_description": "Navigating Department of Biotechnology grant schemes for science education and life sciences research projects.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Academic Publishing",
+    "skill_category": "Domain",
+    "skill_description": "Submitting research to peer-reviewed journals including UGC CARE-listed publications and managing the review process.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "UGC CARE Journal Listing",
+    "skill_category": "Domain",
+    "skill_description": "Identifying and publishing in journals on the UGC Consortium for Academic and Research Ethics approved list.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Scopus and Web of Science Indexing",
+    "skill_category": "Domain",
+    "skill_description": "Targeting and submitting research to journals indexed in Scopus and Web of Science for academic recognition.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Mendeley",
+    "skill_category": "Technical",
+    "skill_description": "Managing academic references, annotating PDFs, and generating bibliographies using Mendeley reference manager.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Zotero",
+    "skill_category": "Technical",
+    "skill_description": "Collecting, organising, and citing research sources using Zotero open-source reference management software.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Content Management for Education Portals",
+    "skill_category": "Technical",
+    "skill_description": "Uploading and organising study materials, syllabi, and resources on institutional web portals and repositories.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Student Information System",
+    "skill_category": "Technical",
+    "skill_description": "Using ERP-based student information systems for admissions, attendance, marks entry, and student record management.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "ERP for Education",
+    "skill_category": "Technical",
+    "skill_description": "Operating education-specific ERP platforms such as Fedena or Classter for institutional administration and reporting.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Data Analysis for Education Research",
+    "skill_category": "Domain",
+    "skill_description": "Applying data cleaning, visualisation, and interpretation techniques to educational datasets and research findings.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Python for Data Analysis",
+    "skill_category": "Technical",
+    "skill_description": "Using Python with pandas and matplotlib for processing and visualising research and institutional data.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Mentoring and Coaching",
+    "skill_category": "Foundational",
+    "skill_description": "Providing structured guidance and developmental support to students or junior colleagues to build their capabilities.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Critical Thinking",
+    "skill_category": "Foundational",
+    "skill_description": "Analysing evidence, identifying assumptions, and forming well-reasoned conclusions in academic and professional contexts.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Communication Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Communicating clearly and effectively in written, verbal, and digital formats with students, colleagues, and stakeholders.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Interpersonal Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Building effective working relationships with students, faculty, parents, and institutional stakeholders.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Time Management",
+    "skill_category": "Foundational",
+    "skill_description": "Prioritising teaching, research, and administrative responsibilities to meet institutional deadlines effectively.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Emotional Intelligence",
+    "skill_category": "Foundational",
+    "skill_description": "Recognising and managing emotions in self and others to create supportive, empathetic learning environments.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Teamwork and Collaboration",
+    "skill_category": "Foundational",
+    "skill_description": "Working cooperatively with faculty, administrative staff, and research teams on joint projects and initiatives.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Problem Solving",
+    "skill_category": "Foundational",
+    "skill_description": "Identifying educational challenges and developing practical, evidence-based solutions for improving learning outcomes.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Adaptability",
+    "skill_category": "Foundational",
+    "skill_description": "Adjusting teaching methods, research approaches, and work practices in response to changing institutional requirements.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Leadership",
+    "skill_category": "Foundational",
+    "skill_description": "Guiding academic departments, student groups, or research teams towards shared educational goals.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Hindi Language Proficiency",
+    "skill_category": "Foundational",
+    "skill_description": "Communicating in Hindi for medium-of-instruction teaching, documentation, and student interaction in Hindi-medium settings.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "English Language Proficiency",
+    "skill_category": "Foundational",
+    "skill_description": "Reading, writing, and communicating effectively in English for academic research, teaching, and international collaboration.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Regional Language Proficiency",
+    "skill_category": "Foundational",
+    "skill_description": "Teaching in state-specific regional languages as required by state education boards and NEP 2020 mother-tongue policy.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "NET/SET Examination Knowledge",
+    "skill_category": "Foundational",
+    "skill_description": "Understanding the structure and eligibility criteria of National Eligibility Test or State Eligibility Test for lecturer positions in Indian higher education.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "PhD Research Supervision",
+    "skill_category": "Domain",
+    "skill_description": "Guiding doctoral students through literature review, methodology, data collection, thesis writing, and viva preparation.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Action Research",
+    "skill_category": "Domain",
+    "skill_description": "Conducting classroom-based research to identify and address teaching problems through iterative inquiry cycles.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Peer Review Process",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating and providing constructive feedback on research manuscripts submitted to academic journals or conferences.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Conference Presentation",
+    "skill_category": "Domain",
+    "skill_description": "Presenting research findings at national and international academic conferences with clarity and professional standards.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "NBA Accreditation",
+    "skill_category": "Domain",
+    "skill_description": "Preparing outcome-based education documentation and self-assessment reports for National Board of Accreditation of technical programmes.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Outcome-Based Education",
+    "skill_category": "Domain",
+    "skill_description": "Designing courses with clearly defined programme and course outcomes mapped to assessment and graduate attributes.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Blended Learning Design",
+    "skill_category": "Domain",
+    "skill_description": "Combining face-to-face instruction with online learning activities to create flexible, effective hybrid courses.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Flipped Classroom",
+    "skill_category": "Domain",
+    "skill_description": "Designing pre-class video or reading content so in-person time can be used for application, discussion, and problem-solving.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Gamification in Learning",
+    "skill_category": "Domain",
+    "skill_description": "Applying game mechanics such as points, badges, and leaderboards to increase student motivation and engagement.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Project-Based Learning",
+    "skill_category": "Domain",
+    "skill_description": "Designing extended student projects that develop real-world skills and integrate multiple subject areas.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Case Study Method",
+    "skill_category": "Domain",
+    "skill_description": "Using real-world cases to stimulate analysis, discussion, and application of theoretical concepts in management or professional education.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Simulation-Based Training",
+    "skill_category": "Domain",
+    "skill_description": "Using simulated environments for safe practice of clinical, laboratory, or professional skills in vocational education.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Vocational Education and Training",
+    "skill_category": "Domain",
+    "skill_description": "Designing and delivering skill-based courses aligned with NSQF under NSDC or sector skill councils.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "NSQF Alignment",
+    "skill_category": "Domain",
+    "skill_description": "Mapping course content and competencies to National Skills Qualifications Framework levels for formal recognition.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "NSDC Skill Development Programmes",
+    "skill_category": "Domain",
+    "skill_description": "Delivering training aligned with National Skill Development Corporation schemes and Pradhan Mantri Kaushal Vikas Yojana.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Early Childhood Education",
+    "skill_category": "Domain",
+    "skill_description": "Applying developmentally appropriate practices for children aged 3-6 under Anganwadi or pre-primary school settings.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Anganwadi and ICDS Programme Knowledge",
+    "skill_category": "Domain",
+    "skill_description": "Understanding Integrated Child Development Services programme components for early childhood care and education delivery.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Educational Psychology",
+    "skill_category": "Domain",
+    "skill_description": "Applying theories of cognitive development, motivation, and learning styles to improve instructional design and student support.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Counselling Skills",
+    "skill_category": "Domain",
+    "skill_description": "Providing academic and career guidance to students using active listening, rapport-building, and structured advice-giving.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Academic Administration",
+    "skill_category": "Domain",
+    "skill_description": "Managing timetabling, examination schedules, faculty records, and academic committee documentation in educational institutions.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Examination Administration",
+    "skill_category": "Domain",
+    "skill_description": "Coordinating internal and board examinations including hall ticket generation, invigilation rostering, and result processing.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Continuous and Comprehensive Evaluation",
+    "skill_category": "Domain",
+    "skill_description": "Implementing CCE frameworks combining scholastic and co-scholastic assessments to provide holistic student evaluation.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Annual Confidential Report Writing",
+    "skill_category": "Foundational",
+    "skill_description": "Completing performance appraisal documentation for faculty and staff in government educational institutions.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Digital Literacy",
+    "skill_category": "Foundational",
+    "skill_description": "Using digital devices, applications, and online resources confidently for teaching, research, and administrative tasks.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Information Literacy",
+    "skill_category": "Foundational",
+    "skill_description": "Identifying, evaluating, and ethically using information sources for research and academic purposes.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Library and Information Resources",
+    "skill_category": "Technical",
+    "skill_description": "Navigating academic databases like Shodhganga, JSTOR, and ProQuest for research literature discovery.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Shodhganga Repository",
+    "skill_category": "Technical",
+    "skill_description": "Submitting and accessing Indian doctoral theses through the UGC-INFLIBNET Shodhganga national e-repository.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "INFLIBNET Access",
+    "skill_category": "Technical",
+    "skill_description": "Using INFLIBNET's N-LIST programme to access e-journals and e-books for academic research in Indian institutions.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Presentation Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Structuring and delivering engaging academic and professional presentations to varied audiences.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Report Writing",
+    "skill_category": "Foundational",
+    "skill_description": "Producing clear, structured written reports for institutional committees, funding bodies, and regulatory authorities.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Soft Skills Training",
+    "skill_category": "Domain",
+    "skill_description": "Designing and delivering programmes to build communication, teamwork, and professional effectiveness in students or employees.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Campus Placement Training",
+    "skill_category": "Domain",
+    "skill_description": "Preparing students for aptitude tests, group discussions, and job interviews as part of institutional placement cells.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Aptitude Test Coaching",
+    "skill_category": "Domain",
+    "skill_description": "Teaching quantitative aptitude, logical reasoning, and verbal ability for competitive examinations and campus recruitment.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Podcast for Education",
+    "skill_category": "Technical",
+    "skill_description": "Recording and publishing audio educational content for supplementary learning and outreach.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Social Media for Academic Outreach",
+    "skill_category": "Technical",
+    "skill_description": "Using LinkedIn, Twitter/X, and YouTube to disseminate research, engage students, and build academic networks.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "ResearchGate Profile Management",
+    "skill_category": "Technical",
+    "skill_description": "Maintaining an academic profile on ResearchGate to share publications and track research impact metrics.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Google Scholar Profile",
+    "skill_category": "Technical",
+    "skill_description": "Maintaining a Google Scholar profile to index publications and track citations and h-index.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "ORCID Registration",
+    "skill_category": "Technical",
+    "skill_description": "Registering and maintaining an ORCID iD to uniquely identify researchers and link publications across platforms.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Impact Factor and Bibliometrics",
+    "skill_category": "Domain",
+    "skill_description": "Interpreting journal impact factors, h-index, and citation counts to evaluate research quality and productivity.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Inclusive Education",
+    "skill_category": "Domain",
+    "skill_description": "Designing accessible learning environments and materials that meet diverse student needs including disability inclusion.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "SAMAGRA SHIKSHA Scheme Knowledge",
+    "skill_category": "Domain",
+    "skill_description": "Understanding SAMAGRA SHIKSHA integrated scheme objectives for improving quality across elementary and secondary education.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "PM POSHAN Scheme Administration",
+    "skill_category": "Domain",
+    "skill_description": "Managing PM POSHAN (Mid Day Meal) programme records, nutrition tracking, and compliance reporting in schools.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Microteaching",
+    "skill_category": "Domain",
+    "skill_description": "Practising focused teaching skills in short, supervised sessions for pre-service teacher development.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Constructivist Teaching Methods",
+    "skill_category": "Domain",
+    "skill_description": "Facilitating inquiry-based and discovery learning approaches where students actively construct understanding.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Co-operative Learning",
+    "skill_category": "Domain",
+    "skill_description": "Organising structured group learning activities where students depend on each other to achieve shared outcomes.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Mind Mapping",
+    "skill_category": "Technical",
+    "skill_description": "Using mind mapping tools like XMind to visually organise concepts and support student note-taking and revision.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Kahoot and Quizizz",
+    "skill_category": "Technical",
+    "skill_description": "Using gamified quiz platforms Kahoot and Quizizz to conduct formative assessments and increase class engagement.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Padlet",
+    "skill_category": "Technical",
+    "skill_description": "Using Padlet as a collaborative digital notice board for group brainstorming, resource sharing, and classroom interaction.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Mentimeter",
+    "skill_category": "Technical",
+    "skill_description": "Using Mentimeter for live audience polling, word clouds, and interactive presentations in training and classroom settings.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Virtual Lab Usage",
+    "skill_category": "Technical",
+    "skill_description": "Accessing and conducting experiments using MHRD Virtual Labs for science and engineering practical education.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Intellectual Property Rights Awareness",
+    "skill_category": "Domain",
+    "skill_description": "Understanding copyright, creative commons licensing, and plagiarism norms for academic content creation and research.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Knowledge Management",
+    "skill_category": "Foundational",
+    "skill_description": "Organising, storing, and sharing institutional knowledge including course materials, research outputs, and best practices.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Environmental Education",
+    "skill_category": "Domain",
+    "skill_description": "Integrating sustainability, climate change, and environmental awareness into curriculum as mandated by NCERT and UGC.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Value Education",
+    "skill_category": "Domain",
+    "skill_description": "Teaching ethical values, citizenship, and constitutional principles as part of the Indian school and college curriculum.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Sports and Physical Education",
+    "skill_category": "Domain",
+    "skill_description": "Planning and conducting physical education classes and sports activities aligned with CBSE/ICSE PE curriculum.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Timetable Scheduling",
+    "skill_category": "Technical",
+    "skill_description": "Creating efficient class and examination timetables using manual or automated scheduling tools for educational institutions.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Student Performance Analytics",
+    "skill_category": "Technical",
+    "skill_description": "Analysing student marks, attendance, and engagement data to identify at-risk learners and improve outcomes.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "MOOCs Course Design",
+    "skill_category": "Domain",
+    "skill_description": "Designing massive open online courses with video lectures, assignments, discussion forums, and automated assessments.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Open Educational Resources",
+    "skill_category": "Domain",
+    "skill_description": "Creating, sharing, and using freely accessible educational materials licensed for reuse and adaptation.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Academic Integrity Policy",
+    "skill_category": "Domain",
+    "skill_description": "Developing and enforcing institutional policies on plagiarism, contract cheating, and examination malpractice.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Student Welfare and Grievance Redressal",
+    "skill_category": "Domain",
+    "skill_description": "Handling student complaints, welfare concerns, and disciplinary matters through institutional channels.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Alumni Relations",
+    "skill_category": "Domain",
+    "skill_description": "Maintaining engagement with institutional alumni networks to support mentoring, placements, and funding opportunities.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Industry-Academia Collaboration",
+    "skill_category": "Domain",
+    "skill_description": "Building partnerships with industry for guest lectures, internships, live projects, and curriculum co-development.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "MoU Development",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and managing Memoranda of Understanding with industry, research organisations, and international institutions.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Technology Transfer and Innovation",
+    "skill_category": "Domain",
+    "skill_description": "Supporting the commercialisation of research through IP filing, startup incubation, and industry licensing in academic settings.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Annual Report Preparation",
+    "skill_category": "Domain",
+    "skill_description": "Compiling and writing the institutional annual report covering academic, research, and administrative achievements.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Budget Planning for Academic Departments",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and managing departmental budgets including faculty development, equipment, and event expenditure.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "GST Compliance for Educational Institutions",
+    "skill_category": "Domain",
+    "skill_description": "Understanding GST exemptions and applicability for educational services and managing fee structures accordingly.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "7th Pay Commission and Teacher Pay Scales",
+    "skill_category": "Domain",
+    "skill_description": "Understanding 7th Pay Commission structures, DA revision, and government teacher pay scales for academic HR administration.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Professional Development Planning",
+    "skill_category": "Foundational",
+    "skill_description": "Identifying and pursuing continuous learning opportunities including FDPs, workshops, and refresher courses for educators.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Faculty Development Programme Delivery",
+    "skill_category": "Domain",
+    "skill_description": "Designing and conducting UGC-HRDC or IQAC-sponsored faculty development workshops on teaching, research, and ICT.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "IQAC Functioning",
+    "skill_category": "Domain",
+    "skill_description": "Supporting Internal Quality Assurance Cell processes for continuous improvement in teaching, research, and institutional governance.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Distance Education Regulations",
+    "skill_category": "Domain",
+    "skill_description": "Understanding IGNOU, state open university, and UGC Open and Distance Learning regulations for online degree delivery.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "IGNOU Programme Administration",
+    "skill_category": "Domain",
+    "skill_description": "Managing study centre operations, counselling sessions, and assignments for IGNOU open university programmes.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Psychometrics and Test Design",
+    "skill_category": "Domain",
+    "skill_description": "Applying principles of validity, reliability, and standardisation to develop and norm psychological or academic tests.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Content Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Systematically analysing textbooks, curricula, or policy documents to evaluate themes, gaps, and alignment.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Narrative Research",
+    "skill_category": "Domain",
+    "skill_description": "Collecting and interpreting lived experiences and personal stories as qualitative data in educational inquiry.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Ethnographic Research in Education",
+    "skill_category": "Domain",
+    "skill_description": "Conducting immersive field-based observation of classrooms, schools, or communities to understand educational culture.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Policy Analysis in Education",
+    "skill_category": "Domain",
+    "skill_description": "Evaluating education policy documents, government schemes, and legislative frameworks for research or implementation guidance.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Competitive Examination Coaching",
+    "skill_category": "Domain",
+    "skill_description": "Preparing students for UPSC, SSC, JEE, NEET, CAT, GATE, or state-level competitive examinations.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "JEE Coaching Methodology",
+    "skill_category": "Domain",
+    "skill_description": "Delivering specialised physics, chemistry, and mathematics coaching aligned with JEE Main and Advanced examination patterns.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "NEET Coaching Methodology",
+    "skill_category": "Domain",
+    "skill_description": "Providing targeted biology, physics, and chemistry coaching for National Eligibility cum Entrance Test aspirants.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "CAT Coaching Methodology",
+    "skill_category": "Domain",
+    "skill_description": "Coaching students in quantitative ability, verbal ability, and data interpretation for the Common Admission Test.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "GATE Coaching Methodology",
+    "skill_category": "Domain",
+    "skill_description": "Delivering subject-specific coaching for Graduate Aptitude Test in Engineering aspirants from core engineering disciplines.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "UPSC Coaching Methodology",
+    "skill_category": "Domain",
+    "skill_description": "Guiding students through UPSC Civil Services Examination preparation including General Studies, optional subjects, and interview skills.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Indian Sign Language",
+    "skill_category": "Domain",
+    "skill_description": "Using Indian Sign Language to communicate with hearing-impaired students and facilitate inclusive classroom participation.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Braille Literacy",
+    "skill_category": "Domain",
+    "skill_description": "Using Braille to produce and interpret written materials for visually impaired students in special education.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Assistive Technology for Education",
+    "skill_category": "Technical",
+    "skill_description": "Using screen readers, speech-to-text, and other assistive technologies to support students with disabilities.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Parent-Teacher Communication",
+    "skill_category": "Foundational",
+    "skill_description": "Engaging parents in student progress discussions and school activities through structured meetings and digital updates.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Conflict Resolution",
+    "skill_category": "Foundational",
+    "skill_description": "Mediating disputes between students, staff, or institutional stakeholders using principled negotiation approaches.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Interdisciplinary Research",
+    "skill_category": "Domain",
+    "skill_description": "Designing and conducting research that integrates knowledge and methods from multiple academic disciplines.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Mixed Methods Research",
+    "skill_category": "Domain",
+    "skill_description": "Combining quantitative and qualitative data collection and analysis in a single research study for richer insights.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Secondary Data Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Analysing existing datasets such as ASER, DISE, UDISE+ reports for educational research and policy studies.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "UDISE+ Data Utilisation",
+    "skill_category": "Domain",
+    "skill_description": "Accessing and interpreting Unified District Information System for Education Plus data for school research and planning.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "ASER Report Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Using Annual Status of Education Report data to understand foundationalational learning levels and design remedial interventions.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Remedial Teaching",
+    "skill_category": "Domain",
+    "skill_description": "Designing targeted instruction for students with learning gaps to bring them to grade-level competency.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Peer Learning Strategies",
+    "skill_category": "Domain",
+    "skill_description": "Structuring student peer tutoring and collaborative learning activities to deepen understanding and social skills.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Bloom's Digital Taxonomy",
+    "skill_category": "Domain",
+    "skill_description": "Applying updated digital-era learning taxonomy to design higher-order technology-enabled learning activities.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Student Engagement Strategies",
+    "skill_category": "Domain",
+    "skill_description": "Using interactive, discussion-based, and experiential techniques to sustain attention and active participation.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Culturally Responsive Teaching",
+    "skill_category": "Domain",
+    "skill_description": "Adapting curriculum and pedagogy to reflect students' cultural backgrounds and promote equity in diverse Indian classrooms.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Gender Sensitivity in Education",
+    "skill_category": "Domain",
+    "skill_description": "Embedding gender-equitable perspectives into curriculum content, classroom interaction, and institutional policies.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Nutritional Education",
+    "skill_category": "Domain",
+    "skill_description": "Delivering health and nutrition awareness content in schools and community settings aligned with FSSAI and health ministry guidelines.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Yoga and Wellness in Education",
+    "skill_category": "Domain",
+    "skill_description": "Integrating yoga, mindfulness, and well-being practices into school curricula and teacher training programmes.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Life Skills Education",
+    "skill_category": "Domain",
+    "skill_description": "Teaching WHO-defined life skills including decision-making, coping, and interpersonal skills to school and college students.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Financial Literacy Education",
+    "skill_category": "Domain",
+    "skill_description": "Imparting basic money management, savings, and investment awareness to students and community learners.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Digital Citizenship Education",
+    "skill_category": "Domain",
+    "skill_description": "Teaching responsible online behaviour, cybersafety, and ethical use of digital tools to students.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Entrepreneurship Education",
+    "skill_category": "Domain",
+    "skill_description": "Facilitating startup mindset, business ideation, and venture creation skills in higher education through EDC and incubation.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "STEM Education Methodology",
+    "skill_category": "Domain",
+    "skill_description": "Designing integrated Science, Technology, Engineering, and Mathematics learning experiences for school students.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Art and Craft Integration",
+    "skill_category": "Domain",
+    "skill_description": "Using visual arts, crafts, and creative expression as pedagogical tools to enhance holistic learning.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Storytelling as Pedagogy",
+    "skill_category": "Domain",
+    "skill_description": "Using narrative and oral storytelling techniques to contextualise concepts and make learning culturally relevant.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Theatre-Based Learning",
+    "skill_category": "Domain",
+    "skill_description": "Using drama, role play, and performance to develop empathy, communication, and subject understanding in learners.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Community Engagement in Education",
+    "skill_category": "Domain",
+    "skill_description": "Connecting curriculum to local community needs through service learning, field visits, and outreach activities.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "School Management Committee Functions",
+    "skill_category": "Domain",
+    "skill_description": "Engaging SMC members as mandated by the RTE Act for school governance, planning, and accountability.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Continuing Education Programme Design",
+    "skill_category": "Domain",
+    "skill_description": "Developing certificate and diploma programmes for working professionals and adult learners seeking upskilling.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "E-Portfolio Assessment",
+    "skill_category": "Domain",
+    "skill_description": "Guiding students in creating digital portfolios to document learning evidence and achievements for assessment.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Reflective Practice",
+    "skill_category": "Foundational",
+    "skill_description": "Systematically analysing and improving one's own teaching or research practice through structured self-evaluation.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Curriculum Mapping",
+    "skill_category": "Domain",
+    "skill_description": "Aligning course topics, learning outcomes, assessments, and teaching strategies across a programme to ensure coherence.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Scope and Sequence Planning",
+    "skill_category": "Domain",
+    "skill_description": "Determining the breadth of content and order of concept introduction across grade levels or course modules.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Academic Research Ethics Board Submission",
+    "skill_category": "Domain",
+    "skill_description": "Preparing and submitting proposals to institutional ethics committees for human subjects research approval.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "EPFO and ESI Compliance for Educational Institutions",
+    "skill_category": "Domain",
+    "skill_description": "Managing employee provident fund and employee state insurance registrations and contributions for institutional staff.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Teacher Eligibility Test Preparation Coaching",
+    "skill_category": "Domain",
+    "skill_description": "Preparing candidates for CTET, state TET, and DSSSB examinations required for school teacher recruitment.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Foundational Literacy and Numeracy",
+    "skill_category": "Domain",
+    "skill_description": "Implementing NIPUN Bharat mission strategies for grade 3 reading and arithmetic competency in primary schools.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "NIPUN Bharat Mission Implementation",
+    "skill_category": "Domain",
+    "skill_description": "Applying National Initiative for Proficiency in Reading with Understanding and Numeracy guidelines in primary classrooms.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Experiential Learning Design",
+    "skill_category": "Domain",
+    "skill_description": "Applying Kolb's experiential learning cycle to design field visits, labs, and reflection activities for deeper learning.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Learning Outcome Mapping",
+    "skill_category": "Domain",
+    "skill_description": "Systematically aligning course learning outcomes to programme outcomes and graduate attributes for accreditation compliance.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "National Curriculum Framework Awareness",
+    "skill_category": "Domain",
+    "skill_description": "Applying NCF 2005 and NCF 2023 principles of constructivism, child-centred learning, and local knowledge integration.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Attendance Management System",
+    "skill_category": "Technical",
+    "skill_description": "Using biometric or software-based attendance systems to record and analyse student or staff attendance data.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "e-Governance in Education",
+    "skill_category": "Technical",
+    "skill_description": "Using government portals such as SAMS, SAMARTH, and PFMS for institutional reporting and fund management.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "SAMARTH ERP Platform",
+    "skill_category": "Technical",
+    "skill_description": "Operating the SAMARTH e-Governance Suite used by central universities for student and administrative management.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "National Digital Library of India",
+    "skill_category": "Technical",
+    "skill_description": "Accessing and recommending NDLI resources for student learning and research across disciplines.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Video Editing for Education",
+    "skill_category": "Technical",
+    "skill_description": "Editing recorded lectures and instructional videos using tools like DaVinci Resolve or Camtasia for online delivery.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Camtasia",
+    "skill_category": "Technical",
+    "skill_description": "Creating screen-capture-based tutorial videos and annotated instructional content using Camtasia for e-learning.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Nearpod",
+    "skill_category": "Technical",
+    "skill_description": "Delivering interactive lessons with embedded quizzes, polls, and activities using Nearpod in live or student-paced mode.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Prezi",
+    "skill_category": "Technical",
+    "skill_description": "Creating dynamic, non-linear visual presentations using Prezi for engaging lecture delivery.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "WhatsApp for Education Communication",
+    "skill_category": "Technical",
+    "skill_description": "Using WhatsApp groups for timely communication of academic updates, assignments, and resources to students and parents.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Telegram for Education",
+    "skill_category": "Technical",
+    "skill_description": "Managing Telegram channels and groups for sharing study material, announcements, and academic resources.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Institutional Repository Management",
+    "skill_category": "Technical",
+    "skill_description": "Managing DSpace or similar open-access repositories for storing and sharing institutional publications and theses.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Quantitative Research Methods",
+    "skill_category": "Domain",
+    "skill_description": "Designing and conducting numerical data collection and statistical analysis to answer educational research questions.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Case Study Research",
+    "skill_category": "Domain",
+    "skill_description": "Conducting in-depth investigation of a single institution, classroom, or programme to generate contextual insights.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Grounded Theory",
+    "skill_category": "Domain",
+    "skill_description": "Generating theoretical models from systematically collected and coded qualitative data in education research.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Phenomenological Research",
+    "skill_category": "Domain",
+    "skill_description": "Exploring lived experiences of participants such as students or teachers to understand educational phenomena deeply.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Triangulation in Research",
+    "skill_category": "Domain",
+    "skill_description": "Using multiple data sources, methods, or researchers to strengthen validity and credibility of research findings.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Thematic Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Identifying, analysing, and reporting patterns across qualitative data from interviews, observations, or documents.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "NVivo",
+    "skill_category": "Technical",
+    "skill_description": "Using NVivo qualitative data analysis software to code, organise, and query interview and observational data.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Atlas.ti",
+    "skill_category": "Technical",
+    "skill_description": "Using Atlas.ti CAQDAS software for coding and analysing qualitative text, audio, or video data in education research.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Systematic Review and Meta-Analysis",
+    "skill_category": "Domain",
+    "skill_description": "Conducting PRISMA-guided systematic reviews of educational research literature for evidence-based policy recommendations.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Programme Evaluation",
+    "skill_category": "Domain",
+    "skill_description": "Assessing educational programme effectiveness using Kirkpatrick's four-level model or CIPP framework across reaction, learning, behaviour, and results dimensions.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Learning Analytics",
+    "skill_category": "Technical",
+    "skill_description": "Using LMS-generated data on learner behaviour, progress, and engagement to personalise and improve instruction.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Adaptive Learning Technology",
+    "skill_category": "Domain",
+    "skill_description": "Implementing platforms that adjust content difficulty and pace based on individual learner performance data.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Micro-credentials Design",
+    "skill_category": "Domain",
+    "skill_description": "Developing short, competency-based credentials aligned with industry needs and UGC micro-credential guidelines.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Academic Bank of Credits",
+    "skill_category": "Domain",
+    "skill_description": "Registering and managing student credit accounts on the UGC Academic Bank of Credits platform and applying credit transfer rules for multiple entry-exit under NEP 2020.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Multidisciplinary and Interdisciplinary Programmes",
+    "skill_category": "Domain",
+    "skill_description": "Designing NEP-compliant degree programmes integrating multiple disciplines with flexible minors and exit options.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Four-Year Undergraduate Programme Design",
+    "skill_category": "Domain",
+    "skill_description": "Structuring FYUP curriculum with multiple entry-exit points, research components, and internship requirements per NEP 2020.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Internship Programme Coordination",
+    "skill_category": "Domain",
+    "skill_description": "Organising industry internships, identifying host organisations, and evaluating student performance for academic credit.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "APAR Writing for Teaching Staff",
+    "skill_category": "Domain",
+    "skill_description": "Completing Annual Performance Appraisal Reports for government school and college teachers with required API score documentation.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "API Score Calculation",
+    "skill_category": "Domain",
+    "skill_description": "Computing Academic Performance Indicators for UGC-based teacher appraisal including teaching, research, and extension scores.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Education Leadership and Management",
+    "skill_category": "Domain",
+    "skill_description": "Applying distributed leadership, change management, and institutional governance principles in educational settings.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Strategic Planning for Educational Institutions",
+    "skill_category": "Domain",
+    "skill_description": "Developing institutional vision, mission, and five-year strategic plans aligned with regulatory and quality frameworks.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Accreditation Report Writing",
+    "skill_category": "Domain",
+    "skill_description": "Drafting and compiling institutional self-study reports, criterion-wise responses, and supporting data for NAAC, NBA, or other accreditation bodies.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Tally ERP for Educational Institutions",
+    "skill_category": "Technical",
+    "skill_description": "Using Tally ERP or Tally Prime for fee collection accounting, expense tracking, and financial reporting in schools or colleges.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Fee Management System",
+    "skill_category": "Technical",
+    "skill_description": "Operating online fee collection and reconciliation systems for student tuition, hostel, and examination fees.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Online Proctoring Tools",
+    "skill_category": "Technical",
+    "skill_description": "Using tools like Mettl or ProctorU to conduct and monitor online examinations securely.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Digital Assessment Platforms",
+    "skill_category": "Technical",
+    "skill_description": "Administering online tests and assignments using platforms such as Moodle quiz, Google Forms, or ExamSoft.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Disability Inclusion Policy",
+    "skill_category": "Domain",
+    "skill_description": "Implementing Rights of Persons with Disabilities Act 2016 provisions for accessible education, reservations, and accommodations.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Anti-Ragging Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Implementing UGC anti-ragging regulations including committee formation, online monitoring, and incident reporting.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Prevention of Sexual Harassment Compliance",
+    "skill_category": "Domain",
+    "skill_description": "Establishing and operating Internal Complaints Committees under the POSH Act 2013 in educational institutions.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Career Guidance and Counselling",
+    "skill_category": "Domain",
+    "skill_description": "Helping students make informed career choices through aptitude assessment, career mapping, and higher education planning.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Scholarship and Financial Aid Guidance",
+    "skill_category": "Domain",
+    "skill_description": "Advising students on government scholarships including NSP, post-matric, and merit-cum-means schemes.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "National Scholarship Portal Usage",
+    "skill_category": "Technical",
+    "skill_description": "Assisting students in applying for and tracking scholarships through the NSP government portal.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Spoken English Training",
+    "skill_category": "Domain",
+    "skill_description": "Delivering structured spoken English programmes to improve pronunciation, fluency, and professional communication.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Foreign Language Teaching",
+    "skill_category": "Domain",
+    "skill_description": "Teaching French, German, Spanish, or other foreign languages at beginner to intermediate levels in Indian institutions.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Sanskrit Teaching",
+    "skill_category": "Domain",
+    "skill_description": "Teaching Sanskrit language at school or university level as a classical language subject in the Indian curriculum.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Library Classification Systems",
+    "skill_category": "Technical",
+    "skill_description": "Using Dewey Decimal Classification or Colon Classification for organising physical and digital library collections.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "KOHA Library Management System",
+    "skill_category": "Technical",
+    "skill_description": "Administering Koha open-source integrated library system for cataloguing, circulation, and OPAC management in Indian institutions.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Collection Development",
+    "skill_category": "Domain",
+    "skill_description": "Selecting, acquiring, and maintaining relevant books, journals, and digital resources for institutional library collections.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Information Retrieval",
+    "skill_category": "Technical",
+    "skill_description": "Using Boolean operators, filters, and database search techniques to locate relevant academic literature efficiently.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Open Access Publishing",
+    "skill_category": "Domain",
+    "skill_description": "Understanding and navigating open-access publishing models including gold, green, and diamond OA for research dissemination.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Research Data Management",
+    "skill_category": "Domain",
+    "skill_description": "Organising, documenting, storing, and sharing research data in compliance with funding agency and institutional policies.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Pre-service Teacher Training",
+    "skill_category": "Domain",
+    "skill_description": "Designing and delivering B.Ed. or D.El.Ed. programme components including teaching practice and reflective journals.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "In-service Teacher Training",
+    "skill_category": "Domain",
+    "skill_description": "Conducting continuous professional development workshops for serving teachers under government or institutional programmes.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "DIET Programme Delivery",
+    "skill_category": "Domain",
+    "skill_description": "Working within District Institutes of Education and Training to provide in-service training for school teachers.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "SCERT Programme Knowledge",
+    "skill_category": "Domain",
+    "skill_description": "Understanding State Council of Educational Research and Training functions and curriculum development processes.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "National Curriculum Framework for Teacher Education",
+    "skill_category": "Domain",
+    "skill_description": "Aligning teacher education programmes with NCFTE 2009 and 2021 standards for professional competency development.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Observation and Field Notes",
+    "skill_category": "Domain",
+    "skill_description": "Systematically recording structured and unstructured classroom or community observations for qualitative research.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Focus Group Discussion Facilitation",
+    "skill_category": "Domain",
+    "skill_description": "Designing and facilitating focus group discussions with students, teachers, or communities for research data collection.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Interview Techniques in Research",
+    "skill_category": "Domain",
+    "skill_description": "Conducting structured, semi-structured, and unstructured research interviews with appropriate probing and recording.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Critical Pedagogy",
+    "skill_category": "Domain",
+    "skill_description": "Applying Freire-inspired approaches to education that promote social justice, critical consciousness, and student empowerment.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Socratic Method",
+    "skill_category": "Domain",
+    "skill_description": "Using structured questioning and dialogue to stimulate critical thinking and deeper understanding in students.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Lecture Delivery Method",
+    "skill_category": "Domain",
+    "skill_description": "Delivering well-structured, engaging traditional lectures with appropriate pacing, examples, and board work.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Demonstration Method of Teaching",
+    "skill_category": "Domain",
+    "skill_description": "Showing practical procedures or experiments step-by-step to make abstract concepts concrete for learners.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Problem-Based Learning",
+    "skill_category": "Domain",
+    "skill_description": "Presenting ill-structured real-world problems as the starting point for student inquiry and collaborative learning.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Inquiry-Based Learning",
+    "skill_category": "Domain",
+    "skill_description": "Facilitating student-driven questioning, investigation, and discovery as the primary mode of knowledge construction.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Design Thinking in Education",
+    "skill_category": "Domain",
+    "skill_description": "Applying empathise-define-ideate-prototype-test cycles to develop creative solutions and innovative teaching approaches.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Competency-Based Education",
+    "skill_category": "Domain",
+    "skill_description": "Designing and assessing education based on mastery of defined competencies rather than time-based progression.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Universal Design for Learning",
+    "skill_category": "Domain",
+    "skill_description": "Applying UDL principles of multiple means of representation, engagement, and expression for accessible curriculum design.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Sustainability in Education",
+    "skill_category": "Domain",
+    "skill_description": "Integrating sustainability and responsible technology use into institutional policies and curriculum content.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "SWOT Analysis for Institutions",
+    "skill_category": "Domain",
+    "skill_description": "Conducting institutional SWOT analysis to inform strategic planning, accreditation reports, and improvement planning.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Stakeholder Engagement",
+    "skill_category": "Foundational",
+    "skill_description": "Consulting and involving students, parents, employers, and community members in educational programme design and review.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Networking and Academic Collaboration",
+    "skill_category": "Foundational",
+    "skill_description": "Building professional relationships with researchers, institutions, and industry through conferences, associations, and online platforms.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Stress Management",
+    "skill_category": "Foundational",
+    "skill_description": "Managing personal stress and maintaining well-being while balancing teaching, research, and administrative responsibilities.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Ethics and Integrity in Teaching",
+    "skill_category": "Foundational",
+    "skill_description": "Upholding professional ethics including fairness, confidentiality, and non-discrimination in all teaching and assessment activities.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Cultural Awareness and Sensitivity",
+    "skill_category": "Foundational",
+    "skill_description": "Respecting and responding to cultural, linguistic, and socio-economic diversity among students in Indian educational settings.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Creativity and Innovation",
+    "skill_category": "Foundational",
+    "skill_description": "Generating novel approaches to teaching problems, curriculum design, and research questions.",
+    "job_families": [
+      9
+    ]
+  },
+  {
+    "skill_name": "Organisation Skills",
+    "skill_category": "Foundational",
+    "skill_description": "Systematically managing files, schedules, records, and workflows to maintain academic and institutional efficiency.",
+    "job_families": [
+      9
+    ]
+  }
+]
