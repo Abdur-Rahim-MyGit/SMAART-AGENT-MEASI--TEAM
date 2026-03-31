@@ -1,26 +1,39 @@
 import React, { useState, useEffect } from 'react';
+import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 import ClaudeEngine from './ClaudeEngine';
 
 const AdminDashboard = () => {
+  const navigate = useNavigate();
   const [drafts, setDrafts] = useState([]);
   const [history, setHistory] = useState([]);
   const [loading, setLoading] = useState(true);
   const [activeFilter, setActiveFilter] = useState('pending');
 
   useEffect(() => {
-    fetchData();
+    const user = JSON.parse(localStorage.getItem('smaart_user') || localStorage.getItem('user') || '{}');
+    const token = localStorage.getItem('smaart_token') || localStorage.getItem('token');
+    
+    if (!token || user.role?.toLowerCase() !== 'admin') {
+      navigate('/login');
+      return;
+    }
+    fetchData(token);
   }, []);
 
-  const fetchData = async () => {
+  const fetchData = async (token) => {
     try {
-      const res = await axios.get('http://localhost:5000/api/admin/drafts');
+      const config = { headers: { Authorization: `Bearer ${token}` } };
+      const res = await axios.get('http://localhost:5000/api/admin/drafts', config);
       setDrafts(res.data);
-      const resHist = await axios.get('http://localhost:5000/api/admin/history');
+      const resHist = await axios.get('http://localhost:5000/api/admin/history', config);
       setHistory(resHist.data);
       setLoading(false);
     } catch (err) {
       console.error(err);
+      if (err.response?.status === 401 || err.response?.status === 403) {
+        navigate('/login');
+      }
       setLoading(false);
     }
   };
@@ -42,7 +55,6 @@ const AdminDashboard = () => {
       console.error(err);
     }
   };
-
   if (loading) {
     return (
       <div id="screen-loading">

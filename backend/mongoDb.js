@@ -35,7 +35,35 @@ const careerAnalysisSchema = new mongoose.Schema({
 
 const CareerAnalysisModel = mongoose.model('CareerAnalysis', careerAnalysisSchema);
 
+const userSchema = new mongoose.Schema({
+  fullName: { type: String, required: false },
+  email: { type: String, required: true, unique: true, index: true },
+  password: { type: String, required: true },
+  role: { type: String, default: 'student' },
+  mobile: String,
+  qualification: String,
+  specialization: String,
+  location: String,
+  status: { type: String, default: 'active' },
+  lastLogin: Date,
+  loginHistory: [mongoose.Schema.Types.Mixed],
+  createdAt: { type: Date, default: Date.now },
+  updatedAt: { type: Date, default: Date.now }
+});
+
+const UserModel = mongoose.model('User', userSchema);
+
+const otpSchema = new mongoose.Schema({
+  email: { type: String, required: true, index: true },
+  otp: { type: String, required: true },
+  createdAt: { type: Date, default: Date.now, expires: 600 } // 10 minutes TTL
+});
+
+const OTPModel = mongoose.model('OTP', otpSchema);
+
 module.exports = {
   connectMongoDB,
   CareerAnalysisModel,
+  UserModel,
+  OTPModel
 };
