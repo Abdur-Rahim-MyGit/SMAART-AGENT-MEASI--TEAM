@@ -5,6 +5,8 @@ import axios from 'axios';
 const Login = () => {
     const navigate = useNavigate();
     const [formData, setFormData] = useState({ email: '', password: '' });
+    const [otp, setOtp] = useState('');
+    const [step, setStep] = useState(1); // 1: Login, 2: OTP
     const [isSubmitting, setIsSubmitting] = useState(false);
     const [error, setError] = useState(null);
 
@@ -13,13 +15,34 @@ const Login = () => {
         setIsSubmitting(true);
         setError(null);
         try {
-            const res = await axios.post('http://localhost:5000/api/auth/login', formData);
-            localStorage.setItem('smaart_token', res.data.token);
-            localStorage.setItem('smaart_user', JSON.stringify(res.data.user));
-            navigate('/dashboard');
+            if (step === 1) {
+                // Step 1: Validate Credentials
+                const res = await axios.post('http://localhost:5000/api/auth/login', formData);
+                if (res.data.requiresOTP) {
+                    setStep(2);
+                }
+            } else {
+                // Step 2: Verify OTP
+                const res = await axios.post('http://localhost:5000/api/auth/verify-otp', {
+                    email: formData.email,
+                    otp: otp
+                });
+                
+                localStorage.setItem('smaart_token', res.data.token);
+                localStorage.setItem('smaart_user', JSON.stringify(res.data.user));
+                
+                const role = res.data.user?.role?.toLowerCase();
+                if (role === 'admin') {
+                    navigate('/admin');
+                } else if (role === 'college_admin') {
+                    navigate('/po');
+                } else {
+                    navigate('/dashboard');
+                }
+            }
         } catch (err) {
-            console.error('Login failed:', err);
-            setError(err.response?.data?.error || 'Invalid credentials. Please try again.');
+            console.error('Auth failed:', err);
+            setError(err.response?.data?.error || 'Authentication failed. Please try again.');
         } finally {
             setIsSubmitting(false);
         }
@@ -78,41 +101,72 @@ const Login = () => {
                     )}
 
                     <form onSubmit={handleSubmit} style={{ display: 'flex', flexDirection: 'column', gap: '1.4rem' }}>
-                        <div className="fg">
-                            <label className="fl">Email Address</label>
-                            <div className="input-with-icon">
-                                <span className="input-icon">📧</span>
-                                <input 
-                                    className="input-auth"
-                                    type="email" 
-                                    required 
-                                    placeholder="your@email.com" 
-                                    value={formData.email} 
-                                    onChange={e => setFormData({...formData, email: e.target.value})} 
-                                />
+                        {step === 1 ? (
+                            <>
+                                <div className="fg">
+                                    <label className="fl">Email Address</label>
+                                    <div className="input-with-icon">
+                                        <span className="input-icon">📧</span>
+                                        <input 
+                                            className="input-auth"
+                                            type="email" 
+                                            required 
+                                            placeholder="your@email.com" 
+                                            value={formData.email} 
+                                            onChange={e => setFormData({...formData, email: e.target.value})} 
+                                        />
+                                    </div>
+                                </div>
+                                <div className="fg">
+                                    <label className="fl">Password</label>
+                                    <div className="input-with-icon">
+                                        <span className="input-icon">🔒</span>
+                                        <input 
+                                            className="input-auth"
+                                            type="password" 
+                                            required 
+                                            placeholder="••••••••" 
+                                            value={formData.password} 
+                                            onChange={e => setFormData({...formData, password: e.target.value})} 
+                                        />
+                                    </div>
+                                </div>
+                            </>
+                        ) : (
+                            <div className="fg animate-fade-in">
+                                <label className="fl">Verification Code (OTP)</label>
+                                <div className="input-with-icon">
+                                    <span className="input-icon">🔑</span>
+                                    <input 
+                                        className="input-auth"
+                                        type="text" 
+                                        required 
+                                        placeholder="6-digit code" 
+                                        maxLength="6"
+                                        value={otp} 
+                                        onChange={e => setOtp(e.target.value)} 
+                                        autoFocus
+                                    />
+                                </div>
+                                <p style={{ fontSize: '0.75rem', color: 'var(--muted)', marginTop: '0.5rem' }}>
+                                    We've sent a code to <strong>{formData.email}</strong>
+                                </p>
+                                <button 
+                                    type="button" 
+                                    onClick={() => setStep(1)} 
+                                    style={{ background: 'none', border: 'none', color: 'var(--accent)', fontSize: '0.75rem', fontWeight: 600, cursor: 'pointer', padding: 0, marginTop: '0.5rem' }}
+                                >
+                                    ← Back to Login
+                                </button>
                             </div>
-                        </div>
-                        <div className="fg">
-                            <label className="fl">Password</label>
-                            <div className="input-with-icon">
-                                <span className="input-icon">🔒</span>
-                                <input 
-                                    className="input-auth"
-                                    type="password" 
-                                    required 
-                                    placeholder="••••••••" 
-                                    value={formData.password} 
-                                    onChange={e => setFormData({...formData, password: e.target.value})} 
-                                />
-                            </div>
-                        </div>
+                        )}
 
                         <div style={{ display: 'flex', justifyContent: 'flex-end', marginBottom: '0.5rem' }}>
                             <a href="#" style={{ fontSize: '0.75rem', color: 'var(--accent)', fontWeight: 600, textDecoration: 'none' }}>Forgot Password?</a>
                         </div>
 
                         <button className="btn-primary" style={{ width: '100%', padding: '1.1rem', fontSize: '0.9rem', borderRadius: '14px' }} disabled={isSubmitting}>
-                            {isSubmitting ? 'Verifying Identity...' : 'Sign In to SMAART →'}
+                            {isSubmitting ? 'Verifying...' : step === 1 ? 'Get Verification Code →' : 'Verify & Sign In →'}
                         </button>
                     </form>
 

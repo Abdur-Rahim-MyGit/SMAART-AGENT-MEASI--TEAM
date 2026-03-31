@@ -21,6 +21,21 @@ const Layout = ({ children }) => {
     else navigate('/onboarding');
   };
 
+  const handleLogout = () => {
+    localStorage.removeItem('smaart_token');
+    localStorage.removeItem('smaart_user');
+    localStorage.removeItem('token');
+    localStorage.removeItem('user');
+    localStorage.removeItem('smaart_analysis_id');
+    localStorage.removeItem('smaart_college_code');
+    navigate('/login');
+  };
+
+  const isLoggedIn = !!(localStorage.getItem('smaart_token') || localStorage.getItem('token'));
+
+  const user = JSON.parse(localStorage.getItem('smaart_user') || localStorage.getItem('user') || '{}');
+  const role = user.role?.toLowerCase();
+
   return (
     <div style={{ minHeight: '100vh', position: 'relative', zIndex: 1 }}>
       <nav>
@@ -32,30 +47,43 @@ const Layout = ({ children }) => {
           <button className="nav-link-item" onClick={() => navigate('/')}>
             <span className="nav-link-icon">⬡</span>Home
           </button>
-          <button 
-            className="nav-link-item" 
-            onClick={() => {
-              if (localStorage.getItem('smaart_analysis_id')) navigate('/dashboard');
-              else navigate('/onboarding');
-            }}
-          >
-            <span className="nav-link-icon">📈</span>Market Insights
-          </button>
-          <button 
-            className="nav-link-item"
-            onClick={() => {
-              if (localStorage.getItem('smaart_analysis_id')) navigate('/passport');
-              else alert('Complete your career profile first to generate your Passport.');
-            }}
-          >
-            <span className="nav-link-icon">🎫</span>Career Passport
-          </button>
-          <button className="nav-link-item" onClick={() => navigate('/admin')}>
-            <span className="nav-link-icon">⚙️</span>Admin
-          </button>
-          <button className="nav-link-item" onClick={() => navigate('/po')}>
-            <span className="nav-link-icon">🏫</span>PO View
-          </button>
+          
+          {isLoggedIn && (
+            <>
+              {(!role || role === 'student') && (
+                <>
+                  <button 
+                    className="nav-link-item" 
+                    onClick={() => {
+                      if (localStorage.getItem('smaart_analysis_id')) navigate('/dashboard');
+                      else navigate('/onboarding');
+                    }}
+                  >
+                    <span className="nav-link-icon">📈</span>Market Insights
+                  </button>
+                  <button 
+                    className="nav-link-item"
+                    onClick={() => {
+                      if (localStorage.getItem('smaart_analysis_id')) navigate('/passport');
+                      else alert('Complete your career profile first to generate your Passport.');
+                    }}
+                  >
+                    <span className="nav-link-icon">🎫</span>Career Passport
+                  </button>
+                </>
+              )}
+              {role === 'admin' && (
+                <button className="nav-link-item" onClick={() => navigate('/admin')}>
+                  <span className="nav-link-icon">⚙️</span>Admin
+                </button>
+              )}
+              {role === 'college_admin' && (
+                <button className="nav-link-item" onClick={() => navigate('/po')}>
+                  <span className="nav-link-icon">🏫</span>PO View
+                </button>
+              )}
+            </>
+          )}
         </div>
 
         <div className="nav-actions">
@@ -63,12 +91,22 @@ const Layout = ({ children }) => {
             <span className="theme-toggle-icon">{isLight ? '☀️' : '🌙'}</span>
             <span id="themeLabel">{isLight ? 'Light' : 'Dark'}</span>
           </button>
-          <button className="btn-ghost" onClick={() => navigate('/login')}>
-            Login
-          </button>
-          <button className="btn-primary" onClick={goToDashboard}>
-            View Dashboard →
-          </button>
+          {isLoggedIn ? (
+            <>
+              <button className="btn-ghost" onClick={handleLogout} style={{ color: 'var(--red)' }}>
+                Logout
+              </button>
+              {(!role || role === 'student') && (
+                <button className="btn-primary" onClick={goToDashboard}>
+                  View Dashboard →
+                </button>
+              )}
+            </>
+          ) : (
+            <button className="btn-primary" onClick={() => navigate('/login')}>
+              Login
+            </button>
+          )}
         </div>
       </nav>
 

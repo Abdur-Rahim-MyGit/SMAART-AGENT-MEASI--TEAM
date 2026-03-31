@@ -15,13 +15,26 @@ const PODashboard = () => {
     const [searchTerm, setSearchTerm] = useState('');
 
     useEffect(() => {
+        const user = JSON.parse(localStorage.getItem('smaart_user') || localStorage.getItem('user') || '{}');
+        const token = localStorage.getItem('smaart_token') || localStorage.getItem('token');
+        const role = user.role?.toLowerCase();
+
+        if (!token || role !== 'college_admin') {
+            navigate('/login');
+            return;
+        }
+
         const fetchDashboard = async () => {
             try {
                 const code = urlCollegeCode || localStorage.getItem('smaart_college_code') || 'all';
-                const res = await fetch(`http://localhost:5000/api/po/${code}/dashboard`);
+                const res = await fetch(`http://localhost:5000/api/po/${code}/dashboard`, {
+                    headers: { 'Authorization': `Bearer ${token}` }
+                });
                 const result = await res.json();
                 if (result.success) {
-                    setData(result); // Using the whole result object
+                    setData(result);
+                } else if (res.status === 401 || res.status === 403) {
+                    navigate('/login');
                 }
             } catch (err) {
                 console.error('An error occurred while fetching data');
@@ -30,7 +43,7 @@ const PODashboard = () => {
             }
         };
         fetchDashboard();
-    }, [urlCollegeCode]);
+    }, [urlCollegeCode, navigate]);
 
     if (loading) {
         return (
@@ -68,7 +81,6 @@ const PODashboard = () => {
         (s.name || '').toLowerCase().includes(searchTerm.toLowerCase()) ||
         (s.id || '').toLowerCase().includes(searchTerm.toLowerCase())
     );
-
     return (
         <div style={{ display: 'flex', background: 'var(--navy)', height: 'calc(100vh - 56px)', color: 'var(--text1)', marginTop: '56px', overflow: 'hidden' }}>
             
@@ -94,7 +106,7 @@ const PODashboard = () => {
                 </nav>
 
                 <div style={{ padding: '1.5rem', borderTop: '1px solid var(--border)', background: 'rgba(0,0,0,0.2)' }}>
-                    <div style={{ display: 'flex', alignItems: 'center', gap: '1rem', marginBottom: '1.25rem' }}>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
                         <div style={{ position: 'relative' }}>
                           <div style={{ width: '42px', height: '42px', borderRadius: '12px', background: 'var(--accent)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontWeight: 900, fontSize: '1rem', color: '#fff' }}>PO</div>
                           <div style={{ position: 'absolute', bottom: '-4px', right: '-4px', width: '14px', height: '14px', background: 'var(--green)', borderRadius: '50%', border: '2px solid var(--navy2)' }}></div>
@@ -104,9 +116,6 @@ const PODashboard = () => {
                             <div style={{ fontSize: '0.65rem', color: 'var(--muted)', fontWeight: 600 }}>SRM Placement Cell</div>
                         </div>
                     </div>
-                    <button style={{ width: '100%', padding: '0.7rem', background: 'rgba(239,68,68,0.1)', border: '1px solid rgba(239,68,68,0.2)', color: '#ef4444', borderRadius: '10px', fontSize: '0.75rem', fontWeight: 800, cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '0.5rem', transition: 'all 0.2s' }}>
-                        <LogOut size={16} /> Logout Command
-                    </button>
                 </div>
             </aside>
 

@@ -16,7 +16,8 @@ if (!fs.existsSync(RECORDS_DIR)) fs.mkdirSync(RECORDS_DIR, { recursive: true });
 const { roles } = require('./data/mockRoles');
 const { generateCareerIntelligence, enhanceWithAI } = require('./services/aiService');
 const { processCareerIntelligence } = require('./engine');
-const { connectMongoDB, CareerAnalysisModel } = require('./mongoDb');
+const { connectMongoDB, CareerAnalysisModel, UserModel, OTPModel } = require('./mongoDb');
+const nodemailer = require('nodemailer');
 
 dotenv.config();
 
@@ -25,12 +26,39 @@ const { PrismaClient } = require('@prisma/client');
 const prisma = new PrismaClient();
 
 let redisClient = null;
-try {
-  const { createClient } = require('redis');
-  redisClient = createClient({ url: process.env.REDIS_URL || 'redis://localhost:6379' });
-  redisClient.on('error', (e) => { console.warn('[REDIS] Error:', e.message); redisClient = null; });
-  redisClient.connect().catch(() => { redisClient = null; });
-} catch (e) { console.warn('[REDIS] Not available — running without cache'); }
+if (process.env.USE_REDIS === 'true') {
+  try {
+    const { createClient } = require('redis');
+    redisClient = createClient({
+      url: process.env.REDIS_URL || 'redis://localhost:6379',
+      socket: {
+        reconnectStrategy: (retries) => {
+          if (retries > 3) {
+            console.warn('[REDIS] Max reconnect attempts reached. Running without cache.');
+            return new Error('Redis reconnection failed');
+          }
+          return 1000;
+        }
+      }
+    });
+    redisClient.on('error', (e) => {
+      console.warn('[REDIS] Error:', e.message);
+      if (redisClient) {
+        // Only set to null if it's a terminal error or we want to stop spam
+        // But the reconnectStrategy will handle it better.
+      }
+    });
+    redisClient.connect().catch((err) => {
+      console.warn('[REDIS] Connection failed:', err.message);
+      redisClient = null;
+    });
+  } catch (e) {
+    console.warn('[REDIS] Not available — running without cache');
+    redisClient = null;
+  }
+} else {
+  console.log('ℹ️ Redis caching disabled by configuration.');
+}
 
 async function getCached(key) {
   if (!redisClient) return null;
@@ -38,7 +66,7 @@ async function getCached(key) {
 }
 async function setCached(key, value, ttlSeconds = 3600) {
   if (!redisClient) return;
-  try { await redisClient.set(key, value, { EX: ttlSeconds }); } catch {}
+  try { await redisClient.set(key, value, { EX: ttlSeconds }); } catch { }
 }
 const PORT = process.env.PORT || 5000;
 
@@ -68,11 +96,49 @@ connectMongoDB();
 function authMiddleware(req, res, next) {
   const token = req.headers.authorization?.split(' ')[1];
   if (!token) return res.status(401).json({ message: 'No token' });
-  try { 
-    req.user = jwt.verify(token, process.env.JWT_SECRET || 'fallback_secret'); 
-    next(); 
-  } catch (e) { 
-    res.status(401).json({ message: 'Invalid token' }); 
+  try {
+    req.user = jwt.verify(token, process.env.JWT_SECRET || 'fallback_secret');
+    next();
+  } catch (e) {
+    res.status(401).json({ message: 'Invalid token' });
+  }
+}
+
+// Role Check Middleware
+function roleCheck(roles) {
+  return (req, res, next) => {
+    const userRole = req.user?.role?.toLowerCase();
+    if (!userRole || !roles.includes(userRole)) {
+      return res.status(403).json({ error: 'Access denied. Insufficient permissions.' });
+    }
+    next();
+  };
+}
+
+// Helper to send Email (Mockable)
+async function sendOTPEmail(email, otp) {
+  console.log(`[AUTH] 📧 OTP for ${email}: ${otp}`);
+
+  try {
+    const transporter = nodemailer.createTransport({
+      host: process.env.SMTP_HOST || 'smtp.ethereal.email',
+      port: process.env.SMTP_PORT || 587,
+      auth: {
+        user: process.env.SMTP_USER || 'mock_user',
+        pass: process.env.SMTP_PASS || 'mock_pass'
+      }
+    });
+
+    await transporter.sendMail({
+      from: '"SMAART Auth" <auth@smaart.io>',
+      to: email,
+      subject: "Your SMAART Login OTP",
+      text: `Your One-Time Password is: ${otp}. It will expire in 10 minutes.`,
+      html: `<b>Your One-Time Password is: ${otp}</b><p>It will expire in 10 minutes.</p>`
+    });
+    console.log(`✅ Email sent to ${email}`);
+  } catch (err) {
+    console.warn(`⚠️ Email delivery failed (using mock console log only): ${err.message}`);
   }
 }
 
@@ -80,7 +146,7 @@ function authMiddleware(req, res, next) {
 app.post('/api/auth/register', async (req, res) => {
   try {
     const { name, email, password, role } = req.body;
-    
+
     // Check if user exists
     const existingUser = await prisma.user.findUnique({ where: { email } });
     if (existingUser) return res.status(400).json({ error: 'User already exists' });
@@ -109,24 +175,108 @@ app.post('/api/auth/login', async (req, res) => {
   try {
     const { email, password } = req.body;
 
-    // Check if user exists
-    const user = await prisma.user.findUnique({ where: { email } });
-    if (!user) return res.status(400).json({ error: 'Invalid credentials' });
+    // 1. Check MongoDB first (User-specified source)
+    let user = await UserModel.findOne({ email });
+    let authenticated = false;
+    let userId = null;
+    let userName = '';
+    let userRole = 'student';
 
-    // Validate password
-    const validPassword = await bcrypt.compare(password, user.passwordHash);
-    if (!validPassword) return res.status(400).json({ error: 'Invalid credentials' });
+    if (user) {
+      authenticated = await bcrypt.compare(password, user.password);
+      if (authenticated) {
+        userId = user._id;
+        userName = user.fullName || user.email;
+        userRole = user.role || 'student';
+
+        // Update last login in background
+        user.lastLogin = new Date();
+        user.save().catch(err => console.warn('Failed to update Mongo lastLogin:', err.message));
+      }
+    }
+
+    // 2. Fallback to Prisma if not found or authenticated in MongoDB
+    if (!authenticated) {
+      const prismaUser = await prisma.user.findUnique({ where: { email } });
+      if (prismaUser) {
+        authenticated = await bcrypt.compare(password, prismaUser.passwordHash);
+        if (authenticated) {
+          userId = prismaUser.id;
+          userName = prismaUser.name;
+          userRole = prismaUser.role || 'STUDENT';
+        }
+      }
+    }
+
+    if (!authenticated) {
+      return res.status(400).json({ error: 'Invalid credentials' });
+    }
+
+    // Generate 6-digit OTP
+    const otp = Math.floor(100000 + Math.random() * 900000).toString();
+
+    // Save OTP to MongoDB
+    await OTPModel.findOneAndUpdate(
+      { email },
+      { otp, createdAt: new Date() },
+      { upsify: true, new: true, upsert: true }
+    );
+
+    // Send OTP
+    await sendOTPEmail(email, otp);
+
+    res.json({
+      message: 'OTP sent to your email',
+      email,
+      requiresOTP: true
+    });
+  } catch (err) {
+    console.error('Login Error:', err);
+    res.status(500).json({ error: 'Login failed', details: err.message });
+  }
+});
+
+app.post('/api/auth/verify-otp', async (req, res) => {
+  try {
+    const { email, otp } = req.body;
+    if (!email || !otp) return res.status(400).json({ error: 'Email and OTP required' });
+
+    const otpRecord = await OTPModel.findOne({ email, otp });
+    if (!otpRecord) return res.status(400).json({ error: 'Invalid or expired OTP' });
+
+    // OTP is valid, delete it
+    await OTPModel.deleteOne({ _id: otpRecord._id });
+
+    // Fetch user for token
+    let user = await UserModel.findOne({ email });
+    let userData = null;
+
+    if (user) {
+      userData = { id: user._id, name: user.fullName || user.email, role: user.role || 'student' };
+    } else {
+      const prismaUser = await prisma.user.findUnique({ where: { email } });
+      if (prismaUser) {
+        userData = { id: prismaUser.id, name: prismaUser.name, role: prismaUser.role || 'STUDENT' };
+      }
+    }
+
+    if (!userData) return res.status(404).json({ error: 'User not found after OTP verification' });
 
     // Create and assign token
     const token = jwt.sign(
-      { id: user.id, role: user.role },
+      { id: userData.id, role: userData.role },
       process.env.JWT_SECRET || 'fallback_secret',
       { expiresIn: '24h' }
     );
 
-    res.json({ message: 'Logged in successfully', token, user: { id: user.id, name: user.name, role: user.role } });
+    res.json({
+      message: 'Verified successfully',
+      token,
+      user: userData
+    });
   } catch (err) {
-    res.status(500).json({ error: 'Login failed', details: err.message });
+    console.error('OTP Verification Error:', err);
+    res.status(500).json({ error: 'Verification failed', details: err.message });
   }
 });
 
@@ -221,7 +371,7 @@ const axios = require('axios');
 app.post('/api/parse-resume', async (req, res) => {
   const { resumeText } = req.body;
   if (!resumeText) return res.status(400).json({ error: 'Missing resumeText' });
-  
+
   try {
     const mlResponse = await axios.post('http://127.0.0.1:5001/parse-resume', {
       text: resumeText
@@ -236,7 +386,7 @@ app.post('/api/parse-resume', async (req, res) => {
 app.post('/api/predict-success', async (req, res) => {
   const { features } = req.body;
   if (!features) return res.status(400).json({ error: 'Missing features array' });
-  
+
   try {
     const mlResponse = await axios.post('http://127.0.0.1:5001/predict-success', {
       features: features
@@ -264,7 +414,7 @@ function findCachedRecord(hash) {
       const data = JSON.parse(fs.readFileSync(path.join(RECORDS_DIR, file), 'utf8'));
       if (data.profile_hash === hash) return data;
     }
-  } catch (e) {}
+  } catch (e) { }
   return null;
 }
 
@@ -273,7 +423,7 @@ function logTrainingData(traceId, studentData, analysis, preVerified) {
     const logFile = path.join(RECORDS_DIR, 'training_log.json');
     let log = [];
     if (fs.existsSync(logFile)) {
-      try { log = JSON.parse(fs.readFileSync(logFile, 'utf8')); } catch(e) { log = []; }
+      try { log = JSON.parse(fs.readFileSync(logFile, 'utf8')); } catch (e) { log = []; }
     }
     const entry = {
       id: traceId,
@@ -334,10 +484,10 @@ app.post('/api/onboarding', async (req, res) => {
     let analysis;
     try {
       analysis = await processCareerIntelligence(studentData);
-      
+
       // Enhance with real AI data if ANTHROPIC_API_KEY is available
       analysis = await enhanceWithAI(studentData, analysis);
-      
+
       // Update record with analysis 
       const finalRecord = {
         ...initialRecord,
@@ -433,7 +583,7 @@ app.post('/api/onboarding', async (req, res) => {
 });
 
 // --- ADMIN HISTORY ENDPOINTS ---
-app.get('/api/admin/history', async (req, res) => {
+app.get('/api/admin/history', authMiddleware, roleCheck(['admin']), async (req, res) => {
   try {
     const history = await prisma.careerAnalysis.findMany({
       orderBy: { createdAt: 'desc' },
@@ -447,7 +597,7 @@ app.get('/api/admin/history', async (req, res) => {
 });
 
 // ─── CLAUDE ENGINE CHAT ENDPOINT ──────────────────────────────────────────────
-app.post('/api/admin/claude-chat', async (req, res) => {
+app.post('/api/admin/claude-chat', authMiddleware, roleCheck(['admin']), async (req, res) => {
   const { message, conversationHistory = [] } = req.body;
   if (!message) return res.status(400).json({ error: 'Message required' });
 
@@ -466,7 +616,7 @@ app.post('/api/admin/claude-chat', async (req, res) => {
       const roleCount = roleNames.length;
       const withNarratives = roleNames.filter(r => compiledRoles[r].narrative_para1 && compiledRoles[r].narrative_para3).length;
       rolesContext = `You have access to ${roleCount} audited career roles in the system database. ${withNarratives} of them have full narrative intelligence (Para 1, 2, 3). Sample roles: ${roleNames.slice(0, 10).join(', ')}...`;
-    } catch(e) {
+    } catch (e) {
       rolesContext = 'Role database is available but could not be summarised right now.';
     }
 
@@ -475,7 +625,7 @@ app.post('/api/admin/claude-chat', async (req, res) => {
     try {
       const historyCount = await prisma.careerAnalysis.count();
       historyContext = `There are ${historyCount} student career analyses in the PostgreSQL database.`;
-    } catch(e) {
+    } catch (e) {
       historyContext = 'Database analytics not available.';
     }
 
@@ -551,13 +701,13 @@ Always be professional, precise, and India-market-aware.`;
 });
 
 
-app.get('/api/admin/drafts', (req, res) => {
+app.get('/api/admin/drafts', authMiddleware, roleCheck(['admin']), (req, res) => {
   const draftsPath = path.join(__dirname, '../ml-service/data_drafts.json');
   if (fs.existsSync(draftsPath)) {
     try {
       const data = fs.readFileSync(draftsPath, 'utf-8');
       res.json(JSON.parse(data));
-    } catch(e) {
+    } catch (e) {
       res.json([]);
     }
   } else {
@@ -565,7 +715,7 @@ app.get('/api/admin/drafts', (req, res) => {
   }
 });
 
-app.post('/api/admin/drafts/approve', (req, res) => {
+app.post('/api/admin/drafts/approve', authMiddleware, roleCheck(['admin']), (req, res) => {
   const { id } = req.body;
   const draftsPath = path.join(__dirname, '../ml-service/data_drafts.json');
   if (fs.existsSync(draftsPath)) {
@@ -579,7 +729,7 @@ app.post('/api/admin/drafts/approve', (req, res) => {
   }
 });
 
-app.post('/api/admin/drafts/reject', (req, res) => {
+app.post('/api/admin/drafts/reject', authMiddleware, roleCheck(['admin']), (req, res) => {
   const { id } = req.body;
   const draftsPath = path.join(__dirname, '../ml-service/data_drafts.json');
   if (fs.existsSync(draftsPath)) {
@@ -621,12 +771,12 @@ app.post('/api/feedback', async (req, res) => {
     if (!analysisId || !rating || rating < 1 || rating > 5) {
       return res.status(400).json({ success: false, message: 'analysisId and rating (1-5) required' });
     }
-    
+
     // Save to feedback.json
     const feedbackFile = path.join(RECORDS_DIR, 'feedback.json');
     let feedbacks = [];
     if (fs.existsSync(feedbackFile)) {
-      try { feedbacks = JSON.parse(fs.readFileSync(feedbackFile, 'utf8')); } catch(e) {}
+      try { feedbacks = JSON.parse(fs.readFileSync(feedbackFile, 'utf8')); } catch (e) { }
     }
     feedbacks.push({ analysisId, rating, comment: comment || '', timestamp: new Date().toISOString() });
     fs.writeFileSync(feedbackFile, JSON.stringify(feedbacks, null, 2));
@@ -639,7 +789,7 @@ app.post('/api/feedback', async (req, res) => {
         const idx = log.findIndex(e => e.id === analysisId);
         if (idx !== -1) { log[idx].rating = rating; fs.writeFileSync(logFile, JSON.stringify(log, null, 2)); }
       }
-    } catch(e) {} // non-fatal
+    } catch (e) { } // non-fatal
 
     res.json({ success: true, message: 'Feedback saved' });
   } catch (e) {
@@ -647,7 +797,7 @@ app.post('/api/feedback', async (req, res) => {
   }
 });
 
-app.get('/api/po/:collegeCode/dashboard', async (req, res) => {
+app.get('/api/po/:collegeCode/dashboard', authMiddleware, roleCheck(['college_admin']), async (req, res) => {
   try {
     const { collegeCode } = req.params;
     // Read all records and filter by collegeCode
@@ -657,7 +807,7 @@ app.get('/api/po/:collegeCode/dashboard', async (req, res) => {
       try {
         const data = JSON.parse(fs.readFileSync(path.join(RECORDS_DIR, file), 'utf8'));
         if (collegeCode === 'all' || data.collegeCode === collegeCode || data.college_code === collegeCode) students.push(data);
-      } catch(e) {}
+      } catch (e) { }
     }
     // Build analytics
     const zones = { Green: 0, Amber: 0, Red: 0 };
@@ -668,18 +818,18 @@ app.get('/api/po/:collegeCode/dashboard', async (req, res) => {
       const role = s.preferences?.primary?.role || s.preferences?.primary?.jobRole || 'Unknown';
       directions[role] = (directions[role] || 0) + 1;
     });
-    res.json({ 
-      success: true, 
-      collegeCode, 
-      totalStudents: students.length, 
-      zones, 
-      directions, 
-      students: students.map(s => ({ 
-        id: s.id || s.analysisId, 
-        name: s.name || s.personalDetails?.name || 'Anonymous', 
-        zone: s.preVerified?.primaryZone?.employer_zone || 'Amber', 
-        lastActive: s.created_at || s.generated_at || new Date().toISOString() 
-      })) 
+    res.json({
+      success: true,
+      collegeCode,
+      totalStudents: students.length,
+      zones,
+      directions,
+      students: students.map(s => ({
+        id: s.id || s.analysisId,
+        name: s.name || s.personalDetails?.name || 'Anonymous',
+        zone: s.preVerified?.primaryZone?.employer_zone || 'Amber',
+        lastActive: s.created_at || s.generated_at || new Date().toISOString()
+      }))
     });
   } catch (e) {
     console.error('PO Dashboard Error:', e.message);
