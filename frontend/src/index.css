@@ -280,7 +280,7 @@ body.light-mode select option { background: #fff; color: #0f1c3d; }
   margin: 1.5rem 0;
 }
 .home-txt-gradient {
-  background: linear-gradient(135deg, #fff, var(--text2));
+  background: linear-gradient(135deg, var(--text), var(--text2));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
