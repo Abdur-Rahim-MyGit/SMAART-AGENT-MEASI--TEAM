@@ -41,10 +41,10 @@ const getRoles = (sector, family) => {
 const ALL_ROLES = jobRolesData.roles.map(r => r.role);
 
 // Education cascading: Level → Domain → DegreeGroup → Specialisation
-const EDU_DATA = dropdownData.education || {};
-const getDomains = (level) => level ? Object.keys(EDU_DATA[level] || {}) : [];
-const getDegreeGroups = (level, domain) => level && domain ? Object.keys(EDU_DATA[level]?.[domain] || {}) : [];
-const getSpecialisations = (level, domain, degree) => level && domain && degree ? EDU_DATA[level]?.[domain]?.[degree] || [] : [];
+// Education cascading dynamic helpers
+const getDomains = (eduData, level) => level && eduData[level] ? Object.keys(eduData[level] || {}) : [];
+const getDegreeGroups = (eduData, level, domain) => level && domain && eduData[level]?.[domain] ? Object.keys(eduData[level]?.[domain] || {}) : [];
+const getSpecialisations = (eduData, level, domain, degree) => level && domain && degree ? eduData[level]?.[domain]?.[degree] || [] : [];
 
 const STEPS = ['Personal Details', 'Education', 'Primary Preference', 'Secondary Preference', 'Tertiary Preference', 'Work Experience', 'Skills & Certs', 'Review'];
 
@@ -472,35 +472,20 @@ const Onboarding = () => {
   const [step, setStep] = useState(1);
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [error, setError] = useState(null);
+  const [eduData, setEduData] = useState({});
+
+  useEffect(() => {
+    axios.get('http://localhost:5000/api/education/structure')
+      .then(res => setEduData(res.data))
+      .catch(err => console.error('Failed to load education data:', err));
+  }, []);
 
   const blankEdu = { level: '', domain: '', degreeGroup: '', specialisation: [], university: '', graduationYear: '', currentlyPursuing: false };
   const blankPref = { sectors: [], sector: '', family: '', role: '', type: 'Full-Time', salary: '', locations: [], location: '', orgTypes: [] };
   const blankExp = { orgName: '', designation: '', sector: '', type: 'Full-Time', startDate: '', endDate: '', currentlyWorking: false, isCustomSector: false };
 
   const [formData, setFormData] = useState(() => {
-    const saved = localStorage.getItem('smaart_onboarding_draft');
-    if (saved) {
-      try {
-        const parsed = JSON.parse(saved);
-        // [MIGRATION] if education is still an object (from v6), wrap in array
-        if (parsed.education && !Array.isArray(parsed.education)) {
-          parsed.education = [parsed.education];
-        }
-        // [MIGRATION] ensure specialisation is an array
-        parsed.education.forEach(edu => {
-          if (edu.specialisation && !Array.isArray(edu.specialisation)) {
-            edu.specialisation = [edu.specialisation];
-          }
-          if (!edu.specialisation) edu.specialisation = [];
-        });
-        // [MIGRATION] ensure skills are objects
-        if (parsed.skills && parsed.skills.length > 0 && typeof parsed.skills[0] === 'string') {
-          parsed.skills = parsed.skills.map(s => ({ name: s, status: 'Verified' }));
-        }
-        return parsed;
-      } catch { }
-    }
-    return {
+    let baseData = {
       personalDetails: { name: '', email: '', phone: '', location: '' },
       education: [{ ...blankEdu }],
       skills: [],
@@ -511,6 +496,41 @@ const Onboarding = () => {
         tertiary: { ...blankPref }
       }
     };
+
+    const saved = localStorage.getItem('smaart_onboarding_draft');
+    if (saved) {
+      try {
+        const parsed = JSON.parse(saved);
+        if (parsed.education && !Array.isArray(parsed.education)) {
+          parsed.education = [parsed.education];
+        }
+        if (parsed.education) {
+          parsed.education.forEach(edu => {
+            if (edu.specialisation && !Array.isArray(edu.specialisation)) {
+              edu.specialisation = [edu.specialisation];
+            }
+            if (!edu.specialisation) edu.specialisation = [];
+          });
+        }
+        if (parsed.skills && parsed.skills.length > 0 && typeof parsed.skills[0] === 'string') {
+          parsed.skills = parsed.skills.map(s => ({ name: s, status: 'Verified' }));
+        }
+        baseData = { ...baseData, ...parsed, personalDetails: { ...baseData.personalDetails, ...(parsed.personalDetails || {}) } };
+      } catch { }
+    }
+
+    try {
+      const uStr = localStorage.getItem('smaart_user');
+      if (uStr) {
+         const u = JSON.parse(uStr);
+         if (u.name) baseData.personalDetails.name = u.name;
+         if (u.email) baseData.personalDetails.email = u.email;
+         if (u.phone) baseData.personalDetails.phone = u.phone;
+         if (u.location) baseData.personalDetails.location = u.location;
+      }
+    } catch(e) {}
+
+    return baseData;
   });
 
   // Auto-save draft
@@ -793,7 +813,7 @@ const Onboarding = () => {
                       <label className="fl">Degree Level <span className="req">*</span></label>
                       <select required={i === 0} value={edu.level} onChange={e => updateEdu(i, 'level', e.target.value)}>
                         <option value="">Select Level...</option>
-                        {Object.keys(EDU_DATA).map(l => <option key={l}>{l}</option>)}
+                        {Object.keys(eduData).map(l => <option key={l}>{l}</option>)}
                       </select>
                     </div>
 
@@ -802,7 +822,7 @@ const Onboarding = () => {
                       <label className="fl">Domain <span className="req">*</span></label>
                       <select required={i === 0} value={edu.domain} onChange={e => updateEdu(i, 'domain', e.target.value)} disabled={!edu.level}>
                         <option value="">Select Domain...</option>
-                        {getDomains(edu.level).map(d => <option key={d}>{d}</option>)}
+                        {getDomains(eduData, edu.level).map(d => <option key={d}>{d}</option>)}
                       </select>
                     </div>
 
@@ -811,7 +831,7 @@ const Onboarding = () => {
                       <label className="fl">Degree Group <span className="req">*</span></label>
                       <select required={i === 0} value={edu.degreeGroup} onChange={e => updateEdu(i, 'degreeGroup', e.target.value)} disabled={!edu.domain}>
                         <option value="">Select Degree...</option>
-                        {getDegreeGroups(edu.level, edu.domain).map(d => <option key={d}>{d}</option>)}
+                        {getDegreeGroups(eduData, edu.level, edu.domain).map(d => <option key={d}>{d}</option>)}
                       </select>
                     </div>
 
@@ -819,7 +839,7 @@ const Onboarding = () => {
                     <div className="fg">
                       <label className="fl">Specialisation(s) <span className="req">*</span></label>
                       <MultiSelect 
-                        options={getSpecialisations(edu.level, edu.domain, edu.degreeGroup)}
+                        options={getSpecialisations(eduData, edu.level, edu.domain, edu.degreeGroup)}
                         selected={edu.specialisation || []}
                         onChange={v => updateEdu(i, 'specialisation', v)}
                         max={2}
