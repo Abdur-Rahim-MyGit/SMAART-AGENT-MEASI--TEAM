@@ -16,7 +16,7 @@ if (!fs.existsSync(RECORDS_DIR)) fs.mkdirSync(RECORDS_DIR, { recursive: true });
 const { roles } = require('./data/mockRoles');
 const { generateCareerIntelligence, enhanceWithAI } = require('./services/aiService');
 const { processCareerIntelligence } = require('./engine');
-const { connectMongoDB, CareerAnalysisModel, UserModel, OTPModel } = require('./mongoDb');
+const { connectMongoDB, CareerAnalysisModel, UserModel, OTPModel, DegreeModel } = require('./mongoDb');
 const nodemailer = require('nodemailer');
 
 dotenv.config();
@@ -183,7 +183,12 @@ app.post('/api/auth/login', async (req, res) => {
     let userRole = 'student';
 
     if (user) {
-      authenticated = await bcrypt.compare(password, user.password);
+      if (user.password) {
+        authenticated = await bcrypt.compare(password, user.password);
+      } else {
+        authenticated = true; // passwordless / OTP only
+      }
+      
       if (authenticated) {
         userId = user._id;
         userName = user.fullName || user.email;
@@ -252,11 +257,25 @@ app.post('/api/auth/verify-otp', async (req, res) => {
     let userData = null;
 
     if (user) {
-      userData = { id: user._id, name: user.fullName || user.email, role: user.role || 'student' };
+      userData = { 
+        id: user._id, 
+        name: user.fullName || user.email, 
+        email: user.email,
+        phone: user.mobile || '',
+        location: user.location || '',
+        role: user.role || 'student' 
+      };
     } else {
       const prismaUser = await prisma.user.findUnique({ where: { email } });
       if (prismaUser) {
-        userData = { id: prismaUser.id, name: prismaUser.name, role: prismaUser.role || 'STUDENT' };
+        userData = { 
+          id: prismaUser.id, 
+          name: prismaUser.name, 
+          email: prismaUser.email,
+          phone: prismaUser.phone || '',
+          location: prismaUser.location || '',
+          role: prismaUser.role || 'STUDENT' 
+        };
       }
     }
 
@@ -861,10 +880,38 @@ app.get('/api/career-directions', async (req, res) => {
   res.json(families);
 });
 
+app.get('/api/education/structure', async (req, res) => {
+  try {
+    const degrees = await DegreeModel.find({});
+    // Reconstruct nested structure
+    const eduData = {};
+    for (const doc of degrees) {
+      const level = doc.level;
+      const domain = doc.domain;
+      const group = doc.fullName;
+      const spec = doc.specialization;
+      
+      if (!level || !domain || !group) continue;
+      
+      if (!eduData[level]) eduData[level] = {};
+      if (!eduData[level][domain]) eduData[level][domain] = {};
+      if (!eduData[level][domain][group]) eduData[level][domain][group] = [];
+      
+      if (spec && !eduData[level][domain][group].includes(spec)) {
+          eduData[level][domain][group].push(spec);
+      }
+    }
+    res.json(eduData);
+  } catch (error) {
+    console.error('Failed to fetch education structure:', error);
+    res.status(500).json({ error: 'Failed to fetch education options' });
+  }
+});
+
 app.get('/', (req, res) => {
   res.json({ message: 'SMAART Engine Active', status: 'running' });
 });
 
-app.listen(PORT, () => {
+app.listen(PORT, async () => {
   console.log(`🚀 SMAART Backend running on http://localhost:${PORT}`);
 });

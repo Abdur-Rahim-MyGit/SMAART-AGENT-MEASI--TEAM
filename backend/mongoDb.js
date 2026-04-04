@@ -38,7 +38,7 @@ const CareerAnalysisModel = mongoose.model('CareerAnalysis', careerAnalysisSchem
 const userSchema = new mongoose.Schema({
   fullName: { type: String, required: false },
   email: { type: String, required: true, unique: true, index: true },
-  password: { type: String, required: true },
+  password: { type: String, required: false },
   role: { type: String, default: 'student' },
   mobile: String,
   qualification: String,
@@ -49,7 +49,7 @@ const userSchema = new mongoose.Schema({
   loginHistory: [mongoose.Schema.Types.Mixed],
   createdAt: { type: Date, default: Date.now },
   updatedAt: { type: Date, default: Date.now }
-});
+}, { strict: false });
 
 const UserModel = mongoose.model('User', userSchema);
 
@@ -61,9 +61,19 @@ const otpSchema = new mongoose.Schema({
 
 const OTPModel = mongoose.model('OTP', otpSchema);
 
+const DegreeSchema = new mongoose.Schema({
+  level: { type: String, required: true },
+  domain: { type: String, required: true },
+  fullName: { type: String, required: true },
+  specialization: { type: String }
+}, { strict: false });
+
+const DegreeModel = mongoose.model('Degree', DegreeSchema);
+
 module.exports = {
   connectMongoDB,
   CareerAnalysisModel,
   UserModel,
-  OTPModel
+  OTPModel,
+  DegreeModel
 };
